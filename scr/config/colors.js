@@ -3,5 +3,7 @@ export const colors = {
     secondaryColor: "#fff",
     primarytextColor: "#fff",
     secondaryTextColor: "#7E57C2",
-    fadedTextprimary: "#C5CAE9"
+    fadedTextprimary: "#C5CAE9",
+    blackText: "#000",
+    lightAccentColor: "#9FA8DA"
 }

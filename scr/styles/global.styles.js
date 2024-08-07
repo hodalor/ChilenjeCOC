@@ -145,7 +145,7 @@ export const hymnCardStyle = StyleSheet.create({
   },
   hymnNumberStyle: {
     borderRadius: 50,
-    backgroundColor: "#9FA8DA",
+    backgroundColor: colors.lightAccentColor,
     width: 20,
     justifyContent: "center",
     alignItems: "center",
@@ -159,12 +159,14 @@ export const hymnCardStyle = StyleSheet.create({
   },
   creatorTextStyle: {
     fontSize: 15,
-    fontStyle: "italic"
+    fontStyle: "italic",
+    color: colors.blackText
   },
   subtitleTextStyle: {
     fontSize: 18,
     fontWeight: "bold",
-    fontStyle: "italic"
+    fontStyle: "italic",
+    color: colors.blackText
   },
   creatorViewStyle: {
     display: "flex",
@@ -172,7 +174,7 @@ export const hymnCardStyle = StyleSheet.create({
     justifyContent: "space-between",
   },
   readhymmButtonStyle: {
-    backgroundColor: "#9FA8DA",
+    backgroundColor: colors.lightAccentColor,
     borderRadius: 5,
     paddingHorizontal: 10
   },
