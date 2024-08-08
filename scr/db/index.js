@@ -31,7 +31,7 @@ export const data = [
               'Nakusopa kwawo;',
               'Zinkharamba nazo ',
               'Zimkumlambirani, mulipo',
-              ' M’kaŵa, m’timuŵengeswi.',
+              'M’kaŵa, m’timuŵengeswi.',
             ],
           },
           {

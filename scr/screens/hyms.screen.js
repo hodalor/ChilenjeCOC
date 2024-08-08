@@ -18,7 +18,7 @@ export const HymScreen = ({route, navigation}) => {
             <Text style={hymScreenStyles.titBarTextStyle}>Hymns : {data.hyms.length}</Text>
           </View>
           {data.hyms.map((hymn, index) => {
-            return <HymnCard key={index} hymn={hymn} />;
+            return <HymnCard key={index} _onClick={() => navigation.navigate("HymnDetails", {data: hymn})} hymn={hymn} />;
           })}
         </View>
       </ScrollView>
