@@ -33,12 +33,16 @@ export const homescreenStyles = StyleSheet.create({
     backgroundColor: colors.secondaryColor,
     borderTopLeftRadius: 50,
     borderTopRightRadius: 50,
+  },
+  contentContainerStyle: {
+    display: "flex",
     flexDirection: 'row',
     flexWrap: 'wrap',
     overflow: 'hidden',
     paddingVertical: 10,
     paddingHorizontal: 10,
     justifyContent: 'center',
+    width: "100%",
   },
   topViewStyle: {
     display: 'flex',

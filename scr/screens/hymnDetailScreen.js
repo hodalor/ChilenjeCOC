@@ -16,7 +16,7 @@ export const HymnDetailScreen = ({route, navigation}) => {
       <HymnScreenHeader _goBack={() => navigation.goBack()} />
       <View style={hymnDetailsCreenStyles.containerStyle}>
         <ChorusCard hymn={data} />
-        <ScrollView contentContainerStyle={{flexGrow: 1, paddingVertical: 10}}>
+        <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{flexGrow: 1, paddingVertical: 10}}>
           {data.stanzers.map((stanza, index) => {
             return <StanzaCard key={index} stanza={stanza} />;
           })}

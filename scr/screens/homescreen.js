@@ -13,24 +13,29 @@ export function HomeScreen({navigation}) {
         </Text>
         <Text style={homescreenStyles.smallText}>Hyms Mobile App</Text>
       </View>
-      <ScrollView contentContainerStyle={{flexGrow: 1}}>
-        <View style={homescreenStyles.componentsContainerStyle}>
-          {data.map((db, index) => {
-            return (
-              <LangCard
-                key={index}
-                _onPressEvent={() =>
-                  navigation.navigate('HymScreen', {data: db})
-                }
-                title={db.language}
-              />
-            );
-          })}
-        </View>
-        <View style={homescreenStyles.poweredByStyle}>
-          <Text style>Powered By CodeLab</Text>
-        </View>
-      </ScrollView>
+
+      <View style={homescreenStyles.componentsContainerStyle}>
+        <ScrollView
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={{flexGrow: 1}}>
+          <View style={homescreenStyles.contentContainerStyle}>
+            {data.map((db, index) => {
+              return (
+                <LangCard
+                  key={index}
+                  _onPressEvent={() =>
+                    navigation.navigate('HymScreen', {data: db})
+                  }
+                  title={db.language}
+                />
+              );
+            })}
+          </View>
+        </ScrollView>
+      </View>
+      <View style={homescreenStyles.poweredByStyle}>
+        <Text style={homescreenStyles.poweredbyText}>Powered By CodeLab</Text>
+      </View>
     </View>
   );
 }
