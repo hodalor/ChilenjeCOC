@@ -170,7 +170,6 @@ export const hymnCardStyle = StyleSheet.create({
   },
   subtitleTextStyle: {
     fontSize: 18,
-    fontWeight: 'bold',
     fontStyle: 'italic',
     color: colors.blackText,
   },

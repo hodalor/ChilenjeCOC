@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, ScrollView, Pressable} from 'react-native';
+import {View, Text, ScrollView, Pressable, Linking} from 'react-native';
 import {data} from '../db';
 import {homescreenStyles} from '../styles/global.styles';
 import {LangCard} from '../components/languageCard';
@@ -33,9 +33,9 @@ export function HomeScreen({navigation}) {
           </View>
         </ScrollView>
       </View>
-      <View style={homescreenStyles.poweredByStyle}>
+      <Pressable onPress={() => Linking.openURL('https://codelabfirm.netlify.app')} style={homescreenStyles.poweredByStyle}>
         <Text style={homescreenStyles.poweredbyText}>Powered By CodeLab</Text>
-      </View>
+      </Pressable>
     </View>
   );
 }
