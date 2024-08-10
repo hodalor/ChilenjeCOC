@@ -6,6 +6,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import {HymScreen} from './scr/screens/hyms.screen';
 import {styles} from './scr/styles/global.styles';
 import { colors } from './scr/config/colors';
+import { HymnDetailScreen } from './scr/screens/hymnDetailScreen';
 
 const Stack = createStackNavigator();
 
@@ -16,6 +17,7 @@ const MainScreen = () => {
       <Stack.Navigator initialRouteName='HomeScreen' screenOptions={{headerShown: false}}>
         <Stack.Screen name="HomeScreen" component={HomeScreen} />
         <Stack.Screen name="HymScreen" component={HymScreen} />
+        <Stack.Screen name="HymnDetails" component={HymnDetailScreen} />
       </Stack.Navigator>
     </View>
   );

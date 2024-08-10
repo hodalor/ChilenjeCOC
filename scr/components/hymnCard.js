@@ -2,7 +2,7 @@ import React from 'react';
 import {Pressable, Text, View} from 'react-native';
 import {hymnCardStyle} from '../styles/global.styles';
 
-export const HymnCard = ({hymn}) => {
+export const HymnCard = ({hymn, _onClick}) => {
   return (
     <View style={[hymnCardStyle.containerStyle, hymnCardStyle.elevation]}>
       <View style={hymnCardStyle.hymnNumberStyle}>
@@ -13,7 +13,7 @@ export const HymnCard = ({hymn}) => {
       </View>
       <View style={hymnCardStyle.creatorViewStyle}>
         <Text style={hymnCardStyle.creatorTextStyle}>{hymn.creator}</Text>
-        <Pressable onPress={() => console.log(hymn.chorus)} style={hymnCardStyle.readhymmButtonStyle}>
+        <Pressable onPress={_onClick} style={hymnCardStyle.readhymmButtonStyle}>
           <Text>Read</Text>
         </Pressable>
       </View>

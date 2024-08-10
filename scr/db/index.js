@@ -10,7 +10,7 @@ export const data = [
             'Mtuŵa, Mtuŵa, Mtuŵa, Chiuta mwa mphavu',
             'Na macherochero tikumwimbirani',
             'Mtuwa Mtuŵa, Mtuŵa',
-            'Mwa’tatu njumo, mutumbikike!',
+            'Mwa’tatu jumo, mutumbikike!',
           ],
         stanzers: [
           {

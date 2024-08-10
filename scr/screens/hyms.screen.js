@@ -12,13 +12,13 @@ export const HymScreen = ({route, navigation}) => {
         _goBack={() => navigation.goBack()}
         title={data.language}
       />
-      <ScrollView contentContainerStyle={{flexGrow: 1}}>
+      <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{flexGrow: 1}}>
         <View style={hymScreenStyles.containerStyle}>
           <View style={hymScreenStyles.titleBarStyle}>
             <Text style={hymScreenStyles.titBarTextStyle}>Hymns : {data.hyms.length}</Text>
           </View>
           {data.hyms.map((hymn, index) => {
-            return <HymnCard key={index} hymn={hymn} />;
+            return <HymnCard key={index} _onClick={() => navigation.navigate("HymnDetails", {data: hymn})} hymn={hymn} />;
           })}
         </View>
       </ScrollView>
