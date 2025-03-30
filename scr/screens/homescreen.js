@@ -9,7 +9,7 @@ export function HomeScreen({navigation}) {
     <View style={homescreenStyles.mainContainer}>
       <View style={homescreenStyles.topViewStyle}>
         <Text style={homescreenStyles.headerTextStyle}>
-          Chilenje Church Of Christ
+          Church Of Christ
         </Text>
         <Text style={homescreenStyles.smallText}>Hyms Mobile App</Text>
       </View>

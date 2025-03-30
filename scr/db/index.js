@@ -1,4 +1,5 @@
 export const data = [
+  // Bemba him starts from here 
   {
     language: "Bemba",
     hyms: [
@@ -110,6 +111,8 @@ export const data = [
       },
     ]
   },
+  // Bemba hymn ends here 
+  // Chewa hymn starts here 
   {
     language: "Chechewa",
     hyms: [
@@ -163,6 +166,8 @@ export const data = [
       },
     ]
   },
+   // Chewa hymn ends here 
+  // TONGA hymn start here 
   {
     language: "Tonga",
     hyms: [
@@ -216,6 +221,8 @@ export const data = [
       },
     ]
   },
+  // Tonga hymn ends here 
+  // Tumbuka hymn starts here 
   {
     language: "Tumbuka",
     hyms: [
@@ -269,6 +276,8 @@ export const data = [
       },
     ]
   },
+    // Tumbuka hymn ends here 
+  // Zulu hymn starts here 
   {
     language: "Zulu",
     hyms: [
@@ -322,6 +331,8 @@ export const data = [
       },
     ]
   },
+  // Zulu hymn ends here 
+  // Shona hymn starts here 
   {
     language: "Shona",
     hyms: [
@@ -375,6 +386,8 @@ export const data = [
       },
     ]
   },
+    // Shona hymn ends here 
+  // English hymn starts here 
   {
     language: "English",
     hyms: [
@@ -428,4 +441,5 @@ export const data = [
       },
     ]
   },
+  // English hymn Ends here 
 ]
