@@ -10,7 +10,7 @@ export const HymnCard = ({hymn, _onClick}) => {
       pressed && {opacity: 0.8}
     ]}>
       <View style={hymnCardStyle.hymnNumberStyle}>
-        <Text>{hymn.hymnNo}</Text>
+        <Text style={{color: 'white', fontWeight: 'bold'}}>{hymn.hymnNo}</Text>
       </View>
       <View style={hymnCardStyle.titleStyle}>
         <Text style={hymnCardStyle.subtitleTextStyle}>{hymn.title}</Text>

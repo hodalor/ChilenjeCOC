@@ -1,16 +1,17 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 import {chorusCardStyles} from '../styles/global.styles';
+import {colors} from '../config/colors';
 
 export const ChorusCard = ({hymn}) => {
   return (
     <View style={chorusCardStyles.containerStyle}>
       <View style={chorusCardStyles.titleplaceStyle}>
-        <Text style={{color: "black"}}>{`No: ${hymn.hymnNo}`}</Text>
+        <Text style={{color: colors.primaryColor, fontWeight: 'bold'}}>{hymn.hymnNo}</Text>
         <Text style={chorusCardStyles.hymnTitleStyle}>{hymn.title}</Text>
-        <Text style={{color: "black"}}>{`Stanzers: ${hymn.stanzers.length}`}</Text>
+        <Text style={{color: '#666666'}}>{`${hymn.stanzers.length} Verses`}</Text>
       </View>
-      <Text style={chorusCardStyles.chorusTitletyle}>Chorus :- </Text>
+      <Text style={chorusCardStyles.chorusTitletyle}>Chorus</Text>
       {!hymn.chorus ? (
         <Text style={chorusCardStyles.noChorusText}>No Chorus</Text>
       ) : (
