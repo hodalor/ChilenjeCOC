@@ -34,7 +34,7 @@ export function HomeScreen({navigation}) {
         </ScrollView>
       </View>
       <Pressable onPress={() => Linking.openURL('https://codelabfirm.netlify.app')} style={homescreenStyles.poweredByStyle}>
-        <Text style={homescreenStyles.poweredbyText}>Powered By CodeLab</Text>
+        <Text style={homescreenStyles.poweredbyText}>Powered By Chilenje COC media Team</Text>
       </Pressable>
     </View>
   );
