@@ -4,7 +4,11 @@ import {hymnCardStyle} from '../styles/global.styles';
 
 export const HymnCard = ({hymn, _onClick}) => {
   return (
-    <View style={[hymnCardStyle.containerStyle, hymnCardStyle.elevation]}>
+    <Pressable onPress={_onClick} style={({pressed}) => [
+      hymnCardStyle.containerStyle, 
+      hymnCardStyle.elevation,
+      pressed && {opacity: 0.8}
+    ]}>
       <View style={hymnCardStyle.hymnNumberStyle}>
         <Text>{hymn.hymnNo}</Text>
       </View>
@@ -13,10 +17,10 @@ export const HymnCard = ({hymn, _onClick}) => {
       </View>
       <View style={hymnCardStyle.creatorViewStyle}>
         <Text style={hymnCardStyle.creatorTextStyle}>{hymn.creator}</Text>
-        <Pressable onPress={_onClick} style={hymnCardStyle.readhymmButtonStyle}>
+        <View style={hymnCardStyle.readhymmButtonStyle}>
           <Text>Read</Text>
-        </Pressable>
+        </View>
       </View>
-    </View>
+    </Pressable>
   );
 };
