@@ -7245,91 +7245,586 @@ export const englishHymns = [
     "title": "O Come Let Us Adore Him",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "Christ the Lord."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "We'll give Him all the glory",
+          "We'll give Him all the glory",
+          "We'll give Him all the glory",
+          "Christ the Lord."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "For You alone are worthy",
+          "For You alone are worthy",
+          "For You alone are worthy",
+          "Christ the Lord."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "O come let us adore Him",
+          "Christ the Lord."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 266,
     "title": "Majesty",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Majesty! Worship His majesty!",
+          "Unto Jesus be all glory,",
+          "power and praise!",
+          "Majesty, kingdom authority!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Flow from His throne",
+          "Unto His own!",
+          "His anthem raise!",
+          "So exalt, lift up on high",
+          "The name of Jesus!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Magnify, come glorify",
+          "Christ Jesus the King!",
+          "Majesty, worship His majesty!",
+          "Jesus who died, now glorified",
+          "King of all Kings!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "So exalt, lift up on high The name of Jesus! Magnify,",
+          "come glorify Christ Jesus the King! Majesty, worship His majesty!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Jesus who died, now glorified King of all Kings! Jesus who died,",
+          "now glorified King of all Kings!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 268,
     "title": "Years I Spent in Vanity",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Mer-cy there was great, and grace was free;",
+      "Par-don there was mul-ti-plied to me;",
+      "There my bur-dened soul found lib-er-ty,",
+      "At Cal-va-ry"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Years I spent in van-i-ty and pride,"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 273,
     "title": "More precious than silver",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Lord, You are more precious",
+          "than silver,",
+          "Lord, You are more costly than gold."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lord, You are more beautiful",
+          "than diamonds.",
+          "And nothing I desire",
+          "compares with You."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 275,
     "title": "O Lord, you're beautiful",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O Lord, You're beautiful,",
+          "Your face is all I seek,",
+          "And when Your eyes are on this child,",
+          "Your grace abounds to me."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "O Lord, please light the fire, that once burned bright and clear.",
+          "Replace the lamp of my first love,",
+          "that burns with holy fear."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 276,
     "title": ", 278 Jesus Lover of My Soul",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesus, lover of my soul, let me to Thy bosom fly,",
+          "While the nearer waters roll, while the tempest still is high."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Hide me, of my Savior, hide,",
+          "Till the storm of life is past;",
+          "Safe into the haven guide,",
+          "O receive my soul at last."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Other refuge have I none,",
+          "hangs my helpless soul on Thee;",
+          "Leave, ah, leave me not alone,",
+          "still support and comfort me."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "All my trust on Thee is stayed,",
+          "All my help from Thee I bring;",
+          "Cover my defenseless head",
+          "With the shadow of Thy wing."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Thou, O Christ, art all I want more than",
+          "all in Thee I find;",
+          "Raise the fallen, cheer the faint,",
+          "heal the sick, and lead the blind."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Just and holy is Thy name,",
+          "I am all unrighteousness;",
+          "Vile and full of sin I am,",
+          "Thou art full of truth and grace."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Plenteous grace with Thee is found,",
+          "grace to cover all my sin;",
+          "Let the healing streams abound,",
+          "make and keep me pure within."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Thou of life the fountain art,",
+          "Freely let me take of Thee;",
+          "Spring Thou up within my heart,",
+          "Rise to all eternity."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 278,
     "title": "Victory chant",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Hail Jesus You're my King,",
+          "Your life frees me to sing,",
+          "I will praise You all my days",
+          "You're perfect in all Your ways."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Hail Jesus You're my Lord,",
+          "I will obey Your word,",
+          "I want to see Your kingdom come",
+          "Not my will but Yours be done"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Glory, Glory to the Lamb,",
+          "You take me by the hand,",
+          "We will conquer in Your name,",
+          "And proclaim that Jesus reigns."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Hail, Hail, lion of Judah,",
+          "How powerful You are!",
+          "Hail, Hail, lion of Judah",
+          "How wonder ful You are!",
+          "How wonderful You are!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 282,
     "title": "O Praise the Lord",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O praise the Lord, all ye nations",
+          "Praise Him all ye people,",
+          "Praise Him all ye people."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Oh, praise the Lord",
+          "Praise Him all ye people",
+          "(women)",
+          "For His merciful kindness",
+          "is great towards us"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Is great towards us!",
+          "And the truth of the Lord endureth forever,",
+          "Forever and ever,",
+          "Ever and ever:",
+          "Praise ye the Lord."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 287,
     "title": "There is a redeemer",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Thank You, oh, my Father, for giving us Your Son,",
+      "And leaving Your Spirit 'til the work on earth is done."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There is a Redeemer, Jesus, God's own Son;",
+          "Precious Lamb of God, Messiah, Holy One."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Jesus, my Redeemer, Name above all names,",
+          "Precious Lamb of God, Messiah, Hope for sinners slain."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "When I stand in Glory, I will see His face.",
+          "There I'll serve my King forever In that holy place."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 288,
     "title": "Fairest Lord Jesus",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Fairest Lord Jesus!",
+          "Ruler of all nature!",
+          "O Thou of God and man",
+          "the Son!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Thee will I cherish,",
+          "Thee will I honor,",
+          "Thou, my soul's glory, joy, and crown."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Fair are the meadows,",
+          "Fairer still the woodlands,",
+          "Robed in the blooming",
+          "garb of spring;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Jesus is fairer,",
+          "Jesus is purer,",
+          "Who makes the woeful",
+          "heart to sing."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Fair is the sunshine,",
+          "Fairer still the moonlight,",
+          "And all the twinkling",
+          "starry host:"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Jesus shines brighter,",
+          "Jesus shines purer,",
+          "Than all the angels",
+          "Heaven can boast."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 289,
     "title": "Lo! He Comes With Clouds Descending",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Lo! He comes with clouds de-scending,",
+          "Once for fa-vored sin-ners slain;",
+          "Thou-sand thou-sand saints at-tend-ing,",
+          "Swell the tri-umph of His train:"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Hal-le-lu-jah! Hal-le-lu-jah!",
+          "Je-sus Christ shall ev-er reign."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ev-'ry eye shall now be-hold Him",
+          "Robed in dread-ful maj-es-ty;",
+          "Those who set at naught and sold Him,",
+          "Pierced and nailed Him to the tree,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Deep-ly wail-ing, Deep-ly wail-ing,",
+          "Shall the true Mes-si-ah see."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Yea, A-men! Let all a-dore Thee,",
+          "High on Thy ex-alt-ed throne;",
+          "Sav-ior! Take Thy power and glo-ry",
+          "Claim the king-doms for Thine own:"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Hal-le-lu-jah! Hal-le-lu-jah!",
+          "Quick-ly, Lord, O quick-ly come!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 290,
     "title": "Shine Jesus shine",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Lord, the light of Your love is shining",
+          "In the midst of the darkness, shining;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Jesus, Light of the World, shine upon us,",
+          "Set us free by the truth You now bring us:",
+          "Shine on me, shine on me."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Shine, Jesus shine, fill this land with the Father's glory.",
+          "Blaze, Spirit blaze, set our hearts on fire."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Flow, river flow, flood the nations with grace and mercy.",
+          "Send forth Your Word, Lord, and let there be light!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Lord, I come to Your awesome presence,",
+          "From the shadows into Your radiance,"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "By the blood I may enter Your brightness, Search me,",
+          "try me, consume all my darkness: Shine on me, shine on me."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Shine, Jesus shine, fill this land with the Father's glory.",
+          "Blaze, Spirit blaze, set our hearts on fire."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Flow, river flow, flood the nations with grace and mercy.",
+          "Send forth Your Word, Lord, and let there be light!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 291,
     "title": "The Great Physician",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Sweet-est note in ser-aph song,",
+      "Sweet-est name on mortal tongue,",
+      "Sweet-est car-ol ev-er sung,",
+      "Je-sus, bless-ed Je-sus"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "The great Physi-cian now is near,",
+          "The sym-pathizing Je-sus;",
+          "He speaks the droop-ing heart to cheer:",
+          "O hear the voice of Je-sus"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "All glo-ry to the dy-ing Lamb!",
+          "I now be-lieve in Je-sus;",
+          "I love the bless-ed Sav-ior's name,",
+          "I love the name of Je-sus."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "His name dis-pels my guilt and fear,",
+          "No other name but Je-sus;",
+          "O how my soul de-lights to hear",
+          "The charm-ing name of Je-sus"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "And when to that bright world a-bove,",
+          "We rise to see our Je-sus;",
+          "We'll sing a-round the throne of love",
+          "His name, the name of Je-sus"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 295,
@@ -7361,56 +7856,574 @@ export const englishHymns = [
     "title": "We have come into his house",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "We have come into His house",
+          "And gathered in His name",
+          "To worship Him",
+          "(repeat)"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "We have come into His house",
+          "And gathered in His name",
+          "To worship Christ the Lord",
+          "Worship Him",
+          "Christ the Lord"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Let's forget about ourselves",
+          "And magnify His name and",
+          "Worship Him",
+          "(repeat)"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Let's forget about ourselves",
+          "And magnify His name and",
+          "Worship Christ the Lord",
+          "Worship Him",
+          "Christ the Lord"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 299,
     "title": "Give Me the Bible",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Give me the Bi-ble, Ho-ly message shin-ing;",
+      "Thy light shall guide me in the nar-row way;",
+      "Precept and prom-ise, law and love com-bing,",
+      "Till night shall van-ish in eter-nal day."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Give me the Bi-ble, star of glad-ness gleam-ing,",
+          "To cheer the wan-d'rer lone and",
+          "tempest-tossed;",
+          "No storm can hide that ra-diance peaceful beam-ing,",
+          "Since Je-sus came to seek and",
+          "save the lost."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Give the Bi-ble, when my heart is",
+          "bro-ken,",
+          "When sin and grief have filled my soul with fear;",
+          "Give me the pre-cious words by Je-sus spo-ken,",
+          "Hold up faith's lamp to show my Sav-ior near."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Give me the Bi-ble, all my steps",
+          "en-light-en,",
+          "Teach me the dan-ger of these realms",
+          "be-low;",
+          "That lamp of safe-ty o'er the gloom shall brighten,",
+          "That light a-lone the path of peace can show."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Give me the Bi-ble, lamp of life",
+          "im-mor-tal,",
+          "Hold up that splen-dor by the o-pen grave;",
+          "Show me the light from heav-en's",
+          "shin-ing por-tal,",
+          "Show me the glo-ry gild-ing Jor-dan's wave."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 300,
     "title": "Praise him! Praise him!",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Praise Him, praise Him",
+          "Jesus our blessed Redeemer",
+          "Sing, O earth, His wonderful",
+          "Love proclaim"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Hail Him, hail Him",
+          "Highest archangels in glory",
+          "Strength and honor give",
+          "To His holy name"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Like a shepherd",
+          "Jesus will guard His children",
+          "In His arms He carries",
+          "Them all day long."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Praise Him! Praise Him!",
+          "Tell of His excellent greatness",
+          "Praise Him! Praise Him!",
+          "Ever in joyful song!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Praise Him, praise Him",
+          "Jesus our blessed Redeemer.",
+          "For our sins He suffered and bled, and died."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "He, our rock, our hope of eternal salvation;",
+          "Hail Him, hail Him,",
+          "Jesus the crucified."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Sound His praises, Jesus who bore our sorrows,",
+          "Love unbounded wonderful,",
+          "Deep and strong."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Praise Him! Praise Him!",
+          "Tell of His excellent greatness",
+          "Praise Him! Praise Him!",
+          "Ever in joyful song!"
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "Praise Him, praise Him",
+          "Jesus our blessed Redeemer.",
+          "Heavenly portals",
+          "Loud with hosannas ring."
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "Jesus, Savior",
+          "Reigneth forever and ever.",
+          "Crown Him, crown Him",
+          "Prophet and Priest and King."
+        ]
+      },
+      {
+        "stanzer": 11,
+        "lines": [
+          "Christ is coming!",
+          "Over the world victorious.",
+          "Power and glory",
+          "Unto the Lord belong."
+        ]
+      },
+      {
+        "stanzer": 12,
+        "lines": [
+          "Praise Him! Praise Him!",
+          "Tell of His excellent greatness",
+          "Praise Him! Praise Him!",
+          "Ever in joyful song!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 303,
     "title": "O worship the king",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O worship the King,",
+          "all glorious above,",
+          "And gratefully sing",
+          "His wonderful love;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Our Shield and Defender,",
+          "the Ancient of Days,",
+          "Pavilioned in splendor",
+          "and girded with praise."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Thy bountiful care,",
+          "what tongue can recite?",
+          "It breathes in the air,",
+          "it shines in the light;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "It streams from the hills",
+          "it descends to the plain,",
+          "And sweetly distills",
+          "in the dew and the rain."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Frail children of dust,",
+          "And feeble as frail,",
+          "In Thee do we trust,",
+          "Nor find Thee to fail;"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Thy mercies, how tender",
+          "How firm to the end!",
+          "Our Maker, Defender",
+          "Redeemer and Friend!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 303,
     "title": "Sing them over again to me",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Beautiful words, wonderful words, wonderful words of life;",
+      "Beautiful words, wonderful words, wonderful words of life;"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sing Them Over Again to Me",
+          "Sing them over again to me,",
+          "Wonderful words of Life",
+          "Let me more of their beauty see,",
+          "Wonderful words of Life.",
+          "Words of life and beauty,",
+          "Teach me faith and duty;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Christ, the blessed One, gives to all,",
+          "Wonderful words of Life;",
+          "Sinner, list to the loving call,",
+          "Wonderful words of Life.",
+          "All so freely given,",
+          "Wooing us to heaven;"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sweetly echo the gospel call,",
+          "Wonderful words of Life;",
+          "Offer pardon and peace to all,",
+          "Wonderful words of Life.",
+          "Jesus only Saviour,",
+          "Sanctify forever;"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 304,
     "title": "All Hail the Power",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "All hail the power of Jesus' name!",
+          "Let angels prostrate fall! Bring forth the royal diadem,"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "And crown Him Lord of all;",
+          "Bring forth the royal diadem, And crown Him Lord of all!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ye chosen seed of Israel's race,",
+          "Ye ransomed from the fall, Hail Him who saves you by His grace,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "And crown Him Lord of all; Hail Him",
+          "who saves you by His grace, And crown Him Lord of all!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Let every kindred, every tribe On this",
+          "terrestrial ball To Him al majesty ascribe"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "And crown Him Lord of all;",
+          "To Him all majesty ascribe",
+          "And crown Him Lord of all."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "O that with yonder sacred throng We at",
+          "His feet may fall! We'll join the everlasting song,"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "And praise Him Lord of all; We'll join the",
+          "everlasting song And praise Him Lord of all!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 309,
     "title": "In My Life, Lord, Be Glorified",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "In my life, Lord,",
+          "be glorified, be glorified.",
+          "In my life, Lord, be glorified,",
+          "today."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "In my song, Lord,",
+          "be glorified, be glorified.",
+          "In my song, Lord, be glorified,",
+          "today."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "In your church, Lord,",
+          "be glorified, be glorified.",
+          "In your church, Lord,",
+          "be glorified today."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 313,
     "title": "Old rugged cross",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "On a hill far away stood an old rugged cross",
+          "The emblem of suffering",
+          "and shame"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "And I love that old cross",
+          "Where the dearest and best",
+          "For a world of lost sinners",
+          "was slain."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "So I'll cherish the cross",
+          "(the old rugged cross)",
+          "Till my trophies at last",
+          "I lay down"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "I will cling to the old",
+          "rugged cross",
+          "(the cross, the old rugged cross)",
+          "And exchange it someday for",
+          "a crown"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "O that old rugged cross",
+          "so despised by the world",
+          "Has a wondrous attraction",
+          "for me."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "For the dear Lamb of God",
+          "left His glory above",
+          "To bear it to dark Calvary."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "So I'll cherish the cross",
+          "(the old rugged cross)",
+          "Till my trophies at last",
+          "I lay down"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "I will cling to the old",
+          "rugged cross",
+          "(the cross, the old rugged cross)",
+          "And exchange it someday for",
+          "a crown"
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "In that old rugged cross stained with blood so divine,",
+          "A wondrous breauty I see;"
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "For 'twas on that old cross Jesus suffered and died,",
+          "To pardon and sanctify me."
+        ]
+      },
+      {
+        "stanzer": 11,
+        "lines": [
+          "So I'll cherish the cross",
+          "(the old rugged cross)",
+          "Till my trophies at last",
+          "I lay down"
+        ]
+      },
+      {
+        "stanzer": 12,
+        "lines": [
+          "I will cling to the old",
+          "rugged cross",
+          "(the cross, the old rugged cross)",
+          "And exchange it someday for",
+          "a crown"
+        ]
+      },
+      {
+        "stanzer": 13,
+        "lines": [
+          "To the old rugged cross",
+          "I will ever be true",
+          "It's shame and reproach",
+          "gladly bear."
+        ]
+      },
+      {
+        "stanzer": 14,
+        "lines": [
+          "Then He'll call me some day",
+          "To my home far away",
+          "Where His glory forever",
+          "I'll share."
+        ]
+      },
+      {
+        "stanzer": 15,
+        "lines": [
+          "So I'll cherish the cross",
+          "(the old rugged cross)",
+          "Till my trophies at last",
+          "I lay down"
+        ]
+      },
+      {
+        "stanzer": 16,
+        "lines": [
+          "I will cling to the old",
+          "rugged cross",
+          "(the cross, the old rugged cross)",
+          "And exchange it someday for",
+          "a crown"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 315,
@@ -7461,14 +8474,86 @@ export const englishHymns = [
     "title": "O sacred head",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O sacred head now wounded",
+          "With grief and shame weighed down",
+          "Now scornfully surrounded",
+          "With thorns Thine only crown"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "How art Thou pale with anguish,",
+          "With sore abuse and scorn;",
+          "How does that visage languish,",
+          "Which once was bright as morn."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "What language shall I borrow",
+          "To thank Thee, dearest Friend,",
+          "For this Thy dying sorrow,",
+          "Thy pity without end?"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "O make me Thine forever;",
+          "And should I fainting be,",
+          "Lord, let me never, never,",
+          "Outlive my love to Thee."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 323,
     "title": "Softly and Tenderly",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Come home, come home,",
+      "Come home, come home,",
+      "Ye who are wea-ry, come home;",
+      "Ear-nest-ly, ten-der-ly, Je-sus is",
+      "call-ing,",
+      "Call-ing, O sin-ner, come home!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Soft-ly and ten-der-ly, Je-sus is call-ing",
+          "Call-ing for you and for me;",
+          "See on the por-tals He's waiting and watching,",
+          "Watching for you and for me."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Why should we tarry when Jesus is pleading,",
+          "Pleading for you and for me?",
+          "Why should we lin-ger and heed not His mercies,",
+          "Mer-cies for you and for me?"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "O for the won-der-ful love He has promised,",
+          "Promised for you and for me.",
+          "Tho' we have sinned, He has mer-cy and par-don,",
+          "Par-don for you and for me."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 324,
@@ -7519,21 +8604,138 @@ export const englishHymns = [
     "title": "Boundless love",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Boundless love, unending joy",
+          "This is my life, it's what I know",
+          "I can't believe that He",
+          "selected me;",
+          "Jesus, my Lord, it's You I owe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Boundless grace because of Calvary,",
+          "His life He gave, His love outpoured,",
+          "I now can live with Him eternally;",
+          "Jesus my Lord, it's You I love."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 330,
     "title": "Have You Been to Jesus",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Are you washed Are you washed",
+      "in the blood, in the blood,",
+      "In the soul-cleans-ing blood",
+      "of the Lamb? of the Lamb?",
+      "Are your gar-ments spot-less? Are they white as snow?",
+      "Are you washed in the blood of the Lamb?"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Have you been to Je-sus for the",
+          "cleans-ing pow'r?",
+          "Are you washed in the blood of the Lamb?",
+          "Are you ful-ly trust-ing in His grace this hour?",
+          "Are you washed in the blood of the Lamb?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Are you walk-ing dai-ly by the Sav-ior's side?",
+          "Are you washed in the blood of the Lamb?",
+          "Do you rest each mo-ment in the",
+          "Cru-ci-fied?",
+          "Are you washed in the blood of the Lamb?"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "When the Bridegroom cometh will your robes be white,",
+          "Pure and white in the blood of the",
+          "Lamb?",
+          "Will soul be read-y for the mansions bright,",
+          "And be washed in the blood of the Lamb?"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Lay a-side the gar-ments that are",
+          "stained with sin,",
+          "And be washed in the blood of the",
+          "Lamb;",
+          "There's a foun-tain flow-ing for the soul un-clean:",
+          "O be washed in the blood of the Lamb."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 339,
     "title": "Would you be free",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "There is power, power,",
+      "there is power,",
+      "Wonder-working power in the blood,",
+      "in the blood of the Lamb.",
+      "There is power, power, wonder-working power",
+      "In the precious blood of the Lamb."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Would you be free from your burden of sin?",
+          "There's power in the blood,",
+          "Power in the blood;",
+          "Would you o'er evil a victory win?",
+          "There's wonderful power in the blood."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Would you be free from your passion and pride?",
+          "There's power in the blood,",
+          "Power in the blood;",
+          "Come for a cleansing to Calvary's tide;",
+          "There's wonderful power in the blood."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Would you be whiter, much whiter than snow?",
+          "There's power in the blood,",
+          "Power in the blood;",
+          "Sin stains are lost in its life giving flow;",
+          "There's wonderful power in the blood."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Would you do service for Jesus your King?",
+          "There's power in the blood,",
+          "Power in the blood;",
+          "Would you live daily His praises to sing?",
+          "There's wonderful power in the blood."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 345,
@@ -7546,92 +8748,874 @@ export const englishHymns = [
     "hymnNo": 346,
     "title": "Just As I Am",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Just as I am! Without one plea, But that Thy blood was shed for me,",
+          "And that Thou bidd'st me come to Thee, O Lamb of God,",
+          "I come! I come!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Just as I am! And waiting not to rid my soul of one dark blot,",
+          "To Thee, whose blood can cleanse each spot,",
+          "O Lamb of God, I come, I come."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Just as I am! Tho' tossed about",
+          "With many a conflict, many a doubt,",
+          "With fears within, and foes without,",
+          "O Lamb of God, I come! I come!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Just as I am! Poor, wretched, blind-Sight, riches, healing of the mind,",
+          "Yea, all I need, in Thee to find,",
+          "O Lamb of God, I come! I come!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Just as I am! Thou wilt receive,",
+          "Wilt welcome, pardon, cleanse, relieve;",
+          "Because Thy promise I believe,",
+          "O Lamb of God, I come! I come!"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Just as I am! Thy love unknown has broken ev'ry barrier down;",
+          "Now to be Thine, yea, Thine alone,",
+          "O Lamb of God, I come! I come!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 349,
     "title": "Ten Thousand Angels",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "They bound the hands of Jesus in the garden where He prayed",
+          "They led Him thru the streets in shame"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "They spat upon the Savior so pure and free from sin;",
+          "They said crucify Him, He's to blame."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "He could have called ten thousand angels to",
+          "destroy the world and set Him free."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "He could have called ten thousand angels,",
+          "But He died alone for you and me."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Upon His precious head they placed a crown of thorns;",
+          "They laughed and said, \"Behold, the King.\""
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "They struck Him and they cursed Him and mocked His holy name.",
+          "All alone He suffered everything."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "He could have called ten thousand angels",
+          "to destroy the world and set Him free."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "He could have called ten thousand angels,",
+          "But He died alone for you and me."
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "When they nailed Him to the cross,",
+          "His mother stood nearby; He said,",
+          "\"Woman behold thy Son!\""
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "He cried, \"I thirst for water,\"",
+          "but they gave Him none to drink.",
+          "Then the sinful work of man was done."
+        ]
+      },
+      {
+        "stanzer": 11,
+        "lines": [
+          "He could have called ten thousand angels to destroy the world and set Him free."
+        ]
+      },
+      {
+        "stanzer": 12,
+        "lines": [
+          "He could have called ten thousand angels, But He died alone for you and me."
+        ]
+      },
+      {
+        "stanzer": 13,
+        "lines": [
+          "To the howling mob He yielded;",
+          "He did not for mercy cry. The cross of shame He took alone."
+        ]
+      },
+      {
+        "stanzer": 14,
+        "lines": [
+          "And when He cried, \"It's finished,\"",
+          "He gave himself to die; Salvation's wonderful plan was done."
+        ]
+      },
+      {
+        "stanzer": 15,
+        "lines": [
+          "He could have called ten thousand angels to destroy the world and set Him free."
+        ]
+      },
+      {
+        "stanzer": 16,
+        "lines": [
+          "He could have called ten thousand angels, But He died alone for you and me."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 350,
     "title": "When my love to Christ grow",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "When my love to Christ grows weak",
+          "When for deeper faith I seek",
+          "Then in thought I go to Thee",
+          "Garden of Gethsemane"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "There I walk amidst the shades",
+          "While the lingering twilight fades",
+          "See that suffering, friendless One",
+          "Weeping, praying there alone"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "When my love for man grows weak",
+          "When for stronger faith I seek",
+          "Hill of Calvary I go to thy scenes of fear and woe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "There behold His agony suffered on the bitter tree",
+          "See His anguish see His faith",
+          "Love triumphant still in death"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Then to life I turn again",
+          "Learning all the worth of pain",
+          "Learning all the might that lies",
+          "In a full self sacrifice"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 351,
     "title": "I've wandered far away",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Coming home, coming home,",
+      "Never more to roam;",
+      "Open wide Thine arms of love,",
+      "Lord I'm coming home."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I've wandered far away from God;",
+          "Now I'm coming home;",
+          "The paths of sin too long I've trod; Lord I'm coming home."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "I've wasted many precious years;",
+          "Now I'm coming home;",
+          "I now repent with bitter tears;",
+          "Lord, I'm coming home."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "I'm tired of sin and straying, Lord:",
+          "Now I'm coming home;",
+          "I'll trust Thy love, believe Thy word: Lord, I'm coming home."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "My soul is sick, my heart is sore,",
+          "Now I'm coming home;",
+          "My strength renew, my hope restore,",
+          "Lord, I'm coming home."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "My only hope, my only plea,",
+          "Now I'm coming home;",
+          "That Jesus died, and died for me,",
+          "Lord, I'm coming home."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "I need His cleansing blood, I know,",
+          "Now I'm coming home;",
+          "O wash me whiter than the snow,",
+          "Lord, I'm coming home."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 356,
     "title": "ROCK OF AGES, cleft me,",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Rock of Ages, cleft me, Let me hide myself in Thee;",
+          "Let the water and the blood, From thy riven side which flowed,",
+          "Be of sin the double cure, Cleanse me from its guilt and power."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Not the labour of my hands Can fulfill Thy law's demand;",
+          "Could my zeal no respite know, Could my tears for ever flow,",
+          "All for sin could not atone: Thou must save, and Thou alone."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nothing in my hand I bring, Simply to Thy cross I cling; Naked,",
+          "come to Thee for dress; Helpless, look to Thee for grace; Foul,",
+          "I to the fountain fly: Wash me, Saviour, or I die."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "While I draw this fleeting breath, When mine eyes shall close in death,",
+          "When I soar to worlds unknown, See Thee on Thy judgment throne,",
+          "Rock of Ages, cleft for me, Let me hide myself in Thee."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 359,
     "title": "I love the Lord",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I love the Lord,",
+          "for He died my soul to save",
+          "On Calvary",
+          "His dear life He freely gave;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "From realms above,",
+          "Jesus freely came to die,",
+          "That I might live",
+          "Someday with Him on high."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "I love the Lord,",
+          "He has been so good to me,",
+          "He gave His life,",
+          "from sin to set me free;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "No greater love",
+          "than His could ever be,",
+          "I love the Lord,",
+          "because He first loved me."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "I love the Lord,",
+          "for He saved the lost from sin,",
+          "He gave them life",
+          "to be whole and free again;"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "To live on high,",
+          "with Him never more to die,",
+          "Oh, praise His name,",
+          "we'll see Him by and by."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "I love the Lord,",
+          "for His love so full and free,",
+          "He taught us why",
+          "that our love like His should be;"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "To be like Him,",
+          "and compassion freely give,",
+          "Oh, bless His name,",
+          "we then with Him could live."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 365,
     "title": "How Beautiful",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "How beautiful the hands",
+          "that served",
+          "the wine and the bread and",
+          "the sons of the earth."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "How beautiful the feet",
+          "that walked",
+          "the long dusty roads",
+          "and the hill to the cross."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "How beautiful, how beautiful,",
+          "How beautiful",
+          "is the body of Christ."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "How beautiful the",
+          "radiant bride",
+          "who waits for her groom",
+          "with his light in her eyes"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "How beautiful when humble",
+          "hearts give",
+          "the fruit of pure lives",
+          "so that others may live."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "How beautiful, how beautiful,",
+          "How beautiful",
+          "is the body of Christ."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "And as He laid down His life",
+          "we offer this sacrifice",
+          "that we might live just as",
+          "He died,",
+          "Willing to pay the price,",
+          "Willing to pay the price."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "How beautiful the feet",
+          "that bring",
+          "the sound of good news",
+          "and the love of the King"
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "How beautiful the hands",
+          "that serve",
+          "the wine and the bread",
+          "and the sons of the earth"
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "How beautiful, how beautiful,",
+          "How beautiful",
+          "is the body of Christ."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 374,
     "title": "There is a fountain",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There is a fountain filled with blood",
+          "Drawn from Immanuel's veins"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "And sinners plunged beneath that flood",
+          "Lose all their guilty stains",
+          "Lose all their guilty stains",
+          "Lose all their guilty stains"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "And sinners plunged beneath that flood",
+          "Lose all their guilty stains"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Dear dying Lamb,",
+          "Thy precious blood shall never lose its power"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Till all the ransomed",
+          "Church of God",
+          "Be saved to sin no more",
+          "Be saved to sin no more",
+          "Be saved to sin no more"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Till all the ransomed church of God",
+          "Be saved to sin no more"
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "E'er since by faith",
+          "I saw the stream",
+          "Thy flowing wounds supply"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Redeeming love has",
+          "been my theme",
+          "And shall be till I die",
+          "And shall be till I die",
+          "And shall be till I die"
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "Redeeming love has been my theme",
+          "And shall be till I die"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 381,
     "title": "Years I Spent in Vanity",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Mer-cy there was great, and grace was free;",
+      "Par-don there was mul-ti-plied to me;",
+      "There my bur-dened soul found lib-er-ty,",
+      "At Cal-va-ry"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Years I spent in van-i-ty and pride,",
+          "Car-ing not my Lord was cru-ci-fied",
+          "Know-ing not it was for me He died",
+          "On Cal-va-ry."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "By God's word at last my sin I learned;",
+          "Then I trem-bled at the law I spurned,",
+          "Till my guilt-y soul im-plor-ing turned",
+          "To Cal-va-ry"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Now I've given to Je-sus every-thing;",
+          "Now I glad-ly own Him as my King;",
+          "Now my rap-tured soul can on-ly sing",
+          "Of Cal-va-ry."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "O the love that drew sal-va-tion's plan!",
+          "O the grace that brought it down to man!",
+          "O the might-y gulf that God did span",
+          "At Cal-va-ry!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 383,
     "title": "Jesus Keep Me Near The Cross",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "In the cross, in the cross, Be my glory ever,",
+      "Till my raptured soul shall find Rest beyond the river."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesus, keep me near the cross,",
+          "There a precious fountain,",
+          "Free to all, a healing stream, Flows from Calv'ry's mountain."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Near the cross, a trembling soul,",
+          "Love and mercy found me;",
+          "There the Bright and Morning Star",
+          "Sheds its beams around me."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Near the cross! O Lamb of God,",
+          "Bring its scenes before me; Help me walk from day to day",
+          "With its shadow o'er me."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 390,
     "title": "Guide Me O Thou Great Jehovah",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Bread of heaven feed me 'til I want no more.",
+      "(repeat)"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Guide me, O Thou great Jehovah, pilgrim through this barren land.",
+          "I am weak but Thou art mighty,",
+          "Hold me with Thy pow'rful hand."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Open now the crystal fountain, whence the healing waters flow.",
+          "Let the fire and cloudy pillar",
+          "Lead me all my journey through."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "When I tread the verge of Jordan",
+          "Bid my anxious fears subside.",
+          "Bear me through the swelling current,",
+          "Land me safe on Canaan's side."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 395,
     "title": "Follow Me",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I traveled down a lonely road",
+          "And no one seemed to care,",
+          "The burden on my weary back",
+          "Had bowed me to despair,"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "I oft complained to Jesus",
+          "How folks were treating me,",
+          "And then I heard Him say",
+          "so tenderly"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "\"My feet were also weary,",
+          "Upon the Calv'ry road;",
+          "The cross became so heavy,",
+          "I fell beneath the load,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Be faithful weary pilgrim",
+          "The morning I can see,",
+          "Just lift your cross and follow",
+          "close to me.\""
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "\"I work so hard for Jesus\"",
+          "I often boast and say,",
+          "\"I've sacrificed a lot of things",
+          "To walk the narrow way,"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "I gave up fame and fortune;",
+          "I'm worth a lot to Thee,\"",
+          "And then I hear Him",
+          "gently say to me,"
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "\"I left the throne of glory",
+          "And counted it but loss,",
+          "My hands were nailed in anger",
+          "Upon a cruel cross,"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "But now we'll make the journey",
+          "With your hand safe in mine,",
+          "So lift your cross and follow",
+          "close to me.\""
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "Oh Jesus if I die upon a foreign field some day",
+          "'Twould be no more than love demands",
+          "No less could I repay"
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "\"No greater love hath mortal man",
+          "Than for a friend to die\"",
+          "These are the words He gently spoke to me,"
+        ]
+      },
+      {
+        "stanzer": 11,
+        "lines": [
+          "\"If just a cup of water I place within your hand",
+          "Then just a cup of water is all that I demand,\""
+        ]
+      },
+      {
+        "stanzer": 12,
+        "lines": [
+          "But if by death to living they can Thy glory see,",
+          "I'll take my cross and follow close to Thee."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 396,
     "title": "No not one",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Jesus knows all about our struggles;",
+      "He will guide 'til the day is done:",
+      "There's not a Friend like the lowly Jesus:",
+      "No, not one! no, not one!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There's not a Friend like the lowly Jesus: No, not one! no,",
+          "not one! None else could heal all our souls' diseases",
+          "No, not one! no, not one!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "No friend like Him is so high and holy, No, not one! no,",
+          "not one! And yet no friend is so meek and lowly,",
+          "No, not one! no, not one!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "There's not an hour that He is not near us, No, not one! no,",
+          "not one! No night so dark, but His love can cheer us,",
+          "No, not one! no, not one!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Did ever saint find this Friend forsake him? No, not one! no,",
+          "not one! Or sinner find that He would not take him?",
+          "No, not one! no, not one!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Was e'er a gift like the Savior given? No, not one! no,",
+          "not one! Will He refuse us the bliss of heaven?",
+          "No, not one! no, not one!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 406,
@@ -7676,8 +9660,76 @@ export const englishHymns = [
     "hymnNo": 410,
     "title": "He leadeth me",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "He leadeth me, He leadeth me",
+      "By His own hand He leadeth me",
+      "His faithful follower I would be",
+      "For by His hand He leadeth me"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "He leadeth me, O blessed tho't",
+          "O words with heavenly",
+          "Comfort fraught"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Whate'er I do",
+          "Where'er I be",
+          "Still 'tis God's hand",
+          "That leadeth me"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sometimes 'mid scenes",
+          "Of deepest gloom",
+          "Sometimes where Eden's",
+          "bowers bloom"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "By waters still",
+          "o'er troubled seas",
+          "Still 'tis God's hand",
+          "That leadeth me"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Lord, I would clasp Thy hand in Mine,",
+          "Nor ever murmur nor repine;",
+          "Content, whatever lot I see,",
+          "Since tis God's hand that leadeth me"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "And when my task on",
+          "earth is done",
+          "When by Thy grace",
+          "The victory's won"
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "E'en death's cold wave",
+          "I will not flee",
+          "Since God through Jordan",
+          "leadeth me"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 413,
@@ -7690,8 +9742,82 @@ export const englishHymns = [
     "hymnNo": 414,
     "title": "Anywhere with Jesus",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Anywhere, anywhere",
+      "Fear I cannot know",
+      "Anywhere with Jesus",
+      "I can safely go."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Anywhere with Jesus",
+          "I can safely go,",
+          "Anywhere He leads me",
+          "In this world below;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Anywhere without Him",
+          "Dearest joys would fade,",
+          "Anywhere with Jesus",
+          "I am not afraid."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Anywhere with Jesus",
+          "I am not alone;",
+          "Other friends may fail me,",
+          "He is still my own;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tho His hand may lead me over drearest ways,",
+          "Anywhere with Jesus",
+          "Is a house of praise."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Anywhere with Jesus",
+          "Over land and sea,",
+          "Telling souls in darkness of salvation free;"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Ready as He summons me to go or stay,",
+          "Anywhere with Jesus",
+          "When He points the way."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Anywhere with Jesus",
+          "I can go to sleep,",
+          "When the darkening shadows",
+          "Round about me creep;"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Knowing I shall waken",
+          "Nevermore to roam;",
+          "Anywhere with Jesus Will be home, sweet home."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 421,
