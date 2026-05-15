@@ -4,22 +4,107 @@ export const zuluHymns = [
     "hymnNo": 1,
     "title": "Woza KuJesu",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Yebo, woza kuMsindisi wakho,",
+      "Wobusiswa ekuzeni kwakho;",
+      "Wokukhulul' ezonweni zakho,",
+      "Woza kuyena manje."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Woza kuJesu, uMfeli wakho,",
+          "Wothethelelwa izono zakho,",
+          "Yizwa umemo lweNkosi yakho,",
+          "Oluthi: \"Woza kimi!\""
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mus' ukuhamba ngaleyondlela,",
+          "Eshonisayo kabi impela;",
+          "Buyela kuye, owakufela,",
+          "Woza kuyena manje."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yiyo iNkosi isakubiza,",
+          "Iyaxanela ukukusiza,",
+          "Uma ufika yokuphilisa,",
+          "Ngakho-ke woza manje."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Uma unqaba ukulalela,",
+          "Uyakubhubha kabi impela;",
+          "Uyakushona ngaleyondlela,",
+          "Eya esihogweni."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 2,
     "title": "Izithembiso Zenkosi",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Kodlula izulu nomhlaba",
+      "Zoncibilik’ izintaba",
+      "Keph’ akayikwesaba",
+      "Omethembay’ uJesu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Izithembiso zeNkosi",
+          "Zimi phakade zona",
+          "Wakuqinisa ngegazi",
+          "Akuthembisa khona"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 2,
     "title": "Morning Has Broken",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Morning has broken like the first morning,",
+          "Blackbird has spoken like the first bird.",
+          "Praise for the singing! Praise for the morning!",
+          "Praise for them, springing fresh from the Word!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Sweet the rain's new fall, sunlit from heaven,",
+          "Like the first dewfall on the first grass.",
+          "Praise for the sweetness of the wet garden,",
+          "Sprung in completeness where His feet pass."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mine is the sunlight! Mine is the morning,",
+          "Born of the one light Eden saw play!",
+          "Praise with elation, praise every morning,",
+          "God's recreation of the new day!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 3,
@@ -170,57 +255,498 @@ export const zuluHymns = [
     "hymnNo": 6,
     "title": "-02-11",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Bong’ iNkosi ngazo, ungasoli, qha!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Woza kuJesu, uMfeli wakho,",
+          "Wothethelelwa izono zakho",
+          "Yizwa  umemo lweNkosi yakho"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Buyela kuye, owakufela",
+          "Woza kuyena manje."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yiyo iNkosi isakubiza",
+          "Iyaxanela ukukusiza",
+          "Uma ufika yokuphilisa",
+          "Ngakho-ke woza manje."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Uma unqaba ukulalela",
+          "Uyakubhubha kabi impela;",
+          "Uyakushona ngaleyondlela",
+          "Eya esihogweni."
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Uthando lukaBaba",
+          "Lunjengolwandle bo,",
+          "Lubanzi lujulile,",
+          "Luyaze yinipho?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lwafinyelela kimi",
+          "Ngisezonweni zam’.",
+          "Alwazalwangidlula, ",
+          "Lwangisindisa nam’."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "O, Baba, ngiyabonga",
+          "Nangenhliziyo yam’,",
+          "Sengiyavuma ngithi,",
+          "UnguMsindisi wam’."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ngizokwethemba njalo",
+          "Ngisesemhlabeni,",
+          "Ngizokukhonza futhi",
+          "Ngothando enhli’weni."
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ngazo zonk' izinsuku,",
+          "Yebo, zonk' izinsuku;",
+          "Ngizolibonga, Nkosi yam',",
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Qha, ngingeze ngipheze,",
+          "Ngolibonga ngifeze;",
+          "Ngizolibonga, Nkosi yam',",
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ngizolibonga, Nkosi yam',",
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "UyiNkosi yezulu,",
+          "Uphakeme kakhulu;",
+          "Ngizolibonga, Nkosi yam',",
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Elakho igama."
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nkosi, Ngiyabheka Kuwe",
+          "Ngikunig’ impilo yam’,",
+          "Mangiphathwe njalo nguwe,",
+          "Uyikhomb’ indlela yam’",
+          "Makuphele konk’ okwami",
+          "Ngikufune wena nje,",
+          "Hlala enhliz’weni yami",
+          "Ngize ngikubone le."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ukumfuz’ uJesu, he."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yebo, ngokubonga, ha."
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sibambane Ngezandla (x2)"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ngezandla (x2)"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sibutane imphilo (x2)"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Imphilo, Sibatane Imphilo (x2)"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Bong’ iNkosi ngazo, ungasoli, qha!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Khona wobalul’ umthwalo wakho, bo"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nxa ubon’ abanye benemfuyo he",
+          "Bhek’ imfuyo, yakho ephezulu le.",
+          "Bal’ izibusiso, yeka, zihle hle!",
+          "Ifa ligcinelwe wen’ ekhaya-ke."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Zokuyisa kahl’ ekhaya lakho le"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 18,
     "title": "Uthando Lukababa",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Uthando lukaBaba,",
+          "Lunjengolwandle bo,",
+          "Lubanzi lujulile,",
+          "Luyaze yinipho?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lwafinyelela kimi,",
+          "Ngisezonweni zam'.",
+          "Alwazalwangidlula,",
+          "Lwangisindisa nam'."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "O, Baba, ngiyabonga,",
+          "Nangenhliziyo yam',",
+          "Sengiyavuma ngithi,",
+          "UnguMsindisi wam'."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ngizokwethemba njalo,",
+          "Ngisesemhlabeni,",
+          "Ngizokukhonza futhi,",
+          "Ngothando enhliz'weni."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 37,
     "title": ".  Igama LikaJesu",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mhla ngiyakumuka, ngishiye lomhlaba,",
+          "Igama leNkhosi lithikithi lami;",
+          "Khona ngiyohamba, ngingenakwesaba;",
+          "Ngocasha kuJesu, enguMhlengi wami."
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ngazo zonk' izinsuku,",
+          "Yebo, zonk' izinsuku;",
+          "Ngizolibonga, Nkosi yam',",
+          "Elakho igama."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 54,
     "title": "Esiphambanweni",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Haleluya haleluya",
+          "Anikamboni ofananaye"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ensukwini zok’phila kwami",
+          "Baba ngizokubonga",
+          "uJes’ Uyaphilisa",
+          "Aphind’ athethelele",
+          "Ngizokubonga Jesu wami",
+          "Baba Ngizokubonga",
+          "Ensukwini zokuphila kwami"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Entaben’ ekude kwem’ isphambano.",
+          "Esinobuhlungu nehlazo;",
+          "Ngisithanda sona, ngob’ uJesu wami",
+          "Wabathelwa kuso ngenxa yam’"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 55,
     "title": "Umhlatshelo Wezono",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Igazi lemihlatshelo,",
+          "Yonke yabaJuda,",
+          "Lalingeluqed' uvalo,",
+          "Lingesus' ukona."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kodwa elikaKristu wo,",
+          "Elaphalazwa, ha!",
+          "Lisusa zonk' izono bo,",
+          "Liqed' icala nya."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ngokukholwa ngiyabeka,",
+          "Isandla sami-ke,",
+          "Phezu kwekhanda leMvana,",
+          "Ngivum' izono, he!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Sengiyamethemba lowo,",
+          "Owanikelwa le,",
+          "EGolgotha, ngezono zam',",
+          "Nezabantu bonke."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Yilona liyithemba lam',",
+          "Ngongena ngalo-ke,",
+          "Ngohuba nesixuku nam',",
+          "Ngibonge lona nje."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 75,
     "title": "Nkosi, Ngiyabheka Kuwe",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Yebo Nkosi, ngize kuwe,",
+      "Ngidalule konk' okwami.",
+      "Mangizwiswe nguwe, Jesu,",
+      "Zisuliw' izono zam'."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nkosi, ngiyabheka kuwe,",
+          "Ngikunig' impilo yam',",
+          "Mangiphathwe njalo nguwe,",
+          "Uyikhomb' indlela yam',",
+          "Makuphele konk' okwami,",
+          "Ngikufune wena nje,",
+          "Hlala enhliz'weni yami,",
+          "Ngize ngikubone le."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Usathan' ungivukele,",
+          "Kuyaliwa emoyen',",
+          "Ngenze, Nkosi, ngibe-ngcwele,",
+          "Kube-mhlope enhliz'wen',",
+          "Hlanza izizindlo zami,",
+          "Nokufisa konke-ke,",
+          "Kube-ngukufisa kwami,",
+          "Ukumfuz' uJesu, he."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Uma Nkosi ungibona,",
+          "Ngisazulazula la,",
+          "U'ba ngidukisw' ukona,",
+          "Nqanda umntanakho-ke,",
+          "Nom' unqanda ngenhlupheko,",
+          "Ngokubonga laphaya,",
+          "Laph' ukona kungasekho,",
+          "Yebo, ngokubonga, ha."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 156,
     "title": "Woza KuJesu",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Yebo, woza kuMsindisi wakho,",
+      "Wobusiswa ekuzeni kwakho;",
+      "Wokukhulul' ezonweni zakho,",
+      "Woza kuyena manje."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Woza kuJesu, uMfeli wakho,",
+          "Wothethelelwa izono zakho,",
+          "Yizwa umemo lweNkosi yakho,",
+          "Oluthi: \"Woza kimi!\""
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mus' ukuhamba ngaleyondlela,",
+          "Eshonisayo kabi impela;",
+          "Buyela kuye, owakufela,",
+          "Woza kuyena manje."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yiyo iNkosi isakubiza,",
+          "Iyaxanela ukukusiza,",
+          "Uma ufika yokuphilisa,",
+          "Ngakho-ke woza manje."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Uma unqaba ukulalela,",
+          "Uyakubhubha kabi impela;",
+          "Uyakushona ngaleyondlela,",
+          "Eya esihogweni."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 259,
     "title": "Esiphambanweni",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Haleluya haleluya",
+          "Anikamboni ofananaye"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ensukwini zok’phila kwami",
+          "Baba ngizokubonga",
+          "uJes’ Uyaphilisa",
+          "Aphind’ athethelele",
+          "Ngizokubonga Jesu wami",
+          "Baba Ngizokubonga",
+          "Ensukwini zokuphila kwami"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "Entaben’ ekude kwem’ isphambano.",
+          "Esinobuhlungu nehlazo;",
+          "Ngisithanda sona, ngob’ uJesu wami",
+          "Wabathelwa kuso ngenxa yam’"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 150212,
@@ -498,4 +1024,4 @@ export const zuluHymns = [
       }
     ]
   }
-];
+]

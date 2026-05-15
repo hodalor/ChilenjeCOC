@@ -9,17 +9,14 @@ export const HymnCard = ({hymn, _onClick}) => {
       hymnCardStyle.elevation,
       pressed && {opacity: 0.8}
     ]}>
-      <View style={hymnCardStyle.hymnNumberStyle}>
-        <Text style={{color: 'white', fontWeight: 'bold'}}>{hymn.hymnNo}</Text>
-      </View>
       <View style={hymnCardStyle.titleStyle}>
         <Text style={hymnCardStyle.subtitleTextStyle}>{hymn.title}</Text>
+        <View style={hymnCardStyle.hymnNumberStyle}>
+          <Text style={hymnCardStyle.hymnNumberTextStyle}>{hymn.hymnNo}</Text>
+        </View>
       </View>
       <View style={hymnCardStyle.creatorViewStyle}>
         <Text style={hymnCardStyle.creatorTextStyle}>{hymn.creator}</Text>
-        <View style={hymnCardStyle.readhymmButtonStyle}>
-          <Text>Read</Text>
-        </View>
       </View>
     </Pressable>
   );

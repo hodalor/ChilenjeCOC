@@ -8360,43 +8360,58 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "150 CHIUTA NDI LINGA LITHU",
-          "Chiuta ndi linga lithu",
-          "lakukhora nkhanira",
-          "nkhanira, wali mchanya",
-          "kutovwira para ise",
-          "tikuzingiziwa"
+          "152 CHIUTA NDI LINGA LITHU",
+          "Chiuta ndi linga lithu,",
+          "Movwiri mu suzgo.",
+          "Nanga charu chisezgeke,",
+          "ise ntha titope."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ntheura tireke kopa",
-          "nanga charu chi",
-          "ngatizgokera,",
-          "Chifukwa Chiuta",
-          "withu ngwakutitondere",
-          "maurwani"
+          "Mapiri ghangawa",
+          "M’nyanja, maji",
+          "ghangapoma,",
+          "inya, ghangasunkunika",
+          "na jigha likuru."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Uyo wana suzgo",
-          "M’thupi wamucheme na",
-          "chapalikano",
-          "Uyo wamatilwa",
-          "mkati mu kwananga",
-          "wamucheme sono"
+          "Muronga ukusangwiska",
+          "msumba wa Chiuta",
+          "Malo uko mukukhara,",
+          "Fumu yikuru mwe"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Haleluaya ti na nkhoswe",
-          "yambura daka nesi kontoro",
-          "Mwimbirire, mlulutire",
-          "Imwe muli mlinga la kukhora"
+          "Chiuta wali mwa uwo,",
+          "nta tiusezgeke;",
+          "Sekuru tiwawovwire",
+          "lubiro-lubiro."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mafuko ghakacheruka,",
+          "na maufumuso;",
+          "Chiuta wakayowoya",
+          "charu chatentema"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Fumu ya vita yichali",
+          "kukhara nase.",
+          "Leza wa Yakobe",
+          "ngwithu, ndiyo mpanji",
+          "yithu."
         ]
       }
     ]
@@ -9606,9 +9621,10 @@ export const tumbukaHymns = [
     "chorus": [
       "Pulika! pulika!",
       "Chawanangwa cha Leza",
-      "Mbumoyo Pulika! pulika!",
+      "mbumoyo",
+      "Pulika! pulika!",
       "Chawanangwa cha Leza",
-      "mbumoyo mwa Yesu."
+      "mbumoyo mwa Yesu"
     ],
     "stanzers": [
       {
@@ -10531,7 +10547,45 @@ export const tumbukaHymns = [
       "zanga, wakuchema iwe",
       "zanga, wa kuchema"
     ],
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "267 UYU YESU",
+          "uyu Yesu, uyu Yesu wiza",
+          "mu mutima wane",
+          "Viheni vyose vifume,",
+          "Yesu yekha wakharemo;",
+          "Mtima wane ndapereka",
+          "kwa Yesu Mponoski",
+          "wane."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Uyu Yesu, uyu Yesu wiza",
+          "mu mutima wane",
+          "Sono wafumye Satana",
+          "muno mu mutima wane.",
+          "Sono vyose ndapereka",
+          "kwa yesu Mponoski",
+          "wane."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wakimirira,",
+          "wakakung'uska ku mutima wane.",
+          "Na mawoko agho ghakakhomeka",
+          "pa champhinjika.",
+          "Nkhiza, nkamjurira",
+          "nkati, NJiraninge, Fumu",
+          "yane."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 186,
@@ -20666,4 +20720,4 @@ export const tumbukaHymns = [
       }
     ]
   }
-];
+]

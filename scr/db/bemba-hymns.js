@@ -441,8 +441,7 @@ export const bembaHymns = [
         "stanzer": 10,
         "lines": [
           "Imye shiwi no mumutima,",
-          "Sekela no kusekela.",
-          
+          "Sekela no kusekela."
         ]
       }
     ]
@@ -2878,21 +2877,22 @@ export const bembaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "42 N’ani ulya mwi Tanga?Who is He?",
-          "N’ani ulya mwi tanga",
-          "Bantu baletotela?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
-          "Tumuwile pa nkasa,",
-          "Bonse bamutotele."
+          "N'ANI ULYA MWI TANGA #42",
+          "Who is He?",
+          "N'ani ulya mwi tanga",
+          "'Bantu baletotela?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
+          "Tumuwile pa nkasa, bonse bamutotele."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "N’ani ulya acula,Ali eka mu mpanga?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya acula,",
+          "Ali eka mu mpanga?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2900,9 +2900,10 @@ export const bembaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "N’ani ulya batemwa,Wa mashiwi ya luse?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya batemwa,",
+          "'Wa mashiwi ya luse?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2910,9 +2911,10 @@ export const bembaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "N’ani ulya ondapa,Balwele na bacula?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya ondapa",
+          "Balwele na 'bacula?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2920,9 +2922,10 @@ export const bembaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "N’ani ulya mu mfifi,     Apepa kuli Wishi?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya mu mfifi",
+          "Apepa kuli wishi?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2930,9 +2933,10 @@ export const bembaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "N’ani ulya ku muti,Watufwila fwe babi?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya ku muti",
+          "'Watufwila fwe babi?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2940,9 +2944,10 @@ export const bembaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "N’ani ulya mu nshishi,Nafuma? Mupusushi!",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani ulya mu nshinshi,",
+          "Nafuma? Mupusushi!",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
           "Bonse bamutotele."
         ]
@@ -2950,11 +2955,13 @@ export const bembaHymns = [
       {
         "stanzer": 8,
         "lines": [
-          "N’ani wa pa cipuna,Calo conse ateka?",
-          "Ni Mfumu, Landwe lisuma,",
-          "Mfumu mwine wa lulumbi;",
+          "N'ani wa pa cipuna,",
+          "'Calo conse ateka?",
+          "Ni Mfumu, 'Landwe lisuma,",
+          "'Mfumu mwine wa lulumbi;",
           "Tumuwile pa nkasa,",
-          "Bonse bamutotele."
+          "Bonse bamutotele.",
+          "____"
         ]
       }
     ]
@@ -8977,9 +8984,123 @@ export const bembaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "\"PE FYE KULI LESA!“ 140",
+          "bushe iwe naunaka"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "bushe akwate filaso"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "bushe alifwele ngala"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "alempela cinshi nomba"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "nga namukonka mupepi,"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "nga namulombo kumbula"
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "kusanga kukonka kulwa"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "yesu yu mwana lesa, yesu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "lesa shifwe, yesu mwana wenu"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "mfumu yesu, tuli mu mfifi fye,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "mu mafunde yesu atupele,"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "'CIFULO TWATEMWA 139",
+          "We Love the Place O God",
+          "'Cifulo twatemwa,",
+          "Ica bucindamo,",
+          "'Nseko e mo shaba",
+          "Shacile sha calo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Iŋanda twatemwa,",
+          "Umwa kulongana,",
+          "Umo ne mwe mwaba,",
+          "E mo twakumana."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "'Mashiwi twatemwa,",
+          "Ya mweo, 'mutende,",
+          "Yatusansamusha,",
+          "Yatusekesha pe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ukwimba twatemwa,",
+          "Pa bupe bukulu,",
+          "Lelo twafuluka",
+          "Ukwimba ku mulu."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Yesu twamutemwa,",
+          "Tupelwe cikuku",
+          "Ca kumutemwisha",
+          "Kuno na ku mulu.",
+          "____"
+        ]
+      },
+      {
+        "stanzer": 1,
+        "lines": [
+          "\\\"PE FYE KULI LESA!“ 140",
           "For Ever With The Lord",
-          "\"Pe fye kuli Lesa!“ Amen, ifyo fine;",
+          "\\\"Pe fye kuli Lesa!“ Amen, ifyo fine;",
           "'Mweo uli mwi shiwi 'li, ‘mweo wa munshipwa.",
           "Muno mu mubili ndeendaenda fye,",
           "Nangwi ndo shalepa shani, tuleya ku mushi."
@@ -8997,7 +9118,7 @@ export const bembaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "\"Pe fye kuli Lesa!“ Tata nga mwatemwa,",
+          "\\\"Pe fye kuli Lesa!“ Tata nga mwatemwa,",
           "Mufikilishe shiwi 'li kuli ine nomba.",
           "Mube mupepi fye, e lyo nshakalewa;",
           "Munjikatishe, mungafwe  ukulwa no kwansha.",
@@ -9737,7 +9858,10 @@ export const bembaHymns = [
     "hymnNo": 154,
     "title": "Mwe Katula mumpale",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mu mfifi ya mfwa, mu mweo,",
+      "Mwe Yesu mubyo lubuto."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -11290,7 +11414,12 @@ export const bembaHymns = [
     "hymnNo": 180,
     "title": "Kweko kufwaya abalubile",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Akuyeni . . . mu tumishi tonse",
+      "Kubaleta. . . Abaluba ...",
+      "Kubaleta . . .ku Mwine Kacema",
+      "Yesu Kristu.. . 'wabafwilile."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -12510,7 +12639,10 @@ export const bembaHymns = [
     "hymnNo": 197,
     "title": "Kuno tulakalipwa",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Cikabe cisuma",
+      "‘Lintu tatwakalekane."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -12652,7 +12784,12 @@ export const bembaHymns = [
     "hymnNo": 199,
     "title": "Ndeimbila Kalubula",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndeimbila . . . Kalubula . . .",
+      "No mulopa . . . 'ndubwile . . .",
+      "Anjelele . . . pa lupanda . . .",
+      "Amfutilya. . . 'nkakwile . . ."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -13496,7 +13633,12 @@ export const bembaHymns = [
     "hymnNo": 211,
     "title": "Yesu aita babi",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Imbisheni, mwe bonse,",
+      "Yesu aita babi;",
+      "Ali no luse lonse,",
+      "Abapokelela fye."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -13579,7 +13721,14 @@ export const bembaHymns = [
     "hymnNo": 212,
     "title": "Ilyo fubefube aya",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Tukayaishibana,",
+      "Tukayaendelana,",
+      "Ilyo lwendo pa nshi lwapwa,",
+      "Na ku mulu batwita;",
+      "Tukeshiba fyonse bwino,",
+      "Pantu fube apita."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -15234,4 +15383,4 @@ export const bembaHymns = [
       }
     ]
   }
-];
+]

@@ -67,8 +67,8 @@ export const homescreenStyles = StyleSheet.create({
     paddingHorizontal: 20,
   },
   poweredbyText: {
-    fontSize: 13,
-    color: colors.fadedTextprimary,
+    fontSize: 18,
+    color: colors.Textseondary,
   },
 });
 
@@ -142,39 +142,43 @@ export const langCardStyle = StyleSheet.create({
 
 export const hymnCardStyle = StyleSheet.create({
   containerStyle: {
-    height: 100,
-    width: '85%',
-    marginVertical: 10,
+    minHeight: 64,
+    width: '95%',
+    marginVertical: 6,
     borderRadius: 10,
-    paddingVertical: 10,
+    paddingVertical: 6,
     borderBottomWidth: 0.5,
   },
   hymnNumberStyle: {
-    borderRadius: 8,
-    backgroundColor: colors.primaryColor,
     alignSelf: 'flex-start',
-    paddingHorizontal: 8,
-    paddingVertical: 4,
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 3,
+    marginLeft: 12,
+    minWidth: 28,
   },
   titleStyle: {
     display: 'flex',
     width: '100%',
     flexDirection: 'row',
-    marginVertical: 5,
+    marginBottom: 2,
+    justifyContent: 'space-between',
+    alignItems: 'center',
   },
   creatorTextStyle: {
-    fontSize: 14,
+    fontSize: 13,
     fontStyle: 'normal',
     color: '#666666',
   },
   subtitleTextStyle: {
-    fontSize: 16,
+    fontSize: 18,
     fontStyle: 'normal',
     fontWeight: '500',
     color: colors.blackText,
+    flex: 1,
+  },
+  hymnNumberTextStyle: {
+    color: colors.primaryColor,
+    fontWeight: 'bold',
   },
   creatorViewStyle: {
     display: 'flex',
@@ -195,6 +199,7 @@ export const hymnDetailsCreenStyles = StyleSheet.create({
     borderTopLeftRadius: 30,
     borderTopRightRadius: 30,
     paddingHorizontal: 10,
+  
     height: 'auto',
     paddingTop: 5,
   },
@@ -218,6 +223,7 @@ export const chorusCardStyles = StyleSheet.create({
     borderBottomWidth: 0.5,
     borderBottomColor: '#E0E0E0',
     marginBottom: 10,
+    fontWeight: 'bold',
   },
   hymnTitleStyle: {
     fontWeight: 'bold',
@@ -286,13 +292,13 @@ export const stanzaCardStyles = StyleSheet.create({
   stanzaLineStyle: {
     letterSpacing: 0.5,
     fontFamily: 'System',
-    fontSize: 16,
+    fontSize: 19,
     marginBottom: 4,
     fontStyle: 'normal',
     color: colors.blackText,
     lineHeight: 24,
     flexShrink: 1,
-    width: '95%'
+    width: '98%'
   },
   textCardstyles: {
     display: 'flex', 
