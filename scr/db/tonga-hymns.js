@@ -7500,7 +7500,15 @@ export const tongaHymns = [
     "title": "Akulumbwe",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Akulumbwe, akulumbwe, ansi aano akujulu,",
+          "Taata, Jesu Muuya uusweya, sunu mane kutamami."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 73,
@@ -10671,7 +10679,32 @@ export const tongaHymns = [
     "title": "ATUBUNGANE, TWIIMBE LUYANDO 110",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Atubungane twiimbe luyando! Julu anyika ziimbe luyando!",
+          "Woonse aleke kubisya, ajane lukondo lwini,",
+          "Aimbe antoomwe andiswe luyando!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Koonse koonse kalumvwigwa luyando nkokuli luvuno lwini, nduyando!",
+          "Wakagwisye zibi zyesu akutupa lumuniko,",
+          "Elyo tulakonzya kwaamba nduyando!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tulijisi lukkomano, luyando! Tulaazisyomezyo zyakwe, aduyando!",
+          "Uyakuba ntobo yesu alugwasyo aluyumyo;",
+          "Uyakutuvuna alwakwe luyando!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 110,
@@ -15419,8 +15452,40 @@ export const tongaHymns = [
     "hymnNo": 171,
     "title": "PELE BULOWA BWA-JESU",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Bunsanzye bulowa, ntube mbuli lukobo",
+      "Kunyina nzila imbi, Pele bulowa bwa-Jesu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "INga ndilasanzigwanzi? Pele bulowa bwa-Jesu;",
+          "INga ndasalala buti? Pele bulowa bwa-Jesu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Cigwisya kodoneeka, mbulowa bwa-Jesu buyo;",
+          "Cindigwasya kusyoma, mbulowa bwa-Jesu buyo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kunyina cinununa, Pele bulowa bwa-Jesu;",
+          "Tiinsi kululama kwangu, Pele bulowa bwa-Jesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ooku kusyoma kwangu, Pele bulowa bwa-Jesu,",
+          "Ooku kuloma kwangu, Pele bulowa bwa-Jesu."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 171,
@@ -17171,7 +17236,41 @@ export const tongaHymns = [
     "title": "NDISOLOLELA JEHOVA",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndisololela Jehova,",
+          "Ndili mulweendo lwangu;",
+          "Ulaanguzu, ime nyina,",
+          "Ndijatilila eeno,",
+          "Mufutuli, Mufutuli;",
+          "Nduwe Muvuni wangu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Jalula kasensa kako",
+          "Kalaponya bantu;",
+          "Leta kusalala kwako,",
+          "Kundisololela lyoonse.",
+          "Mwaangululi, Mwaangululi,",
+          "Koba intobo yangu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kuti ndasika kulufu,",
+          "Gwisya kuyoowa kwangu;",
+          "Andinjile julu lyako,",
+          "Koba mugwasyi wangu;",
+          "Njakwiimba, Njakwiimba,",
+          "Nyimbo zyalutangalo."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 209,

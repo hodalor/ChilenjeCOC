@@ -5,11 +5,11 @@ import { MyIcon } from "./icons"
 import { colors } from "../config/colors"
 
 
-export const LangCard = ({title, _onPressEvent}) => {
+export const LangCard = React.memo(({title, _onPressEvent}) => {
     return (
         <Pressable onPress={_onPressEvent} style={[langCardStyle.containerStyle, langCardStyle.elevation]}>
             <MyIcon name="book-outline" size={30} color={colors.primaryColor} />
             <Text style={langCardStyle.languageButtonText}>{title}</Text>
         </Pressable>
     )
-}
+})

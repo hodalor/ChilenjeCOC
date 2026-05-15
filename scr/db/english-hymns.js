@@ -8741,8 +8741,23 @@ export const englishHymns = [
     "hymnNo": 345,
     "title": "Blessed Assurance",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "This is my story, this is my song,",
+      "Praising my Savior all the day long;",
+      "This is my story, this is my song,",
+      "Praising my Savior all the day long."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Blessed assurance, Jesus is mine!",
+          "O what a foretaste of glory divine!",
+          "Heir of salvation, purchase of God,",
+          "Born of His Spirit, washed in His blood."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 346,
@@ -9735,8 +9750,33 @@ export const englishHymns = [
     "hymnNo": 413,
     "title": "Lord be there for me",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Lord be there for me when I fall,",
+          "Be there for me when I call,",
+          "Be there for me, dear Lord."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lord, be there for me when I fall,",
+          "Be there for me when I call,",
+          "Lord, You know I always need You."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Be there for me, dear Lord.",
+          "And I know that,",
+          "Lord, You'll be there."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 414,
@@ -10677,8 +10717,23 @@ export const englishHymns = [
     "hymnNo": 455,
     "title": "There is a Name I Love to Hear",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Oh, how I love Jesus,",
+      "Oh, how I love Jesus,",
+      "Oh, how I love Jesus,",
+      "Because He first loved me!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There is a name I love to hear,",
+          "I love to sing its worth;",
+          "It sounds like music in mine ear,",
+          "The sweetest name on earth."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 464,
@@ -11633,8 +11688,27 @@ export const englishHymns = [
     "hymnNo": 494,
     "title": "O Listen to the Wondrous Story",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O listen to our wondrous story,",
+          "Counted once among the lost:",
+          "Yet One came down from heaven's glory,",
+          "Saving us at awful cost!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Who saved us from eternal loss?",
+          "Who but God's Son upon the cross?",
+          "What did He do? He died for you.",
+          "Where is He now? Believe it thou, in heaven interceding."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 504,
@@ -13547,8 +13621,31 @@ export const englishHymns = [
     "hymnNo": 550,
     "title": "I walk with the king",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "I walk with the King,",
+      "Through pastures so green,",
+      "By quiet waters still,",
+      "To do His good will,",
+      "He lighteth the way",
+      "From darkness to day,",
+      "I'll hold to His hand,",
+      "I walk with the King."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I walk with the King",
+          "To heavenly land,",
+          "The Kingdom of light,",
+          "The pathway of right,",
+          "Eternal His throne,",
+          "Forever 'twill be,",
+          "To mansions on high,",
+          "A crown there for me."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 552,
@@ -14190,8 +14287,23 @@ export const englishHymns = [
     "hymnNo": 565,
     "title": "There shall be showers ( other hymn)",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Showers of blessing,",
+      "Showers of blessing we need;",
+      "Mercy-drops round us are falling,",
+      "But for the showers we plead."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There shall be showers of blessing:",
+          "This is the promise of love;",
+          "There shall be seasons refreshing,",
+          "Sent from the Savior above."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 565,
@@ -14270,8 +14382,23 @@ export const englishHymns = [
     "hymnNo": 567,
     "title": "There shall be showers ( other hymn)",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Showers of blessing,",
+      "Showers of blessing we need;",
+      "Mercy-drops round us are falling,",
+      "But for the showers we plead."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There shall be showers of blessing:",
+          "This is the promise of love;",
+          "There shall be seasons refreshing,",
+          "Sent from the Savior above."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 567,
@@ -14339,8 +14466,22 @@ export const englishHymns = [
     "hymnNo": 568,
     "title": "Jesus Rose of Sharon",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Jesus, blessed Jesus, Rose of Sharon,",
+      "Bloom in radiance",
+      "And in love within my heart."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesus, Rose of Sharon, bloom within my heart,",
+          "Beauties of Thy truth and holiness impart,",
+          "That where'er I go my life may shed abroad",
+          "Fragrance of the knowledge of the love of God."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 569,
@@ -14532,8 +14673,23 @@ export const englishHymns = [
     "hymnNo": 574,
     "title": "There is a Name I Love to Hear",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Oh, how I love Jesus,",
+      "Oh, how I love Jesus,",
+      "Oh, how I love Jesus,",
+      "Because He first loved me!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There is a name I love to hear,",
+          "I love to sing its worth;",
+          "It sounds like music in mine ear,",
+          "The sweetest name on earth."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 577,
@@ -14991,8 +15147,30 @@ export const englishHymns = [
     "hymnNo": 580,
     "title": "The Joy of the Lord",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "The joy of the Lord is my strength",
+          "The joy of the Lord is my strength",
+          "The joy of the Lord is my strength",
+          "The joy of the Lord is my strength"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "He gives me living water",
+          "And I thirst no more",
+          "He gives me living water",
+          "And I thirst no more",
+          "He gives me living water",
+          "And I thirst no more",
+          "The joy of the Lord is my strength"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 581,
@@ -15999,15 +16177,55 @@ export const englishHymns = [
     "hymnNo": 607,
     "title": "I want Jesus",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "I want Jesus, I want Jesus,",
+      "Ev'ry day and hour;",
+      "For I need His grace to keep me,",
+      "And I know His saving pow'r."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I need the blood to me applied,",
+          "For cleansing, keeping pow'r;",
+          "O blessed Saviour, Crucified,",
+          "Save me this very hour."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 608,
     "title": "He Gave Me A Song",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "He gave me a song,",
+      "To sing about,",
+      "He lifted me from sin and doubt,",
+      "O praise His name! He is my King,",
+      "A wonderful song He is to me."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "He took my burdens all away,",
+          "Up to a brighter day,",
+          "He gave me a song,",
+          "A wonderful song."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "A wonderful song I now can sing,",
+          "In my heart joy bells ring,",
+          "He gave me a song,",
+          "A wonderful song."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 608,
@@ -16227,8 +16445,23 @@ export const englishHymns = [
     "hymnNo": 613,
     "title": "Hold To God's Unchanging Hand",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Hold to God's unchanging hand!",
+      "Hold to God's unchanging hand!",
+      "Build your hopes on things eternal,",
+      "Hold to God's unchanging hand!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Time is filled with swift transition,",
+          "Naught of earth unmoved can stand,",
+          "Build your hopes on things eternal,",
+          "Hold to God's unchanging hand."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 614,
@@ -16429,8 +16662,25 @@ export const englishHymns = [
     "hymnNo": 622,
     "title": "Ring out the Message",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Ring out the word o'er land and sea,",
+      "Still far from Jesus many live in sin and doubt;",
+      "Ring out the news that makes men free,",
+      "To all the lost of every nation, ring it out."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There's a message true and glad",
+          "For the sinful and the sad,",
+          "Ring it out, ring it out;",
+          "It will give them courage new,",
+          "It will help them to be true;",
+          "Ring it out, ring it out."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 627,
@@ -16936,8 +17186,23 @@ export const englishHymns = [
     "hymnNo": 661,
     "title": "In the Land of Fadeless Day",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "God shall wipe away all tears;",
+      "There's no death, no pain, nor fears;",
+      "And they count not time by years,",
+      "For there is no night there."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "In the land of fadeless day,",
+          "Lies the city four-square;",
+          "It shall never pass away,",
+          "And there is no night there."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 662,
@@ -17237,22 +17502,69 @@ export const englishHymns = [
     "hymnNo": 902,
     "title": "Nothing but the blood",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "O precious is the flow",
+      "That makes me white as snow;",
+      "No other fount I know,",
+      "Nothing but the blood of Jesus."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "What can wash away my sin?",
+          "Nothing but the blood of Jesus;",
+          "What can make me whole again?",
+          "Nothing but the blood of Jesus."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 903,
     "title": "Would you be free",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "There is power, power,",
+      "There is power, wonder-working power",
+      "In the blood of the Lamb;",
+      "There is power, power, wonder-working power",
+      "In the precious blood of the Lamb."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Would you be free from your burden of sin?",
+          "There's power in the blood,",
+          "Power in the blood;",
+          "Would you o'er evil a victory win?",
+          "There's wonderful power in the blood."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 909,
     "title": ".There's A Fountain Free",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Will you come to the fountain free?",
+      "Will you come? 'Tis for you and me;",
+      "Thirsty soul, hear the welcome call:",
+      "'Tis a fountain opened for all."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "There's a fountain free, 'tis for you and me;",
+          "Let us haste, O haste to its brink;",
+          "'Tis the fount of love from the Source above,",
+          "And He bids us all freely drink."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 912,

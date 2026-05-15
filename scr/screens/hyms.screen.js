@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import {ScrollView, Text, View, TextInput, StyleSheet} from 'react-native';
+import React, {useCallback, useMemo, useState} from 'react';
+import {FlatList, Text, View, TextInput, StyleSheet} from 'react-native';
 import {hymScreenStyles, styles} from '../styles/global.styles';
 import {HymnScreenHeader} from '../components/hymnScreenHeaderCompanent';
 import {HymnCard} from '../components/hymnCard';
@@ -8,15 +8,41 @@ import { colors } from '../config/colors';
 export const HymScreen = ({route, navigation}) => {
   const data = route.params.data;
   const [searchQuery, setSearchQuery] = useState('');
-  
-  // Filter hymns based on search query
-  const filteredHymns = data.hyms.filter(hymn => {
-    const hymnNoString = hymn.hymnNo.toString();
-    const titleLower = hymn.title.toLowerCase();
-    const searchLower = searchQuery.toLowerCase();
-    
-    return hymnNoString.includes(searchQuery) || titleLower.includes(searchLower);
-  });
+
+  const filteredHymns = useMemo(() => {
+    const normalizedQuery = searchQuery.trim().toLowerCase();
+
+    if (!normalizedQuery) {
+      return data.hyms;
+    }
+
+    return data.hyms.filter(hymn => {
+      const hymnNoString = hymn.hymnNo.toString();
+      const titleLower = hymn.title.toLowerCase();
+
+      return (
+        hymnNoString.includes(normalizedQuery) ||
+        titleLower.includes(normalizedQuery)
+      );
+    });
+  }, [data.hyms, searchQuery]);
+
+  const handleOpenHymn = useCallback(
+    hymn => {
+      navigation.navigate('HymnDetails', {data: hymn});
+    },
+    [navigation],
+  );
+
+  const renderHymn = useCallback(
+    ({item}) => <HymnCard hymn={item} _onClick={() => handleOpenHymn(item)} />,
+    [handleOpenHymn],
+  );
+
+  const keyExtractor = useCallback(
+    item => `${item.hymnNo}-${item.title}`,
+    [],
+  );
   
   return (
     <View style={styles.componentsContainerStyle}>
@@ -39,18 +65,25 @@ export const HymScreen = ({route, navigation}) => {
             placeholderTextColor={colors.fadedTextprimary}
           />
         </View>
-        
-        <ScrollView showsVerticalScrollIndicator={false} style={{width: '100%'}} contentContainerStyle={{flexGrow: 1}}>
-          {filteredHymns.map((hymn, index) => {
-            return <HymnCard key={index} _onClick={() => navigation.navigate("HymnDetails", {data: hymn})} hymn={hymn} />;
-          })}
-          
-          {filteredHymns.length === 0 && (
+
+        <FlatList
+          data={filteredHymns}
+          renderItem={renderHymn}
+          keyExtractor={keyExtractor}
+          style={{width: '100%'}}
+          contentContainerStyle={searchStyles.listContent}
+          showsVerticalScrollIndicator={false}
+          keyboardShouldPersistTaps="handled"
+          initialNumToRender={20}
+          maxToRenderPerBatch={20}
+          windowSize={10}
+          removeClippedSubviews
+          ListEmptyComponent={
             <View style={searchStyles.noResultsContainer}>
               <Text style={searchStyles.noResultsText}>No hymns found</Text>
             </View>
-          )}
-        </ScrollView>
+          }
+        />
       </View>
     </View>
   );
@@ -76,6 +109,10 @@ const searchStyles = StyleSheet.create({
     width: '100%',
     alignItems: 'center',
     marginTop: 30,
+  },
+  listContent: {
+    flexGrow: 1,
+    paddingBottom: 12,
   },
   noResultsText: {
     fontSize: 16,

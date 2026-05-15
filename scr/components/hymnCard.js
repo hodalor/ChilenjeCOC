@@ -2,10 +2,10 @@ import React from 'react';
 import {Pressable, Text, View} from 'react-native';
 import {hymnCardStyle} from '../styles/global.styles';
 
-export const HymnCard = ({hymn, _onClick}) => {
+export const HymnCard = React.memo(({hymn, _onClick}) => {
   return (
     <Pressable onPress={_onClick} style={({pressed}) => [
-      hymnCardStyle.containerStyle, 
+      hymnCardStyle.containerStyle,
       hymnCardStyle.elevation,
       pressed && {opacity: 0.8}
     ]}>
@@ -20,4 +20,4 @@ export const HymnCard = ({hymn, _onClick}) => {
       </View>
     </Pressable>
   );
-};
+});

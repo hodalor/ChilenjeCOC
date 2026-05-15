@@ -35,14 +35,13 @@ export const homescreenStyles = StyleSheet.create({
     borderTopRightRadius: 50,
   },
   contentContainerStyle: {
-    display: "flex",
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    overflow: 'hidden',
     paddingVertical: 10,
     paddingHorizontal: 10,
+    width: '100%',
     justifyContent: 'center',
-    width: "100%",
+  },
+  columnWrapperStyle: {
+    justifyContent: 'space-evenly',
   },
   topViewStyle: {
     display: 'flex',

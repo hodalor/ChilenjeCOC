@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, ScrollView, Pressable, Linking} from 'react-native';
+import {View, Text, FlatList, Pressable, Linking} from 'react-native';
 import {data} from '../db';
 import {homescreenStyles} from '../styles/global.styles';
 import {LangCard} from '../components/languageCard';
@@ -15,23 +15,20 @@ export function HomeScreen({navigation}) {
       </View>
 
       <View style={homescreenStyles.componentsContainerStyle}>
-        <ScrollView
+        <FlatList
+          data={data}
+          numColumns={2}
+          keyExtractor={item => item.language}
+          renderItem={({item}) => (
+            <LangCard
+              _onPressEvent={() => navigation.navigate('HymScreen', {data: item})}
+              title={item.language}
+            />
+          )}
           showsVerticalScrollIndicator={false}
-          contentContainerStyle={{flexGrow: 1}}>
-          <View style={homescreenStyles.contentContainerStyle}>
-            {data.map((db, index) => {
-              return (
-                <LangCard
-                  key={index}
-                  _onPressEvent={() =>
-                    navigation.navigate('HymScreen', {data: db})
-                  }
-                  title={db.language}
-                />
-              );
-            })}
-          </View>
-        </ScrollView>
+          contentContainerStyle={homescreenStyles.contentContainerStyle}
+          columnWrapperStyle={homescreenStyles.columnWrapperStyle}
+        />
       </View>
       <Pressable onPress={() => Linking.openURL('https://codelabfirm.netlify.app')} style={homescreenStyles.poweredByStyle}>
         <Text style={homescreenStyles.poweredbyText}>Powered By Chilenje COC media Team</Text>
