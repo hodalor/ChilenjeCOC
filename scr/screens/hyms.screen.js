@@ -24,23 +24,23 @@ export const HymScreen = ({route, navigation}) => {
         _goBack={() => navigation.goBack()}
         title={data.language}
       />
-      <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{flexGrow: 1}}>
-        <View style={hymScreenStyles.containerStyle}>
-          <View style={hymScreenStyles.titleBarStyle}>
-            <Text style={hymScreenStyles.titBarTextStyle}>Hymns : {data.hyms.length}</Text>
-          </View>
-          
-          {/* Search Bar */}
-          <View style={searchStyles.searchContainer}>
-            <TextInput
-              style={searchStyles.searchInput}
-              placeholder="Search by hymn number or title"
-              value={searchQuery}
-              onChangeText={setSearchQuery}
-              placeholderTextColor={colors.fadedTextprimary}
-            />
-          </View>
-          
+      <View style={hymScreenStyles.containerStyle}>
+        <View style={hymScreenStyles.titleBarStyle}>
+          <Text style={hymScreenStyles.titBarTextStyle}>Hymns : {data.hyms.length}</Text>
+        </View>
+        
+        {/* Search Bar - Now outside ScrollView to remain static */}
+        <View style={searchStyles.searchContainer}>
+          <TextInput
+            style={searchStyles.searchInput}
+            placeholder="Search by hymn number or title"
+            value={searchQuery}
+            onChangeText={setSearchQuery}
+            placeholderTextColor={colors.fadedTextprimary}
+          />
+        </View>
+        
+        <ScrollView showsVerticalScrollIndicator={false} style={{width: '100%'}} contentContainerStyle={{flexGrow: 1}}>
           {filteredHymns.map((hymn, index) => {
             return <HymnCard key={index} _onClick={() => navigation.navigate("HymnDetails", {data: hymn})} hymn={hymn} />;
           })}
@@ -50,8 +50,8 @@ export const HymScreen = ({route, navigation}) => {
               <Text style={searchStyles.noResultsText}>No hymns found</Text>
             </View>
           )}
-        </View>
-      </ScrollView>
+        </ScrollView>
+      </View>
     </View>
   );
 };

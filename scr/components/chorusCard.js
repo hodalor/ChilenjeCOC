@@ -9,7 +9,7 @@ export const ChorusCard = ({hymn}) => {
       <View style={chorusCardStyles.titleplaceStyle}>
         <Text style={{color: colors.primaryColor, fontWeight: 'bold'}}>{hymn.hymnNo}</Text>
         <Text style={chorusCardStyles.hymnTitleStyle}>{hymn.title}</Text>
-        <Text style={{color: '#666666'}}>{`${hymn.stanzers.length} Verses`}</Text>
+        <Text style={{color: '#666666'}}>{`${hymn.stanzers.length} Stanzas`}</Text>
       </View>
       <Text style={chorusCardStyles.chorusTitletyle}>Chorus</Text>
       {!hymn.chorus ? (

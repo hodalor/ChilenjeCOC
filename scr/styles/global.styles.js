@@ -243,6 +243,9 @@ export const chorusCardStyles = StyleSheet.create({
   chorusSectionStyle: {
     marginBottom: 10,
     paddingLeft: 10,
+    width: '100%',
+    display: 'flex',
+    flexDirection: 'column',
   },
   chorusSectionTextStyle: {
     letterSpacing: 0.5,
@@ -251,7 +254,9 @@ export const chorusCardStyles = StyleSheet.create({
     flexWrap: 'wrap',
     fontSize: 16,
     color: colors.blackText,
-    lineHeight: 24
+    lineHeight: 24,
+    width: '95%',
+    marginBottom: 4
   },
 });
 
@@ -265,6 +270,7 @@ export const stanzaCardStyles = StyleSheet.create({
     paddingBottom: 15,
     display: 'flex',
     flexDirection: 'row',
+    flexWrap: 'wrap',
   },
   stanzaNumberStyle: {
     marginRight: 10,
@@ -284,7 +290,14 @@ export const stanzaCardStyles = StyleSheet.create({
     marginBottom: 4,
     fontStyle: 'normal',
     color: colors.blackText,
-    lineHeight: 24
+    lineHeight: 24,
+    flexShrink: 1,
+    width: '95%'
   },
-  textCardstyles: {display: 'flex', width: '85%', marginTop: 2},
+  textCardstyles: {
+    display: 'flex', 
+    marginTop: 2,
+    flexDirection: 'column',
+    width: '85%',
+  },
 });
