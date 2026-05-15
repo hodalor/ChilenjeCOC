@@ -5050,7 +5050,71 @@ export const englishHymns = [
     "title": "Almighty",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Almighty, Most Holy God,",
+          "Faithful through the ages;",
+          "Almighty, Most Holy Lord,",
+          "glorious, Almighty God."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "The beasts of the field, the birds of the air",
+          "Are silent to call out your name.",
+          "The earth has no voice, and I have no",
+          "choice but to magnify God unashamed."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Let the rocks be kept silent",
+          "for one more day.",
+          "Let the whole world sing out,",
+          "let the people say:"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Almighty, Most Holy God,",
+          "Faithful through the ages;",
+          "Almighty, Most Holy Lord,",
+          "glorious, Almighty God."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Well, time marches on with the innocence gone,",
+          "And a darkness has covered",
+          "the earth",
+          "But His Spirit still swells, He speaks, \"It is well.\"",
+          "And the hopeless still offered new birth."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "He will break the leash of death, it will have no sting.",
+          "Let the pris'ner go free,",
+          "join the song and sing:"
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Almighty, Most Holy God,",
+          "Faithful through the ages;",
+          "Almighty, Most Holy Lord,",
+          "glorious, Almighty God."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 107,
@@ -5854,7 +5918,43 @@ export const englishHymns = [
     "title": "Adoration",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Worship the Lord in the beauty of holiness!",
+          "Bow down before Him,",
+          "His glory proclaim;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "With gold of obedience",
+          "And incense of lowliness,",
+          "Kneel and adore Him",
+          "The Lord is His name!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Fear not to enter His presence",
+          "In poverty,",
+          "Bearing no gifts to present as",
+          "Your own."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Bring truth in its beauty",
+          "And love in its purity-",
+          "These are the offerings",
+          "To lay at His throne."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 155,
@@ -6165,7 +6265,50 @@ export const englishHymns = [
     "title": "Jesus is lord",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesus is Lord, My Redeemer",
+          "How He loves me",
+          "How I love Him"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "He is risen, He is coming",
+          "Lord come quickly!",
+          "Alleluia!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "What a friend we have in Jesus",
+          "All our sins and griefs to bear",
+          "What a privilege to carry",
+          "Everything to God in prayer"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Alleluia...",
+          "He was born to die on Calvary",
+          "To redeem a lost humanity!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Alleluia...",
+          "Conquering death, he rose",
+          "triumphantly!",
+          "Now he reigns for all eternity!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 186,
@@ -6377,7 +6520,70 @@ export const englishHymns = [
     "title": "Marvelous Things",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "(sopranos)",
+          "He has done marvelous",
+          "He has done marvelous things",
+          "Praise the Lord!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "He has done marvelous",
+          "He has done marvelous things",
+          "Praise the Lord!",
+          "(altos)",
+          "Marvelous, marvelous, marvelous marvelous things, Praise the Lord!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "He has done marvelous",
+          "Marvelous, marvelous",
+          "(tenors)",
+          "He's done marvelous"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "He has done marvelous things",
+          "Praise the Lord",
+          "Marvelous, marvelous things,",
+          "Praise the Lord!",
+          "He has done marvelous things",
+          "Praise the Lord!"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "He has done marvelous",
+          "Marvelous, marvelous",
+          "He's done marvelous",
+          "(basses)",
+          "You know that He has done"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "He has done marvelous things",
+          "Praise the Lord!",
+          "Marvelous marvelous things,",
+          "Praise the Lord!",
+          "He has done marvelous things",
+          "Praise the Lord!",
+          "Marvelous things",
+          "Praise the Lord!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 214,
@@ -6501,7 +6707,84 @@ export const englishHymns = [
     "title": "On Zion's Glorious Summit",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "On Zion's glorious summit",
+          "stood",
+          "A numerous host redeemed",
+          "by blood"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "They hymned their King in strains divine;",
+          "I heard the song and strove to join,",
+          "I heard the song and strove to join."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Here all who suffered sword or flame",
+          "For truth, or Jesus' lovely name"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Shout victory now and hail the Lamb,",
+          "And bow before the great",
+          "I AM,",
+          "And bow before the great",
+          "I AM."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "While everlasting ages roll,",
+          "Eternal love shall feast their soul,",
+          "And scenes of bliss forever New,"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Rise in succession to their view,",
+          "Rise in succession to their view."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Holy, holy, holy Lord,",
+          "God of hosts on high",
+          "adored!"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "(women)",
+          "Who like me Thy praise",
+          "should sing",
+          "(all)",
+          "O Almighty King!"
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "Holy, holy, holy Lord,",
+          "God of hosts on high",
+          "adored!",
+          "Holy, holy, holy."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 233,
@@ -6631,35 +6914,331 @@ export const englishHymns = [
     "title": "In moments like these",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "In moments like these,",
+          "En momentos asi,",
+          "I sing out a song,",
+          "levanto mi voz,"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "I sing out a",
+          "Levanto mi canto",
+          "love song to Jesus.",
+          "a Cristo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "In moments like these,",
+          "En momentos asi,",
+          "I lift up my voice,",
+          "levanto mi ser,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "I lift up my voice",
+          "to the Lord.",
+          "Levanto mi alma a El."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios",
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios",
+          "I love You.",
+          "Te amo."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "In moments like these,",
+          "En momentos asi,",
+          "I sing out a song,",
+          "levanto mi voz,"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "I sing out a",
+          "Levanto mi canto",
+          "love asong to Jesus.",
+          "a Cristo."
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "In moments like these,",
+          "En momentos asi,",
+          "I lift up my voice,",
+          "levanto mi ser,"
+        ]
+      },
+      {
+        "stanzer": 10,
+        "lines": [
+          "I lift up my voice",
+          "to the Lord.",
+          "Levanto mi alma a El."
+        ]
+      },
+      {
+        "stanzer": 11,
+        "lines": [
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios",
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios"
+        ]
+      },
+      {
+        "stanzer": 12,
+        "lines": [
+          "Singing I love You Lord,",
+          "Cuanto te amo, Dios",
+          "I love You.",
+          "Te amo."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 242,
     "title": "Sing hallelujah",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sing hallelujah to the Lord",
+          "Sing hallelujah to the Lord",
+          "Sing hallelujah",
+          "Sing hallelujah",
+          "Sing hallelujah to the Lord"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Jesus is Lord of heaven and earth",
+          "Jesus is Lord of heaven and earth",
+          "Jesus is Lord, Jesus is Lord",
+          "Jesus is Lord of heaven and earth"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Jesus is living in His church",
+          "Jesus is living in His church",
+          "Jesus is living",
+          "Jesus is living",
+          "Jesus is living in His church"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "He's coming back to claim His own",
+          "He's coming back to claim His own",
+          "He's coming back",
+          "He's coming back",
+          "He's coming back to claim His own"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Sing hallelujah to the Lord",
+          "Sing hallelujah to the Lord",
+          "Sing hallelujah",
+          "Sing hallelujah",
+          "Sing hallelujah to the Lord"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 251,
     "title": "The Lord Thy God",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "The Lord thy God",
+          "(The Lord Thy God)",
+          "In the midst of thee",
+          "(In the midst of thee)"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Is mighty (Is mighty)",
+          "Is mighty (Is mighty)",
+          "The Lord thy God",
+          "(The Lord thy God)",
+          "In the midst of thee",
+          "(In the midst of thee)"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Is mighty (Is mighty)",
+          "Is mighty (Is mighty)",
+          "And I saw Him",
+          "(And I saw Him)",
+          "High and lifted up",
+          "(High and lifted up)"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "(all)",
+          "With power and grace",
+          "And authority",
+          "And He shall reign",
+          "(And He shall reign)"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "In the midst of thee",
+          "(In the midst of thee)",
+          "(all)",
+          "Forever and ever",
+          "Amen."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 253,
     "title": "Sweet adoration",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sweet adoration flows from Your children.",
+          "Glory and honor and praise are a part of our constant devotion,"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Love set in motion for the Divine One who reigns in our hearts."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 256,
     "title": "Joy to the World",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Joy to the world, the Lord",
+          "is come!",
+          "Let earth receive her King;",
+          "Let every heart prepare",
+          "Him room,"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "And heav'n and nature sing,",
+          "And heav'n and nature sing,",
+          "And heav'n and heav'n and",
+          "nature sing."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Joy to the earth, the",
+          "Savior reigns!",
+          "Let men their songs employ;",
+          "While fields and floods, rocks,",
+          "hills and plains"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Repeat the sounding joy,",
+          "Repeat the sounding joy,",
+          "Repeat, repeat the sounding joy."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "No more let sins and sorrows grow,",
+          "Nor thorns infest the ground;",
+          "He comes to make",
+          "His blessings flow"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Far as the curse is found,",
+          "Far as the curse is found,",
+          "Far as, far as the curse is found."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "He rules the world with",
+          "truth and grace,",
+          "And makes the nation prove",
+          "The glories of His righteousness,"
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "And wonders of His love,",
+          "And wonders of His love,",
+          "And wonders, wonders",
+          "of His love."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 264,
