@@ -21476,57 +21476,397 @@ export const tongaHymns = [
     "hymnNo": 301,
     "title": "Ndiceenda Mumusinzo",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "ndiceenda mumusinzo,",
+      "Ndiceenda mumusinzo;",
+      "Munzi wangu mupya nkuuli?",
+      "Ndiceenda mumusinzo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Munzi wangu mupya nkuuli?",
+          "Ndiceenda mumusinzo,",
+          "Kwiina mapenzi okuya,",
+          "Ndiceenda mumusinzo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tuya kubona Muvuni,",
+          "Ndiceenda mumusinzo,",
+          "Kwiina misozi okuya,",
+          "Ndiceenda mumusinzo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Bamwi bayandisya ansi,",
+          "Ndiceenda mumusinzo,",
+          "Kucita zintu zibyaabi,",
+          "Ndiceenda mumusinzo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Leza wandipa inguzu,",
+          "Ndiceenda mumusinzo,",
+          "Limwi nkabone kujulu,",
+          "Ndiceenda mumusinzo."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 302,
     "title": "NETUSIKA KUJULU",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Twaakusika kujulu,",
+      "Buzuba bwakukondwa okuya;",
+      "Twaakubona Jesu tuyooimba,",
+      "Tuyooimba luzundo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Imba luyando lwa-Jesu,",
+          "Imba luzyalo lwakwe,",
+          "Kumunzi wakwe mubotu,",
+          "Ulabamba cilawo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Netweenda mulweendo lwaansi,",
+          "Mayoba alasiya,",
+          "Pele naa lweendo lwamana,",
+          "Taakwe mudima ooko."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Atusyomeke kasimpe,",
+          "Akuzumina lyoonse,",
+          "Twaakumubona kujulu,",
+          "Uyootupa kukondwa."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 303,
     "title": "Nkamuzibe",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "KNkamuzibe, nkamuzibe",
+      "Njakwiima munsi lyakwe Jesu;",
+      "Nkamuzibe, nkamuzibe,",
+      "Ainembo mumaanza akwe."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndamana milimo yangu",
+          "yoonse munyika eeyi,",
+          "Njakusamikwa mubili uutafwi,",
+          "Eelyo njakumuziba",
+          "Mufutuli kabotu,",
+          "Uyakundicinga cakukkomana."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndiya kukkomana abusyu",
+          "bwakwe bwakuumuna,",
+          "Ameso aakwe alaa luse lunji;",
+          "Ndiya kumulumbaizya",
+          "Wakandiyandisya",
+          "Akundibambila ng'anda yabwami."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Bayandika bangu",
+          "twakaandaana kaindi",
+          "Mubuumi bubotu",
+          "bwa-Mwami Jesu;",
+          "Tatukaandaani",
+          "Mumabanda aa-Edeni,",
+          "Pele ntaangune mbone Mufutuli."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Nkanjile mumunzi",
+          "Nkesamine zituba buu,",
+          "Akandinjizye mutalili bantu,",
+          "Lwiimbo olutamani ndiya",
+          "Kwiimba ambabo,",
+          "Pele ntaangune mbone Mufutuli."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 304,
     "title": "NKOCILI CISI CAKUKONDWA",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Nkubotu, nkokuya,",
+      "Tulaya kucisi cibotu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nkocili cisi cakukondwa,",
+          "Tukabone Kubota kwaco;",
+          "Jesu Mwami nkwabede lwakwe,",
+          "Ulatubambila busena."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Atwiimbe kucisi cibotu,",
+          "Lwiimbo lwa-Mwami wakujulu;",
+          "Mibila iyooumuzigwa,",
+          "Tukaleke milandu yesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Atulumbe Leza kujulu,",
+          "Wakatupa mwanaakwe, Jesu;",
+          "Watufwida luzyalo toonse,",
+          "Tulalumba luyando lwakwe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tuyoolumba amwi abangelo,",
+          "Kabalemya Leza Mupati;",
+          "Tulaimba toonse anguzu",
+          "Inyimbo zyabulemu bwakwe."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 305,
     "title": "Sena ndililembedwe",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Sena ndalembwa mo?",
+      "Sena ndalembwa mo?",
+      "Sena ndililembedwe",
+      "mwibbuku Lyabuumi?"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ulubono nsiyandi",
+          "Ndwakaindi kasyoonto,",
+          "Ndilayanda kujulu,",
+          "Ndikanjile mumona",
+          "Mwibbuku lyabuumi Ilisalalisya,",
+          "Kondyaambila Jesu,",
+          "Sena ndalembwa mo?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Zibi zyangu zyavula,",
+          "Zyali mbuli musenga",
+          "Ubulowa bwa-Jesu",
+          "Bwazisanzya zyatuba buu.",
+          "Cisyomezyo ca-Mwami",
+          "Cilandibotezya;",
+          "Zibi zyako naa nzinji,",
+          "Zyoonse zyatuba buu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Munzi ooyo mubotu",
+          "Ulaa maanda aabambwa",
+          "Bantu boonse banjila",
+          "Mbaabo bakasanzigwa;",
+          "Takunjili ukubi ukubisya bubotu,",
+          "Nkobalinda bangelo,",
+          "Ii ndililembedwe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ciindululo:",
+          "Ii, ndalembwa mo,",
+          "Jesu nguwandilemba,",
+          "Ii, ndililembedwe mwibbuku",
+          "Lyabuumi."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 306,
     "title": "TULAKUSWAANA KUMULONGA",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Tuswaangane kumulonga,",
+      "Kumulonga mubotu, mubotu,",
+      "Tuswaangane basalidwe,",
+      "Kumulonga wa-Leza."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tuyooswaana kumulonga,",
+          "Nkobakkala bangelo,",
+          "Meenda aleenda lyoonse,",
+          "Kucuuno ca-Mwami."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ankomwe yawo mulonga,",
+          "Meenda alamwekesya,",
+          "Tuyakweenda mukulumba,",
+          "Buzuba butamani."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Notutaninga sika ooko,",
+          "Tulatula mikuli yesu,",
+          "Luse luyakutuvuna,",
+          "Tulapegwa misini."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tulafwambaana kusika,",
+          "Musinzo ulamana;",
+          "Myoyo iyooseka ooko,",
+          "Lwiimbo lwakuumuna."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 307,
     "title": "Tunyina Munzi Mubotu",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tunyina munzi mubotu,",
+          "Tatuyandi wamunyika,",
+          "Pesi atukkomanisye",
+          "Mbotulanga munzi uumbi",
+          "Mbotulanga munzi uumbi",
+          "Mbotulanga munzi uumbi"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tunyina munzi mubotu,",
+          "Tulanga uutalibonyi,",
+          "Ziyoni ndezina lyawo,",
+          "Ulasalala bunene",
+          "Ulasalala bunene",
+          "Ulasalala bunene."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ncilawo cakuumuna,",
+          "Ncilawo cabanununwa",
+          "Kuti ndaba amababa,",
+          "Ndilaulukila ooko",
+          "Ndilaulukila ooko",
+          "Ndilaulukila ooko"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Moyo wangu koumuna,",
+          "Ulizi ciindi ceelele,",
+          "Nkubotu ndimunyonene,",
+          "Limwi mwini andilesye",
+          "Limwi mwini andilesye",
+          "Limwi mwini andilesye."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 308,
     "title": "YAMANA MILIMO YESU YOONSE",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "TIi, kuyooba coolwe cesu,",
+      "Coolwe cesu, coolwe cesu;",
+      "Nitwasikilwa luzyalo lwakwe,",
+      "Kuyooba coolwe, ii,",
+      "Coolwe cesu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yamana milimo yesu yoonse,",
+          "Aano mpotufwaba ansi aano,",
+          "Jesu ulatutola kujulu,",
+          "Nkotuyoosikilwa coolwe cesu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ooko takunjili zintu zibi,",
+          "Naaba malwazi, niluba lufu,",
+          "Takukwe madilwe amisozi,",
+          "Takukwe nzala, nekuba nyota."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ooko nkwaali maanda manji loko,",
+          "Ambe ndayanda kujana omwe;",
+          "Wati Jesu, \"Ndamuzululila,",
+          "Nkalulamike nkomuzookkala."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 309,
@@ -21561,35 +21901,216 @@ export const tongaHymns = [
     "title": "MWAMI TWABUNGANA",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwami twabungana",
+          "Muno mung'anda yako;",
+          "Tweza oobu mbutwanjila,",
+          "Mwami, munsi lyako."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Myoyo yesu yoonse iluungumene;",
+          "Myoyo yesu, Mwami Jesu,",
+          "Ilakulangila."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Cikambaukwa sunu atuciswiilile;",
+          "Lijalulwe ijwi lyako kuti",
+          "Tugwasigwe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Atufutusigwe, iswe bantu bako,",
+          "Utupe luse, O Mwami, kuti",
+          "Tukusyome."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 311,
     "title": "Jesu Wabweza Cibunge",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesu wabweza cibunge",
+          "Wakwamwida boonse.",
+          "Wati, \"Mutambule, mulye.",
+          "Ngumubili wangu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tuli mukulya cibunge,",
+          "Twiibuluka Jesu,",
+          "Atubweze tulye toonse,",
+          "Katuyeeya nguwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Jesu wabweza cinywido,",
+          "Wati, \"Amulumbe,",
+          "Ncecizuminano cipya",
+          "Cabulowa bwangu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Lino twabweza cinywido,",
+          "Toonse tulakunywa.",
+          "Twayeeya bulowa bwakwe",
+          "Bwakatwaangununa."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 320,
     "title": "Twabotelwa",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Kukondwa, kulumba,",
+      "Mbuli bangelo kujulu,",
+      "Zyoonse zibumbwa kujulu,",
+      "Aba-Kristo ansi aano,",
+      "Balumba, bakondwa,",
+      "Tabalubi lufutuko."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "ATwabotelwa, twabotelwa,",
+          "Buzuba bwasunu, Mwami,",
+          "Wakasala muzyalwama,",
+          "Wabbapatizigwa sunu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Leza Taata, Jesu Mwami,",
+          "Aa-Muuya Uusalalisya,",
+          "Mubulemu bwakujulu,",
+          "Muzyalwama uyoonjila."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tujatisye, lyoonse lyoonse,",
+          "Tungaime Jesu Mwami,",
+          "Batubwene abalabo,",
+          "Babbapatizigwe Mwami."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 323,
     "title": "Kunyika Ilikule",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Andiye nditakkali pe,",
+      "Ngu Mwami uundiita.",
+      "Andiye, andivune,",
+      "Syaala nyika yakwesu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kunyika ilikule,",
+          "Nkobali banzyimini,",
+          "Baita, balaita,",
+          "Andiye nkuko lino."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndamumvwa Mwami waamba",
+          "\"Mufwambe batebuli\"",
+          "Kumuunda ulikule,",
+          "Bakwesu mundileke."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kwitala lyookuya,",
+          "Ndabona basowegwa",
+          "Mulyango ujulilwe,",
+          "Bazimini bandiita."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Taata, baama mwanaangu,",
+          "Musyaale nyoonse nene",
+          "Kwitala lyookuya,",
+          "Ndijisi mulimo ooko."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 325,
     "title": "Kuyanda Basimilimo",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Twakulomba lino Mwami,",
+      "Tuma basimilimo;",
+      "Bazikutebule nyika,",
+      "Ciindi citanamana."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Amyuunda yatuba buu koonse",
+          "Akulya koonse kwapya,",
+          "Afwiifwi akule kule,",
+          "Nyika yoonse ansi aano."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Batume cifumofumo,",
+          "Abamwi isikati,",
+          "Nakuba kuti lyabbila",
+          "Babeleke mulimo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Pesi inywe mubeleke,",
+          "Mubeleke ca-Muuya,",
+          "Mulimo muya kuumana",
+          "Tuya kukkomanisya."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 326,
@@ -21656,36 +22177,227 @@ export const tongaHymns = [
     "hymnNo": 327,
     "title": "Ndakutuma",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Nkubotu, nkokuya,",
+      "Tulaya kucisi cibotu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndakutuma kuyoondibelekela,",
+          "Nokuba tokajani bulumbu,",
+          "Nokuba tokayandwi, tozibilwi,",
+          "Ndakutuma muluyando lwangu,",
+          "Mbuuli ndatumwa Taata,",
+          "Ndakutuma!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndakutuma ugwasye bapengede,",
+          "Kulanga batyokede mumyoyo,",
+          "Kubweza mikuli yabalemenwa;",
+          "Ndakutuma kupengela ndime.",
+          "Mbuuli ndatumwa Taata,",
+          "Ndakutuma!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndakutuma kusiya munzi wako,",
+          "Kubatolela makani aangu,",
+          "Kubantu bacikkede mumudima,",
+          "Ndakutuma kuyooleta bamwi;",
+          "Mbuuli ndatumwa Taata,",
+          "Ndakutuma!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndakutuma kuyoozondwa kubantu,",
+          "Bayumu myoyo, bataswiilili,",
+          "Kusowa buumi bwako",
+          "Nkaambo kangu",
+          "Ndakutuma, ndiyooba anduwe,",
+          "Mbuuli ndatumwa Taata,",
+          "Ndakutuma"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 328,
     "title": "Ndiyanda Kubeleka",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Ndakkala, ndakomba, mumuunda",
+      "Mumuunda wa-Leza.",
+      "Kwiimba, kukomba",
+      "akubeleka lyoonse",
+      "Mumuunda wa-Leza"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndiyanda kubeleka ku-Mwami",
+          "Ndiyanda kusyoma majwi aakwe",
+          "Kwiimba, kukomba",
+          "Akubeleka lyoonse",
+          "Mumuunda wa-Leza"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndiyanda kubeleka enguzu,",
+          "Ndiyanda kusyoma kuli Jesu,",
+          "Boonse mbaita,",
+          "Balajana kukondwa,",
+          "Mumuunda wa-Leza."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndiyanda kubeleka ku-Mwami",
+          "Kuzulwida kumajwi aa-Mwami,",
+          "Kukabe kuteeli,",
+          "Kunooya bukondwa,",
+          "Mumuunda wa-Leza."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 330,
     "title": "Zinjizye",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Zinjizye, zinjizye, zinjizye",
+      "muluba lwazyo",
+      "Zinjizye, zinjizye, zinjizye",
+      "Zifutuke."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "A Mweembezi naateelela",
+          "Imbelele zilalila",
+          "Mumalundu zyazimina",
+          "Koya ukazipilusye."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Nguni uyanda kuunka",
+          "Kuzipilusya muluba?",
+          "Nguni uyakuzigwasya",
+          "Zilyookezye mucimpati?"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Zilalila zyazimina",
+          "Amumalundu malamfu.",
+          "Teelela Jesu ulaamba",
+          "Ukazinyone muluba."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 331,
     "title": "Amuboole azipego",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Amuboole azipego,",
+      "zinono ziyandika;",
+      "Amuswaangane aswebo,",
+      "Atulipe nkwabede."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Amuboole azipego",
+          "Kuli Jesu muvuni;",
+          "Amulipe inywe nyoonse",
+          "Uyakumutambula."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Amulete ciindi canu",
+          "Anguzu zyanu zyoonse,",
+          "Zibelesegwe a-Jesu,",
+          "Akaambo muleelede."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wakatusyomezya kuti",
+          "Uyakutuleleka;",
+          "Naa twasyoma ijwi lyakwe",
+          "Uyakutusolweda."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 332,
     "title": "Bakaleta Zipego",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Sena uyanda kumuletela",
+      "Ncayanda, Komwaambila, \"Mwami ndakupa moyo wangu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Bakaleta zipego zyabo kuli-Jesu,",
+          "Jesu watambula",
+          "Luyando lwabo loonse",
+          "Milimo mibotu",
+          "Yakugwasya bacete,",
+          "Jesu waziyanda",
+          "Zipego zyabo zyoonse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ambali lyabapi",
+          "Kwakaimvwi mucete,",
+          "Wabona zipego zyabo",
+          "Zyoonse zibotu,",
+          "Eelyo wakayanda kutola cipego",
+          "Pesi kunyina ncaajisi kumutolela."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Walila: \"Mwami ndikuzi uli Siluse",
+          "Kotola nkwendijisi",
+          "Moyo wangu mubi.\"",
+          "Jesu wamwaambila:",
+          "\"Utayeeyi ncisyoonto,",
+          "Zyoonse nzibotu pesi",
+          "Cako cilainda.\""
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 333,
@@ -21769,14 +22481,106 @@ export const tongaHymns = [
     "title": "Sena Jesu Ulayanda",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sena Jessu ulayanda cipo",
+          "Kulindime?",
+          "Koamba kuyanda kwako njakukuteelela."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Sena Jesu ulayanda cipo",
+          "Kulindime?",
+          "Ndilakupa ciindi cangu",
+          "Ndikubelekele."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sena Jesu ulayanda cipo",
+          "Kulindime?",
+          "Njakupa zyoonse nzenjisi",
+          "Balelekwe bamwi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Sena Jesu ulayanda cipo",
+          "Kulindime?",
+          "Ndilakupa moyo wangu",
+          "Akaambo waamfwida."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 338,
     "title": "Notuyandana",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Kuliswe, Kuliswe,",
+      "Ciindi cilafwambaana,",
+      "Notuyandana."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Munzi inga mubotu",
+          "Notuyandana;",
+          "Kuseka koonse koonse,",
+          "Notuyandana",
+          "Nkokuli kuumuna kunyina",
+          "nzala ooko,",
+          "Ciindi cilafwambaana,",
+          "Notuyandana."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kukkomana munkanda,",
+          "Notuyandana,",
+          "Kunyina kusulana,",
+          "Notuyandana.",
+          "Inzila ilaa maluba,",
+          "Nzila yoonse nimbotu;",
+          "Ilatukkomanisya",
+          "Notuyandana."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kujulu kulaseka,",
+          "Notuyandana,",
+          "Inyika ilaa luyando,",
+          "Notuyandana,",
+          "Kalonga kalaseka,",
+          "Izuba lilabala,",
+          "Mwami ulasekesya,",
+          "Notuyandana."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Jesu tuvune kuti,",
+          "tukayandane,",
+          "Atulisende kuti tukayandane.",
+          "Taciko cindipenzya,",
+          "Atwamunyika toonse,",
+          "Ndalelekwa muluse,",
+          "Tukayandane."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 342,
