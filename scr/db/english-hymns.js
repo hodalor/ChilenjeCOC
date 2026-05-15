@@ -5121,225 +5121,46 @@ export const englishHymns = [
     "title": "There is beyond the Azure blue",
     "creator": "Unknown",
     "chorus": [
-      "There is a God   There is a God ",
-      "He is alive     He is alive ",
-      "In Him we live  in Him we live",
-      "and we survive; and we survive",
-      "From dust our God From dust our God",
-      "Created man, created man",
-      "He is our God He is our God",
-      "the great I AM  the great I AM."
+      "There is a God, He is alive,",
+      "In Him we live, and we survive;",
+      "From dust our God created man,",
+      "He is our God, the great I Am."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "In His presence there is comfort",
-          "In His presence there is peace",
-          "When we seek the Father’s heart"
+          "There is, beyond the azure blue,",
+          "A God concealed from human sight;",
+          "He tinted skies with heavenly hue",
+          "And framed the worlds with His great might."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "We will find such",
-          "Bless’d assurance",
-          "In the presence of the Lord"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Cover me, Lord,with Your presence."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "This is holy ground,we’re standing on holy ground.",
-          "For the Lord is present and where He is is holy."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "This is holy ground,we’re standing on holy ground.",
-          "For the Lord is present and where He is is holy."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "We are standing on holy ground.",
-          "And I know that there are angels all around."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "We are standing in His presence on holy ground."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "You are holy, God,a perfect and holy God.",
-          "ll come before You with hearts"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "We are standing on holy ground.",
-          "And I know that there are angels"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "We are standing in His presence,",
-          "We are standing in His presence,",
-          "We are standing in His presence on holy ground."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "I will enter His gates with",
-          "thanksgiving in my heart,",
-          "I will enter His courts",
-          "with praise."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "I will say this is the day",
-          "that the Lord has made,",
-          "I will rejoice",
-          "for He has made me glad."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "He has made me glad,",
-          "He has made me glad,",
-          "I will rejoice for He has made",
-          "me glad."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "He has made me glad,",
-          "He has made me glad,",
-          "I will rejoice for He has made",
-          "me glad."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Almighty, Most Holy God,",
-          "Faithful through the ages;",
-          "Almighty, Most Holy Lord,",
-          "glorious, Almighty God."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          " The beasts of the field, the birds of the air",
-          "Are silent to call out your name.",
-          "The earth has no voice, and I have no"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Let the rocks be kept silent",
-          "for one more day.",
-          "Let the whole world sing out,",
-          "let the people say:"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Almighty, Most Holy God,",
-          "Faithful through the ages;",
-          "Almighty, Most Holy Lord,",
-          "glorious, Almighty God."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Well, time marches on with the innocence gone,",
-          "And a darkness has covered",
-          "the earth",
-          "But His Spirit still swells, He speaks, “It is well.”",
-          "And the hopeless still offered new birth."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "He will break the leash of death, it will have no sting.",
-          "Let the pris’ner go free,",
-          "join the song and sing:"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Almighty, Most Holy God,",
-          "Faithful through the ages;",
-          "Almighty, Most Holy Lord,",
-          "glorious, Almighty God."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "There is, Beyond the Azure Blue",
-          "a God, concealed from human sight.",
-          "He tinted skies with heavenly hue and"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "There was, a long, long time ago,",
-          "a God whose voice the prophets heard.",
+          "There was a long, long time ago,",
+          "A God whose voice the prophets heard;",
           "He is the God that we should know,",
-          "who speaks from His inspired Word."
+          "Who speaks from His inspired Word."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "There was, a long, long time ago,",
-          "a God whose voice the prophets heard.",
-          "He is the God that we should know,",
-          "who speaks from His inspired Word."
+          "Secure is life from mortal mind,",
+          "God holds the germ within His hand;",
+          "Though men may search, they cannot find,",
+          "For God alone does understand."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "See the streams of living water",
-          "Springing from eternal love",
-          "Well supply Thy sons and daughters"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Our God, whose Son up-on the tree,",
+          "Our God, whose Son upon a tree",
+          "A life was willing there to give,",
           "That He from sin might set man free,",
-          "And ever-more with Him could live."
+          "And evermore with Him could live."
         ]
       }
     ]
