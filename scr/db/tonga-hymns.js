@@ -559,7 +559,41 @@ export const tongaHymns = [
     "title": "Muuya wangu Lumba Mwami",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Muuya wangu Lumba Mwami;",
+          "Leta zipego zyako;",
+          "Wanununwa wajatiilwa,",
+          "Uleelede kumwiimba.",
+          "Lumbaizya! Lumbaizya!",
+          "Lumba Mwami uutafwi."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lumbaizya luse lwakwe,",
+          "kuli Bataata Leza;",
+          "Lumba nkaambo tasanduki,",
+          "Ucileleka iswe.",
+          "Lumbaizya! Lumbaizya!",
+          "Kusyomeka nkukwakwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Watulela mbuli Taata,",
+          "Ulizi ampotuwa;",
+          "Mumaanza watusumpula,",
+          "Watufutula lyoonse.",
+          "Lumbaizya! Lumbaizya!",
+          "Lumba luzyalo lwakwe."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 7,
@@ -2611,10 +2645,46 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 29,
-    "title": "Kamuza Muswilile",
+    "title": "Kamuza Muswiilile",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Twiitigwa toonse, atufwambaane bakwesu, tuli mulweendo",
+      "ku-Zioni, kumuunzi wa-Leza."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kamuza muswiilile, majwi aa-Leza,",
+          "Twiimbe lwimbo lubotu x2",
+          "Kucuuno ca-Leza x2"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Batakondwi tabazi, kulumbaizya Leza,",
+          "Baya kupengesya lyoonse x2",
+          "Tabaizi nzila iya ku-Zioni."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mulundu wa-Zioni, uzyala zibotu,",
+          "Tatunasika kujulu x2",
+          "Tatuna kweenda munzila yangolida."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Twiimbe nyimbo zibotu, misozi iisansamuke,",
+          "Tuya kuli Leza wesu x2",
+          "Kunyika imbotu x2"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 29,
@@ -3233,8 +3303,58 @@ export const tongaHymns = [
     "hymnNo": 35,
     "title": "Uyumye milimo",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Uyumye milimo, twakulindilila,",
+      "koseluka Mwami wesu,",
+      "koza tukodezye."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Uyumye milimo,",
+          "njiyako Taateesu;",
+          "Koamba majwi enguzu,",
+          "Bantu ubamvwisye."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Uyumye milimo,",
+          "uutuyandye nduwe.",
+          "Uutupe nsima yabuumi",
+          "iizwa kulinduwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Uyumye milimo,",
+          "bakulemye bantu;",
+          "Muuya wako ukomezye,",
+          "luyandisyo lwesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Uyumye milimo,",
+          "makani mabotu;",
+          "Aswiililwe bantu abo,",
+          "batanaswiilide."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Uyumye milimo,",
+          "utupe luzyalo;",
+          "Bulemu mbubwaako Mwami,",
+          "Lukondo ndolwesu."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 35,
@@ -3474,7 +3594,32 @@ export const tongaHymns = [
     "title": "Atupaile Mafumofumo",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Atupaile mafumofumo, atupaile masikati,",
+          "atupaile masikusiku;",
+          "Cilabamba moyo wako."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Leza ulavuwa mafumofumo, Leza ulavuwa masikati,",
+          "Leza ulavuwa masikusiku,",
+          "Ulabamba moyo wako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Jesu mbwaiboole mafumofumo,",
+          "Jesu mbwaiboole masikati, Jesu mbwaiboole masikusiku,",
+          "Ulibambe moyo wako."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 38,
@@ -5197,7 +5342,35 @@ export const tongaHymns = [
     "title": "Muciba Cang'ombe",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Muciba cang'ombe takukwe bulo,",
+          "Nkokwazyalwa Jesu Mwami wanyika;",
+          "Kujulu nyenyezi zyamumwekela;",
+          "Cilido cang'ombe mbobulo bwakwe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Zyalila ing'ombe wabuka mwana;",
+          "Katalili Jesu mwana mucece;",
+          "Ndakuyanda Jesu kolanga ndime,",
+          "Ndilele O mwami masiku oonse."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Koswena andime Jesu ndakomba;",
+          "Afwaafwi andime lyoonse alyoonse;",
+          "Kolongezya bana boonse munyika;",
+          "Tutole kujulu tukkale anduwe."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 54,
@@ -6267,8 +6440,48 @@ export const tongaHymns = [
     "hymnNo": 64,
     "title": "Mwana a-Leza Wazyalwa",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Omuno Munyika;",
+      "Abalo bangelo boonse mujulu balibunganya."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwana a-Leza wazyalwa."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mwana a-Leza waboneka."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mwana a-Leza wasilika."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mwana a-Leza watumwa."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mwana a-Leza watufwida."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Muuya wa-Leza wasika."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 64,
@@ -7529,8 +7742,46 @@ export const tongaHymns = [
     "hymnNo": 74,
     "title": "Jesu Undijatisye",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Ciingano, ciingano, mbobulemu bwangu,",
+      "mane ndeza okuya,",
+      "kubulemu bwako."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesu undijatisye",
+          "kuciingano cako,",
+          "oko kuli musamu",
+          "uusalazya zibi."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndiime kuciingano, mbonesye zilonda,",
+          "Amaanza, amaulu mpowakayasigwa."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ciingano Mwami Jesu undiyenzye lyoonse;",
+          "Oko lwakandizunda",
+          "luyandisyo lwako."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Oko ndilalindila,",
+          "akusyoma lyoonse,",
+          "mane ndeza okuya",
+          "kulinduwe Mwami."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 74,
@@ -7882,7 +8133,37 @@ export const tongaHymns = [
     "title": "Nendalanga Kuciingano",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nendalanga kuciingano akafwida Mwini Bwami,",
+          "ndaamba nsijisi cintu, ndabuseka bwami bwangu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Nsilisumpuli Muvuni, ndilasyoma kufwa kwako,",
+          "Zyoonse zyaansi zindikondezya,",
+          "ndazinyasya nkaambo kako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kumaanza, mutwe amaulu, kwazwa kuusa aluyando,",
+          "wabona kuusa aluyando, amusyini iwa mamvwa."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Nendijisi nyika yoonse, ncecilumbulo cisyoonto,",
+          "luyando lwakwe lugambya lulaita moyo wangu."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 78,
@@ -7989,10 +8270,56 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 80,
-    "title": "Kristu Wabuka Sunu",
+    "title": "Kristo Wabuka Sunu",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kristo wabuka sunu, Aleluya;",
+          "Bangelo boonse bati, Aleluya;",
+          "Atumulumbaizye, Aleluya;",
+          "Imba julu anyika, Aleluya."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lunununo lwacitwa, Aleluya;",
+          "Walo wazwidilila, Aleluya;",
+          "Zuba lyazwa alimwi, Aleluya;",
+          "Talikazwi alimwi, Aleluya."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Cuumbwe caba cabuyo, Aleluya;",
+          "Kristo waciponzola, Aleluya;",
+          "Walo wazunda lufu, Aleluya;",
+          "Watujulila julu, Aleluya."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Wapona Mwami wesu, Aleluya;",
+          "Lino lwambazi lufu? Aleluya;",
+          "Inga tulafutulwa, Aleluya;",
+          "Ino caambazi cuumbwe? Aleluya."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Tulaya nkwaya Kristo, Aleluya;",
+          "Ulatusololela, Aleluya;",
+          "Tulaya mbuli nguwe, Aleluya;",
+          "Ciingano, Cuumbwe Julu, Aleluya."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 80,
@@ -8511,8 +8838,50 @@ export const tongaHymns = [
     "hymnNo": 84,
     "title": "Amakumbi Akujulu",
     "creator": "Unknown",
-    "chorus": null,
-    "stanzers": []
+    "chorus": [
+      "Bamwi baimba, bamwi balila,",
+      "bamwi bausa balasyaala.",
+      "Bamwi bakomba, bamwi bayuba,",
+      "Jesu Mwami asika!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Amakumbi akujulu",
+          "Jesu ulaselukila",
+          "Ukutola banabakwe",
+          "Akukkala abalo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Sena ulatija Jesu?",
+          "Kumubona okuya,",
+          "Moyo wako watuntaana,",
+          "Jesu Mwami asika."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sena ulataangala",
+          "kuteelela majwi aakwe?",
+          "Wakabamba moyo wako",
+          "uswaangane amakumbi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Insi eyi ilamana,",
+          "Mwezi ulasiya mbii;",
+          "Inyenyeezi zilaloka,",
+          "Alazwa malundu."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 84,
@@ -8573,7 +8942,63 @@ export const tongaHymns = [
     "title": "Amulange Iwasika",
     "creator": "Unknown",
     "chorus": null,
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mulange iwasika walo",
+          "ngo-Mubetesi.",
+          "Mumayoba waboneka",
+          "uubeteka inyika.",
+          "Ncoonzyo, ncoonzyo,",
+          "nguubeteka inyika."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Bwami bwakwe bwaboneka,",
+          "bwami mbomwakaluba.",
+          "Busyu bwakwe bulamweka,",
+          "bwakozyana azuba.",
+          "Ncoonzyo, ncoonzyo,",
+          "bwakozyana azuba."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nyika ilayoboloka yoonse",
+          "kubusyu bwakwe.",
+          "Aabo bafu bayoobuka,",
+          "bayoobetekwa nguwe.",
+          "Ncoonzyo, ncoonzyo,",
+          "bayoobetekwa nguwe."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Wabeteka zisi zyoonse,",
+          "ulizi majwi aazyo.",
+          "Sunu myoyo yesu yoonse,",
+          "iboole kulinguwe.",
+          "Ncoonzyo, ncoonzyo,",
+          "iboole kulinguwe."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mufutuli ngundiyanda,",
+          "ndakomba muuya oyu.",
+          "Uyoondivuna ncobeni,",
+          "undinjizye mujulu.",
+          "Ncoonzyo, ncoonzyo,",
+          "undinjizye mujulu."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 85,
@@ -12219,1224 +12644,28 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Leka kulinjizya mumasukusyo,",
-          "Cizundo ciyakukugwasya lino;",
-          "Lwanina kumpela, Lilele webo,",
-          "Uyakukugwasya, Langa ku-Mwami."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Lomba ku-Mufutuli,",
-          "Kuti akakugwasye",
-          "Ulayanda kuyovwa",
-          "Uyakukuyumya."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Lino kuli Jesu kolisungula,",
-          "Kobweza lufutuko lwakwe lwini",
-          "Lindila, paila, sinizya, syoma,",
-          "Uyakugwasya, langa ku-Mwami."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Lomba ku-Mufutuli,",
-          "Kuti akakugwasye",
-          "Ulayanda kuyovwa",
-          "Uyakukuyumya."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Jesu ulumbula woonse uuzunda,",
-          "Aluse lwakwe uyookoma koonse,",
-          "Muvuni wesu uyakukuyumya,",
-          "Uyakukugwasya, langa ku-Mwami."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Lomba ku-Mufutuli,",
-          "Kuti akakugwasye",
-          "Ulayanda kuyovwa",
-          "Uyakukuyumya."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Munzi ulikule sena?",
-          "Ndakamubuzya mulindi,",
-          "Wakaamba, “Masiku ayeeya kumana,",
-          "Leka kulila fwambaana,",
-          "Cisyomyo cilakukweenzya",
-          "Limwi ukasike",
-          "Kunyika yakusalala."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndakamubuzya Silumamba.",
-          "Wakaimba lwiimbo oolu;",
-          "Ndalwanisya abukano,",
-          "Ndilakoma koonse;",
-          "Utalili bililila limwi tukaenzye Mwami",
-          "Tulizi tulakupegwa coolwe notwakoma."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Munzi wesu tuulikule,",
-          "Koyeeya kabotu ooku;",
-          "Kulakomanisya mweenzuma",
-          "Mumusinzo wakwe;",
-          "Utalili tulakuswaangana",
-          "Kutamani kwakwe.",
-          "Kupenga kwamana tuli",
-          "Mumunzi wa-Taata."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Wakatazigwa mumoyo sena?",
-          "Mwaambile Jesu,",
-          "Mwaambile Jesu:",
-          "Wakatazigwa mumoyo sena?",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Mwambile Jesu, Mwambile Jesu,",
-          "Mweenzuma ngotwaziba;",
-          "Taakwe mweenzinyoko mbuli Jesu,",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ulalila misozi nopenga;",
-          "Mwaambile Jesu,",
-          "Mwaambile Jesu,",
-          "Usisilaanzi \tcibi mumoyo;",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Mwambile Jesu, Mwambile Jesu,",
-          "Mweenzuma ngotwaziba;",
-          "Taakwe mweenzinyoko mbuli Jesu,",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ulayoowa kupenga mumoyo;",
-          "Mwaambile Jesu,",
-          "Mwaambile Jesu,",
-          "Uyanda kuziba iziboola;",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwambile Jesu, Mwambile Jesu,",
-          "Mweenzuma ngotwaziba;",
-          "Taakwe mweenzinyoko mbuli Jesu,",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ulapenzegwa noyeeya lufu; Mwaambile Jesu,",
-          "Mwaambile Jesu,",
-          "Ulalila bulelo buboola;",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Mwambile Jesu, Mwambile Jesu,",
-          "Mweenzuma ngotwaziba;",
-          "Taakwe mweenzinyoko mbuli Jesu,",
-          "Mwaambile Jesu alikke."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndateelela Mufutuli,",
-          "Wandiita nkacilile,",
-          "Ati, ‘Ciingano cangu",
-          "Nciyumune lyoonse.",
-          "Mucilile."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Koonse nkwaanditumina,",
-          "Koonse nkwaanditumina,",
-          "Uyakundisololela,",
-          "Aluzyalo lwakwe, amucilile."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndacilila Getsemane,",
-          "Oko kumapenzi oonse,",
-          "Akukunenyegwa koonse",
-          "Aluzyalo lwakwe, amuculile."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Koonse nkwaanditumina,",
-          "Koonse nkwaanditumina,",
-          "Uyakundisololela,",
-          "Aluzyalo lwakwe, amucilile."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndacilila kukuusa,",
-          "Oko kukukankaminwa,",
-          "Ndacilila do-kulufu,",
-          "Aluzyalo lwakwe, amucilile."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Koonse nkwaanditumina,",
-          "Koonse nkwaanditumina,",
-          "Uyakundisololela,",
-          "Aluzyalo lwakwe, amucilile."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ndafutulwa aluzyalo",
-          "Ndayumizigwa",
-          "Anguzu zyakwe,",
-          "Nkondapegwa bwami bwakwe.",
-          "Tandiisiyi-siyi lyoonse pe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Koonse nkwaanditumina,",
-          "Koonse nkwaanditumina,",
-          "Uyakundisololela,",
-          "Aluzyalo lwakwe, amucilile."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Sena ulayanda kuponena kwa-Jesu?",
-          "Akumutobela munzila ince?",
-          "Sena akuyumwine mukuli wako na?",
-          "Muleke asolole."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Inguzu zyakwe zyakwangununa,",
-          "Bulowa bwakwe bwakusalazya;",
-          "Luyando lwakwe lulakuzuzya,",
-          "Inzila yakwe nimbotu kwiinda."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Sena ulayanda kwangununwa sunu na?",
-          "Sena uyanda kumvwa kuumuna kwakwe?",
-          "Sena ulayanda akufutulwa sunu?",
-          "Kuti utabi nowa."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Inguzu zyakwe zyakwangununa,",
-          "Bulowa bwakwe bwakusalazya;",
-          "Luyando lwakwe lulakuzuzya,",
-          "Inzila yakwe nimbotu kwiinda."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Sa uyanda kulyookezya Mubwami bwakwe,",
-          "Akuzibisya kusyomeka kwakwe?",
-          "Sa uyanda kubelekela nguwe lyoonse?",
-          "Muleke asolole."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Inguzu zyakwe zyakwangununa,",
-          "Bulowa bwakwe bwakusalazya;",
-          "Luyando lwakwe lulakuzuzya,",
-          "Inzila yakwe nimbotu kwiinda."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndamvwa Jesu waamba,",
-          "Tojisi inguzu, mwana kopaila,",
-          "Ndilakupa koonse."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Wandiulila, koonse nkukwakwe;",
-          "Kubi kwakandibisya,",
-          "Wakandisalazya."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mwami ndilabona, kuti nguzu zyako",
-          "Zigwisya cinsenda",
-          "Zilabombya moyo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Wandiulila, koonse nkukwakwe;",
-          "Kubi kwakandibisya,",
-          "Wakandisalazya."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mbontajisi cintu cakuula luyando,",
-          "Ndilakulisanzya mubulowa bwakwe."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Wandiulila, koonse nkukwakwe;",
-          "Kubi kwakandibisya,",
-          "Wakandisalazya."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kumbele kwa-Mwami nendiya kwiima,",
-          "Koonse nkondasala kulakuba kwakwe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Wandiulila, koonse nkukwakwe;",
-          "Kubi kwakandibisya,",
-          "Wakandisalazya."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Amuboole mutaluzi,",
-          "Jesu ulamutambula; Mulemenwa zibi zyanu,",
-          "Jesu ulamufutula."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya, Aleluya,",
-          "Aleluya, ku-muvuni."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Twamutamba, nobeenzuma",
-          "Nimwapambwidwe ku-Mwami",
-          "Amunjile kulindiswe,",
-          "Jesu mwali, ngu-Mubotu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya, Aleluya,",
-          "Aleluya, ku-muvuni."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ciindi twali basikufwa,",
-          "Lino Kristo watubusya,",
-          "Watuleta kucibaya,",
-          "Batengwana abavubi."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya, Aleluya,",
-          "Aleluya, ku-muvuni."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Myoyo, majwi, amaboko,",
-          "Oonse atembuule  Leza,",
-          "Uyootweenzya kulinguwe,",
-          "Nkutuyanda kuba awe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya, Aleluya,",
-          "Aleluya, ku-muvuni."
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Twaakusika kuli-Leza,",
-          "Akupobwe lyakwe Jesu,",
-          "Tuyoimba tuyoozyana,",
-          "Tuyoolumba lyoonse, lyoonse."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya, Aleluya,",
-          "Aleluya, ku-muvuni."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Twaitwa kwi pobwe lya-Mwami,",
-          "Tukkale ali bantu bakwe,",
-          "Kula kubabuti kuli iswe,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Anjile Mwami, musa,",
-          "Anjile Mwami",
-          "Tulakuba buti toonse,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Imisini akali mamvwa,",
-          "ku-Mami, wakatufwida;",
-          "Nkwaya kututondezya coolwe, Anjile Mwami."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Anjile Mwami, musa,",
-          "Anjile Mwami",
-          "Tulakuba buti toonse,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ulakukomana nabona",
-          "Bavumbidwe ngubo zyabwinga,",
-          "Kulabota, twakoma toonse,",
-          "Anjile Mwami."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Anjile Mwami, musa,",
-          "Anjile Mwami",
-          "Tulakuba buti toonse,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kwaandanyizigwa kutamani",
-          "Bauninwa bayakulila,",
-          "Ciindi cakupengesya eco,",
-          "Anjile Mwami."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Anjile Mwami, musa,",
-          "Anjile Mwami",
-          "Tulakuba buti toonse,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "MMwami, tupe luzyalo lwako,",
-          "Kuku nyonena, nitulinda",
-          "Kuti tutakuyoowi Jesu,",
-          "Anjile Mwami."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Anjile Mwami, musa,",
-          "Anjile Mwami",
-          "Tulakuba buti toonse,",
-          "Anjile Mwami?"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Baya kwa-Jesu batola myoyo."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nzila ya-Jesu njakuliita."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Majwi a-Jesu ngabuswini."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tobantu baansi twakiitwa"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Bazibi wabaita, mubaambile boonse,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kamuza muponisigwe, luse lwakwe talweeli,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Toonse atuswiilile, tutobele Mumuni,"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Beezuma atuzumine jesu!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nituseka atutembuule jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nitulila atwiimbila jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Inywe bantu atulemeke jesu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Tubasweeki atutobele jesu"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "MBoola ku-Muvuni utamuki;",
-          "Nzila ilatondekwa a-Jwi",
-          "Akati kesu uciimvwi",
-          "uti, Amuboole!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Boola nkwabede",
-          "Komvwa ijwi;",
-          "Cita moyo woonse ukondwe,",
-          "Atumutobele Muvuni,",
-          "Boola utamuki."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Koyeeya, alimwi ulaaswe,",
-          "Vwiila majwi ulaaswe,",
-          "Ijwi lyakwe lijisi luse,",
-          "Noliti, Muboole!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Fwamba uzumine, kukondwa,",
-          "Fwamba uzumine Jesu.",
-          "Umwi inga wati,",
-          "Kondileka muya.",
-          "Njakwiita buzuba bweelede."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Fwamba uzumine koboola",
-          "Fwamba uzumine, utakakaki.",
-          "Jesu ukwiita, bangelo abalo,",
-          "Bayandika bapaila, boola."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Fwamba uzumine, waindwa.",
-          "Fwamba uzumine, wasweeka,",
-          "Fwamba uzumine kunyina kugwasya,",
-          "Uya kulilila mumudima."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Jesu Mwami Utandiindi,",
-          "Ndakukumbila",
-          "Bamwi nocili kubaita,",
-          "Utandiindi me."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Acuuno caluse cako, Undaangulule,",
-          "Ndafugama cakulila",
-          "Ndipe lusyomo."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndasyoma mulufu lwako, Ncindasikila;",
-          "Ndisilike ndityokede,",
-          "Mvune aluse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Taakwe umbi uundigwasya,",
-          "Ndakuyandisya;",
-          "Nsikwe, Mufutuli umbi,",
-          "kunze lya-Jesu"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Jesu wakwiita sunu kumunzi,",
-          "Kwiita sunu, kwiita sunu,",
-          "Nkaambonzi ulamutanda Mwami?",
-          "Kule, kule okuya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesu wakwiita kukulyookezya,",
-          "Kwiita sunu, kwiita sunu,",
-          "Koleta mukuli kulinguwe,",
-          "Boola, takakutandi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu ulainda, boola lino,",
-          "Kwiita sunu, kwiita sunu,",
-          "Koleta zibi zyako,",
-          "Boola, utamuki pe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Taakwe umbi uundigwasya,",
-          "Ndakuyandisya;",
-          "Nsikwe, Mufutuli umbi,",
-          "kunze lya-Jesu"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Kale ndakacita zibi,",
-          "Kakwiina kuyoowa;",
-          "Limwi ndakabona mweenzuma,",
-          "Iwakandinyona"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakankaminwa amusamu,",
-          "Wafwa akuciswa;",
-          "Andiyasa meso aakwe",
-          "Ndayaswa mumoyo."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nsikonzyi kuluba limwi,",
-          "Kuyasawa ameso;",
-          "Wakandiyumwida kaambo kakamubambuzya."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Koboola yebo wazingwa,",
-          "Kuluse lwa-Leza;",
-          "Uyakujana luumuno",
-          "Akusyoma ijwi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Bulowa bwakatilwa ansi",
-          "A-Jesu Muvuni;",
-          "Dumpukila mubulowa,",
-          "Samba utube bu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu ulainda, boola lino,",
-          "Kwiita sunu, kwiita sunu,",
-          "Koleta zibi zyako,",
-          "Boola, utamuki pe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Jesu ninzila mbobuumi,",
-          "Ujane luumuno;",
-          "Komusyoma sunu buya",
-          "Ulatondezegwa."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Koza, tukombe,",
-          "Yee, yee, yee",
-          "Tumukombe Leza",
-          "Yee, yee, yee."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "tozi mbocita",
-          "Yee, yee, yee",
-          "Lilomoke,",
-          "Yee, yee, yee."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ncinzi ncoima?",
-          "Yee, yee, yee,",
-          "Lite biya,",
-          "Yee, yee, yee."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tozi moyo wako,",
-          "Yee, yee, yee,",
-          "Lisungule,",
-          "Yee, yee, yee."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Kuli kasensa kazwide,",
-          "Bulowa bwa-Mwami;",
-          "Basizibi basamba mo,",
-          "Balasalazigwa"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindi mufumpi kakondwa, kabona kasensa;",
-          "Mebo sizibi mupati,",
-          "Ndakulumba loko."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "O Mwami, Mwanaa wa-Leza,",
-          "Lufu lwako, Jesu;",
-          "Lulakonzya kutuvuna",
-          "Mumilandu yoonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mebo nsyeelede kuya, ",
-          "Kujulu kuyoosya;",
-          "Pele webo walungila,",
-          "Zibi zyangu zyoonse."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Njookwiimbila lwiimbo oolu, Mazuba aangu oonse;",
-          "Kujulu njookondwa loko, Mubuumi buteeli."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mbwendibede nsikwe cintu,",
-          "Pele bulowa bwa-Jesu",
-          "Wandiita kuboola kwako."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mbwendibede, nsilindili,",
-          "Kondigwisya zinyonyoono,",
-          "Bulowa bulandisanzya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mbwendibede, ndazungaana",
-          "Kulengaula bunene,",
-          "Akulwana akuyoowa"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mbwendibede, luse lwako",
-          "lWagwisya kusinka 'nzila,",
-          "Lino ndiya kuba wako"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mpobuli busena mupobwe pati,",
-          "Mubulemu bwa-Leza mupati."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Licilipati mane liyoobbila,",
-          "Imizinzimwa icili milamfu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mobapobweda mucijulidwe,",
-          "Bando-zulila njila ulatambwa."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mulyango ngooyu ucijulidwe,",
-          "Fwambaana njila bali kulindide."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mbuli pobwe eeli lyacitilwa nduwe,",
-          "Owataliwo sena uzoonjila?"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Aba kujulu balakoobola,",
-          "Mbabo baita ati koboola."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Utamuki pe mayo, uzoolila,",
-          "Utujulile Mwami uyookaka."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Mayo, mayo kwabula busena,",
-          "Mayo, mayo kwabula busena."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Amuteelele nobazibi,",
-          "Ngaya makani akusinizya;",
-          "Makani alatuyoosya toonse, Mulacita buti?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kumbele kwako ulajana, ",
-          "Mapenzi oonse alavula;",
-          "Mulilo taumani lyoonse,",
-          "Mulacita buti?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ciindi cimwi cilikumbele,",
-          "Kuzyana kwako kulamana;",
-          "Kwiina ingoma kumulilo,",
-          "Mulacita buti?"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Kuli mulilo tokoojana,",
-          "Bukoko mamambe takukwe;",
-          "Pe, pe, pe, pe mulalila buyo,",
-          "Mulacita buti?"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Nguulya mulyango wajulwa, Mukati mulamweka;",
-          "Ciingano ca Mufutuli, Luyando lwalibonya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wajulilwa bantu boonse, Bayanda kufutuka;",
-          "Bavubide abacete, Amikowa mikowa."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kamuciya mutayoowi, Kwacili kujulilwe;",
-          "Mucitambule cingano, Mulapegwa misini."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Katala mulonga tulaKubika' nsi cingano;",
-          "Tulakutola misini, Tulange muyandisi."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Nguulya mulyango wajulwa, Mukati mulamweka;",
-          "Ciingano ca Mufutuli, Luyando lwalibonya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wajulilwa bantu boonse, Bayanda kufutuka;",
-          "Bavubide abacete, Amikowa mikowa."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kamuciya mutayoowi, Kwacili kujulilwe;",
-          "Mucitambule cingano, Mulapegwa misini."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Katala mulonga tulaKubika' nsi cingano;",
-          "Tulakutola misini, Tulange muyandisi."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwaala wangu uteeli",
-          "Ndayanda njube kwako",
-          "Maanzi oonse amalowa,",
-          "Akazwida kulinguwe,",
-          "Abe musamu wangu",
-          "Andisalazye bubi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Tiili milimo yangu",
-          "Iizoondisisya kwako,",
-          "Taali mali ngendeeta,",
-          "Tiili misozi yangu,",
-          "Ndulo luzyalo lwako,",
-          "Lundinununa zibi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Acinkwa-maanza ndeza,",
-          "Nsikuletede cintu,",
-          "Ndanamatila kwako,",
-          "Ndisalazye, ndimubi.",
-          "Ndisalazye, ndimubi,",
-          "Unyanzanye, usalale."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nindaswena kulufu,",
-          "Bumane buumi bwangu,",
-          "Nindainka kujulu,",
-          "Ciindi cakubetekwa,",
-          "Mufutuli uteeli,",
-          "Nkayube kulinduwe."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwami, ime ndakusowa,",
-          "Pesi iwe wakandifwida,",
-          "Lino sunu nduuside,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Pele ime nsyeelede",
-          "Kucitilwa nsoni zyako,",
-          "Lino Mwami ncite biyeni?",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bubi mbonjisi mbupati,",
-          "Lino bwandimanikizya,",
-          "Ndiliikulanga nkobede,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Zibi zyoonse nzindacita,",
-          "Zyabija ndazyausila;",
-          "Mwami wangu wabuswini,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mwami Jesu ndakukomba",
-          "Ulange, ndi kunsi lyako,",
-          "Ndalila milandu yangu,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndakaya kule aa-Leza,",
-          "Lino ndaboola;",
-          "Ndainda munzila zibi,",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndakasowa myaka minji,",
-          "Lino ndaboola;",
-          "Ndasanduka akulila,",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndakatala kukusiya,",
-          "Lino ndaboola;",
-          "Ndakusyoma akuzumina ",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Moyo wangu ulaciswa,",
-          "Lino ndaboola;",
-          "Ndapa nguzu akusyoma",
-          "Mwami, Ndaboola."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
           "Mwakasanzigwa kuli-Jesu sena?",
           "Mwasamba mubulowa bwakwe?",
-          "Sena mulasyoma munguzu zyakwe.",
+          "Sena mulasyoma munguzu zyakwe,",
           "Mwasamba mubulowa bwakwe?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Sibwiinga aboola, kulaba buti?",
+          "Mwalibamba kumwanzya sena?",
+          "Mwatontozya kuciingano sena?",
+          "Mwasamba mubulowa bwakwe?"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Samununa zisani zyanu zibi;",
+          "Samba mubulowa bwa-Jesu.",
+          "Nkasensa kasalazya moyo mubi,",
+          "Amusambe mubulowa bwakwe."
         ]
       }
     ]
@@ -14409,281 +13638,12 @@ export const tongaHymns = [
     ],
     "stanzers": [
       {
-        "stanzer": 2,
-        "lines": [
-          "Wakali mujulu lwakwe,'",
-          "Wakalaa-Wisi Namakungwe,",
-          "Walemekwa ciindi coonse",
-          "Embungano zyakujulu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kwalo naa wabona bantu,",
-          "Bapiluka kulinguwe,",
-          "Wabayanda cinicini,",
-          "Aluyando ulupati."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nkaambo kaluyando lwakwe",
-          "Wakaboola ansi aano,",
-          "Wakasika kupilusya",
-          "Bantu boonse basweekede."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Toteeleli nakwiita,",
-          "Ati, “Boola kulindime",
-          "Ufutulwe kukubisya",
-          "Ube mucilili wangu."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ii, Jesu ndazumina,",
-          "Ndilaboola eeno Mwami",
-          "Undiponye, undibambe,",
-          "Ndicilile nduwe lyoonse."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Swebo tunyamuke toonse, Mukubisya kwesu,",
-          "Katuya amoyo woonse,",
-          "Kuli-Leza wesu."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Iziyanza zyaansi aano,",
-          "Taziyomvwi cintu,",
-          "Tulayoowa, tulatija;",
-          "Tatusyomi cintu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Atulange akujulu,",
-          "Kuli-Leza wesu,",
-          "Nguwe wakacita julu,",
-          "Ensi eyi yoonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tuyoolongezegwa swebo,",
-          "Akusika kwesu,",
-          "Toonse tube akulumba,",
-          "Mumyoyo yesu."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Swiililisya loko-loko makani aa-jesu,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakazyalwa ansi aano, leza wazumina"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Waselela kulika bafwide mumoyo,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "aswebo toonse atweempwe zibi zyesu zyoonse,"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Tulaa lweendo lwa-kujulu,",
-          "Mulaya? Mulaya?",
-          "Kwiimba luyando lwa-Jesu",
-          "Mulaya? Mulaya?",
-          "Banji bakaenda kooko,",
-          "Kupenga kwabo kwamana;",
-          "Mpoicili mvuta mpati",
-          "Mulaya? Mulaya?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nzila yanu yaboneka,",
-          "Mulaya? Mulaya?",
-          "Muleelede kusanduka,",
-          "Mulaya? Mulaya?",
-          "Mufutuli ulamwiita,",
-          "Amuyumune ciingano canu,",
-          "Muncilile, mufutulwe.",
-          "Mulaya? Mulaya?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kuti ndamvwa umwi wati,",
-          "Ndilaya, ndilaya,",
-          "Ndatalika ntubye nzila,",
-          "Ayende, ayende.",
-          "Nindamwaambila asiye",
-          "Beenzinyina bamunyika",
-          "Kuti akkale a-Jesu,",
-          "Ayende, ayende."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Tuli beenzu ansi aano",
-          "Tuli boofu, twafubaala,",
-          "Lino sunu twakumbila",
-          "Jesu atusindikila."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Bamataata ibaciindi",
-          "Bakabula Mufutuli,",
-          "Teebakalina swiilila,",
-          "Kuti Jesu waabafwida."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bakacili mumudima,",
-          "Bakalijisi mafwabi,",
-          "Nebakaya kukupiila",
-          "Ninzi ncebakalanguula?"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Baaya bulanguula nguzu",
-          "Teebakazijana, pe pe.",
-          "Mizimu yakazibula",
-          "Lino bantu basanduka."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Balakomba Leza Mwami",
-          "Nguwe uutuyanda toonse,",
-          "Buumi bwesu buzwa kwakwe",
-          "Atubambe mbeta zyakwe."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ulainda akufwamba",
-          "Ino nkuli nkotiye?",
-          "Ulinzi nzila eeyi",
-          "Njoceenda anjiyo?",
-          "Ulainda, Ulainda,",
-          "Uya ko kujulu na?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ulainda akufwamba,",
-          "Taliimi zuba pe,",
-          "Lyapasula lilabbila",
-          "Yebo tokabbila na?",
-          "Ulainda, Ulainda",
-          "Tokakkali aano pe."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ulainda akufwamba,",
-          "Uuya kuli ino?",
-          "Ko kujulu tokanjili",
-          "Otanasanduka, pe;",
-          "Ulainda, Ulainda,",
-          "Ulaboola lili ino?"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ulainda akufwamba,",
-          "Kulaafwiifwi kufwa, Ma!",
-          "Kwiina ukutakwe cuumbwe",
-          "Uyoovunwa yebo na?",
-          "Ulainda, Ulainda,",
-          "Takusali kufwa, pe."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwami, Jesu abulowa bwako,",
-          "Undisanzye, Undisanzye;",
-          "Njanda kusanzigwa kuzibyaabi,",
-          "Undisanzye, Undisanzye;",
-          "Nakuba ndijisi zinyonyoono,",
-          "Nakuba ndakakomwa amasunko,",
-          "Ndilasyoma majwi aako kuti Ulasanzya, ulasanzya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kuzwa mumiyeeyo indikopa,",
-          "Undisanzye, Undisanzye;",
-          "Kuzwa mukuyoowa kukatazya,",
-          "Undisanzye, Undisanzye;",
-          "Nakuba inga tanditeeleli,",
-          "Alusyomo ndatambika maanza, kuti webo undiimikizye",
-          "Undisanzye, Undisanzye."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mukuyoowa ncobaamba bamwi",
-          "Undisanzye, Undisanzye;",
-          "Nditayoowi kukukambauka,",
-          "Undisanzye, Undisanzye;",
-          "Mwami munguzu zyako undiyumye;",
-          "Boonse bazibe kuti ndiwako;",
-          "Kuti ndasunkwa ndipe ndizunde,",
-          "Ndisanzidwe, ndisanzidwe."
-        ]
-      },
-      {
         "stanzer": 1,
         "lines": [
           "Umfwile ntenda Jesu Mwami,",
           "Njomvwa ntakafwiilili,",
           "Ndeza kwako nkafutuke,",
-          "Ndeza mbwimbele"
+          "Ndeza mbwimbele."
         ]
       },
       {
@@ -14699,8 +13659,17 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ime nsikonzya kuliponya,",
-          "Ndyangilwe, zibi zyangu,'",
+          "Ndyangilwe, zibi zyangu,",
           "Ndafutulwa luse lwako,",
+          "Ndeza mbwimbele."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Milimo yako Mwami Jesu,",
+          "Ilondolwe mulindime,",
+          "Ndaliboonzya kulinduwe,",
           "Ndeza mbwimbele."
         ]
       }
@@ -15536,64 +14505,46 @@ export const tongaHymns = [
     "title": "Ponena Jesu",
     "creator": "Unknown",
     "chorus": [
-      "Ndigwasya kukumanina,"
+      "Ndigwasya kukumanina,",
+      "Kondigwasya kukulumba;",
+      "Mpone ayebo lyoonse,",
+      "Nsikwe kuya kukusiya."
     ],
     "stanzers": [
       {
-        "stanzer": 6,
-        "lines": [
-          "Nkenaba mbuli Jesu,"
-        ]
-      },
-      {
         "stanzer": 1,
         "lines": [
-          "INga ndilasanzigwanzi? Pele bulowa bwa-Jesu;",
-          "INga ndasalala buti? Pele bulowa bwa-Jesu."
+          "Ponena Jesu muluumuno,",
+          "Luse lwakwe lutamani;",
+          "Kuti nkasunkwe nsiyoowi,",
+          "Ponena Jesu ulaafwi."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Cigwisya kodoneeka, mbulowa bwa-jesu buyo;"
+          "Ponena Jesu muluumuno,",
+          "Kukomba Mwami ndalelekwa;",
+          "Ndayanda buyo kucita,",
+          "Luyando lwakwe lyoonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          ". Kunyina cinununa, Pele bulowa bwa Jesu",
-          "Tiinsi kululama kwangu, Pele bulowa bwa Jesu"
+          "Ponena Jesu muluumuno,",
+          "Mikuli yangu yabwezwa,",
+          "Kumusyoma walo Mwami,",
+          "Uyoondisololela."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ooku kusyoma kwangu, Pele bulowa bwa-Jesu,",
-          "Ooku kuloma kwangu, Pele bulowa bwa Jesu."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ponena Jesu muluumuno,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ponena Jesu muluumuno,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "ponena jesu muluumuno,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ponena Jesu muluumuno,"
+          "Ponena Jesu muluumuno,",
+          "Kukomba Mwami ndalelekwa;",
+          "Ndayanda buyo kucita,",
+          "Luyando lwakwe lyoonse."
         ]
       }
     ]
@@ -15898,15 +14849,59 @@ export const tongaHymns = [
     "chorus": null,
     "stanzers": [
       {
-        "stanzer": 3,
+        "stanzer": 1,
         "lines": [
-          "Uulanga ziimo zyesu,"
+          "Mbweyanda Jesu (x3)",
+          "Walo wandiyanda."
         ]
       },
       {
-        "stanzer": 1,
+        "stanzer": 2,
         "lines": [
-          "Mbweyanda Jesu  (x3)"
+          "Wazyalwa ansi (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wanyika mumaanzi (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Waponya balwazi (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Waenda muminzi (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Wandipengela (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 7,
+        "lines": [
+          "Wafwa acisamu (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 8,
+        "lines": [
+          "Wabuka alimwi (x3)",
+          "Walo wandiyanda."
         ]
       }
     ]

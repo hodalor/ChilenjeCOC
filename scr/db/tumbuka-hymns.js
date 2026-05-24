@@ -1928,17 +1928,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 37,
-    "title": "NDIMWE WA CHIUTA TIMWIMBIRE",
-    "creator": "Unknown",
-    "chorus": [
-      "Tiye timchindike,",
-      "Ndi Mwana-mberere.",
-      "Chiuta, jurani mitima,",
-      "Timwimbire!"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 37,
+      "title": "NDIMWE WA CHIUTA TIMWIMBIRE",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Tiye timchindike,",
+            "Ndi Mwana-mberere.",
+            "Chiuta, jurani mitima,",
+            "Timwimbire!"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 38,
@@ -4918,16 +4923,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 86,
-    "title": "YESU",
-    "creator": "Unknown",
-    "chorus": [
-      "Mvwiri wane,",
-      "mundovwire.",
-      "Zani, A Fumu, zani!"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 86,
+      "title": "YESU",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Mvwiri wane,",
+            "mundovwire.",
+            "Zani, A Fumu, zani!"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 87,
@@ -9403,29 +9413,39 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 168,
-    "title": "TIKUMBUKE IMWE YESU",
-    "creator": "Unknown",
-    "chorus": [
-      "Vitikhozge ise tose,",
-      "tipulikanenge namwe",
-      "Tikulira, m'tipulike"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 168,
+      "title": "TIKUMBUKE IMWE YESU",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Vitikhozge ise tose,",
+            "tipulikanenge namwe",
+            "Tikulira, m'tipulike"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 169,
     "title": "ZANINGE MOSE TILIRE",
     "creator": "Unknown",
-    "chorus": [
-      "Fumu mubenge na ise,",
-      "pa kukumbuka nyifwa",
-      "yinu.",
-      "Pa Kalvare, pa Kalvare,",
-      "pa Kalvare"
-    ],
-    "stanzers": []
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Fumu mubenge na ise,",
+          "pa kukumbuka nyifwa",
+          "yinu.",
+          "Pa Kalvare, pa Kalvare,",
+          "pa Kalvare"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 170,
@@ -10891,18 +10911,23 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 191,
-    "title": "YESU WALIKWIZA",
-    "creator": "Unknown",
-    "chorus": [
-      "Zaninge imwe mose;",
-      "mujipulikire",
-      "Mupokerere wumi;",
-      "mujipulikire.",
-      "Haleluya! Ujipulikire"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 191,
+      "title": "YESU WALIKWIZA",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Zaninge imwe mose;",
+            "mujipulikire",
+            "Mupokerere wumi;",
+            "mujipulikire.",
+            "Haleluya! Ujipulikire"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 192,
@@ -11632,16 +11657,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 204,
-    "title": "PULIKANI MWA ŴAYANE",
-    "creator": "Unknown",
-    "chorus": [
-      "nkuruta mwe nkuruta mwe nka mwone mtaski",
-      "wane.",
-      "Yesu wakutichena."
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 204,
+      "title": "PULIKANI MWA ŴAYANE",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "nkuruta mwe nkuruta mwe nka mwone mtaski",
+            "wane.",
+            "Yesu wakutichena."
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 205,
@@ -12538,17 +12568,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 219,
-    "title": "ISRAEL WERERA",
-    "creator": "Unknown",
-    "chorus": [
-      "Zaninge Zaninge,",
-      "Werera kwa Yehova,",
-      "Mkuru Mlengi wako",
-      "Werera ka Yehova"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 219,
+      "title": "ISRAEL WERERA",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Zaninge Zaninge,",
+            "Werera kwa Yehova,",
+            "Mkuru Mlengi wako",
+            "Werera ka Yehova"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 220,
@@ -13858,16 +13893,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 243,
-    "title": "CHIUTA, MUKUMANYA",
-    "creator": "Unknown",
-    "chorus": [
-      "Chiuta mundovwire",
-      "ndiŵenge mwana winu",
-      "Pulikani, nkumubeyani."
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 243,
+      "title": "CHIUTA, MUKUMANYA",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Chiuta mundovwire",
+            "ndiŵenge mwana winu",
+            "Pulikani, nkumubeyani."
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 244,
@@ -14105,17 +14145,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 248,
-    "title": "NKHAMUPENJA YESU",
-    "creator": "Unknown",
-    "chorus": [
-      "Mponoski msuke, ndiŵe",
-      "mutuŵa.",
-      "Mponoski wane, Yesu",
-      "wapulika."
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 248,
+      "title": "NKHAMUPENJA YESU",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Mponoski msuke, ndiŵe",
+            "mutuŵa.",
+            "Mponoski wane, Yesu",
+            "wapulika."
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 249,
@@ -18742,15 +18787,20 @@ export const tumbukaHymns = [
       }
     ]
   },
-  {
-    "hymnNo": 346,
-    "title": "TIMWIMBIRE CHIUTA SUMU",
-    "creator": "Unknown",
-    "chorus": [
-      "Uchindami kwa Dada,mafuko ghose ghimbe",
-      "chorus.Lusungu lwake ndwa ndanda,Ndwa magomezgeko swi"
-    ],
-    "stanzers": []
+    {
+      "hymnNo": 346,
+      "title": "TIMWIMBIRE CHIUTA SUMU",
+      "creator": "Unknown",
+      "chorus": null,
+      "stanzers": [
+        {
+          "stanzer": 1,
+          "lines": [
+            "Uchindami kwa Dada,mafuko ghose ghimbe",
+            "chorus.Lusungu lwake ndwa ndanda,Ndwa magomezgeko swi"
+          ]
+        }
+      ]
   },
   {
     "hymnNo": 347,

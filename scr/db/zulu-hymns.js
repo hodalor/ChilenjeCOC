@@ -55,9 +55,9 @@ export const zuluHymns = [
     "creator": "Unknown",
     "chorus": [
       "Kodlula izulu nomhlaba",
-      "Zoncibilik’ izintaba",
-      "Keph’ akayikwesaba",
-      "Omethembay’ uJesu"
+      "ZoncibilikΓÇÖ izintaba",
+      "KephΓÇÖ akayikwesaba",
+      "OmethembayΓÇÖ uJesu"
     ],
     "stanzers": [
       {
@@ -182,7 +182,7 @@ export const zuluHymns = [
       {
         "stanzer": 9,
         "lines": [
-          "Alleluia…",
+          "AlleluiaΓÇª",
           "He was born to die on Calvary",
           "To redeem a lost humanity!"
         ]
@@ -190,7 +190,7 @@ export const zuluHymns = [
       {
         "stanzer": 10,
         "lines": [
-          "Alleluia…",
+          "AlleluiaΓÇª",
           "Conquering death, he rose",
           "triumphantly!",
           "Now he reigns for all eternity!"
@@ -222,9 +222,9 @@ export const zuluHymns = [
           "My God and I walk in the field together,",
           "We walk and talk as good friends should and do;",
           "We clasp our hands, our voices ring with laughter",
-          "My God and I walk thro the meadow’s hue;",
+          "My God and I walk thro the meadowΓÇÖs hue;",
           "We clasp our hands, our voices ring with laughter",
-          "My God and I walk thro the meadow’s hue."
+          "My God and I walk thro the meadowΓÇÖs hue."
         ]
       },
       {
@@ -233,16 +233,16 @@ export const zuluHymns = [
           "He tells me of the years that went before me",
           "When heavenly plans were made for me to be",
           "When all was but a dream of dim conception",
-          "To come to life, earth’s verdant glory see",
+          "To come to life, earthΓÇÖs verdant glory see",
           "When all was but a dream of dim conception",
-          "To come to life, earth’s verdant glory see"
+          "To come to life, earthΓÇÖs verdant glory see"
         ]
       },
       {
         "stanzer": 15,
         "lines": [
           "My God and I will go for aye together",
-          "We’ll walk and talk as good friends should and do",
+          "WeΓÇÖll walk and talk as good friends should and do",
           "This earth will pass and with it common trifles",
           "But God and I will go unendingly",
           "This earth will pass and with it common trifles",
@@ -253,81 +253,59 @@ export const zuluHymns = [
   },
   {
     "hymnNo": 6,
-    "title": "-02-11",
+    "title": "Bala Izibusiso Zakho",
     "creator": "Unknown",
     "chorus": [
-      "Bong’ iNkosi ngazo, ungasoli, qha!"
+      "Bal' izibusiso zakho-ke,",
+      "Uzibale-ke ngazinye, he!",
+      "Bala phela, aziningi na?",
+      "Bong' iNkosi ngazo, ungasoli, qha!"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Woza kuJesu, uMfeli wakho,",
-          "Wothethelelwa izono zakho",
-          "Yizwa  umemo lweNkosi yakho"
+          "Mhla ukhathazeka emhlabeni la,",
+          "Udiniwe, aphelil' amandla nya,",
+          "Bal' izibusiso, aziningi na?",
+          "Bong' iNkosi ngazo, ungasoli, qha!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Buyela kuye, owakufela",
-          "Woza kuyena manje."
+          "Uthwesiw' umthwalo osindayo na?",
+          "Siyasind' isiphambano sakho la?",
+          "Bal' izibusiso zakho, qina ngo;",
+          "Khona wobalul' umthwalo wakho, bo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Yiyo iNkosi isakubiza",
-          "Iyaxanela ukukusiza",
-          "Uma ufika yokuphilisa",
-          "Ngakho-ke woza manje."
+          "Nxa ubon' abanye benemfuyo he,",
+          "Bhek' imfuyo yakho ephezulu le.",
+          "Bal' izibusiso, yeka, zihle hle!",
+          "Ifa ligcinelwe wen' ekhaya-ke."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Uma unqaba ukulalela",
-          "Uyakubhubha kabi impela;",
-          "Uyakushona ngaleyondlela",
-          "Eya esihogweni."
+          "Impi isashisa, qina uthi ngo,",
+          "Ungesabi, nang' uJes' unawe, bo!",
+          "Naz' izingelosi zokuphatha-ke,",
+          "Zokuyisa kahl' ekhaya lakho le."
         ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Uthando lukaBaba",
-          "Lunjengolwandle bo,",
-          "Lubanzi lujulile,",
-          "Luyaze yinipho?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Lwafinyelela kimi",
-          "Ngisezonweni zam’.",
-          "Alwazalwangidlula, ",
-          "Lwangisindisa nam’."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "O, Baba, ngiyabonga",
-          "Nangenhliziyo yam’,",
-          "Sengiyavuma ngithi,",
-          "UnguMsindisi wam’."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ngizokwethemba njalo",
-          "Ngisesemhlabeni,",
-          "Ngizokukhonza futhi",
-          "Ngothando enhli’weni."
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "hymnNo": 17,
+    "title": "IGAMA LIKAJESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
       {
         "stanzer": 1,
         "lines": [
@@ -349,6 +327,8 @@ export const zuluHymns = [
       {
         "stanzer": 3,
         "lines": [
+          "Awu, limnandi, lingcwele,",
+          "Enhliz'weni lingcwele;",
           "Ngizolibonga, Nkosi yam',",
           "Elakho igama."
         ]
@@ -365,89 +345,19 @@ export const zuluHymns = [
       {
         "stanzer": 5,
         "lines": [
+          "Wazithobisa wena,",
+          "Weza wabayiMvana;",
+          "Ngizolibonga, Nkosi yam',",
           "Elakho igama."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
+          "Wazithwala izono,",
+          "Woza, we-bani, shono;",
+          "Ngizolibonga, Nkosi yam',",
           "Elakho igama."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Nkosi, Ngiyabheka Kuwe",
-          "Ngikunig’ impilo yam’,",
-          "Mangiphathwe njalo nguwe,",
-          "Uyikhomb’ indlela yam’",
-          "Makuphele konk’ okwami",
-          "Ngikufune wena nje,",
-          "Hlala enhliz’weni yami",
-          "Ngize ngikubone le."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ukumfuz’ uJesu, he."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Yebo, ngokubonga, ha."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Sibambane Ngezandla (x2)"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ngezandla (x2)"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Sibutane imphilo (x2)"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Imphilo, Sibatane Imphilo (x2)"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Bong’ iNkosi ngazo, ungasoli, qha!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Khona wobalul’ umthwalo wakho, bo"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nxa ubon’ abanye benemfuyo he",
-          "Bhek’ imfuyo, yakho ephezulu le.",
-          "Bal’ izibusiso, yeka, zihle hle!",
-          "Ifa ligcinelwe wen’ ekhaya-ke."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Zokuyisa kahl’ ekhaya lakho le"
         ]
       }
     ]
@@ -497,34 +407,81 @@ export const zuluHymns = [
     ]
   },
   {
-    "hymnNo": 37,
-    "title": ".  Igama LikaJesu",
+    "hymnNo": 35,
+    "title": "Ensukwini Zok'phila Kwami",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
-        "stanzer": 4,
-        "lines": [
-          "Mhla ngiyakumuka, ngishiye lomhlaba,",
-          "Igama leNkhosi lithikithi lami;",
-          "Khona ngiyohamba, ngingenakwesaba;",
-          "Ngocasha kuJesu, enguMhlengi wami."
-        ]
-      },
-      {
         "stanzer": 1,
         "lines": [
-          "Ngazo zonk' izinsuku,",
-          "Yebo, zonk' izinsuku;",
-          "Ngizolibonga, Nkosi yam',",
-          "Elakho igama."
+          "Ensukwini zok'phila kwami",
+          "Baba ngizokubonga",
+          "uJes' uyaphilisa",
+          "Aphind' athethelele",
+          "Ngizokubonga Jesu wami",
+          "Baba ngizokubonga",
+          "Ensukwini zokuphila kwami"
         ]
       }
     ]
   },
   {
-    "hymnNo": 54,
+    "hymnNo": 36,
     "title": "Esiphambanweni",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Entaben' ekude kwem' isiphambano.",
+          "Esinobuhlungu nehlazo;",
+          "Ngisithanda sona, ngob' uJesu wami",
+          "Wabethelwa kuso ngenxa yam'."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ngakho ngisibabaza sona,",
+          "Ngize ngibeke phans' umthwalo,",
+          "Ngizobambelela kusona",
+          "Ngize ngizuze umqhele wam'."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Leso siphambano esadelwa yizwe",
+          "Siyangimangalisa njalo.",
+          "Ngoba ngenxa yaso uJesu weza lapha",
+          "Asithwalele eGolgotha."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Esiphambanweni loph' igazi lakhe",
+          "Elimangalisayo kimi.",
+          "Ngoba ngenxa yami uJesu wafa khona",
+          "Andithethelel' angihlanze."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Esiphambanweni ngiyakuqinisa,",
+          "Ngithwal' ihlazo ngenjabulo",
+          "Wongibiza mina khona ekhaya lam',",
+          "Angiqhelise ngomqhele wam'."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 37,
+    "title": "Haleluya",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -534,26 +491,22 @@ export const zuluHymns = [
           "Haleluya haleluya",
           "Anikamboni ofananaye"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "hymnNo": 54,
+    "title": "Ngimthanda onk' emalanga",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ensukwini zok’phila kwami",
-          "Baba ngizokubonga",
-          "uJes’ Uyaphilisa",
-          "Aphind’ athethelele",
-          "Ngizokubonga Jesu wami",
-          "Baba Ngizokubonga",
-          "Ensukwini zokuphila kwami"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Entaben’ ekude kwem’ isphambano.",
-          "Esinobuhlungu nehlazo;",
-          "Ngisithanda sona, ngob’ uJesu wami",
-          "Wabathelwa kuso ngenxa yam’"
+          "Ngimthanda onk' emalanga",
+          "Onk' amalang' uJesu",
+          "Eduze naye ngiyihlala",
+          "Ngimthanda onk' emalanga"
         ]
       }
     ]
@@ -716,34 +669,47 @@ export const zuluHymns = [
     "hymnNo": 259,
     "title": "Esiphambanweni",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ngakho ngisibabaza sona,",
+      "Ngize ngibeke phans' umthwalo,",
+      "Ngizobambelela kusona,",
+      "Ngize ngizuze umqhele wam'."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Haleluya haleluya",
-          "Anikamboni ofananaye"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ensukwini zok’phila kwami",
-          "Baba ngizokubonga",
-          "uJes’ Uyaphilisa",
-          "Aphind’ athethelele",
-          "Ngizokubonga Jesu wami",
-          "Baba Ngizokubonga",
-          "Ensukwini zokuphila kwami"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Entaben’ ekude kwem’ isphambano.",
+          "Entaben' ekude kwem' isiphambano,",
           "Esinobuhlungu nehlazo;",
-          "Ngisithanda sona, ngob’ uJesu wami",
-          "Wabathelwa kuso ngenxa yam’"
+          "Ngisithanda sona, ngob' uJesu wami",
+          "Wabethelwa kuso ngenxa yam'."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Leso siphambano esadelwa yizwe,",
+          "Singimangalisa njalo,",
+          "Ngoba ngenxa yaso uJesu weza lapha",
+          "Asithwalele eGolgotha."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Esiphambanweni loph' igazi lakhe,",
+          "Elimangalisayo kimi,",
+          "Ngoba ngenxa yami uJesu wafa khona,",
+          "Angithethelel' angihlanze."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Esiphambanweni ngiyakuqinisa,",
+          "Ngithwal' ihlazo ngenjabulo;",
+          "Wongibiza mina khona ekhaya lam',",
+          "Angiqhelise ngomqhele wam'."
         ]
       }
     ]
@@ -770,7 +736,7 @@ export const zuluHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "I’ll be a friend to Jesus"
+          "IΓÇÖll be a friend to Jesus"
         ]
       },
       {
@@ -785,9 +751,9 @@ export const zuluHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "I’ll be a friend to Jesus",
-          "My life for Him I’ll spend",
-          "I’ll be a friend to Jesus",
+          "IΓÇÖll be a friend to Jesus",
+          "My life for Him IΓÇÖll spend",
+          "IΓÇÖll be a friend to Jesus",
           "Until my years shall end"
         ]
       },
@@ -795,35 +761,35 @@ export const zuluHymns = [
         "stanzer": 5,
         "lines": [
           "The world may turn against Him",
-          "I’ll love him to the end",
-          "And while on earth I’m living",
+          "IΓÇÖll love him to the end",
+          "And while on earth IΓÇÖm living",
           "My Lord shall have a friend"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "I’ll be a friend to Jesus",
-          "My life for Him I’ll spend",
-          "I’ll be a friend to Jesus",
+          "IΓÇÖll be a friend to Jesus",
+          "My life for Him IΓÇÖll spend",
+          "IΓÇÖll be a friend to Jesus",
           "Until my years shall end"
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "I’ll do what he may bid me",
-          "I’ll go where he may send",
-          "I’ll try each flying moment",
-          "To prove that I’m His friend"
+          "IΓÇÖll do what he may bid me",
+          "IΓÇÖll go where he may send",
+          "IΓÇÖll try each flying moment",
+          "To prove that IΓÇÖm His friend"
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "I’ll be a friend to Jesus",
-          "My life for Him I’ll spend",
-          "I’ll be a friend to Jesus",
+          "IΓÇÖll be a friend to Jesus",
+          "My life for Him IΓÇÖll spend",
+          "IΓÇÖll be a friend to Jesus",
           "Until my years shall end"
         ]
       },
@@ -839,27 +805,27 @@ export const zuluHymns = [
       {
         "stanzer": 10,
         "lines": [
-          "I’ll be a friend to Jesus",
-          "My life for Him I’ll spend",
-          "I’ll be a friend to Jesus",
+          "IΓÇÖll be a friend to Jesus",
+          "My life for Him IΓÇÖll spend",
+          "IΓÇÖll be a friend to Jesus",
           "Until my years shall end"
         ]
       },
       {
         "stanzer": 11,
         "lines": [
-          "Said I Wasn’t   CCLI# 548901",
-          "Said I wasn’t gonna tell anybody",
-          "But I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself"
+          "Said I WasnΓÇÖt   CCLI# 548901",
+          "Said I wasnΓÇÖt gonna tell anybody",
+          "But I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself"
         ]
       },
       {
         "stanzer": 12,
         "lines": [
-          "Said I wasn’t gonna tell anybody",
-          "But I couldn’t keep it to myself",
+          "Said I wasnΓÇÖt gonna tell anybody",
+          "But I couldnΓÇÖt keep it to myself",
           "What the Lord has done for me"
         ]
       },
@@ -876,28 +842,28 @@ export const zuluHymns = [
       {
         "stanzer": 14,
         "lines": [
-          "I’ll keep walkin’",
-          "I’ll keep talkin",
-          "I’ll keep singin’",
-          "I’ll keep shoutin’",
+          "IΓÇÖll keep walkinΓÇÖ",
+          "IΓÇÖll keep talkin",
+          "IΓÇÖll keep singinΓÇÖ",
+          "IΓÇÖll keep shoutinΓÇÖ",
           "What the Lord has done for me"
         ]
       },
       {
         "stanzer": 15,
         "lines": [
-          "Said I wasn’t gonna",
+          "Said I wasnΓÇÖt gonna",
           "pray about it",
-          "But I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself"
+          "But I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself"
         ]
       },
       {
         "stanzer": 16,
         "lines": [
-          "Said I wasn’t gonna pray about it",
-          "But I couldn’t keep it to myself",
+          "Said I wasnΓÇÖt gonna pray about it",
+          "But I couldnΓÇÖt keep it to myself",
           "What the Lord has done for me"
         ]
       },
@@ -914,27 +880,27 @@ export const zuluHymns = [
       {
         "stanzer": 18,
         "lines": [
-          "I’ll keep walkin’",
-          "I’ll keep talkin",
-          "I’ll keep singin’",
-          "I’ll keep shoutin’",
+          "IΓÇÖll keep walkinΓÇÖ",
+          "IΓÇÖll keep talkin",
+          "IΓÇÖll keep singinΓÇÖ",
+          "IΓÇÖll keep shoutinΓÇÖ",
           "What the Lord has done for me"
         ]
       },
       {
         "stanzer": 19,
         "lines": [
-          "Said I wasn’t gonna sing about it",
-          "But I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself"
+          "Said I wasnΓÇÖt gonna sing about it",
+          "But I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself"
         ]
       },
       {
         "stanzer": 20,
         "lines": [
-          "Said I wasn’t gonna sing about it",
-          "But I couldn’t keep it to myself",
+          "Said I wasnΓÇÖt gonna sing about it",
+          "But I couldnΓÇÖt keep it to myself",
           "What the Lord has done for me"
         ]
       },
@@ -951,27 +917,27 @@ export const zuluHymns = [
       {
         "stanzer": 22,
         "lines": [
-          "I’ll keep walkin’",
-          "I’ll keep talkin",
-          "I’ll keep singin’",
-          "I’ll keep shoutin’",
+          "IΓÇÖll keep walkinΓÇÖ",
+          "IΓÇÖll keep talkin",
+          "IΓÇÖll keep singinΓÇÖ",
+          "IΓÇÖll keep shoutinΓÇÖ",
           "What the Lord has done for me"
         ]
       },
       {
         "stanzer": 23,
         "lines": [
-          "Said I wasn’t gonna shout about it",
-          "But I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself",
-          "No I couldn’t keep it to myself"
+          "Said I wasnΓÇÖt gonna shout about it",
+          "But I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself",
+          "No I couldnΓÇÖt keep it to myself"
         ]
       },
       {
         "stanzer": 24,
         "lines": [
-          "Said I wasn’t gonna shout about it",
-          "But I couldn’t keep it to myself",
+          "Said I wasnΓÇÖt gonna shout about it",
+          "But I couldnΓÇÖt keep it to myself",
           "What the Lord has done for me"
         ]
       },
@@ -988,26 +954,26 @@ export const zuluHymns = [
       {
         "stanzer": 26,
         "lines": [
-          "I’ll keep walkin’",
-          "I’ll keep talkin",
-          "I’ll keep singin’",
-          "I’ll keep shoutin’",
+          "IΓÇÖll keep walkinΓÇÖ",
+          "IΓÇÖll keep talkin",
+          "IΓÇÖll keep singinΓÇÖ",
+          "IΓÇÖll keep shoutinΓÇÖ",
           "What the Lord has done for me"
         ]
       },
       {
         "stanzer": 27,
         "lines": [
-          "Ensukwini Zok’phila Kwami"
+          "Ensukwini ZokΓÇÖphila Kwami"
         ]
       },
       {
         "stanzer": 28,
         "lines": [
-          "Ensukwini zok’phila kwami",
+          "Ensukwini zokΓÇÖphila kwami",
           "Baba ngizokubonga",
-          "uJes’ Uyaphilisa",
-          "Aphind’ athethelele",
+          "uJesΓÇÖ Uyaphilisa",
+          "AphindΓÇÖ athethelele",
           "Ngizokubonga Jesu wami",
           "Baba Ngizokubonga",
           "Ensukwini zokuphila kwami"
@@ -1017,7 +983,7 @@ export const zuluHymns = [
         "stanzer": 29,
         "lines": [
           "All the days of my life",
-          "O, yes I’ll thank you Lord",
+          "O, yes IΓÇÖll thank you Lord",
           "All the days of my life",
           "Haleluyah"
         ]

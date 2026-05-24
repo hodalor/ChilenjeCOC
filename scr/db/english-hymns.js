@@ -528,197 +528,18 @@ export const englishHymns = [
     "hymnNo": 8,
     "title": ". Let Every Heart Rejoice and Sing",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "For He is good, the Lord is good,",
+      "And kind are all His ways;",
+      "With songs and honors sounding loud,",
+      "The Lord Jehovah praise;",
+      "While the rocks and the rills,",
+      "While the vales and the hills",
+      "A glorious anthem raise;",
+      "Let each prolong the grateful song,",
+      "And the God of our fathers praise."
+    ],
     "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "To God be the glory,",
-          "great things He hath done;",
-          "So loved He the world that He gave us His Son,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Who yielded His life an atonement for sin,",
-          "And opened the lifegate that all may go in."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Praise the Lord,",
-          "praise the Lord,",
-          "Let the earth hear His voice!",
-          "Praise the Lord",
-          "(Praise the Lord)",
-          "Let the people rejoice!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "O come to the Father,",
-          "thru Jesus the Son,",
-          "And give Him the glory,",
-          "great things He hath done."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "O perfect redemption",
-          "The purchase of blood",
-          "To every believer the promise of God"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "The vilest offenders who truly believe Will surely from Jesus a pardon receive"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Praise the Lord,",
-          "praise the Lord,",
-          "Let the earth hear His voice!",
-          "Praise the Lord",
-          "(Praise the Lord)",
-          "Let the people rejoice!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "O come to the Father,",
-          "thru Jesus the Son,",
-          "And give Him the glory,",
-          "great things He hath done."
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Great things He hath taught us,",
-          "great things He hath done,",
-          "And great our rejoicing thru Jesus the Son;"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "But purer, and higher,",
-          "and greater will be",
-          "Our wonder, our transport when Jesus we see."
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Praise the Lord,",
-          "praise the Lord,",
-          "Let the earth hear His voice!",
-          "Praise the Lord",
-          "(Praise the Lord)",
-          "Let the people rejoice!"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "O come to the Father,",
-          "thru Jesus the Son,",
-          "And give Him the glory,",
-          "great things He hath done."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Give thanks to the lord, call on his name; Tell of all his wonderful acts",
-          "Let the hearts of those who seek the lord rejoice",
-          "Look to the lord and his strength; seek his face always",
-          "Remember the wonders he has done"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "All creatures of our God and King,",
-          "Lift up your voice and with us sing,",
-          "Alleluia! Alleluia!",
-          "Thou burning sun with golden beam,",
-          "Thou silver moon with softer gleam!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Thou rushing wind that art so strong,",
-          "ye clouds that sail in heaven along,",
-          "alleluia, alleluia!",
-          "Thou rising morn in praise rejoice,",
-          "ye lights of evening, find a voice,",
-          "O sing ye, O sing ye, alleluia, alleluia, alleluia"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "And all ye men of tender heart, forgiving others, take your part,",
-          "Alleluia , alleluia!",
-          "Ye who long pain and sorrow bear, praisethe son, and praise the spirit, three in one,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Let all things their Creator bless,",
-          "And worship Him in humbleness,",
-          "O praise Him! Alleluia!",
-          "Praise, praise the Father, praise the Son,",
-          "And praise the Spirit, Three in One!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Immortal, invisible, God only wise,",
-          "in light inaccessible hid from our eyes,",
-          "most blessed, most glorious, the Ancient of Days,",
-          "almighty, victorious, thy great name we praise."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Unresting, unhasting, and silent as light,",
-          "nor wanting, nor wasting, thou rul-est in might;",
-          "thy justice like mountains high soaring above",
-          "thy clouds, which are fountains of goodness and love."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "To all life thou giv-est, to both great and small;",
-          "in all life thou liv-est, the true life of all;",
-          "we blossom and flourish as leaves on the tree,",
-          "and wither and perish but naught chang-eth thee."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Great Father of glory, pure Father of light,",
-          "thine angels adore thee, all veiling their sight;",
-          "all praise we would render, O help us to see",
-          "'tis only the splendor of light hid-eth thee."
-        ]
-      },
       {
         "stanzer": 1,
         "lines": [
@@ -731,59 +552,10 @@ export const englishHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "For He is good, the Lord is good,",
-          "And kind are all His ways;",
-          "With songs and honors sounding loud,",
-          "The Lord Jehovah praise;"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "While the rocks and the rills,",
-          "While the vales and the hills",
-          "A glorious anthem raise;"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Let each prolong the grateful song,",
-          "And the God of our fathers praise,",
-          "And the God for our fathers praise."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "AHe bids the sun to rise and set;",
-          "In heav’n His pow’r is known;   And earth, subdued to Him, shall yet",
+          "He bids the sun to rise and set;",
+          "In heav'n His pow'r is known;",
+          "And earth, subdued to Him, shall yet",
           "Bow low before His throne;"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "For He is good, the Lord is good,",
-          "And kind are all His ways;",
-          "With songs and honors sounding loud,",
-          "The Lord Jehovah praise;"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "While the rocks and the rills,",
-          "While the vales and the hills",
-          "A glorious anthem raise;"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Let each prolong the grateful song,",
-          "And the God of our fathers praise,",
-          "And the God for our fathers praise."
         ]
       }
     ]
@@ -1259,265 +1031,6 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Come Thou Almighty King!",
-          "Help us Thy name to sing,",
-          "Help us to praise!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Father all glorious,",
-          "O’er all victorious,",
-          "Come and reign over us,",
-          "Ancient of Days!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Come, Thou Incarnate Word,",
-          "Gird on Thy mighty sword,",
-          "Our prayer attend!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Come, and Thy people bless,",
-          "And give Thy word success:",
-          "Spirit of Holiness,",
-          "On us descend!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "O Lord, our God, to Thee",
-          "The highest praises be,",
-          "Hence evermore;"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Thy sov’reign majesty",
-          "May we in glory see,",
-          "And to eternity",
-          "Love and adore!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "GOD’S NAME MEDLEY",
-          "Medley includes; our God,",
-          "he is alive blessed be the name of the lord like a river glorious"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "There is, beyond the azure blue,",
-          "a God, concealed from human sight."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "He tinted skies with heav’nly hue",
-          "and framed the world with His great might."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "MEN:  There is a God",
-          "WOMEN: There is a God",
-          "M:  He is alive",
-          "W:  He is alive"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "M:  In Him we live",
-          "W:  In Him we live",
-          "M:  And we survive",
-          "W:  And we survive"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "W:  From dust our God",
-          "M:  From dust our God",
-          "W:  Created man",
-          "M:  Created man"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "W:  He is our God",
-          "M:  He is our God",
-          "W:  The great I AM",
-          "M:  The great I AM"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "There was, a long long time ago",
-          "A God whose voice the prophets heard"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "He is the God that we should know",
-          "Who speaks from His inspired Word"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "MEN:  There is a God",
-          "WOMEN: There is a God",
-          "M:  He is alive",
-          "W:  He is alive"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "M:  In Him we live",
-          "W:  In Him we live",
-          "M:  And we survive",
-          "W:  And we survive"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "W:  From dust our God",
-          "M:  From dust our God",
-          "W:  Created man",
-          "M:  Created man"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "W:  He is our God",
-          "M:  He is our God",
-          "W:  The great I AM",
-          "M:  The great I AM"
-        ]
-      },
-      {
-        "stanzer": 13,
-        "lines": [
-          "Secure, is life from mortal mind",
-          "God holds the germ within His hand"
-        ]
-      },
-      {
-        "stanzer": 14,
-        "lines": [
-          "Tho men may search they cannot find",
-          "For God alone does understand"
-        ]
-      },
-      {
-        "stanzer": 15,
-        "lines": [
-          "MEN:  There is a God",
-          "WOMEN: There is a God",
-          "M:  He is alive",
-          "W:  He is alive"
-        ]
-      },
-      {
-        "stanzer": 16,
-        "lines": [
-          "M:  In Him we live",
-          "W:  In Him we live",
-          "M:  And we survive",
-          "W:  And we survive"
-        ]
-      },
-      {
-        "stanzer": 17,
-        "lines": [
-          "W:  From dust our God",
-          "M:  From dust our God",
-          "W:  Created man",
-          "M:  Created man"
-        ]
-      },
-      {
-        "stanzer": 18,
-        "lines": [
-          "W:  He is our God",
-          "M:  He is our God",
-          "W:  The great I AM",
-          "M:  The great I AM"
-        ]
-      },
-      {
-        "stanzer": 19,
-        "lines": [
-          "Our God, whose Son upon the tree,",
-          "a life was willing there to give,"
-        ]
-      },
-      {
-        "stanzer": 20,
-        "lines": [
-          "That He from sin might set man free,",
-          "and evermore with Him could live."
-        ]
-      },
-      {
-        "stanzer": 21,
-        "lines": [
-          "MEN:  There is a God",
-          "WOMEN: There is a God",
-          "M:  He is alive",
-          "W:  He is alive"
-        ]
-      },
-      {
-        "stanzer": 22,
-        "lines": [
-          "M:  In Him we live",
-          "W:  In Him we live",
-          "M:  And we survive",
-          "W:  And we survive"
-        ]
-      },
-      {
-        "stanzer": 23,
-        "lines": [
-          "W:  From dust our God",
-          "M:  From dust our God",
-          "W:  Created man",
-          "M:  Created man"
-        ]
-      },
-      {
-        "stanzer": 24,
-        "lines": [
-          "W:  He is our God",
-          "M:  He is our God",
-          "W:  The great I AM",
-          "M:  The great I AM"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
           "Be still and know that I am God",
           "Be still and know that I am God",
           "Be still and know that I am God"
@@ -1651,7 +1164,7 @@ export const englishHymns = [
   },
   {
     "hymnNo": 38,
-    "title": "Awesome God",
+    "title": "Exalt Thee",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -1725,17 +1238,35 @@ export const englishHymns = [
     "hymnNo": 42,
     "title": "How majestic is your name",
     "creator": "Unknown",
-    "chorus": [
-      "O Lord, our Lord, how majestic is",
-      "Your name in all the earth.",
-      "O Lord, our Lord, how majestic is",
-      "Your name in all the earth.",
-      "O Lord, we praise Your name,",
-      "O Lord, we magnify Your name,",
-      "Prince of Peace, Mighty God,",
-      "O Lord God Almighty."
-    ],
-    "stanzers": []
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O Lord, our Lord,",
+          "How majestic is Your name",
+          "in all the earth!",
+          "(Repeat)"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Oh, Lord!",
+          "We praise Your name!",
+          "Oh, Lord!",
+          "We magnify Your name!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Prince of Peace!",
+          "Mighty God!",
+          "Oh Lord God Almighty!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 42,
@@ -1883,72 +1414,6 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Holy, holy, holy!",
-          "Lord God Almighty!",
-          "Early in the morning",
-          "our song shall rise to Thee;"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Holy, holy, holy!",
-          "all the saints adore Thee,",
-          "Casting down their golden crowns around the crystal sea;"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Cherubim and seraphim",
-          "falling down before Thee,",
-          "Who wast, and art, and evermore shall be."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Holy, holy, holy!",
-          "tho’ the darkness hide Thee!",
-          "Tho’ the eye of sinful man",
-          "Thy glory may not see;"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Only Thou art holy!",
-          "there is none beside Thee,",
-          "Perfect in pow’r, in love, and purity."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Holy, holy, holy!",
-          "Lord God Almighty!",
-          "All Thy works shall praise Thy",
-          "name, in earth, and sky, and sea;"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Hold Thou Thy cross before my closing eyes;",
-          "Shine thru the gloom, and point me to the skies;"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Holy, holy, holy!",
-          "merciful and mighty!",
-          "God over all, and blest eternally."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
           "Father of mercies",
           "Day by day",
           "My love to Thee",
@@ -1987,14 +1452,14 @@ export const englishHymns = [
         "lines": [
           "Father of mercies",
           "May our hearts",
-          "Ne’er overlook Thy",
+          "Ne'er overlook Thy",
           "bounteous care;"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "But what our Father’s hand imparts",
+          "But what our Father's hand imparts",
           "Still own in grateful praise",
           "And prayer,",
           "Still own in grateful praise",
@@ -2149,7 +1614,6 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "57 Great is Thy faithfulness",
           "Great is Thy faithfulness, O God my Father",
           "There is no shadow of turning with Thee",
           "Thou changest not, Thy compassions, they fail not",
@@ -2249,16 +1713,14 @@ export const englishHymns = [
   },
   {
     "hymnNo": 58,
-    "title": "Hymn 58",
+    "title": "A charge to keep I have",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "58",
-          "58",
-          "1 A charge to keep I have,",
+          "A charge to keep I have,",
           "A God to glorify,",
           "A never-dying soul to save,",
           "And fit it for the sky."
@@ -2267,7 +1729,7 @@ export const englishHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "2 To serve the present age,",
+          "To serve the present age,",
           "My calling to fulfill;",
           "Oh, may it all my pow'rs engage",
           "To do my Master's will!"
@@ -2276,7 +1738,7 @@ export const englishHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "4 Help me to watch and pray,",
+          "Help me to watch and pray,",
           "And still on Thee rely,",
           "Oh, let me not my trust betray,",
           "But press to realms on high"
@@ -2286,185 +1748,14 @@ export const englishHymns = [
   },
   {
     "hymnNo": 60,
-    "title": "How great thou art",
-    "creator": "Unknown",
-    "chorus": [
-      "Then sings my soul, my Savior God, to Thee,",
-      "How great Thou art, how great Thou art!",
-      "Then sings my soul, my Savior God, to Thee,",
-      "How great Thou art, how great Thou art!"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "O Lord my God, when I in awesome wonder",
-          "Consider all the worlds Thy hands have made;",
-          "I see the stars, I hear the rolling thunder,",
-          "Thy power throughout the universe displayed."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "When through the woods and forest glades I wander,",
-          "And hear the birds sing sweetly in the trees;",
-          "When I look down from lofty mountain grandeur",
-          "And hear the brook and feel the gentle breeze."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "And when I think that God, His Son not sparing,",
-          "Sent Him to die, I scarce can take it in;",
-          "That on the cross, my burden gladly bearing,",
-          "He bled and died to take away my sin."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "When Christ shall come, with shout of acclamation,",
-          "And take me home, what joy shall fill my heart!",
-          "Then I shall bow in humble adoration,",
-          "And there proclaim, My God, how great Thou art!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 60,
-    "title": "He is exalted",
-    "creator": "Unknown",
-    "chorus": [
-      "He is the Lord,",
-      "Forever His truth shall reign;",
-      "Heaven and earth rejoice in His holy name.",
-      "He is exalted,",
-      "The King is exalted on high."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "He is exalted,",
-          "The King is exalted on high;",
-          "I will praise Him.",
-          "He is exalted, forever exalted,",
-          "And I will praise His name."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 61,
-    "title": "Be Exalted",
+    "title": "GOD WHO STRETCHED THE SPANGLED",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "61 Be Exalted",
-          "Be Exalted, O God",
-          "I will give thanks to Thee, O Lord, among the people.",
-          "I will sing praises to Thee among the nations.",
-          "For Thy steadfast love is great, is great to the heavens;",
-          "And Thy faithfulness,",
-          "Thy faithfulness to the clouds."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Be exalted, O God, above the heavens;",
-          "Let Thy glory be over all the earth.",
-          "Be exalted, O God, above the heavens;",
-          "Let Thy glory be over all the earth."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 61,
-    "title": "We Praise Thee, O God",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "PRAISE TO THE LORD, THE ALMIGHTY",
-          "Praise to the Lord, the Almighty, the King of creation!",
-          "O my soul, praise him, for he is your health and salvation!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "all ye who hear; now to his temple draw near,",
-          "join me in glad adoration."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Praise to the Lord, above all things so wondrously reignition,",
-          "Shelters thee under his wings, yea,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "desire ever have been granted in what he ordained"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Praise to the Lord, who doth prosper thy work and defend eth,",
-          "surely his goodness and mercy here daily attend thee."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ponder anew what the Almighty can do,",
-          "if with his love he befriends thee."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Praise to the Lord! O let all that is in me adore him!",
-          "All that has life and breath, come now with praises before him."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Let the Amen sound from his people again;",
-          "gladly forever adore him."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "sure repose?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Thou may’st smile at all Thy foes."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "GOD WHO STRETCHED THE SPANGLED",
-          " heavens,",
+          "God, who stretched the spangled heavens,",
           "infinite in time and place,",
           "flung the suns in burning radiance",
           "through the silent fields of space,"
@@ -2518,19 +1809,84 @@ export const englishHymns = [
     ]
   },
   {
-    "hymnNo": 62,
-    "title": "Exalt Thee",
+    "hymnNo": 61,
+    "title": "I stand in awe",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "62  Exalt Thee",
-          "Exalt Thee For Thou, O Lord, art high above all the earth",
-          "Thou art exalted far above all gods",
-          "For Thou, O Lord, art high above all the earth Thou art exalted far above all gods",
-          "H I exalt Thee, I exalt Thee I exalt Thee, O Lord I exalt Thee, I exalt Thee i exalt Thee, O Lord"
+          "You are beautiful beyond description,",
+          "Too marvelous for words,",
+          "Too wonderful for comprehension,",
+          "Like nothing ever seen or heard."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Who can grasp Your infinite wisdom?",
+          "Who can fathom the depths of Your love?",
+          "You are beautiful beyond description,",
+          "Majesty enthroned above."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "And I stand, I stand in awe of You!",
+          "I stand, I stand in awe of You!",
+          "Holy God to whom all praise is due!",
+          "I stand in awe of You!"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 62,
+    "title": "I sing praises to your name",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "I sing praises to",
+          "Your name, O Lord,",
+          "Praises to Your name, O Lord,",
+          "For Your name is great",
+          "and greatly to be praised;"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "I sing praises to",
+          "Your name, O Lord,",
+          "Praises to Your name, O Lord,",
+          "For Your name is great",
+          "and greatly to be praised."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "I give glory to",
+          "Your name, O Lord,",
+          "Glory to Your name, O Lord,",
+          "For Your name is great",
+          "and greatly to be praised;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "I give glory to",
+          "Your name, O Lord,",
+          "Glory to Your name, O Lord,",
+          "For Your name is great",
+          "and greatly to be praised."
         ]
       }
     ]
@@ -2645,7 +2001,6 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "69",
           "Dread not the things that are ahead,",
           "The burdens great, the sinking sands,",
           "The thorns that o’er the path are spread,",
@@ -2664,7 +2019,7 @@ export const englishHymns = [
       {
         "stanzer": 3,
         "lines": [
-          ". His hand created earth and sky,",
+          "His hand created earth and sky,",
           "The zephyrs and the storms that rage,",
           "And years to come and years gone by",
           "To Him are but an open page."
@@ -2703,92 +2058,53 @@ export const englishHymns = [
     "title": "For the beauty of the earth",
     "creator": "Unknown",
     "chorus": [
-      "There is a God   There is a God ",
-      "He is alive     He is alive ",
-      "In Him we live  in Him we live",
-      "and we survive; and we survive",
-      "From dust our God From dust our God",
-      "Created man, created man",
-      "He is our God He is our God",
-      "the great I AM  the great I AM."
+      "Lord of all to Thee we raise",
+      "This our hymn of grateful praise."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "with praise."
+          "For the beauty of the earth,",
+          "For the glory of the skies,",
+          "For the love which from our birth",
+          "Over and around us lies."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "for He has made me glad."
+          "For the wonder of each hour,",
+          "Of the day and of the night,",
+          "Hill and vale and tree and flower,",
+          "Sun and moon and stars of light."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "me glad."
+          "For the joy of human love,",
+          "Brother, sister, parent, child,",
+          "Friends on earth and friends above,",
+          "For all gentle thoughts and mild."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "me glad."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "glorious, Almighty God."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "let the people say:"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "glorious, Almighty God."
+          "For the church that evermore",
+          "Lifteth holy hands above,",
+          "Offering up on every shore",
+          "Her pure sacrifice of love."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "And the hopeless still offered new birth."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "join the song and sing:"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "glorious, Almighty God."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "who speaks from His inspired Word."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "who speaks from His inspired Word."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "And ever-more with Him could live."
+          "For Thyself, best Gift Divine,",
+          "To our race so freely given,",
+          "For that great, great love of Thine,",
+          "Peace on earth and joy in heaven."
         ]
       }
     ]
@@ -2952,327 +2268,6 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "I worship You, Almighty God,",
-          "There is none like You.",
-          "I worship You,",
-          "O Prince of Peace.",
-          "That is what I want to do."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "I give You praise for",
-          "You are my righteousness.",
-          "I worship You, Almighty God,",
-          "There is none like You."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Dread not the things that are ahead,",
-          "The burdens great, the sinking sands,",
-          "The thorns that o’er the path are spread,",
-          "God holds the future in His hands."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "We know not what tomorrow hides,",
-          "Of sun or storm or good or ill;",
-          "We only know His dear hand guides,",
-          "And He will be our Father still."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          ". His hand created earth and sky,",
-          "The zephyrs and the storms that rage,",
-          "And years to come and years gone by",
-          "To Him are but an open page."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Live close to Him and trust His love,",
-          "Assured that while on earth we roam,",
-          "Whate’er may come, He bends above",
-          "To guide His children safely home"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Praise God, from whom all",
-          "blessings flow;",
-          "Praise Him, all creatures",
-          "here below;"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Praise Him above,",
-          "ye heav’nly host;",
-          "Praise Father, Son",
-          "and Holy Ghost!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "For the beauty of the earth",
-          "For the beauty of the skies",
-          "For the love which from",
-          "our birth",
-          "."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Over and around us lies",
-          "Lord of all to Thee we raise",
-          "This our sacrifice of praise"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "For the beauty of each hour",
-          "Of the day and of the night",
-          "Hill and vale and tree",
-          "and flower",
-          "Sun and moon and stars of light"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "For the joy of human love",
-          "Brother sister parent child",
-          "Friends on earth and friends",
-          "above"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "For all gentle thoughts",
-          "and mild",
-          "Lord of all to Thee we raise",
-          "This our sacrifice of praise"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "For Thy church that evermore",
-          "Lifteth holy hands above",
-          "Offering up on every shore",
-          "Her pure sacrifice of love"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Give thanks",
-          "with a grateful heart,",
-          "give thanks to the Holy One,",
-          "Give thanks because He’s given Jesus Christ, His Son."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Give thanks",
-          "with a grateful heart,",
-          "give thanks to the Holy One,",
-          "Give thanks because He’s given Jesus Christ, His Son."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "And now let the weak say,",
-          "“I am strong,” let the poor say,",
-          "“I am rich because of what the",
-          "Lord has done for us.”"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "And now let the weak say,",
-          "“I am strong,” let the poor say,",
-          "“I am rich because of what the",
-          "Lord has done for us.”",
-          "Give thanks, Give thanks,",
-          "Give thanks!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Come ye that love the Lord",
-          "And let our joys be known",
-          "Join in a song with sweet",
-          "accord"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Join in a song with sweet",
-          "accord",
-          "And thus surround the throne",
-          "And thus surround the throne"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "We’re marching to Zion",
-          "(We’re marching on to Zion)",
-          "Beautiful, beautiful Zion"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "We’re marching upwards",
-          "to Zion",
-          "(Zion, Zion)",
-          "The beautiful city of God."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Let those refuse to sing who never knew our God;",
-          "But children of the heav’nly",
-          "King"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "But children of the heav’nly King",
-          "May speak their joys abroad",
-          "May speak their joys abroad"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "We’re marching to Zion",
-          "(We’re marching on to Zion)",
-          "Beautiful, beautiful Zion"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "We’re marching upwards",
-          "to Zion",
-          "(Zion, Zion)",
-          "The beautiful city of God."
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "The hill of Zion yields a thousand sacred sweets",
-          "Before we reach the Heav’nly fields"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Before we reach the Heav’nly fields",
-          "Or walk the golden streets",
-          "Or walk the golden streets"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "We’re marching to Zion",
-          "(We’re marching on to Zion)",
-          "Beautiful, beautiful Zion"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "We’re marching upwards",
-          "to Zion",
-          "(Zion, Zion)",
-          "The beautiful city of God."
-        ]
-      },
-      {
-        "stanzer": 13,
-        "lines": [
-          "Then let our songs abound and ev’ry tear be dry",
-          "We’re marching thru Immanuel’s ground"
-        ]
-      },
-      {
-        "stanzer": 14,
-        "lines": [
-          "We’re marching thru Immanuel’s ground",
-          "To fairer worlds on high",
-          "To fairer worlds on high"
-        ]
-      },
-      {
-        "stanzer": 15,
-        "lines": [
-          "We’re marching to Zion",
-          "(We’re marching on to Zion)",
-          "Beautiful, beautiful Zion"
-        ]
-      },
-      {
-        "stanzer": 16,
-        "lines": [
-          "We’re marching upwards",
-          "to Zion",
-          "(Zion, Zion)",
-          "The beautiful city of God."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ah Lord God",
-          "Thou has made the heavens",
-          "And the earth by Thy great power",
-          "Ah Lord God",
-          "Thou has made the heavens",
-          "And the earth by Thine out-stretched arm"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nothing is too difficult for Thee",
-          "Nothing is too difficult for Thee",
-          "Great and mighty God",
-          "Great in counsel and mighty in deed",
-          "Nothing, nothing",
-          "Absolutely nothing",
-          "Nothing is too difficult for Thee"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
           "(women echo)",
           "As the deer",
           "Thirsts for the water, Lord",
@@ -3333,86 +2328,125 @@ export const englishHymns = [
     "hymnNo": 74,
     "title": "All People That On Earth Do Dwell",
     "creator": "Unknown",
-    "chorus": [
-      "We’ll understand why",
-      "All by and by"
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Father in heaven,",
-          "how we love You,",
-          "we lift Your name",
-          "in all the earth."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "May Your kingdom",
-          "be established",
-          "in our praises,",
-          "as Your people declare",
-          "Your mighty works."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Blessed be the Lord God Almighty,",
-          "who was, and is, and is to come ;",
-          "Blessed be the Lord God Almighty,",
-          "who reigns forevermore."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "All people that on earth do dwell,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
+          "All people that on earth do dwell,",
+          "Sing to the Lord with cheerful voice;",
           "Him serve with fear, His praise forth tell;",
           "Come ye before Him and rejoice."
         ]
       },
       {
-        "stanzer": 3,
+        "stanzer": 2,
         "lines": [
-          "The Lord, ye know, is God indeed:",
+          "The Lord, ye know, is God indeed;",
+          "Without our aid He did us make;",
           "We are His flock, He doth us feed,",
           "And for His sheep He doth us take."
         ]
       },
       {
-        "stanzer": 4,
+        "stanzer": 3,
         "lines": [
           "O enter then His gates with praise,",
-          "Praise, laud, and bless"
+          "Approach with joy His courts unto;",
+          "Praise, laud, and bless His name always,",
+          "For it is seemly so to do."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "For why? The Lord our God is good;",
+          "His mercy is forever sure;",
+          "His truth at all times firmly stood,",
+          "And shall from age to age endure."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "For why?  The Lord our God is good;",
-          "His mercy is forever sure;",
-          "His truth at all times firmly stood,"
+          "Praise God, from whom all blessings flow;",
+          "Praise Him, all creatures here below;",
+          "Praise Him above, ye heavenly host;",
+          "Praise Father, Son, and Holy Ghost. Amen."
         ]
       }
     ]
   },
   {
     "hymnNo": 74,
-    "title": "Praise the lord",
+    "title": "Farther along",
     "creator": "Unknown",
     "chorus": [
+      "Farther along",
+      "We’ll know all about it",
+      "Farther along",
       "We’ll understand why",
+      "Cheer up my brother",
+      "Live in the sunshine",
+      "We’ll understand it",
       "All by and by"
     ],
-    "stanzers": []
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tempted and tried",
+          "We’re oft made to wonder",
+          "Why it should be thus",
+          "All the day long"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "While there are others",
+          "Living about us",
+          "Never molested",
+          "Tho in the wrong"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Faithful till death",
+          "Said our loving Master",
+          "A few more days",
+          "To labor and wait"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Toils of the road",
+          "Will then seem as nothing",
+          "As we sweep thru",
+          "The beautiful gate"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "When we see Jesus",
+          "Coming in glory",
+          "When He comes from",
+          "His home in the sky"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Then we shall meet Him",
+          "In that bright mansion",
+          "We’ll understand it",
+          "All by and by"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 75,
@@ -3701,548 +2735,24 @@ export const englishHymns = [
   },
   {
     "hymnNo": 86,
-    "title": "GOD’S CREATURES",
+    "title": "GODS CREATURES",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Amazing grace, how sweet the sound",
-          "That saved a wretch like me",
-          "I once was lost, but now",
-          "I’m found",
-          "Was blind, but now I see."
+          "The earth is full of your creatures,",
+          "There is the sea, vast and spacious,",
+          "teeming with creatures beyond number;",
+          "these all look to You to give them their food at the proper time."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "‘Twas grace that taught my",
-          "heart to fear",
-          "And grace my fears relieved",
-          "How precious did that",
-          "grace appear",
-          "The hour I first believed."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Through many dangers",
-          "toils and snares",
-          "I have already come",
-          "‘Tis grace hath brought me",
-          "safe thus far",
-          "And grace will lead me home."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "The Lord has promised good to me,",
-          "His word my hope secures;",
-          "He will my shield and portion be",
-          "As long as life endures"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "And when this flesh and heart shall fail,",
-          "And mortal life shall cease,",
-          "I shall possess within the veil",
-          "A life of joy and peace"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "When we’ve been there",
-          "ten thousand years",
-          "Bright shining as the sun",
-          "We’ve no less days to",
-          "sing God’s praise",
-          "Than when we first begun."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "I will call upon the Lord",
-          "Who is worthy to be praised!",
-          "So shall I be saved from my enemies!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesus Christ, He died for me!",
-          "And He took away my sin!",
-          "I will live with Him for eternity!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "I will call upon the Lord…"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "He leadeth me, O blessed tho’t",
-          "O words with heavenly",
-          "Comfort fraught",
-          "Whate’er I do",
-          "Where’er I be",
-          "Still ‘tis God’s hand",
-          "That leadeth me"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Sometimes ‘mid scenes",
-          "Of deepest gloom",
-          "Sometimes where Eden’s",
-          "bowers bloom",
-          "By waters still",
-          "o’er troubled seas",
-          "Still ‘tis God’s hand",
-          "That leadeth me"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Lord, I would clasp Thy hand in Mine,",
-          "Nor ever murmur nor repine;",
-          "Content, whatever lot I see,",
-          "Since tis God’s hand that leadeth me"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "And when my task on",
-          "earth is done",
-          "When by Thy grace",
-          "The victory’s won",
-          "And when my task on",
-          "earth is done",
-          "When by Thy grace",
-          "The victory’s won"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Unto the hills around do I lift up my longing eyes;",
-          "O whence for me shall my salvation come, from whence arise?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "From God the Lord doth come my certain aid;",
-          "From God the Lord",
-          "Who heav’n and earth hath made."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "He will not suffer that thy foot be moved,",
-          "Safe shalt thou be",
-          "No careless slumber shall His eyelids close who keepeth thee."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Behold He sleepeth not,",
-          "He slumb’reth ne’er,",
-          "Who keepeth Israel in His holy care."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Jehovah is Himself thy keeper true,",
-          "Thy changeless shade.",
-          "Jehovah evermore on thy right hand Himself hath made."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "And thee no sun by day shall ever smite,",
-          "No moon shall harm thee in the silent night."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "From ev’ry evil shall He keep thy soul from ev’ry sin;",
-          "Jehovah shall preserve thy going out, thy coming in."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Above thee watching",
-          "He whom we adore",
-          "Shall keep thee henceforth",
-          "yea, for evermore"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Unto Thee, O Lord",
-          "(ladies echo)",
-          "Do I lift up my soul",
-          "(ladies echo)",
-          "(Repeat)"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Yea, let none that wait",
-          "(Ladies echo)",
-          "On thee be ashamed",
-          "(Ladies echo)",
-          "(Repeat)"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Remember not",
-          "(Ladies echo)",
-          "The sins of my youth",
-          "(Ladies echo)"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "O worship the King,",
-          "all glorious above,",
-          "And gratefully sing",
-          "His wonderful love;"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Our Shield and Defender,",
-          "the Ancient of Days,",
-          "Pavilioned in splendor",
-          "and girded with praise."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Thy bountiful care,",
-          "what tongue can recite?",
-          "It breathes in the air,",
-          "it shines in the light;"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "It streams from the hills",
-          "it descends to the plain,",
-          "And sweetly distills",
-          "in the dew and the rain."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Frail children of dust,",
-          "And feeble as frail,",
-          "In Thee do we trust,",
-          "Nor find Thee to fail;"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Thy mercies, how tender",
-          "How firm to the end!",
-          "Our Maker, Defender",
-          "Redeemer and Friend!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "I am not afraid of ten thousands of people who"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Arise, Arise, deliver me I am not afraid of ten thousands of people,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "I am not afraid of ten thousands Arise, Arise, deliver me oh my god,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "I am not afraid of ten thousands of people who"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "You are Lord of creation and Lord of my life,",
-          "Lord of the land and the sea."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "You were Lord of the heavens before there was time, and Lord of all lords You will be."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "We bow down and we worship You, Lord. We bow down and we worship You, Lord."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "We bow down and we worship You, Lord. Lord of all lords You will be."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "You are King of creation and King of my life, King of the land and the sea."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "You were King of the heavens before there was time, and King of all kings",
-          "You will be!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "We bow down and we crown You the King. We bow down and we crown You the King."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "We bow down and we crown You the King. King of all kings You will be."
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "We bow down and we worship You, Lord. We bow down and we worship You, Lord."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "We bow down and we worship You, Lord. Lord of all lords You will be."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Sing the wondrous love of Jesus",
-          "Sing His mercy and His grace;",
-          "In the mansions bright and blessed",
-          "He’ll prepare for us a place."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "(women lead, men echo)",
-          "When we all… get to heaven,",
-          "What a day…of rejoicing that",
-          "will be!",
-          "When we all…"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "(together)",
-          "See Jesus",
-          "We’ll sing and shout the victory",
-          "(We’ll sing and shout and shout the victory)"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "While we walk the pilgrim pathway clouds will overspread the sky",
-          "But when trav’ling days are over",
-          "Not a shadow not a sigh"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "(women lead, men echo)",
-          "When we all… get to heaven,",
-          "What a day…of rejoicing that",
-          "will be!",
-          "When we all…"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "(together)",
-          "See Jesus",
-          "We’ll sing and shout the victory",
-          "(We’ll sing and shout and shout the victory)"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Let us then be true and faithful!",
-          "Trusting, serving every day",
-          "Just one glimpse of Him in glory",
-          "Will the toils of life repay!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "(women lead, men echo)",
-          "When we all… get to heaven,",
-          "What a day…of rejoicing that",
-          "will be!",
-          "When we all…"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "(together)",
-          "See Jesus",
-          "We’ll sing and shout the victory",
-          "(We’ll sing and shout and shout the victory)"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Wonderful, merciful Savior",
-          "Precious redeemer and friend",
-          "Who would have thought that a lamb could rescue the souls of men?",
-          "Oh, You rescue the souls of men."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Counselor, comforter, keeper",
-          "Spirit we long to embrace",
-          "You offer hope when our hearts have hopelessly lost the way.",
-          "Oh, we’ve hopelessly lost the way."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "You are the one that we praise",
-          "You are the one we adore",
-          "You give the healing and grace our hearts always hunger for.",
-          "Oh, our hearts always hunger for."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Almighty, infinite Father",
-          "Faithfully loving Your own.",
-          "Here in our weakness You find us falling before Your throne.",
-          "Oh, we’re falling before Your throne."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "You are the one that we praise",
-          "You are the one we adore",
-          "You give the healing and grace our hearts always hunger for.",
-          "Oh, our hearts always hunger for."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          " GOD’S CREATURES",
-          "The earth is full of your creatures",
-          "There is the sea, vast and spacious ,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "When you give it to them, they gather it up;",
-          "When you open your hand, they are satisfied with good things"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "BE EXALTED, O GOD",
-          "I will praise you",
-          "O Lord, among the nation;",
-          "I will sing of you",
-          "Among the people",
-          "For great is your love, reaching to",
-          "to the heavens;"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Your faithfulness reaches to the skies.",
-          "Be exalted, O God",
-          "Above the heavens",
-          "Let your glory be over all the earth",
-          "Be exalted, O God",
-          "Above the heavens",
-          "Let you glory be over all the earth"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "The earth is full of your creatures"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "When you give it to them, they gather it up;"
+          "When You give it to them, they gather it up;",
+          "When You open Your hand, they are satisfied with good things."
         ]
       }
     ]
@@ -4253,225 +2763,6 @@ export const englishHymns = [
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "O Lord my God!",
-          "When I in awesome wonder",
-          "Consider all the worlds",
-          "Thy hands have made,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "I see the stars,",
-          "I hear the rolling thunder",
-          "Thy pow’r throughout",
-          "The universe displayed."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "When through the woods",
-          "and forest glades I wander",
-          "And hear the birds",
-          "sing sweetly in the trees"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "When I look down from",
-          "lofty mountain grandeur",
-          "And hear the brook and",
-          "feel the gentle breeze"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "And when I think that",
-          "God, His Son not sparing",
-          "Sent Him to die",
-          "I scarce can take it in"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "That on the cross,",
-          "my burden gladly bearing",
-          "He bled and died",
-          "to take away my sin"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "When Christ shall come",
-          "with shout of acclamation",
-          "And take me home,",
-          "what joy shall fill my heart!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Then I shall bow",
-          "In humble adoration",
-          "And there proclaim, my God,",
-          "how great Thou art!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Father, we love you!",
-          "We worship and adore you!",
-          "Glorify Thy name in all",
-          "the earth!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesus, we love you!",
-          "We worship and adore you!",
-          "Glorify Thy name in",
-          "all the earth!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Spirit, we love you!",
-          "We worship and adore you!",
-          "Glorify Thy name in",
-          "all the earth!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Within the heart of every man He strives himself to understand;",
-          "God’s mighty hand from ages past, Declare His work of righteousness."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "From greatest man to infant child,",
-          "From space afar to grain of sand;",
-          "Tis written plain, it’s everywhere,",
-          "That God is real His wondrous power."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "I see his power, ten thousand worlds,",
-          "the order of the universe; Where’ere man goes,",
-          "God’s gone before, Foundations laid, creation morn."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tho’ man may go to distant star God’s hand laid out,",
-          "the parth afar, and lo, returns to earth again,",
-          "Man can but say, “How great Thou art.”"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "God is so good",
-          "God is so good",
-          "God is so good",
-          "He’s so good to me"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "He answers prayers",
-          "He answers prayers",
-          "He answers prayers",
-          "He’s so good to me"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "He loves me so",
-          "He loves me so",
-          "He loves me so",
-          "He’s so good to me"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "God is so good",
-          "God is so good",
-          "God is so good",
-          "He’s so good to me"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Let the whole creation cry: Alleluia!",
-          "Glory to the Lord on high! Alleluia!",
-          "Heav’n and earth, awake and sing: Alleluia!",
-          "God is good and therefore king! Alleluia!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Praise Him, all ye hosts above, Alleluia!",
-          "Ever bright and fair in love, Alleluia!",
-          "Sun and moon, lift up your voice, Alleluia!",
-          "Night and stars in God rejoice, Alleluia!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Warriors fighting for the Lord, Alleluia!",
-          "Prophets burning with His Word, Alleluia!",
-          "Those to whom the arts belong, Alleluia!",
-          "Add their voices to the song, Alleluia !"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Men and women, young and old, Alleluia!",
-          "Raise the anthem manifold, Alleluia!",
-          "And let children’s happy hearts, Alleluia!",
-          "In this worship bear their parts, Alleluia!"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "The earth is full of your creatures",
-          "There is the sea, vast and spacious ,",
-          "teeming with creatures beyond number these all",
-          "look to you to give them their food at the proper time."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "When you give it to them, they gather it up;",
-          "When you open your hand, they are satisfied with good things"
-        ]
-      },
       {
         "stanzer": 1,
         "lines": [
@@ -4712,219 +3003,27 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "PRAISE TO THE LORD, THE ALMIGHTY",
-          "Praise to the Lord, the Almighty, the King of creation!",
-          "O my soul, praise him, for he is your health and salvation!"
+          "You are beautiful beyond description,",
+          "Too marvelous for words,",
+          "Too wonderful for comprehension,",
+          "Like nothing ever seen or heard."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "all ye who hear; now to his temple draw near,",
-          "join me in glad adoration."
+          "Who can grasp Your infinite wisdom?",
+          "Who can fathom the depths of Your love?",
+          "You are beautiful beyond description,",
+          "Majesty enthroned above."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Praise to the Lord, above all things so wondrously reignition,",
-          "Shelters thee under his wings, yea,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "so gently sustained Hast thou not seen how thy",
-          "desire ever have been granted in what he ordained"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Praise to the Lord, who doth prosper thy work and defend eth,",
-          "surely his goodness and mercy here daily attend thee."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ponder anew what the Almighty can do,",
-          "if with his love he befriends thee."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Praise to the Lord! O let all that is in me adore him!",
-          "All that has life and breath, come now with praises before him."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Let the Amen sound from his people again;",
-          "gladly forever adore him."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Glorious things of Thee are spoken",
-          "Zion, city of our God",
-          "He whose word cannot",
-          "be broken"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Formed thee for His own abode",
-          "On the Rock of Ages founded",
-          "What can shake thy",
-          "sure repose?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "With salvation’s walk surrounded",
-          "Thou may’st smile at all Thy foes."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "See the streams of living water",
-          "Springing from eternal love",
-          "Well supply Thy sons and daughters"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "And all fear of want remove",
-          "Who can faint while such a river",
-          "Ever flows their thirst t’assuage"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Grace, which like the Lord,",
-          "The Giver",
-          "Never fails from age to age."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Savior, since of Zion’s city",
-          "I, thru grace, a member am",
-          "Let the world deride or pity",
-          "I will glory in Thy name"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Fading is the worldling’s",
-          "pleasure",
-          "All his boasted pomp and show",
-          "Solid joys and lasting treasure",
-          "None but Zion’s children know."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "GOD WHO STRETCHED THE SPANGLED",
-          " heavens,",
-          "infinite in time and place,",
-          "flung the suns in burning radiance",
-          "through the silent fields of space,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "we, your children, in your likeness,",
-          "share inventive powers with you.",
-          "Great Creator, still creating,",
-          "show us what we yet may do."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "We have conquered worlds undreamed of",
-          "since the childhood of our race;",
-          "known the ecstasy of winging",
-          "through uncharted realms of space;"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "probed the secrets of the atom,",
-          "yielding unimagined power,",
-          "facing us with life's destruction",
-          "or our most triumphant hour."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "As each far horizon beckons,",
-          "may it challenge us anew,",
-          "children of creative purpose,",
-          "serving others, honoring you."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "May our dreams prove rich with promise,",
-          "each endeavor well begun.",
-          "Great Creator, give us guidance",
-          "till our goals and yours are one."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "You are beautiful beyond",
-          "description",
-          "Too marvelous for words",
-          "Too wonderful for",
-          "comprehension"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Like nothing ever seen or heard",
-          "Who can grasp Your infinite",
-          "wisdom?",
-          "Who can fathom the depths of",
-          "Your love?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "You are beautiful beyond",
-          "description!",
-          "Majesty enthroned above!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "And I stand, I stand in awe",
-          "of You!",
+          "And I stand, I stand in awe of You!",
           "I stand, I stand in awe of You!",
-          "Holy God to whom all praise",
-          "is due!",
+          "Holy God to whom all praise is due!",
           "I stand in awe of You!"
         ]
       }
@@ -5008,15 +3107,28 @@ export const englishHymns = [
     "chorus": null,
     "stanzers": [
       {
-        "stanzer": 3,
+        "stanzer": 1,
         "lines": [
-          "Help me to watch and pray,"
+          "This is holy ground,",
+          "we're standing on holy ground.",
+          "For the Lord is present,",
+          "and where He is is holy."
         ]
       },
       {
-        "stanzer": 1,
+        "stanzer": 2,
         "lines": [
-          "This is holy ground,\u000bwe’re standing on holy ground."
+          "We are standing on holy ground,",
+          "and I know that there are angels all around.",
+          "Let us praise Jesus now,",
+          "we are standing in His presence on holy ground."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "You are holy, God, a perfect and holy God,",
+          "I come before You with hearts made clean by Jesus' blood."
         ]
       }
     ]
@@ -5167,57 +3279,63 @@ export const englishHymns = [
   },
   {
     "hymnNo": 108,
-    "title": "The Lord is in his holy tem",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "The Lord is in His holy temple",
-          "Let all the earth keep silence before him!",
-          "Keep silence, keep silence",
-          "Keep silence before Him."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 108,
-    "title": "What a fellowship",
+    "title": "SING ON YE JOYFUL PILGRIMS",
     "creator": "Unknown",
     "chorus": [
-      "Leaning, leaning,",
-      "Safe and secure from all alarms;",
-      "Leaning, leaning,",
-      "Leaning on the everlasting arms."
+      "(soprano, tenor)",
+      "Sing on, O blissful music",
+      "(soprano, alto)",
+      "With every note you raise",
+      "(all)",
+      "My heart is filled with rapture",
+      "My soul is lost in praise",
+      "(soprano)",
+      "Sing on, O blissful music",
+      "(others)",
+      "Sing on, blissful blissful music",
+      "(all)",
+      "With every note you raise",
+      "My heart is filled with rapture",
+      "My soul is lost in praise"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "What a fellowship, what a joy divine,",
-          "Leaning on the everlasting arms;",
-          "What a blessedness, what a peace is mine,",
-          "Leaning on the everlasting arms."
+          "Sing on ye joyful pilgrims",
+          "Nor think the moments long",
+          "My faith is heav'nward rising",
+          "With every tuneful song",
+          "Lo! On the mount of blessing",
+          "The glorious mount I stand",
+          "And looking over Jordan",
+          "I see the promised land"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "O how sweet to walk in this pilgrim way,",
-          "Leaning on the everlasting arms;",
-          "O how bright the path grows from day to day,",
-          "Leaning on the everlasting arms."
+          "Sing on ye joyful pilgrims",
+          "While here on earth we stay",
+          "Let songs of home and Jesus",
+          "Beguile each fleeting day",
+          "Sing on the grand old story",
+          "Of His redeeming love",
+          "The everlasting chorus",
+          "That fills the realms above"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "What have I to dread, what have I to fear,",
-          "Leaning on the everlasting arms;",
-          "I have blessed peace with my Lord so near,",
-          "Leaning on the everlasting arms."
+          "Sing on ye joyful pilgrims",
+          "The time will not be long",
+          "Till in our Father's kingdom",
+          "We swell a nobler song",
+          "Where those we love are waiting",
+          "To greet us on the shore",
+          "We'll meet beyond the river",
+          "Where surges roll no more"
         ]
       }
     ]
@@ -5302,81 +3420,18 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "113 HIS GRACE REACHES ME",
-          "Deeper than the ocean and wider than the sea,",
-          "is the grace of the savior for sinners like me",
-          "sent from the father and it thrills my soul,",
-          "just to feel and to know, that his blood makes me whole."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "His grace (yes, his grace) reaches me (reaches me)",
-          "yes his grace (yes his grace)",
-          "reaches me (reaches me) and twill last thru eternity",
-          "Now I’m under his control and I’m happy in my soul,",
-          "just to know (just to know) that his grace reaches  me"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Higher than the mountains and brighter than the sun,",
-          "it was offered at Calvary for everyone; greatest of treasures,",
-          "and it’s mine today though my sins were as scarlet,",
-          "he has washed them away"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "His grace (yes, his grace)",
-          "reaches me (reaches me)",
-          "yes his grace (yes his grace)",
-          "reaches me (reaches me) and twill last thru eternity",
-          "Now I’m under his control and I’m happy in my soul,",
-          "just to know (just to know) that his grace reaches  me"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Peace, peace, sweet peace, wonderful peace from above",
-          "Oh wonderful, wonderful peace,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Thru Christ on the cross peace was",
-          "No other foundation is laid for peace the gift of God’s love"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "In Jesus for peace I abide and as I keep close to his side",
-          "There’s nothing but peace doth betide"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
           "God will make a way",
-          "When there seems to be no way",
-          "He works in ways we",
-          "cannot see",
+          "When there seems to be no way,",
+          "He works in ways we cannot see,",
           "He will make a way for me."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "He will be my guide",
-          "Hold my closely to His side",
-          "With love and strength",
-          "For each new day",
+          "He will be my guide,",
+          "Hold me closely to His side,",
+          "With love and strength for each new day,",
           "He will make a way,",
           "He will make a way."
         ]
@@ -6199,8 +4254,7 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "57 Great is Thy faithfulness",
-          " O God my Father",
+          "Great is Thy faithfulness, O God my Father",
           "There is no shadow of turning with Thee",
           "Thou changest not, Thy compassions, they fail not",
           "As Thou hast been, Thou forever will be"
@@ -6296,7 +4350,7 @@ export const englishHymns = [
     ]
   },
   {
-    "hymnNo": 202,
+    "hymnNo": 203,
     "title": "Si-lent night, ho-ly night! All is",
     "creator": "Unknown",
     "chorus": null,
@@ -6511,17 +4565,37 @@ export const englishHymns = [
     "hymnNo": 222,
     "title": "There's something about tha",
     "creator": "Unknown",
-    "chorus": [
-      "Jesus, Jesus, Jesus;",
-      "There's just something about that name.",
-      "Master, Savior, Jesus,",
-      "Like the fragrance after the rain;",
-      "Jesus, Jesus, Jesus,",
-      "Let all Heaven and earth proclaim;",
-      "Kings and kingdoms will all pass away,",
-      "But there's something about that name."
-    ],
-    "stanzers": []
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesus, Jesus, Jesus;",
+          "There's just something about that name."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Master, Savior, Jesus,",
+          "Like the fragrance after the rain;"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Jesus, Jesus, Jesus,",
+          "Let all Heaven and earth proclaim;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Kings and kingdoms will all pass away,",
+          "But there's something about that name."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 227,
@@ -6655,16 +4729,74 @@ export const englishHymns = [
     "hymnNo": 234,
     "title": "Worthy is the lamb",
     "creator": "Unknown",
-    "chorus": [
-      "Worthy is the Lamb,",
-      "(Worthy is the Lamb),",
-      "Mighty is the Lamb,",
-      "(Mighty is the Lamb),",
-      "Holy is the Lamb,",
-      "(He is the Lamb),",
-      "Jesus is the Lamb."
-    ],
-    "stanzers": []
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Worthy is the Lamb",
+          "(Worthy is the Lamb)",
+          "Worthy is the Lamb",
+          "(Worthy is the Lamb)"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Worthy is the Lamb",
+          "(He is the Lamb)",
+          "Worthy is the Lamb"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mighty is the Lamb",
+          "(Mighty is the Lamb)",
+          "Mighty is the Lamb",
+          "(Mighty is the Lamb)",
+          "Mighty is the Lamb",
+          "(He is the Lamb)",
+          "Mighty is the Lamb"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Holy is the Lamb",
+          "(Holy is the Lamb)",
+          "Holy is the Lamb",
+          "(Holy is the Lamb)",
+          "Holy is the Lamb",
+          "(He is the Lamb)",
+          "Holy is the Lamb"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Jesus is the Lamb",
+          "(Jesus is the Lamb)",
+          "Jesus is the Lamb",
+          "(Jesus is the Lamb)",
+          "Jesus is the Lamb",
+          "(He is the Lamb)",
+          "Jesus is the Lamb"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Worthy is the Lamb",
+          "(Worthy is the Lamb)",
+          "Mighty is the Lamb",
+          "(Mighty is the Lamb)",
+          "Holy is the Lamb",
+          "(He is the Lamb)",
+          "Jesus is the Lamb"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 235,
@@ -7722,7 +5854,6 @@ export const englishHymns = [
     "hymnNo": 299,
     "title": "Give Me the Bible",
     "creator": "Unknown",
-    "chorus": null,
     "chorus": [
       "Give me the Bi-ble, Ho-ly message shin-ing;",
       "Thy light shall guide me in the nar-row way;",
@@ -7954,7 +6085,6 @@ export const englishHymns = [
     "hymnNo": 303,
     "title": "Sing them over again to me",
     "creator": "Unknown",
-    "chorus": null,
     "chorus": [
       "Beautiful words, wonderful words, wonderful words of life;",
       "Beautiful words, wonderful words, wonderful words of life;"
@@ -12355,65 +10485,46 @@ export const englishHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Father in heaven,",
-          "how we love You,",
-          "we lift Your name",
-          "in all the earth."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "May Your kingdom",
-          "be established",
-          "in our praises,",
-          "as Your people declare",
-          "Your mighty works."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Blessed be the Lord God Almighty,",
-          "who was, and is, and is to come ;",
-          "Blessed be the Lord God Almighty,",
-          "who reigns forevermore."
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "All people that on earth do dwell,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
+          "All people that on earth do dwell,",
+          "Sing to the Lord with cheerful voice;",
           "Him serve with fear, His praise forth tell;",
           "Come ye before Him and rejoice."
         ]
       },
       {
-        "stanzer": 3,
+        "stanzer": 2,
         "lines": [
-          "The Lord, ye know, is God indeed:",
+          "The Lord, ye know, is God indeed;",
+          "Without our aid He did us make;",
           "We are His flock, He doth us feed,",
           "And for His sheep He doth us take."
         ]
       },
       {
-        "stanzer": 4,
+        "stanzer": 3,
         "lines": [
           "O enter then His gates with praise,",
-          "Praise, laud, and bless"
+          "Approach with joy His courts unto;",
+          "Praise, laud, and bless His name always,",
+          "For it is seemly so to do."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "For why? The Lord our God is good;",
+          "His mercy is forever sure;",
+          "His truth at all times firmly stood,",
+          "And shall from age to age endure."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "For why?  The Lord our God is good;",
-          "His mercy is forever sure;",
-          "His truth at all times firmly stood,"
+          "Praise God, from whom all blessings flow;",
+          "Praise Him, all creatures here below;",
+          "Praise Him above, ye heavenly host;",
+          "Praise Father, Son, and Holy Ghost. Amen."
         ]
       }
     ]
@@ -13336,7 +11447,6 @@ export const englishHymns = [
     "hymnNo": 548,
     "title": "the lily of the valley",
     "creator": "Unknown",
-    "chorus": null,
     "chorus": [],
     "stanzers": [
       {
@@ -14338,7 +12448,7 @@ export const englishHymns = [
   },
   {
     "hymnNo": 570,
-    "title": "Hymn 570",
+    "title": "LIFE'S EVENING SUN IS SINKING LOW",
     "creator": "Unknown",
     "chorus": [
       "Life’s evening sun is sinking low,",
@@ -14491,28 +12601,6 @@ export const englishHymns = [
     ]
   },
   {
-    "hymnNo": 574,
-    "title": "There is a Name I Love to Hear",
-    "creator": "Unknown",
-    "chorus": [
-      "Oh, how I love Jesus,",
-      "Oh, how I love Jesus,",
-      "Oh, how I love Jesus,",
-      "Because He first loved me!"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "There is a name I love to hear,",
-          "I love to sing its worth;",
-          "It sounds like music in mine ear,",
-          "The sweetest name on earth."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 577,
     "title": "We bow down",
     "creator": "Unknown",
@@ -14589,377 +12677,39 @@ export const englishHymns = [
     "chorus": null,
     "stanzers": [
       {
-        "stanzer": 5,
-        "lines": [
-          "Sing hallelujah to the Lord"
-        ]
-      },
-      {
         "stanzer": 1,
         "lines": [
-          "Sing on ye joyful pilgrims"
+          "We will glorify the King of kings,",
+          "We will glorify the Lamb;",
+          "We will glorify the Lord of lords,",
+          "Who is the great I AM."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Sing on ye joyful pilgrims"
+          "Lord Jehovah reigns in majesty,",
+          "We will bow before His throne;",
+          "We will worship Him in righteousness,",
+          "We will worship Him alone."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Sing on ye joyful pilgrims"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Sing to me of heaven"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Sing to me of heaven"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Sing to me of heaven"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "(others)"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "(women)"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "(all)"
+          "He is Lord of heaven, Lord of earth,",
+          "He is Lord of all who live;",
+          "He is Lord above the universe,",
+          "All praise to Him we give."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "(others)"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "(women)"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "(others)"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "S(women)"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "(others)"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "(women)"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 13,
-        "lines": [
-          "(others)"
-        ]
-      },
-      {
-        "stanzer": 14,
-        "lines": [
-          "(women)"
-        ]
-      },
-      {
-        "stanzer": 15,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "(sopranos)"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Someday, Someday,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Someday (4x)"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Someday (4x)"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "(all)"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "(Someday (4x)"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Someday (4x)"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Someday, Someday,"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "(sopranos)"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Oh God, You are my God!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "I will seek You in the morning"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Oh God, You are my God!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "I will seek You in the morning"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "And I will follow You all of my days"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "There’s a sweet sweet Spirit in this place"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "There are blessings you cannot receive"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Sweet adoration flows from Your children."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Love set in motion"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "113 HIS GRACE REACHES ME",
-          "Deeper than the ocean and wider than the sea,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "His grace (yes, his grace) reaches me (reaches me)",
-          "Now I’m under his control and I’m happy in my soul,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Higher than the mountains and brighter than the sun,",
-          "it was offered at Calvary for everyone; greatest of treasures,",
-          "and it’s mine today though my sins were as scarlet,",
-          "he has washed them away"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "His grace (yes, his grace) reaches me (reaches me)",
-          "Now I’m under his control and I’m happy in my soul,"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "Peace, peace, sweet peace, wonderful peace from above",
-          "Oh wonderful, wonderful peace, sweet peace, sweet peace, the gift of God’s love"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Thru Christ on the cross peace was made my debt by his death was all paid",
-          "No other foundation is laid for peace the gift of God’s love"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "In Jesus for peace I abide and as I keep close to his side",
-          "There’s  peace doth betide sweet peace the gift of God’s love"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "118 GOD HAS SMILED ON ME",
-          "God has smiled on me, he has set me free",
-          "God has smiled on me, he’s been good to me",
-          "He has, don’t you know that"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Dark clouds rolled away, sunshine now on me",
-          "God has smiled on me, he’s been good to me",
-          "He has, don’t you know that"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "We shall assemble on the mountain!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "With humble hearts into His presence"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Glory and honor and dominion (Ladies echo)"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Oh, hallelujah, hallelujah"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "We will glorify the King of kings,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "We will glorify the Lord of lords."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Lord Jehovah reigns in majesty,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "He is Lord of heaven,"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Hallelujah to the King of kings,"
+          "Hallelujah to the King of kings,",
+          "Hallelujah to the Lamb;",
+          "Hallelujah to the Lord of lords,",
+          "Who is the great I AM."
         ]
       }
     ]

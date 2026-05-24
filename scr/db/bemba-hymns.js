@@ -8975,7 +8975,7 @@ export const bembaHymns = [
       }
     ]
   },
-  {
+    {
     "hymnNo": 140,
     "title": "Pe fye kuli Lesa!",
     "creator": "Unknown",
@@ -8984,124 +8984,8 @@ export const bembaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "bushe iwe naunaka"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "bushe akwate filaso"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "bushe alifwele ngala"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "alempela cinshi nomba"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "nga namukonka mupepi,"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "nga namulombo kumbula"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "kusanga kukonka kulwa"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "yesu yu mwana lesa, yesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "lesa shifwe, yesu mwana wenu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "mfumu yesu, tuli mu mfifi fye,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "mu mafunde yesu atupele,"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "'CIFULO TWATEMWA 139",
-          "We Love the Place O God",
-          "'Cifulo twatemwa,",
-          "Ica bucindamo,",
-          "'Nseko e mo shaba",
-          "Shacile sha calo."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Iŋanda twatemwa,",
-          "Umwa kulongana,",
-          "Umo ne mwe mwaba,",
-          "E mo twakumana."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "'Mashiwi twatemwa,",
-          "Ya mweo, 'mutende,",
-          "Yatusansamusha,",
-          "Yatusekesha pe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ukwimba twatemwa,",
-          "Pa bupe bukulu,",
-          "Lelo twafuluka",
-          "Ukwimba ku mulu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Yesu twamutemwa,",
-          "Tupelwe cikuku",
-          "Ca kumutemwisha",
-          "Kuno na ku mulu.",
-          "____"
-        ]
-      },
-      {
-        "stanzer": 1,
-        "lines": [
-          "\\\"PE FYE KULI LESA!“ 140",
-          "For Ever With The Lord",
-          "\\\"Pe fye kuli Lesa!“ Amen, ifyo fine;",
-          "'Mweo uli mwi shiwi 'li, ‘mweo wa munshipwa.",
+          "Pe fye kuli Lesa! Amen, ifyo fine;",
+          "'Mweo uli mwi shiwi 'li, 'mweo wa munshipwa.",
           "Muno mu mubili ndeendaenda fye,",
           "Nangwi ndo shalepa shani, tuleya ku mushi."
         ]
@@ -9110,19 +8994,18 @@ export const bembaHymns = [
         "stanzer": 2,
         "lines": [
           "Kwa Shifwe ku mulu, kulya ni ku mwesu;",
-          "Limo limo mu mutima  namone cipata.",
-          "E lyo nafuluka, ‘kufiko ko kwine,",
-          "Ku Yerusalemu upya, ‘calwe co twapelwa."
+          "Limo limo mu mutima namone cipata.",
+          "E lyo nafuluka, 'kufiko ko kwine,",
+          "Ku Yerusalemu upya, 'calwe co twapelwa."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "\\\"Pe fye kuli Lesa!“ Tata nga mwatemwa,",
+          "Pe fye kuli Lesa! Tata nga mwatemwa,",
           "Mufikilishe shiwi 'li kuli ine nomba.",
           "Mube mupepi fye, e lyo nshakalewa;",
-          "Munjikatishe, mungafwe  ukulwa no kwansha.",
-          "_____"
+          "Munjikatishe, mungafwe ukulwa no kwansha."
         ]
       }
     ]
@@ -15384,3 +15267,4 @@ export const bembaHymns = [
     ]
   }
 ]
+
