@@ -1,10 +1,12 @@
-// Auto-generated Tonga hymns data
+// Tonga hymns
 export const tongaHymns = [
   {
     "hymnNo": 1,
     "title": "AMUSWIILILISYE NYOONSE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -15,114 +17,25 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
+          "Toonse tujisi mulandu twakaka makani tulabula lufutuko neinceeco ncaazida"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Toonse tujisi mulandu twakaka makani tulabula lufutuko neinceeco ncaazida"
+          "Abo baangidwe muzibi nguwabaangununa zibotu nzibatakezi, wazipandulula"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Abo baangidwe muzibi nguwabaangununa zibotu nzibatakezi, wazipandulula"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Abo batajisi nguzu, zyakulijatisya. Ulabagwasya kuteeli kuti batazundwi"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
         ]
       }
     ]
   },
   {
-    "hymnNo": 1,
-    "title": ".AMUSWIILILISYE NYOONSE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "1.AMUSWIILILISYE NYOONSE“salvation, oh the joyful sound”",
-          "Amuswiililisye nyoonse majwi akondezya. Wakasika kuliboonse muvuni uyoosya"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Toonse tujisi mulandu twakaka makani tulabula lufutuko neinceeco ncaazida"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Abo baangidwe muzibi nguwabaangununa zibotu nzibatakezi, wazipandulula"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Abo batajisi nguzu, zyakulijatisya. Ulabagwasya kuteeli kuti batazundwi"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Nguzu, bwami abulemu zipedwe ku-mwami jesu. Ngonguwe uutufula aleluya! Aleluya! Aleluya mulumbe!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 1,
+    "hymnNo": "1C",
     "title": "C. AKULUMBWE AKULUMBWE",
     "creator": "Unknown",
     "chorus": null,
@@ -130,28 +43,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "1C. AKULUMBWE AKULUMBWE",
-          "Akulumbwe, akulumbwe, ansi aano akujulu, taata, jesu muuya uusweya, sunu mane kutamami"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 2,
-    "title": ".ATUMULUMBAIZYE LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "02. ATUMULUMBAIZYE LEZA\"PRAISE GOD FROM WHOM ALL BLESSING FLOW\"",
-          "1",
-          "Atumulumbaizye Leza",
-          "Amwe nozilenge zyaansi;",
-          "Mumulumbe wamakamu,",
-          "Leza, muuya, a Mwaanakwe.",
-          "Amen."
+          "Akulumbwe, akulumbwe, ansi aano akujulu,",
+          "taata, jesu muuya uusweya, sunu mane kutamami"
         ]
       }
     ]
@@ -165,7 +58,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "1",
           "Atumulumbaizye Leza",
           "Amwe nozilenge zyaansi;",
           "Mumulumbe wamakamu,",
@@ -176,7 +68,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 2,
+    "hymnNo": "2C",
     "title": "C. AAKUNDIITA",
     "creator": "Unknown",
     "chorus": null,
@@ -184,16 +76,16 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "2C. AAKUNDIITA“when he calls me”",
-          "Aakundiita, njookuvuwa, aakundiita, njookuvuwa, aakundiita, njookuvuwa,njookuvuwa",
-          "kuzina lyangu. Nyona, nyona, nyona nyona nyona nyona nyonena mwami"
+          "Aakundiita, njookuvuwa, aakundiita,",
+          "njookuvuwa, aakundiita, njookuvuwa,njookuvuwa kuzina lyangu. Nyona, nyona,",
+          "nyona nyona nyona nyona nyonena mwami"
         ]
       }
     ]
   },
   {
     "hymnNo": 3,
-    "title": "ATWIIMBILE LEZA",
+    "title": "Atwiimbile leza",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -225,63 +117,30 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 3,
-    "title": ". Atwiimbile leza",
+    "hymnNo": "3C",
+    "title": "C. aleluya ncendimuyanda",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "3. Atwiimbile leza“lord thy word abideth”",
-          "Atwiimbile leza, inguwe usyeesu atwiimbile jesu mufutuli wesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Moza usweisya aimbilwe syoonse sintu nsyaatupa"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Myozo yesu yoonse ainjilwe nguwe, ati isalale, zibi zikatandwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ansi, ezeulu, koonse alyoonse, tulemeke leza, mwami wasikwense"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 3,
-    "title": "c. aleluya ncendimuyanda",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "3C. ALELUYA NCENDIMUYANDA",
-          "aleluya ncendimuyanda muvuni; aleluya ncendimuyanda aboobo wakagwisya zibi zyangu, wandisanzya, ndatuba"
+          "aleluya ncendimuyanda muvuni;",
+          "aleluya ncendimuyanda aboobo wakagwisya zibi zyangu,",
+          "wandisanzya, ndatuba"
         ]
       }
     ]
   },
   {
     "hymnNo": 4,
-    "title": "BANTU BOONSE BALI ANSI",
+    "title": "Bantu boonse bali ansi",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "4.Bantu boonse bali ansi“all people that on earth do dwell”",
           "Bantu boonse bali ansi, amwiimbile mwami leza. Amumulemye loko: kamuza, amutangale"
         ]
       },
@@ -312,54 +171,14 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 4,
-    "title": ".Bantu boonse bali ansi",
+    "hymnNo": "4C",
+    "title": "C. Alumbwe mwami",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "4.Bantu boonse bali ansi“all people that on earth do dwell”",
-          "Bantu boonse bali ansi, amwiimbile mwami leza. Amumulemye loko: kamuza, amutangale"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Tulizi kuti mubumbi wakatulenga alike: tuli bantu bakwe toonse: nkaambo kaluyando lwakwe"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Amunjile nkwebede, amusekelele loko. Muzibe kuti taatesu; kuleelede kumulumba"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nkaambo kakuti mubotu, ulatufwida luzyalo. Bwini bwakwe mpobucili; bunooimvwi lyoonse lyoonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Amumulumbaizye leza, anywe nozilenge zyaansi mumulumbe wamakamu; leza, muuya, a-mwaanakwe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 4,
-    "title": "c. Alumbwe mwami",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "4c. Alumbwe mwami",
           "Halelu, Halelu,",
           "Halelu, Haleluya, alumbwe mwami. Halelu, Halelu,",
           "Halelu, Haleluya, alumbwe mwami"
@@ -378,145 +197,71 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 5,
-    "title": "LEZA SIMALELO WESU",
+    "title": "Leza simalelo wesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "5.Leza simalelo wesu“ever faithful”",
-          "Leza simalelo wesu aimbilwe ndiswe",
-          "ciindululo:",
+          "Leza simalelo wesu aimbilwe ndiswe ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Atulumbe zuba lyakwe ndyatupatusizya",
-          "ciindululo:",
+          "Atulumbe zuba lyakwe ndyatupatusizya ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Walo mwezi wamasiku ngwatumunisizya",
-          "ciindululo:",
+          "Walo mwezi wamasiku ngwatumunisizya ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Atulumbe mvula yakwe njawisizya toonse",
-          "ciindululo:",
+          "Atulumbe mvula yakwe njawisizya toonse ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Nyika eyi njitulima ilatupa zilyo",
-          "ciindululo:",
+          "Nyika eyi njitulima ilatupa zilyo ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Atumulumbisye jesu ngwaatuselusizya.ngwaatuselusizya",
-          "ciindululo:",
+          "Atumulumbisye jesu ngwaatuselusizya.ngwaatuselusizya ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Akube bulemu kwakwe tumwiimbile lyoonse",
-          "ciindululo:",
+          "Akube bulemu kwakwe tumwiimbile lyoonse ciindululo:",
           "Buuya bwakwe tabumani leza uswinizya"
         ]
       }
     ]
   },
   {
-    "hymnNo": 5,
-    "title": ".Leza simalelo wesu",
+    "hymnNo": "5C",
+    "title": "Andime, andime, ndicite ndibe wako.",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "5.Leza simalelo wesu“ever faithful”",
-          "Leza simalelo wesu aimbilwe ndiswe",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Atulumbe zuba lyakwe ndyatupatusizya",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Walo mwezi wamasiku ngwatumunisizya",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Atulumbe mvula yakwe njawisizya toonse",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nyika eyi njitulima ilatupa zilyo",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Atumulumbisye jesu ngwaatuselusizya.ngwaatuselusizya",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Akube bulemu kwakwe tumwiimbile lyoonse",
-          "ciindululo:",
-          "Buuya bwakwe tabumani leza uswinizya"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 5,
-    "title": "C. ANDIME ANIME",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "5C. ANDIME ANIME",
-          "Andime, andime, ndicite ndibe wako"
+          "Andime, andime, ndicite ndibe wako."
         ]
       }
     ]
@@ -530,56 +275,118 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Buka moyo wangu iimba; uyiimbile Muunununi",
-          "Ndielede kumwiimbila; Luyando olutaulwi"
+          "Buka moyo wangu iimba; uyiimbile Muunununi. Ndielede kumwiimbila; Luyando olutaulwi.",
+          "Luyando lubotu lwini, Luyando olutaulwi."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Moza usweisya aimbilwe syoonse sintu nsyaatupa"
+          "Wandibona ndabisyigwa; wandiyanda nendiboobo. Wandifutusya mububi; Luyando olutaulwi.",
+          "Luyando lubotu lwini, Luyando olutaulwi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Myozo yesu yoonse ainjilwe nguwe, ati isalale, zibi zikatandwe"
+          "Nibavula abampenzya;",
+          "Nzila neisinkwa kubi.",
+          "Ulaakweenzya moyo wangu; Luyando olutaulwi.",
+          "Luyando lubotu lwini, Luyando olutaulwi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ansi, ezeulu, koonse alyoonse, tulemeke leza, mwami wasikwense"
+          "Nindabomba mukupenga; kupenga kupati pati. Lyoonse ulakkala ame; Luyando olutaulwi.",
+          "Luyando lubotu lwini, Luyando olutaulwi."
         ]
       }
     ]
   },
   {
-    "hymnNo": 7,
-    "title": "Muuya wangu Lumba Mwami",
+    "hymnNo": "6C",
+    "title": "C. ATULIBAMBE LYOONSE",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Muuya wangu Lumba Mwami;",
-          "Leta zipego zyako;",
-          "Wanununwa wajatiilwa,",
-          "Uleelede kumwiimba.",
-          "Lumbaizya! Lumbaizya!",
-          "Lumba Mwami uutafwi."
+          "Atulibambe lyoonse,",
+          "Tatubwizi buzuba,",
+          "Bwakutolwa kujulu,",
+          "Mumunzi wa-Leza Mwami."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Lumbaizya luse lwakwe,",
-          "kuli Bataata Leza;",
-          "Lumba nkaambo tasanduki,",
-          "Ucileleka iswe.",
-          "Lumbaizya! Lumbaizya!",
-          "Kusyomeka nkukwakwe."
+          "Tuyoobona Leza,",
+          "Acuuno cakwe,",
+          "Tuyooitwa amazina,",
+          "Tuyootolwa kujulu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Atuyeeye buzuba,",
+          "Bwakutolwa kujulu,",
+          "Mu-Jerusalema,",
+          "Mumunzi wa-Leza Mwami."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Aabo bataluleme,",
+          "Bayoosyaala anze,",
+          "Mumudima utaambwi,",
+          "Bayoopya mumulilo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Aabo baluleme,",
+          "Bayookkala a-Leza,",
+          "A-Jesu Mwanaakwe,",
+          "Mumunzi utakwe zibi."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Eeno iswe toonse,",
+          "Twakalipa Ku-Mwami,",
+          "Atuyeeye buzuba,",
+          "Bwakumana kweeyi nyika."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 7,
+    "title": "Muuya Wangu Lumba Mwami",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Muuya wangu Lumba Mwami; Leta zipego zyako;",
+          "Wanununwa wajatiilwa,",
+          "Uleelede kumwiimba",
+          "Lumbaizya! Lumbaizya! Lumba Mwami uutafwi\"."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lumbaizya luse lwakwe, kuli Bataata Leza; Lumba nkaambo tasanduki,",
+          "Ucileleka iswe",
+          "Lumbaizya! Lumbaizya! Kusyomeka nkukwakwe"
         ]
       },
       {
@@ -588,7 +395,7 @@ export const tongaHymns = [
           "Watulela mbuli Taata,",
           "Ulizi ampotuwa;",
           "Mumaanza watusumpula,",
-          "Watufutula lyoonse.",
+          "Watufutula lyoonse",
           "Lumbaizya! Lumbaizya!",
           "Lumba luzyalo lwakwe."
         ]
@@ -596,30 +403,31 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 7,
-    "title": "c.Bakristo bamwami jesu",
+    "hymnNo": "7C",
+    "title": "c. Bakristo bamwami jesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "7c. Bakristo bamwami jesu",
-          "Bakristo; bamwami jesu balalindila kuboola kwakwe; mwami utupe nguzu kuti tukuccilile; kusikilakuzuba oobo bwacipangano mwami fwambaana ututole kunyika yacipangano"
+          "Bakristo; bamwami jesu balalindila kuboola kwakwe;",
+          "mwami utupe nguzu kuti tukuccilile;",
+          "kusikilakuzuba oobo bwacipangano mwami fwambaana ututole kunyika yacipangano"
         ]
       }
     ]
   },
   {
     "hymnNo": 8,
-    "title": "MWAMI WESU WAKUJULU",
+    "title": "Mwami wesu wakujulu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Mwami wesu  wakujulu, tulakubombela lyoonse; luzyalo lwako ndupati, mwami wesu"
+          "Mwami wesu wakujulu, tulakubombela lyoonse; luzyalo lwako ndupati, mwami wesu"
         ]
       },
       {
@@ -655,52 +463,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 8,
-    "title": ". Mwami wesu wakujulu",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "8. Mwami wesu wakujulu“o lord of heaven,earth and sea”",
-          "Mwami wesu  wakujulu, tulakubombela lyoonse; luzyalo lwako ndupati, mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakabumba nyika eyi, azintu zyoonse zibonwa nduwe olike cilenga, mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Abantu bamasi oonse, abo njimilimo yako; wababotezya asunu mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Azilyo zyoonse zilazwa kulinduwe, o muleli; watupa zyoonse zibotu, mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mwami leza, wakatupa cipo cipati cakwiinda; ngu-mwaanako wakafwida, bantu boonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Sunu tulakulumbisya, toonse tulakulemeka; tulalumba lusa lwako, mwami wesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 8,
+    "hymnNo": "8C",
     "title": "C. AMWAMI JESU ULAAMBA KUTI",
     "creator": "Unknown",
     "chorus": null,
@@ -708,21 +471,22 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "8C. AMWAMI JESU ULAAMBA KUTI",
-          "Amwami jesu ulaamba kuti ooyo uuzunda ngonguwe uya kunjila. Taata mwami fwambaana jesu m-m-m-m mwami fwambaana"
+          "Amwami jesu ulaamba kuti ooyo uuzunda ngonguwe uya kunjila.",
+          "Taata mwami fwambaana jesu m-m-m-m mwami fwambaana"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mbelele zyako zyako zyapenga; amumutande saatani ngooyo uyanda kuti amwaye mbelele zyanu"
+          "Mbelele zyako zyako zyapenga;",
+          "amumutande saatani ngooyo uyanda kuti amwaye mbelele zyanu"
         ]
       }
     ]
   },
   {
     "hymnNo": 9,
-    "title": "MYOYO YESU ILAKONDWA",
+    "title": "Myoyo yesu ilakondwa",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -730,7 +494,6 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Myoyo yesu ilakondwa, kumwiimbila leza wesu",
-          "Ciindululo:",
           "Buuya bwakwe tabumani, atumulombozye leza"
         ]
       },
@@ -738,7 +501,6 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Atubuzye buuya bwakwe, kuympuwo koonse koonse",
-          "Ciindululo:",
           "Buuya bwakwe tabumani, atumulombozye leza"
         ]
       },
@@ -746,7 +508,6 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Zyoonse zitusekelezya, zyazwa kulinguwe leza",
-          "Ciindululo:",
           "Buuya bwakwe tabumani, atumulombozye leza"
         ]
       },
@@ -754,7 +515,6 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Wakatupa buumi bwesu nguutulela lyoonse lyoonse",
-          "Ciindululo:",
           "Buuya bwakwe tabumani, atumulombozye leza"
         ]
       },
@@ -762,151 +522,73 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "Nkaako atumutembuule, leza wesu uutuyanda",
-          "Ciindululo:",
           "Buuya bwakwe tabumani, atumulombozye leza"
         ]
       }
     ]
   },
   {
-    "hymnNo": 9,
-    "title": ". Myoyo yesu ilakondwa",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "9. Myoyo yesu ilakondwa“earth rejoice our lord is king”",
-          "Myoyo yesu ilakondwa, kumwiimbila leza wesu",
-          "Ciindululo:",
-          "Buuya bwakwe tabumani, atumulombozye leza"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Atubuzye buuya bwakwe, kuympuwo koonse koonse",
-          "Ciindululo:",
-          "Buuya bwakwe tabumani, atumulombozye leza"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Zyoonse zitusekelezya, zyazwa kulinguwe leza",
-          "Ciindululo:",
-          "Buuya bwakwe tabumani, atumulombozye leza"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Wakatupa buumi bwesu nguutulela lyoonse lyoonse",
-          "Ciindululo:",
-          "Buuya bwakwe tabumani, atumulombozye leza"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nkaako atumutembuule, leza wesu uutuyanda",
-          "Ciindululo:",
-          "Buuya bwakwe tabumani, atumulombozye leza"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 9,
+    "hymnNo": "9C",
     "title": "C. BANAKALINDU KKUMI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Bosanwe bakasyaala, bakonkomona amulyango,",
+      "sibwiinga wabaambila kamuzwa, nobabyaabi!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "9C. BANAKALINDU KKUMI“the ten virgins”",
-          "Banakalindu kkumi amalambe aabo, bakazwa bosanwe bamaanu, bakabikka Mafuta mumalambi aabo, kumucingana sibwiinga"
+          "Banakalindu kkumi amalambe aabo, bakazwa bosanwe bamaanu,",
+          "bakabikka Mafuta mumalambi aabo, kumucingana sibwiinga"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Bosanwe bakasyaala, bakonkomona amulyango, sibwiinga wabaambila kamuzwa, nobabyaabi!"
+          "Eeno ciya kuba mboonya kuli ndiswe, kuti twacita mbotuyanda;",
+          "tuyoosyaala anze akukombelela, walo uyooti, nsemwizi pe"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 10,
+    "title": "Ndaima nguzu zya laza",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndaimba nguzu zya leza, zyacita malundu, zyakalenga lwizi loonse, walenga ijulu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "ndaimba busongo bwakwe kulela izuba a mwezi usalalisya, a nyenyeezi zyoonse"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Eeno ciya kuba mboonya kuli ndiswe, kuti twacita mbotuyanda; tuyoosyaala anze akukombelela, walo uyooti, nsemwizi pe"
+          "Ndaimba aluse lwakwe, a kutupa kulya, wakalenga ajwi lyakwe wakalenga ajwi lyakwe wazyaamba nzibotu: mwami uukankamanisya koonse nkondalanga kuti ndalanga munyika, nekuba kujula"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Bosanwe bakasyaala, bakonkomona amulyango, sibwiinga wabaambila kamuzwa, nobabyaabi!"
+          "A maluba oonse alakulemeka;",
+          "Makumbi amuuwo oonse , akalengwa anguwe;",
+          "zilengwa zipona anguwe ulazilangisya, taaku nkotunga tulaya;",
+          "koonse mwami nkwali"
         ]
       }
     ]
   },
   {
-    "hymnNo": 10,
-    "title": "NDAIMBA NGUZU ZYA LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndaimba nguzu zya leza, zyacita malundu, zyakalenga lwizi loonse, walenga ijulu ndaimba busongo bwakwe kulela izuba a mwezi usalalisya, a nyenyeezi zyoonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndaimba aluse lwakwe, a kutupa kulya, wakalenga ajwi lyakwe wakalenga ajwi lyakwe wazyaamba nzibotu: mwami uukankamanisya koonse nkondalanga kuti ndalanga munyika, nekuba kujula"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "A maluba oonse alakulemeka; Makumbi amuuwo oonse , akalengwa anguwe; zilengwa zipona anguwe ulazilangisya, taaku nkotunga tulaya; koonse mwami nkwali"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 10,
-    "title": ".Ndaima nguzu zya laza",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "10.Ndaima nguzu zya laza“I sing the mighty power”",
-          "Ndaimba nguzu zya leza, zyacita malundu, zyakalenga lwizi loonse, walenga ijulu ndaimba busongo bwakwe kulela izuba a mwezi usalalisya, a nyenyeezi zyoonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndaimba aluse lwakwe, a kutupa kulya, wakalenga ajwi lyakwe wakalenga ajwi lyakwe wazyaamba nzibotu: mwami uukankamanisya koonse nkondalanga kuti ndalanga munyika, nekuba kujula"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "A maluba oonse alakulemeka; Makumbi amuuwo oonse , akalengwa anguwe; zilengwa zipona anguwe ulazilangisya, taaku nkotunga tulaya; koonse mwami nkwali"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 10,
+    "hymnNo": "10C",
     "title": "C. BANTU BASYOMA",
     "creator": "Unknown",
     "chorus": null,
@@ -914,8 +596,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "10C. BANTU BASYOMA",
-          "Bantu basyoma muli-jesu bayoopona, ukufwa kwabo takuli kwamuuya, balaya ku-bwami bwa-kujulu"
+          "Bantu basyoma muli-jesu bayoopona,",
+          "ukufwa kwabo takuli kwamuuya,",
+          "balaya ku-bwami bwa-kujulu"
         ]
       }
     ]
@@ -929,64 +612,50 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndilimukugamba me, amilimo mipati, yakacitwa anduwe, yoonse iladundizya bupati bwako leza, bulayoosya me malaa."
+          "Ndilimukugambwa me,",
+          "amilimo mipati,",
+          "Yakacitwa anduwe,",
+          "Yoonse iladundizya.",
+          "Bupati bwako Leza,",
+          "Bulayoosya me malaa"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ikuti ndeebesesya milimo yakujulu, ikuti ndeebesesya milimo yansi, ilaloka misozi kuti ndayeeya nduwe"
+          "Ikuti ndeebesesya,",
+          "milimo yakujulu;",
+          "Ikuti ndeebesesya,",
+          "milimo yansi,",
+          "Ilaloka misozi,",
+          "kuti ndayeeya nduwe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Leza mupati wesu wakatulenga toonse ikuti watuyanda wakazootupa jesu watapa muuya wakwe, ulatwaambilila swe"
+          "Leza Mupati wesu,",
+          "Wakatulenga toonse;",
+          "Ikuti watuyanda,",
+          "wakazootupa Jesu.",
+          "Watupa Muuya wakwe,",
+          "Ulatwaambilila swe."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Dundiizya, uwe julu, dundiizya, uwe nyika, dundiizya uwe lwaanze, aswe atudundiizye. Oyu mulengi wesu uutuyandisya loko"
+          "Dundiizya, uwe julu,",
+          "Dundiizya, uwe nyika;",
+          "Dundiizya uwe lwaanze.",
+          "Aswe atudundiizye.",
+          "Oyu Mulengi wesu utuyandisya loko."
         ]
       }
     ]
   },
   {
-    "hymnNo": 11,
-    "title": ". Ndilimukugamba me",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "11. Ndilimukugamba me",
-          "Ndilimukugamba me, amilimo mipati, yakacitwa anduwe, yoonse iladundizya bupati bwako leza, bulayoosya me malaa."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ikuti ndeebesesya milimo yakujulu, ikuti ndeebesesya milimo yansi, ilaloka misozi kuti ndayeeya nduwe"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Leza mupati wesu wakatulenga toonse ikuti watuyanda wakazootupa jesu watapa muuya wakwe, ulatwaambilila swe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Dundiizya, uwe julu, dundiizya, uwe nyika, dundiizya uwe lwaanze, aswe atudundiizye. Oyu mulengi wesu uutuyandisya loko"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 11,
+    "hymnNo": "11C",
     "title": "C.BANTU BOONSE BAZIBE",
     "creator": "Unknown",
     "chorus": null,
@@ -994,8 +663,10 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "11C.BANTU BOONSE BAZIBE“everything ought to know”",
-          "Bantu boonse bazibe,bantu boonse bazibe,bantu boonse bazibe jesu mwami.uli mubotu kwiinda boonse, uli ntanda imweka; ulabainda bantu boonse, bantu boonse bazibe."
+          "Bantu boonse bazibe,bantu boonse bazibe,",
+          "bantu boonse bazibe jesu mwami.",
+          "uli mubotu kwiinda boonse, uli ntanda imweka;",
+          "ulabainda bantu boonse, bantu boonse bazibe."
         ]
       }
     ]
@@ -1009,60 +680,50 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Tulalumba leza amyoyo ajwi lyesu, uucita zigambya, uukomanisya nyika; wakatuleleka, kuzwa  kabucece, wakatupa zipo zyaluyando ;wakwe"
+          "Tulalumba Leza amyoyo ajwi lyesu,",
+          "Uucita zigambya,",
+          "uukomanisya nyika;"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Leza abaandiswe mubuumi bwesu boonse atabgazye myoyo aluumuno lwakwe, atusololele, akatufutulwe kuya kutamami, kuya kutamani"
+          "Wakatuleleka, kuzwa kubucece,",
+          "Wakatupa zipo zyaluyando lwakwe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Lumbaizya mwami, amumuvuntamine, musyome jwi lyakwe lyakuti wanununa ulaabululami bwakutusolweda, tulamulangila notukatazigwa"
+          "Leza abaandiswe",
+          "Mubuumi bwesu boonse.",
+          "Atangazye myoyo aluumuno lwakwe;",
+          "Atusololele, akatufutule",
+          "Kuya kutamani,",
+          "kuya kutamani."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Lumbaizya Mwami,",
+          "amumuvuntamine,",
+          "Musyome Jwi lyakwe lyakuti wanununa.",
+          "Ulaabululami bwakutusolweda,",
+          "Tulamulangila notukatazigwa."
         ]
       }
     ]
   },
   {
-    "hymnNo": 12,
-    "title": ".Tulalumba leza",
+    "hymnNo": "12C",
+    "title": "C. bulamana bumpelenge",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "12.Tulalumba leza“now thank we all our God”",
-          "Tulalumba leza amyoyo ajwi lyesu, uucita zigambya, uukomanisya nyika; wakatuleleka, kuzwa  kabucece, wakatupa zipo zyaluyando ;wakwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Leza abaandiswe mubuumi bwesu boonse atabgazye myoyo aluumuno lwakwe, atusololele, akatufutulwe kuya kutamami, kuya kutamani"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Lumbaizya mwami, amumuvuntamine, musyome jwi lyakwe lyakuti wanununa ulaabululami bwakutusolweda, tulamulangila notukatazigwa"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 12,
-    "title": "c bulamana bumpelenge",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "12c bulamana bumpelenge",
           "Bulamana bumpelenge (4)",
           "Siya ansi imikuli (4)",
           "Kulainkwa akujulu (4)"
@@ -1074,127 +735,55 @@ export const tongaHymns = [
     "hymnNo": 13,
     "title": "ULI MULEMU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndakwiimbila, Leza Mufutuli.",
+      "Uli Mulemu! Uli Mulemu!",
+      "Moyo wangu ulakutembaula.",
+      "Uli Mulemu! Uli Mulemu!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Leza wamgu, nenjeeya mukuyoowa, milimo yoonse, yamaanza ako. Nyenyeezi! Nguzu zyako zyalibonya munyika."
+          "Leza wangu, nenjeeya mukuyoowa,",
+          "Milimo yoonse, yamaanza ako.",
+          "Nyenyeezi! Kundindima kuyoosya!",
+          "Nguzu zyako zyalibonya munyika."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
+          "Nelemenwa mikuli ikatazya,",
+          "Amause, ndalanga kulinguwe.",
+          "Luyando lwakwe lulatontozya moyo.",
+          "Ulaamba “Luse lwangu lwazulila.”"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nelemenwa mikuli ikatazya amause, ndalanga kulinguwe luyando lwakwe lulatontozya moyo. Ulamba,",
-          "luse lwangu lwazulila"
+          "Nenjeeya Mwanaa Leza",
+          "Mbwaakatumwa,",
+          "Kuti afwe, nsikonzyi kumvwisya.",
+          "Aciingano watola mukuli wangu,",
+          "Wandifwida kutola zibi zyangu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nenjeeya mwanaa leza mbwaakatumwa, kuti afwe, nsikonzyi kumuvwisya aciingano watola mukuli wangu, wandifwida kutola zibi zyangu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kristo nazooboola akusekelela, akunditola njookondwa kapati. Njookotama, njoobombya moyo wangu, akwiimba oko leza uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
+          "Kristo nazooboola akusekelela,",
+          "Akunditola njookondwa kapati.",
+          "Njookotama,",
+          "Njoobombya moyo wangu,",
+          "Akwiimba oko Leza uli Mulemu!"
         ]
       }
     ]
   },
   {
-    "hymnNo": 13,
-    "title": ".ULI MULEMU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "13.ULI MULEMU“how great thou art”",
-          "Leza wamgu, nenjeeya mukuyoowa, milimo yoonse, yamaanza ako. Nyenyeezi! Nguzu zyako zyalibonya munyika."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nelemenwa mikuli ikatazya amause, ndalanga kulinguwe luyando lwakwe lulatontozya moyo. Ulamba,",
-          "luse lwangu lwazulila"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nenjeeya mwanaa leza mbwaakatumwa, kuti afwe, nsikonzyi kumuvwisya aciingano watola mukuli wangu, wandifwida kutola zibi zyangu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kristo nazooboola akusekelela, akunditola njookondwa kapati. Njookotama, njoobombya moyo wangu, akwiimba oko leza uli mulemu!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndakwiimbila leza mufutuli, uli mulemu! Uli mulemu! Moyo wangu ulakutembaula uli mulemu! Uli mulemu!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 13,
+    "hymnNo": "13C",
     "title": "C. BULOWA BWA-JESU",
     "creator": "Unknown",
     "chorus": null,
@@ -1202,7 +791,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "13C. BULOWA BWA-JESU",
           "Bulowa bwa-jesu bwakatumwaikila; bulagwisya zibi zyoonse zyababisyi"
         ]
       }
@@ -1217,7 +805,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Usalala loko, leza mupati, masiku asikati tulakutembaula. Leza siluzyalo, nduwe siluyando, uliluleme, leza alike"
+          "Usalala loko, leza mupati, masiku asikati tulakutembaula.",
+          "Leza siluzyalo, nduwe siluyando, uliluleme, leza alike"
         ]
       },
       {
@@ -1235,54 +824,69 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Uusalala loko, leza mupati, utembaulwe azyoonse zyaansi azyakujulu. Usalala loko, toonse twakulemya, ikuti nduwe mwami walyoonse"
+          "Uusalala loko, leza mupati, utembaulwe azyoonse zyaansi azyakujulu.",
+          "Usalala loko, toonse twakulemya, ikuti nduwe mwami walyoonse"
         ]
       }
     ]
   },
   {
-    "hymnNo": 14,
-    "title": ". Usalala loko",
+    "hymnNo": "14C",
+    "title": "C. CENJELA OMESO NCOBONA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "14. Usalala loko“holy, holy, holy”",
-          "Usalala loko, leza mupati, masiku asikati tulakutembaula. Leza siluzyalo, nduwe siluyando, uliluleme, leza alike"
+          "Cenjela omeso ncobona",
+          "Cenjela omeso ncobona",
+          "Nkwali Taata kujulu utulanga",
+          "Aluyando",
+          "Cenjela omeso ncobona."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Usalala loko, bangelo boonse, bafutusi, balaizi bakuvundamina, taakwe noozoomana nduwe kasensa kabuumi lyoonse"
+          "Cenjela omatwi mbomvwa",
+          "Cenjela omatwi mbomvwa",
+          "Nkwali Taata kujulu utulanga",
+          "Aluyando",
+          "Cenjela omatwi mbomvwa."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Usalala loko, mwami wejulu bubi bulatukacizya kukubona,leza taakwe uusalala nduwe luzutu, uli sibuuya, singuzuzyoonse"
+          "Cenjela maulu mboenda",
+          "Cenjela maulu mboenda",
+          "Nkwali Taata kujulu utulanga",
+          "Aluyando",
+          "Cenjela maulu mboenda."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Uusalala loko, leza mupati, utembaulwe azyoonse zyaansi azyakujulu. Usalala loko, toonse twakulemya, ikuti nduwe mwami walyoonse"
+          "Cenjela mulomo mboamba",
+          "Cenjela mulomo mboamba",
+          "Nkwali Taata kujulu utulanga",
+          "Aluyando",
+          "Cenjela mulomo mboamba."
         ]
       }
     ]
   },
   {
     "hymnNo": 15,
-    "title": "ZINTU ZYOONSE ZIBOTU",
+    "title": "Zintu zyoonse zibotu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "15.Zintu zyoonse zibotu“all things bright and beautiful”",
           "Zintu zyoonse zibotu, azyoonse zilapona; zintu zyoonse ziyoosya, zyakalengwa a-leza"
         ]
       },
@@ -1313,46 +917,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 15,
-    "title": ".Zintu zyoonse zibotu",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "15.Zintu zyoonse zibotu“all things bright and beautiful”",
-          "Zintu zyoonse zibotu, azyoonse zilapona; zintu zyoonse ziyoosya, zyakalengwa a-leza"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakalenga maluba, mabala ngetweebela; bayuni abanyama, answi zyoonse mulwizi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Amalundu malamfu,milonga atusensa, izuba anyenyeezi, zilaleta mumuni"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Luuwo lumwi ampeyo, acilimo emvula, micelo azipopwe, kukutulela toonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Walo watupa meso, tubone ncito zyakwe; tuze akumulumba, cilenga mwami wesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 15,
+    "hymnNo": "15C",
     "title": "C. CCILILA JESU MAZUBA OONSE",
     "creator": "Unknown",
     "chorus": null,
@@ -1360,15 +925,16 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "15C. CCILILA JESU MAZUBA OONSE",
-          "Ccilila jesu mazuba oonse, kwiina cipenzya nasololela. Mumuni naa cimvule lyoonse nkumweka, jesu ngomweembezi lyoonse"
+          "Cilila jesu mazuba oonse, kwiina cipenzya nasololela.",
+          "Mumuni naa cimvule lyoonse nkumweka,",
+          "jesu ngomweembezi lyoonse"
         ]
       }
     ]
   },
   {
     "hymnNo": 16,
-    "title": "ALELUYA",
+    "title": "Aleluya",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -1381,7 +947,6 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
           "Aleluya! Imba aleluya! Aleluya! Imba aleluya! Tulakondwa toonse, atwiimbe toonse, aleluya!"
         ]
       },
@@ -1400,41 +965,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 16,
-    "title": ".Aleluya",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "16.Aleluya“my soul is filled with glory”",
-          "Jesu wasika kundikapula, wakandijana kulekule; ndalisweekede muzibi zinji, munzila imbi ya satani"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! Imba aleluya! Aleluya! Imba aleluya! Tulakondwa toonse, atwiimbe toonse, aleluya!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Makani akwe atufundisya, luyando lwakwe lwakayoosya; ngu jesu kristo wakabafwida, kubafutula bantu babi."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Masukusyo manji alasika, tulajana mapenzi manji; ansi aano tuli beenzu buyo, cisi cesu cilikujulu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 16,
+    "hymnNo": "16C",
     "title": "C. COONSE CIINDI",
     "creator": "Unknown",
     "chorus": null,
@@ -1442,7 +973,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "16C. COONSE CIINDI",
           "Coonse ciindi ndamvwa muuya uusalala mulindime (2)",
           "Mumalundu, mutulundu, mutunkolola, mulwizi. (2)"
         ]
@@ -1453,7 +983,9 @@ export const tongaHymns = [
     "hymnNo": 17,
     "title": "ATWIIMBE LUYANDO LWAKWE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -1464,114 +996,25 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
+          "Boonse bantu basamba mumo basamba ncobeni bapone balaabuumi butamani bupegwa kubantu ba-jesu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Boonse bantu basamba mumo basamba ncobeni bapone balaabuumi butamani bupegwa kubantu ba-jesu"
+          "Ano tumvwa luyando lwakwe tukondwa, jesu ulaaswebo; kuyakuba buti ku-julu! Tuyakwiimba lwiimbo lwa-mwami"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ano tumvwa luyando lwakwe tukondwa, jesu ulaaswebo; kuyakuba buti ku-julu! Tuyakwiimba lwiimbo lwa-mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Tulamunyonena munyika, mane asike atulesye; elyo uyakututambula kumalelo aakwe ku-julu"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
         ]
       }
     ]
   },
   {
-    "hymnNo": 17,
-    "title": ".Atuimbe luyando lwakwe",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "17.Atuimbe luyando lwakwe“we shall win”",
-          "Atwiimbe luyando lwakwe, luyando olo lutaboli, atwiimbe mwana wa-leza wakayasilwa iswe bantu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Boonse bantu basamba mumo basamba ncobeni bapone balaabuumi butamani bupegwa kubantu ba-jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ano tumvwa luyando lwakwe tukondwa, jesu ulaaswebo; kuyakuba buti ku-julu! Tuyakwiimba lwiimbo lwa-mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Tulamunyonena munyika, mane asike atulesye; elyo uyakututambula kumalelo aakwe ku-julu"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndasyoma wavuna, bulowa bulandisalazya. Wakeza, akaambo kaluzyalo lwakwe, wakeza, atufwide nkumbu aluse"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 17,
+    "hymnNo": "17C",
     "title": "C. DANIYELI",
     "creator": "Unknown",
     "chorus": null,
@@ -1579,9 +1022,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "17C. DANIYELI",
           "Daniyeli wakoona mucilindi cabasyuumbwa, wakumbila leza kumuyovwa.",
-          "Nkabela walila “yo” Nkabela walila “yo” Nkabela walila “leza namakungwe”"
+          "Nkabela walila “yo” Nkabela walila",
+          "“yo” Nkabela walila “leza namakungwe”"
         ]
       }
     ]
@@ -1616,37 +1059,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 18,
-    "title": ". Atulumbe mwami jesu",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "18. Atulumbe mwami jesu“guide me oh thou great Jehovah”",
-          "Atulumbe mwami jesu nkaambo wakatufwida; wakatucitila buuya, watufutula toonse.",
-          "O muvuni o muvuni tunoomutembaula, O muvuni o muvuni tunoomutembaula"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Iswe tobasimudima wakeza kulindiswe; wakaleta lufutuko, kuti tuzwe muzibi",
-          "O muvuni, O muvini, twalipa kulinduwe. O muvuni, O muvuni, twaalipa kulinduwe"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nobantu bamasi oonse amulumbe jesu, aswebo tobantu bakwe, atumwiimbile mwami",
-          "O muvuni, O muvuni, toonse twakulemeka. O muvuni, O muvuni, toonse twakulemeka"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 18,
+    "hymnNo": "18C",
     "title": "C. DANIYELI WAKAKOMBA",
     "creator": "Unknown",
     "chorus": null,
@@ -1654,8 +1067,10 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "18C. DANIYELI WAKAKOMBA",
-          "Daniyeli wakakomba totatwe abuzuba, pele bakamuwaala mudindi lyabasyuumbwa. Naakali omuya taakwe nakayoowa, leza wakabakasya teebakamucisa"
+          "Daniyeli wakakomba totatwe abuzuba,",
+          "pele bakamuwaala mudindi lyabasyuumbwa.",
+          "Naakali omuya taakwe nakayoowa,",
+          "leza wakabakasya teebakamucisa"
         ]
       }
     ]
@@ -1664,106 +1079,33 @@ export const tongaHymns = [
     "hymnNo": 19,
     "title": "ATUTEMBAULE MWAMI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
+      "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "19. ATUTEMBAULE MWAMI“hallelujah to the lamb”",
           "Atutembaule mwami, mbuli bangelo; balaamajwi manjimanji, baalukondo lumwi"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
+          "Oyo weelede, wakafwa, kusumpula boobo; toonse atwaambe oobo, nkaambo watufwida"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Oyo weelede, wakafwa, kusumpula boobo; toonse atwaambe oobo, nkaambo watufwida"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Zilengwa zyoonse ziyaane, kulumba izina; lya-jesu walo muleli, akumukombela."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
         ]
       }
     ]
   },
   {
-    "hymnNo": 19,
-    "title": ". ATUTEMBAULE MWAMI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "19. ATUTEMBAULE MWAMI“hallelujah to the lamb”",
-          "Atutembaule mwami, mbuli bangelo; balaamajwi manjimanji, baalukondo lumwi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Oyo weelede, wakafwa, kusumpula boobo; toonse atwaambe oobo, nkaambo watufwida"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Zilengwa zyoonse ziyaane, kulumba izina; lya-jesu walo muleli, akumukombela."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atutembaule mwami, wakafwa a-kalivali: aleluya, aleluya, aleluya,ameni.",
-          "Ndilayanda zina lyakwe, Ndilayanda zina lyakwe ndilayanda, ndilayanda, zina lyakwe, zina lya-muvuni"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 19,
+    "hymnNo": "19C",
     "title": "c. Eeyo nyenyeezi",
     "creator": "Unknown",
     "chorus": null,
@@ -1771,7 +1113,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "19C. EEYO NYENYEEZI",
           "Eeyo nyenyeezi ilamweka (2)",
           "Wazyalwa mufutuli, wazyalwa mwami, mwami wesu jesu, inyika yajana coolwe"
         ]
@@ -1811,34 +1152,19 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 20,
-    "title": ". JESU, LUKONDO LWAMOYO",
+    "hymnNo": "20C",
+    "title": "C. IVANGELI",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "20. JESU, LUKONDO LWAMOYO“the heavens declare thy glory”",
-          "Jesu, lukondo lwamyoyo uli buumi, a-Mumuni, nyika tiikonzyi kutukutya, elyo tweza kulinduwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kasimpe kako kaliimvwi; wabavuwa, balomba, uli koonse kulibaabo bayandaula, bakujana."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Myoyo yesu ikuyanda, koonse koonse nkutubede; walibonya, tulakondwa, twakusyoma, tulaacoolwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Kala lyoonse aswe, jesu tupe lubatamo lwako, mudima wabubi uzwe, Mumuni wako uboole."
+          "Ivangeli ivangeli, ivangeli lileempuwo. X2",
+          "No-Ba Kristo amutole majwi aaya. X3",
+          "Ivangeli lileempuwo.",
+          "Twati “Jesu, Jesu, Aleluya!” x3",
+          "Ivangeli lileempuwo."
         ]
       }
     ]
@@ -1876,34 +1202,48 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 21,
-    "title": ". Jesu na ndayeeya nduwe",
+    "hymnNo": "21C",
+    "title": "c. IMPETA IZOOLILA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Jesu ulaboola, ulaboola, ulaboola,",
+      "Ulaboola Mwami",
+      "Ulaboola mumakumbi",
+      "Bantu balowa, bantu balowa",
+      "Tabakamuboni Mwami Jesu,",
+      "Bayoomvwa kwiimba kwalo."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "21. Jesu na ndayeeya nduwe“jesus the very thought of thee”",
-          "Jesu, naa ndayeeya nduwe, kulanditangazya; pele njakukondwa loko kukala nkobede."
+          "Impeta izoolila, izolila Mujulu,",
+          "Nyika, nyika izoozungaana,",
+          "Munguzu zyakwe Mwami."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Jesu, ndizina ibotu lilainda oonse;tatukonzyi kwiimba limbi ilizunda lyako"
+          "Batamusyomi, batamusyomi",
+          "Tabakamuboni Mwami Jesu,",
+          "Bayoomvwa kwiimba kwalo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ncilangilo camumyoyo, yoonse iibombede; ulaaluse kuliboonse bakuyandaula"
+          "Basimamambe, basimamambe",
+          "Tabakamuboni Mwami Jesu,",
+          "Bayoomvwa kwiimba kwalo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Jesu ndukondo lupati, ncilumbulo cesu, jesu, nkokumweka lino kutakamani pe"
+          "Batamuyandi, batamuyandi",
+          "Tabakamuboni Mwami Jesu,",
+          "Bayoomvwa kwiimba kwalo."
         ]
       }
     ]
@@ -1941,34 +1281,34 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 22,
-    "title": ". Jesu ngu-mwami",
+    "hymnNo": "22C",
+    "title": "C. NDAKASOKA NDABISYA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Akaka Nowa, Jalula mulyango",
+      "Nowa, jalula mulyango",
+      "Nowa, jalula mulyango ndinjile."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "22. Jesu ngu-mwami“Jesus is king”",
-          "Jesu ngu-mwami, mwanaa leza, cilenga mubumbi wenyika ngu-mufuluti"
+          "Ndakasoka ndabisya",
+          "Nowa kondijalwida"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Amunyampuke, atumwiimbile, ngu-siluzyalo, mwanaa leza"
+          "Nsilindime ndajala,",
+          "Mungelo nguwakajala."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Atuzumine, majwi aa-leza tuleke zibi, nzetucitide"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Muze bakwesu, tumutembaule jesu ngu-leza usalalisya"
+          "Bamwi bayakulila,",
+          "Mungelo nayakusika."
         ]
       }
     ]
@@ -1982,221 +1322,117 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "23. Jesu wiinda zyoonse“jesus is all the world to me”",
-          "Jesu winda zyoonse, ulandipa buumi: ninguzu zyangu lyoonse,kakwiina nguwe ndawa ndausa, ndainka kwakwe, ulandibotezya buya; ulandipa kubotelwa, mweenzuma!"
+          "Jesu winda zyoonse, ulandipa buumi: ninguzu zyangu lyoonse,kakwiina nguwe ndawa ndausa, ndainka kwakwe, ulandibotezya buya;",
+          "ulandipa kubotelwa, mweenzuma!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Jesu wiinda zyoonse, mapenzi naasika; lyoonse ndainka kwakwe ndatainka ndilawa; ndamubula, nkwali lyoonse, takatali kundigwasya, zilongezyo ulandipa, mweenzuma!"
+          "Jesu wiinda zyoonse, mapenzi naasika;",
+          "lyoonse ndainka kwakwe ndatainka ndilawa;",
+          "ndamubula, nkwali lyoonse, takatali kundigwasya, zilongezyo ulandipa, mweenzuma!"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Jesu wiinda zyoonse, ndilamubotela; mebo nsikapiluki, pe, utandisiyi kuciingano, wakafwida kundivuna, mweenzuma!"
+          "Jesu wiinda zyoonse, ndilamubotela;",
+          "mebo nsikapiluki, pe, utandisiyi kuciingano, wakafwida kundivuna, mweenzuma!"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Jesu wiinda zyoonse, nsiyandi umbi pe; ndamusyoma mane nkafwe, uyoonditola kwakwe; buumi mbubotu anguwe, mbubotu ubutamani, kubotelwa kutamani, mweenzuma!"
+          "Jesu wiinda zyoonse, nsiyandi umbi pe;",
+          "ndamusyoma mane nkafwe, uyoonditola kwakwe;",
+          "buumi mbubotu anguwe, mbubotu ubutamani, kubotelwa kutamani, mweenzuma!"
         ]
       }
     ]
   },
   {
-    "hymnNo": 23,
-    "title": ". Jesu wiinda zyoonse",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "23. Jesu wiinda zyoonse“jesus is all the world to me”",
-          "Jesu winda zyoonse, ulandipa buumi: ninguzu zyangu lyoonse,kakwiina nguwe ndawa ndausa, ndainka kwakwe, ulandibotezya buya; ulandipa kubotelwa, mweenzuma!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesu wiinda zyoonse, mapenzi naasika; lyoonse ndainka kwakwe ndatainka ndilawa; ndamubula, nkwali lyoonse, takatali kundigwasya, zilongezyo ulandipa, mweenzuma!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu wiinda zyoonse, ndilamubotela; mebo nsikapiluki, pe, utandisiyi kuciingano, wakafwida kundivuna, mweenzuma!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Jesu wiinda zyoonse, nsiyandi umbi pe; ndamusyoma mane nkafwe, uyoonditola kwakwe; buumi mbubotu anguwe, mbubotu ubutamani, kubotelwa kutamani, mweenzuma!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 23,
+    "hymnNo": "23C",
     "title": "C. JEHOVA WAKATUMA ABRAHAMU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Langa nkuni ulijisi, ayalo ntibba ulijisi,",
+      "bataata, ulikuli mwana wambelele?",
+      "Mwanaangu, jehova ulizi"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "23C. JEHOVA WAKATUMA ABRAHAMU",
-          "Jehova wakatuma abrahamu, koyo kumulundu wa-moliya, wakabweza mwana wakwe isaka wakali alikke"
+          "Jehova wakatuma abrahamu, koyo kumulundu wa-moliya,",
+          "wakabweza mwana wakwe isaka wakali alikke"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Langa nkuni ulijisi, ayalo ntibba ulijisi, bataata, ulikuli mwana wambelele? Mwanaangu, jehova ulizi"
+          "Wakeenda mazuba otatwe, mulundu wakatalika kulibonya,",
+          "wakasiya kang’ola abazike,",
+          "wakasiya kang’ola abazike, wakeenda alikke"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakeenda mazuba otatwe, mulundu wakatalika kulibonya, wakasiya kang’ola abazike, wakasiya kang’ola abazike, wakeenda alikke"
+          "Wakatalika kuyaka kasanza, eelyo wabikka nkuni;",
+          "mpawo wakabweza mwana wakwe isaka; wakali alikke"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Langa nkuni ulijisi, ayalo ntibba ulijisi, bataata, ulikuli mwana wambelele? Mwanaangu, jehova ulizi"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Wakatalika kuyaka kasanza,  eelyo wabikka nkuni; mpawo wakabweza mwana wakwe isaka; wakali alikke"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Langa nkuni ulijisi, ayalo ntibba ulijisi, bataata, ulikuli mwana wambelele? Mwanaangu, jehova ulizi"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Wakatalika kusunga maanza, eelyo wasumpula intibba yakwe, wateelela jwi lizwa kujulu liti, langa ngooyo mugutu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Langa nkuni ulijisi, ayalo ntibba ulijisi, bataata, ulikuli mwana wambelele? Mwanaangu, jehova ulizi"
+          "Wakatalika kusunga maanza,",
+          "eelyo wasumpula intibba yakwe,",
+          "wateelela jwi lizwa kujulu liti,",
+          "langa ngooyo mugutu."
         ]
       }
     ]
   },
   {
     "hymnNo": 24,
-    "title": ". Lumba, lumba",
+    "title": "Lumba, lumba",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "24 . Lumba, lumba“praise him, praise him”",
-          "Lumba, lumba jesu muvuni wesu, imba, imba luyando aluse; anzya, anzya, leza wiiinda zyoonse! Kolemeka izina lyakwe. Mweembezi, jesu ubamba bakwe; mumaboko ubabweza lyoonse"
+          "Lumba, lumba jesu muvuni wesu, imba, imba luyando aluse;",
+          "anzya, anzya, leza wiiinda zyoonse!",
+          "Kolemeka izina lyakwe.",
+          "Mweembezi, jesu ubamba bakwe;",
+          "mumaboko ubabweza lyoonse"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
+          "Lumba, lumba!",
+          "Juse muvuni wesu, muvuni wakapenga azibi, ndebbwe lyalusyomo lyalufutuko anzya, anzya, jesu ubambulwa, lumba, lumba wabweza zibi zyesu luse lwakwe ndupati, ndulamfu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Lumba, lumba! Juse muvuni wesu, muvuni wakapenga azibi, ndebbwe lyalusyomo lyalufutuko anzya, anzya, jesu ubambulwa, lumba, lumba wabweza zibi zyesu luse lwakwe ndupati, ndulamfu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Lumba,lumba! Jesu muvuni wesu! Nyimbo zinji zyaimbwa kujulu: jesu kristo uyakulela lyoonse mucite musinsimi aa-mwani; ulaboola kuzunda nyika yoonse. Kulinguwe akube bulemu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
+          "Lumba,lumba!",
+          "Jesu muvuni wesu!",
+          "Nyimbo zinji zyaimbwa kujulu: jesu kristo uyakulela lyoonse mucite musinsimi aa-mwani;",
+          "ulaboola kuzunda nyika yoonse.",
+          "Kulinguwe akube bulemu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 24,
-    "title": "LUMBA, LUMBA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Lumba, lumba jesu muvuni wesu, imba, imba luyando aluse; anzya, anzya, leza wiiinda zyoonse! Kolemeka izina lyakwe. Mweembezi, jesu ubamba bakwe; mumaboko ubabweza lyoonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Lumba, lumba! Juse muvuni wesu, muvuni wakapenga azibi, ndebbwe lyalusyomo lyalufutuko anzya, anzya, jesu ubambulwa, lumba, lumba wabweza zibi zyesu luse lwakwe ndupati, ndulamfu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Lumba,lumba! Jesu muvuni wesu! Nyimbo zinji zyaimbwa kujulu: jesu kristo uyakulela lyoonse mucite musinsimi aa-mwani; ulaboola kuzunda nyika yoonse. Kulinguwe akube bulemu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Lumba, lumba! Amba luzyalo lwakwe. Lumba, lumba lyoonse mulwiimba"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 24,
+    "hymnNo": "24C",
     "title": "C.JERUSALEMU MUNZI MUBOTU",
     "creator": "Unknown",
     "chorus": null,
@@ -2204,110 +1440,44 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "24C.JERUSALEMU MUNZI MUBOTU",
-          "Jerusalemu munzi mubotu nkotuyakukkala akukkomana, takukabi limbi mapenzi; aleluya, aleluya balaimba bangelo, aleluya baimbila mwami"
+          "JERUSALEMU MUNZI MUBOTU",
+          "Jerusalemu munzi mubotu nkotuyakukkala akukkomana,",
+          "takukabi limbi mapenzi; aleluya,",
+          "aleluya balaimba bangelo, aleluya baimbila mwami"
         ]
       }
     ]
   },
   {
     "hymnNo": 25,
-    "title": "LYAKALELEKWA IZINA",
+    "title": "Lyakalelekwa izina",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "25.Lyakalelekwa izina“o for a thousand tongues”",
           "Bantu banji balaimba izina lyakalelekwa. Abulemu bwakwe leza, izina lyakalelekwa."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
+          "Zina ligwisya kuyoowa izina lyakalelekwa. Babisyi bala liimba izina lyakalelekwa"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Zina ligwisya kuyoowa izina lyakalelekwa. Babisyi bala liimba izina lyakalelekwa"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Lijaya nguzu zya bubi, izina lyakalelekwa. Bulowa bwakwe busanzya, izina lyakalelekwa."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 25,
-    "title": ".Lyakalelekwa izina",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "25.Lyakalelekwa izina“o for a thousand tongues”",
-          "Bantu banji balaimba izina lyakalelekwa. Abulemu bwakwe leza, izina lyakalelekwa."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Zina ligwisya kuyoowa izina lyakalelekwa. Babisyi bala liimba izina lyakalelekwa"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Lijaya nguzu zya bubi, izina lyakalelekwa. Bulowa bwakwe busanzya, izina lyakalelekwa."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Lyakalelekwa, lyakalelekwa izina lya mwami jesu . Lyakalelekwa, lyakalelekwa izina lya mwami jesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 25,
+    "hymnNo": "25C",
     "title": "C. JESU ALIKKE NGWENJANDA",
     "creator": "Unknown",
     "chorus": null,
@@ -2315,35 +1485,36 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "25C. JESU ALIKKE NGWENJANDA",
-          "Jesu alikke ngwenjanda, zina lyakwe lilemekwe, ndasanzigwa bulowa, ndaangululwa muvuni."
+          "JESU ALIKKE NGWENJANDA zina lyakwe lilemekwe, ndasanzigwa bulowa, ndaangululwa muvuni."
         ]
       }
     ]
   },
   {
     "hymnNo": 26,
-    "title": "NDAKUYANDA",
+    "title": "Ndakuyanda",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "26. Ndakuyanda“I love thee”",
-          "Ndayanda, ndayanda, ndakuyandisya. Ndayanda muvuni, ndayanda leza, ndayanda ,ndayanda kuziba, milimo ilakutondezya oku"
+          "Ndayanda, ndayanda, ndakuyandisya.",
+          "Ndayanda muvuni, ndayanda leza, ndayanda ,ndayanda kuziba, milimo ilakutondezya oku"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndaseka, ndaseka kaambo kabotu; kukomana kwangu takukwe kufwa, ndayeeya lukomano oluli kwakwe, ndayanda kubona mufutuli ooko"
+          "Ndaseka, ndaseka kaambo kabotu;",
+          "kukomana kwangu takukwe kufwa, ndayeeya lukomano oluli kwakwe, ndayanda kubona mufutuli ooko"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Jesu mufutuli, ndayanda kwako; uli kufutuka, akukomana ndilabula lyoonse, izina lyako luse lula ndipa kukambauka"
+          "Jesu mufutuli, ndayanda kwako;",
+          "uli kufutuka, akukomana ndilabula lyoonse, izina lyako luse lula ndipa kukambauka"
         ]
       },
       {
@@ -2355,40 +1526,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 26,
-    "title": ". Ndakuyanda",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "26. Ndakuyanda“I love thee”",
-          "Ndayanda, ndayanda, ndakuyandisya. Ndayanda muvuni, ndayanda leza, ndayanda ,ndayanda kuziba, milimo ilakutondezya oku"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndaseka, ndaseka kaambo kabotu; kukomana kwangu takukwe kufwa, ndayeeya lukomano oluli kwakwe, ndayanda kubona mufutuli ooko"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu mufutuli, ndayanda kwako; uli kufutuka, akukomana ndilabula lyoonse, izina lyako luse lula ndipa kukambauka"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nguni uli mbuli mwami wa salemu ulandiyandisya ulandigwasya ndila kumulumba alwiimbo lwini, meenda akuseka ulandinywisya."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 26,
+    "hymnNo": "26C",
     "title": "C. JESU MUNA-NAZARETA",
     "creator": "Unknown",
     "chorus": null,
@@ -2396,7 +1534,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "26C. JESU MUNA-NAZARETA",
           "Jesu muna-nazareta, o mwami, ba-juda bamujaya"
         ]
       },
@@ -2422,128 +1559,40 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 27,
-    "title": "NDAMULUMBA",
+    "title": "Ndamulumba",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "27. Ndamulumba“I will praise him”",
           "Nindakubona mwinzo, uli bukwazi lyoonse; ndamvwa kusela kwamuuya, wandiita, kosamba."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
+          "Nikuba kuti inzila, yalulama,yasweya; ndazumina kuli-leza, kuleka zibi zyangu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nikuba kuti inzila, yalulama,yasweya; ndazumina kuli-leza, kuleka zibi zyangu"
+          "Elyo muuya uusalala, wanjila mumoyo wangu; nsikalubi kumulumba, aleluya ku-mwami"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Elyo muuya uusalala, wanjila mumoyo wangu; nsikalubi kumulumba, aleluya ku-mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Walelekwa jesu kristu, ndabotelwa lyoonse; zibi zyangu zyajatilwa, moyo wangu wasamba"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
         ]
       }
     ]
   },
   {
-    "hymnNo": 27,
-    "title": ". Ndamulumba",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "27. Ndamulumba“I will praise him”",
-          "Nindakubona mwinzo, uli bukwazi lyoonse; ndamvwa kusela kwamuuya, wandiita, kosamba."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nikuba kuti inzila, yalulama,yasweya; ndazumina kuli-leza, kuleka zibi zyangu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Elyo muuya uusalala, wanjila mumoyo wangu; nsikalubi kumulumba, aleluya ku-mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Walelekwa jesu kristu, ndabotelwa lyoonse; zibi zyangu zyajatilwa, moyo wangu wasamba"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndamulumba, ndamulumba, mwami uwakatufwida; tumupe bulemu boonse bulowa bwakwe bwatusanzya"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 27,
+    "hymnNo": "27C",
     "title": "C. JESU ULAYANDA BANA",
     "creator": "Unknown",
     "chorus": null,
@@ -2551,85 +1600,67 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "27C. JESU ULAYANDA BANA“jesus loves the little children”",
-          "Jesu ulayanda bana, boonse bana munyika. Abasiya, basalala, malndi, majapani, jesu ulayanda bana boonse."
+          "Jesu ulayanda bana, boonse bana munyika.",
+          "Abasiya, basalala, malndi, majapani,",
+          "jesu ulayanda bana boonse."
         ]
       }
     ]
   },
   {
     "hymnNo": 28,
-    "title": "NGUZU ZYA-JESU",
+    "title": "NGUZU ZYA JESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Lumba nguzu zya-Jesu bangelo bavuntame. Mulete musini ooyo mumusamike Mwami, mumusamike Mwami."
+          "Lumba nguzu zya-Jesu",
+          "Bangelo bavuntame.",
+          "Mulete musini ooyo",
+          "Mumusamike Mwami,",
+          "Mulete musini ooyo",
+          "Mumusamike Mwami."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Inywe mwakasalwa alimwi mwakafutulwa Tulakumulumbaizya wakatufutula. wakatufutula."
+          "Inywe mwakasalwa alimwi",
+          "Mwakafutulwa.",
+          "Tulakumulumbaizya",
+          "Wakatufutula,",
+          "Tulakumulumbaizya",
+          "Wakatufutula."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Bantu boonse mikowa yoonse balumbaizye",
-          "Bamusamike musini akumulemeka!",
-          "akumulemeka!"
+          "Bantu boonse mikowa",
+          "Yoonse balumbaizye.",
+          "Bamusamike musini",
+          "Akumulemeka,",
+          "Bamusamike musini",
+          "Akumulemeka."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Tulayanda tukamuvuntamine kufwaafwi. Tukamwimbile kutamani akukkomana.",
-          "akukkomana."
+          "Tulayanda tukamuvuntamine",
+          "Kufwaafwi.",
+          "Tukamwiimbile kutamani",
+          "Akukomana,",
+          "Tukamwiimbile kutamani",
+          "Akukomana."
         ]
       }
     ]
   },
   {
-    "hymnNo": 28,
-    "title": ".NGUZU ZYA JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "28. NGUZU ZYA JESU\"ALL HAIL THE POWER\"",
-          "Lumba nguzu zya-Jesu bangelo bavuntame. Mulete musini ooyo mumusamike Mwami, mumusamike Mwami."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Inywe mwakasalwa alimwi mwakafutulwa Tulakumulumbaizya wakatufutula. wakatufutula."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bantu boonse mikowa yoonse balumbaizye",
-          "Bamusamike musini akumulemeka!",
-          "akumulemeka!"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tulayanda tukamuvuntamine kufwaafwi. Tukamwimbile kutamani akukkomana.",
-          "akukkomana."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 28,
+    "hymnNo": "28C",
     "title": "c. Jesu ulayanda bana",
     "creator": "Unknown",
     "chorus": null,
@@ -2637,8 +1668,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "28c. Jesu ulayanda bana“jesus loves the little children”",
-          "Jesu ulayanda bana boonse bana munyika. Abasiya, salala, malndi majapani, jesu ulayanda bana boonse"
+          "Jesu ulayanda bana boonse bana munyika.",
+          "Abasiya, salala, malndi majapani, jesu ulayanda bana boonse"
         ]
       }
     ]
@@ -2648,8 +1679,7 @@ export const tongaHymns = [
     "title": "Kamuza Muswiilile",
     "creator": "Unknown",
     "chorus": [
-      "Twiitigwa toonse, atufwambaane bakwesu, tuli mulweendo",
-      "ku-Zioni, kumuunzi wa-Leza."
+      "Twiitigwa toonse, atufwambaane bakwesu, tuli mulweendo ku-Zioni, kumuunzi wa-Leza."
     ],
     "stanzers": [
       {
@@ -2663,31 +1693,30 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Batakondwi tabazi, kulumbaizya Leza,",
+          ". Batakondwi tabazi, kulumbaizya Leza,",
           "Baya kupengesya lyoonse x2",
-          "Tabaizi nzila iya ku-Zioni."
+          "Tabaizi nzila iya ku-Zioni"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mulundu wa-Zioni, uzyala zibotu,",
+          ". Mulundu wa-Zioni, uzyala zibotu",
           "Tatunasika kujulu x2",
-          "Tatuna kweenda munzila yangolida."
+          "Tatuna kweenda munzila yangolida"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Twiimbe nyimbo zibotu, misozi iisansamuke,",
-          "Tuya kuli Leza wesu x2",
-          "Kunyika imbotu x2"
+          ". Twiimbe nyimbo zibotu, misozi iisansamuke",
+          "Tuya kuli Leza wesu x2 kunyika imbotu x2"
         ]
       }
     ]
   },
   {
-    "hymnNo": 29,
+    "hymnNo": "29C",
     "title": "C. JESU WANGU NDISOLOLELA",
     "creator": "Unknown",
     "chorus": null,
@@ -2695,20 +1724,25 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "29C. JESU WANGU NDISOLOLELA",
-          "Jesu wangu, ndisololela, ndisololela mwami; mwami ndisololela aleluya, aluse lusalala, mulwizi lusalala, nkasike mukenani"
+          "Jesu wangu, ndisololela, ndisololela mwami;",
+          "mwami ndisololela aleluya, aluse lusalala,",
+          "mulwizi lusalala, nkasike mukenani"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Koonse nkonditola, ndisololela, ndisololela mwami; mwami ndisololela aleluya ,aluse lusalala, jesu wangu, nkasika mu kenani"
+          "Koonse nkonditola, ndisololela, ndisololela mwami;",
+          "mwami ndisololela aleluya ,aluse lusalala,",
+          "jesu wangu, nkasika mu kenani"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mu paladaiso ndisololela, ndisololela mwami; mwami ndisololela mwami;  mwami ndisololela aleluya, alusa lusalala, mulwizi lusalala, nkasika mu kenani."
+          "Mu paladaiso ndisololela, ndisololela mwami;",
+          "mwami ndisololela mwami; mwami ndisololela aleluya,",
+          "alusa lusalala, mulwizi lusalala, nkasika mu kenani."
         ]
       }
     ]
@@ -2722,7 +1756,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "AMukombe Mwami wakujulu, Amwiimbe luyando lwa Leza;  Ntobo yesu a Mugwasyi a Coonde Mupati, Ukankamanisya , Nguwe"
+          "AMukombe Mwami wakujulu, Amwiimbe luyando lwa Leza;",
+          "Ntobo yesu a Mugwasyi a Coonde Mupati, Ukankamanisya , Nguwe"
         ]
       },
       {
@@ -2748,97 +1783,46 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 30,
-    "title": ".AMUKOMBE MWAMI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "30. AMUKOMBE MWAMI\"O WORSHIP THE KING\"",
-          "AMukombe Mwami wakujulu, Amwiimbe luyando lwa Leza;  Ntobo yesu a Mugwasyi a Coonde Mupati, Ukankamanisya , Nguwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Amwimbe nyoonse luse lwakwe, Utupa muzenge akumweka; Uuzuma mumakumbi a mujulu, Uleenda mumundima amuluuwo."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bana batete a bateteete, Twasyoma muli ndimwe o Mwami",
-          "Mutubambe aluse lwenu buyo, Mulengi a Mugwasyi a Muvuni."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Luyando lwenu lutaambiki Lwaboneka 'muluuwo, amuzuba;",
-          "Luleenda 'malundu amabanda; Lwaboneka mumume amumvula."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 30,
+    "hymnNo": "30C",
     "title": "C.JOSHUA A KALEBI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Katuya bweenda kumbo oku tukasike.",
+      "Tukaimbe ababgelo mu-jerusalemu.",
+      "Katuya bweenda kumbo oku tukasike, tukainke kung’anda ya bataata"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "30C.JOSHUA A KALEBI",
-          "Joshua a kalebi bobile, mbibakasolola mbibakatola bantu boonse ku-kenani. Joshua a kelebi  bobile, mbibakasolola mbibakatola bantu boonse ku-kenani"
+          "Joshua a kalebi bobile, mbibakasolola mbibakatola bantu boonse ku-kenani. Joshua a kelebi bobile,",
+          "mbibakasolola mbibakatola bantu boonse ku-kenani"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Katuya bweenda kumbo oku tukasike. Tukaimbe ababgelo mu-jerusalemu. Katuya bweenda kumbo oku tukasike, tukainke kung’anda ya bataata"
+          "Ayebo ociyanda eezyo zyamunyika,",
+          "koteelela bbaibbele lilatwaambila,",
+          "abapostolo aabo ba-mwami jesu,",
+          "mbabatwaambila kuti ciindi camana"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ayebo ociyanda eezyo zyamunyika, koteelela bbaibbele lilatwaambila, abapostolo aabo ba-mwami jesu, mbabatwaambila  kuti ciindi camana"
+          "Jerusalemu mubotu ngotulindila,",
+          "ngo munzi wakwa tata umweka-mweka.",
+          "Jerusalemu mubotu ngotulindila,",
+          "ngo munzi wakwa taata umweka-mweka."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Katuya bweenda kumbo oku tukasike. Tukaimbe ababgelo mu-jerusalemu. Katuya bweenda kumbo oku tukasike, tukainke kung’anda ya bataata"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Jerusalemu mubotu ngotulindila, ngo munzi wakwa tata umweka-mweka. Jerusalemu mubotu ngotulindila, ngo munzi wakwa taata umweka-mweka."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Katuya bweenda kumbo oku tukasike. Tukaimbe ababgelo mu-jerusalemu. Katuya bweenda kumbo oku tukasike, tukainke kung’anda ya bataata"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Abapostolo aabo ba mwami jesu, mbabatwaambila ciindi madikiti,  tuula toonse madikiti, tukasike tukaimbe abangelo mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Katuya bweenda kumbo oku tukasike. Tukaimbe ababgelo mu-jerusalemu. Katuya bweenda kumbo oku tukasike, tukainke kung’anda ya bataata"
+          "Abapostolo aabo ba mwami jesu,",
+          "mbabatwaambila ciindi madikiti,",
+          "tuula toonse madikiti, tukasike tukaimbe abangelo mu-jerusalemu"
         ]
       }
     ]
@@ -2847,72 +1831,60 @@ export const tongaHymns = [
     "hymnNo": 31,
     "title": "LINO NDIKUKONDWA MEBO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mwami Jesu, ndakukomba,",
+      "Nkaambo wakatufwida;",
+      "Twakapegwa nguzu zyako,",
+      "Kuti tuzunde zibi."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Lino ndikukondwa mebo kubona coolwe cako; bakwesu inywe mbieni muze kuti tukondwe"
+          "Lino ndikukondwa mebo",
+          "Kubona coolwe cako;",
+          "Bakwesu inywe mbieni",
+          "Muze kuti tukondwe."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
+          "Naa twanjila munkombelo,",
+          "Ncibotu kulindiswe;",
+          "Naa twanjila cabubombe,",
+          "Twajana buuya bwako."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Naa twanjila munkombelo, ncibotu kulindiswe; naa twanjila cabubombe, twajana buuya bwako."
+          "Cisi coonse cabakwesu",
+          "Tabezi ijwi lyako;",
+          "Balikkede bamataata,",
+          "Tabajisi kukondwa."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Cisi coonse cabakwesu tabezi ijwi lyako; balikede bamatata, tabajisi kukondwa"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ndilakala akulumba kubona coolwe cangu; ndilasyoma mulinduwe uundeenzya ciindi coonse."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
+          "Ndilakkala akulumba",
+          "Kubona coolwe cangu;",
+          "Ndilasyoma mulinduwe",
+          "Uundeenzya ciindi coonse."
         ]
       }
     ]
   },
   {
-    "hymnNo": 31,
-    "title": ". Juda wamwaaba jesu",
+    "hymnNo": "31B",
+    "title": "Juda wamwaaba jesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "31. JUDA WAMWAABA JESU",
           "Juda wamwaaba jesu(2)",
           "Nkaambo kamali atuba; juda wamwaaba jesu."
         ]
@@ -2941,69 +1913,82 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 31,
-    "title": ". LINO NDIKUKONDWA MEBO",
+    "hymnNo": "31C",
+    "title": "c. JUDA WAMWAABA JESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "31. LINO NDIKUKONDWA MEBO“I am happy now”",
+          "Juda wamwaaba Jesu,",
+          "Nkaambo kamali atuba,",
+          "Juda wamwaaba Jesu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Pita wamutama Jesu,",
+          "Iziindi zyotatwe",
+          "Pita wamutama Jesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Munkombwe naakalila,",
+          "Iziindi zyotatwe,",
+          "Pita wamutama Jesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ulaamba kamuboola,",
+          "Mulange mumaboko aangu,",
+          "Ndakayaswa nkaambo kako."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "31D",
+    "title": "LINO NDIKUKONDWA MEBO",
+    "creator": "Unknown",
+    "chorus": [
+      "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
           "Lino ndikukondwa mebo kubona coolwe cako; bakwesu inywe mbieni muze kuti tukondwe"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Naa twanjila munkombelo, ncibotu kulindiswe; naa twanjila cabubombe, twajana buuya bwako."
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Cisi coonse cabakwesu tabezi ijwi lyako; balikede bamatata, tabajisi kukondwa"
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
-      },
-      {
-        "stanzer": 7,
+        "stanzer": 4,
         "lines": [
           "Ndilakala akulumba kubona coolwe cangu; ndilasyoma mulinduwe uundeenzya ciindi coonse."
         ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Mwami jesu ndakukomba, nkaambo wakatufwida; twakapegwa nguzu zyako, kuti tuzunde zibi"
-        ]
       }
     ]
   },
   {
     "hymnNo": 32,
-    "title": "LINO SUNU TWABUNGANA",
+    "title": "LINO TWABUNGANA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -3046,52 +2031,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 32,
-    "title": ". LINO TWABUNGANA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "32. LINO TWABUNGANA“jesus thy wandering sheep”",
-          "Lino sunu twabungana, tuswaanane leza wesu, tulayanda kumujana, uubotezya myoyo yesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Twakukomba, leza wesu, utugwasye kukuyanda, mbuli mbotuyanda lyoonse. Mwami wesu utuvuna"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Sa ulatukalalila, nkaambo kamilandu yesu? Pe, pe, unooyootwaambwiida nkaambo ka-mwanaako jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Leza bombya myoyo yesu, ulibwene mbwiiyumide; tuzumine kuli zyoonse zicitidwe kulinduwe"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Twakozyana ambelele,lzyasweeka mulusaka lino ulatuyanduula mane watujana toonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Lino tulafutatila, zintu zyoonse zitufwabya, tusaangune kuzumina, akucita zikukonda"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 32,
+    "hymnNo": "32C",
     "title": "c. Jula moyo wako",
     "creator": "Unknown",
     "chorus": null,
@@ -3099,14 +2039,28 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "32c. Jula moyo wako",
-          "Jula moyo wako, jesu uulakonkomona jula moyo wako ku-mwanaambelele. Jula moyo wako yebo mujulile, anjile."
+          "Jula moyo wako, jesu uulakonkomona jula moyo wako ku-mwanaambelele.",
+          "Jula moyo wako yebo mujulile, anjile."
         ]
       }
     ]
   },
   {
     "hymnNo": 33,
+    "title": "KAMUBOOLA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kamuboola nyoonse tukombe. Balamukomba jesu; balamukomba, balamukomba, balamukomba jesu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "33B",
     "title": "MUJULU BALAKWIIMBILA",
     "creator": "Unknown",
     "chorus": null,
@@ -3114,7 +2068,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mujulu balakwiimbila bangelo bako ciindi coonse balakomba, leza, mwami wabo, tabaleki kulemeka,  akwiimbila, cilenge"
+          "Mujulu balakwiimbila bangelo bako ciindi coonse balakomba, leza, mwami wabo, tabaleki kulemeka, akwiimbila, cilenge"
         ]
       },
       {
@@ -3132,62 +2086,33 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Sunu twanjila omuno, mun’ganda yako; mwami, zintu zili ano, zyoonse nzizyako. Twakwiimbila, twakulumba twakukomba, taateesu."
+          "Sunu twanjila omuno, mun’ganda yako;",
+          "mwami, zintu zili ano, zyoonse nzizyako.",
+          "Twakwiimbila, twakulumba twakukomba, taateesu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 33,
-    "title": ". KAMUBOOLA",
+    "hymnNo": "33C",
+    "title": "C. KAMUBOOLA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "33. KAMUBOOLA",
-          "Kamuboola nyoonse tukombe. Balamukomba jesu; balamukomba, balamukomba, balamukomba jesu."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 33,
-    "title": ".MUJULU BALAKWIIMBILA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "33.MUJULU BALAKWIIMBILA“angel voice ever singing”",
-          "Mujulu balakwiimbila bangelo bako ciindi coonse balakomba, leza, mwami wabo, tabaleki kulemeka,  akwiimbila, cilenge"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Aswebo , atufugame amazwi esu, sa ulaziswiililisya inyimbo zyesu? Ii, taata,mwali omuno, waswiilila, cilenga"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wabotelwa kuzyeebela, zyoonse nzyaacita, wabotelwa kuswiilila, bana bako baamba netutana kukukomba, watulanga lyoonse"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Sunu twanjila omuno, mun’ganda yako; mwami, zintu zili ano, zyoonse nzizyako. Twakwiimbila, twakulumba twakukomba, taateesu."
+          "Kamuboola nyoonse, tukombe.",
+          "Balamukomba Jesu;",
+          "Balamukomba, Balamukomba,",
+          "Balamukomba Jesu."
         ]
       }
     ]
   },
   {
     "hymnNo": 34,
-    "title": "TAATA, TWABUNGANA SUNU",
+    "title": "TAATA TWABUNGANA SUNU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -3224,89 +2149,60 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 34,
-    "title": ".TAATA TWABUNGANA SUNU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "34.TAATA TWABUNGANA SUNU“come thou long expected jesus”",
-          "Taata twabungana sunu amun’ganda yako, tulayanda ukupegwa icipego cako"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Alakambaukwa muno amakani aako swebo atwateelele oonse majwi aako"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Alo aali kulya kwesu nkotukuta ankuko ali maanzi aakuponya ngotuyoonwya ngawo"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Kulalweela oku koonse, ukwa-mwami wesu, atupegwe swebo toonse oko kwakujulu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mwami, tulalumba eno, ukwaabila kwako, nkonkuko nkotumbila aluzyalo lwako"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 34,
+    "hymnNo": "34B",
     "title": "C. KOBOOLA INGA KOBOOLA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Koboola inga koboola (2)",
+      "Koboola fwambaana tumukombe mwami"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "34C. KOBOOLA INGA KOBOOLA",
+          "Myuuya yesu ilayanda kumwaambila,",
+          "kamuboola nywebo nyoonse tumukombe mwami"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Anywebo nobasunu tulayanda kumwaambila kamuboola nywebo nyoonse tumukombe mwami."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "34C",
+    "title": "KOBOOLA INGA KOBOOLA",
+    "creator": "Unknown",
+    "chorus": [
+      "Koboola inga koboola (2)",
+      "Koboola fwambaana tumukombe mwami"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
           "Myuuya yesu ilayanda kumwaambila, kamuboola nywebo nyoonse tumukombe mwami"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Koboola inga koboola (2)",
-          "Koboola fwambaana tumukombe mwami"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Anywebo nobasunu tulayanda kumwaambila kamuboola nywebo nyoonse tumukombe mwami."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Koboola inga koboola (2)",
-          "Koboola fwambaana tumukombe mwami"
         ]
       }
     ]
   },
   {
     "hymnNo": 35,
-    "title": "Uyumye milimo",
+    "title": "Uyumye Milimo",
     "creator": "Unknown",
     "chorus": [
       "Uyumye milimo, twakulindilila,",
       "koseluka Mwami wesu,",
-      "koza tukodezye."
+      "koza tukodezye"
     ],
     "stanzers": [
       {
@@ -3323,8 +2219,7 @@ export const tongaHymns = [
         "lines": [
           "Uyumye milimo,",
           "uutuyandye nduwe.",
-          "Uutupe nsima yabuumi",
-          "iizwa kulinduwe."
+          "Uutupe nsima yabuumi iizwa kulinduwe."
         ]
       },
       {
@@ -3341,8 +2236,7 @@ export const tongaHymns = [
         "lines": [
           "Uyumye milimo,",
           "makani mabotu;",
-          "Aswiililwe bantu abo,",
-          "batanaswiilide."
+          "aswiililwe bantu abo, batanaswiilide."
         ]
       },
       {
@@ -3350,14 +2244,13 @@ export const tongaHymns = [
         "lines": [
           "Uyumye milimo,",
           "utupe luzyalo;",
-          "Bulemu mbubwaako Mwami,",
-          "Lukondo ndolwesu."
+          "Bulemu mbubwaako Mwami, Lukondo ndolwesu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 35,
+    "hymnNo": "35C",
     "title": "C. KOYA SAATANI",
     "creator": "Unknown",
     "chorus": null,
@@ -3365,14 +2258,16 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "35C. KOYA SAATANI",
-          "Mukwesu ucijanayi camba cili buya, cakujata saatani kumubikka munkwa, saatani uzwidayi, saatani oocenjede"
+          "Mukwesu ucijanayi camba cili buya,",
+          "cakujata saatani kumubikka munkwa,",
+          "saatani uzwidayi, saatani oocenjede"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "o! koya saatani kozwa munsi lyangu, kozwa saatani, kozwa munsi lyangu"
+          "o! koya saatani kozwa munsi lyangu,",
+          "kozwa saatani, kozwa munsi lyangu"
         ]
       }
     ]
@@ -3381,7 +2276,9 @@ export const tongaHymns = [
     "hymnNo": 36,
     "title": "LEZA ABE ANYWE NKOMUYA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -3392,88 +2289,19 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
+          "Leza abe anywe nkomuya; lusa lube nkomubede, lyoonse jesu amulele, mane azootuswaanganye"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Leza abe anywe nkomuya; lusa lube nkomubede, lyoonse jesu amulele, mane azootuswaanganye"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Leza abe anywe nkomuya; nakunooyootulampila, tutapambukani myoyo, mane azootuswaanganye"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
         ]
       }
     ]
   },
   {
-    "hymnNo": 36,
-    "title": "LEZA ABE ANYWE NKOMUYA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "36 LEZA ABE ANYWE NKOMUYA“God be with you”",
-          "Leza abe anywe nkomuya; amweenzye nomuli kule, amuvune zibijila mane azootuswaanganye"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Leza abe anywe nkomuya; lusa lube nkomubede, lyoonse jesu amulele, mane azootuswaanganye"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Leza abe anywe nkomuya; nakunooyootulampila, tutapambukani myoyo, mane azootuswaanganye"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Leza wisi jesu abe anywe mane tukaswaangane abe anywe,abe anywe, leza abe anywe koonse koonse"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 36,
+    "hymnNo": "36C",
     "title": "C. KUPAILA KUSINTA ZINTU",
     "creator": "Unknown",
     "chorus": null,
@@ -3481,16 +2309,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "36C. KUPAILA KUSINTA ZINTU",
           "Kupaila kusinta zintu(2×)",
-          "Kunyina makani no cilema kobweza, kuti wacibikka ali jesu ulacibweza, kunyina cinga cilakaka kobwezwa kobweza, kupaila kusintu zintu"
+          "Kunyina makani no cilema kobweza,",
+          "kuti wacibikka ali jesu ulacibweza,",
+          "kunyina cinga cilakaka kobwezwa kobweza,",
+          "kupaila kusintu zintu"
         ]
       }
     ]
   },
   {
     "hymnNo": 37,
-    "title": "MWAMI, TULAMANA",
+    "title": "mwami, tulamana",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -3503,7 +2333,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Swebo tuli bako, tuli imbelele; linda mukweembela kwako,  tutakusweekelwi"
+          "Swebo tuli bako, tuli imbelele; linda mukweembela kwako, tutakusweekelwi"
         ]
       },
       {
@@ -3515,76 +2345,29 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 37,
-    "title": ". mwami, tulamana",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "37. mwami, tulamana“our service is over”",
-          "Mwami twamana, ukuyiigwa kwesu; oko nkotwateelela, kuli buumi bwesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Swebo tuli bako, tuli imbelele; linda mukweembela kwako,  tutakusweekelwi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Atuteelelesye umweembezi wesu, mbuli imbelele zimvma umweembezi wazyo"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 37,
+    "hymnNo": "37C",
     "title": "C. KUTI NDAYEEYA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Pe,pe,pe,pe,pe nsikabweedi munsi alimwi"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "37C. KUTI NDAYEEYA",
           "Kuti ndayeeya wakandifwida, nsikabweedi munsi alimwi"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Pe,pe,pe,pe,pe nsikabweedi munsi alimwi"
+          "Kuti ndayeeya mbwaakandipengela, nsikabweedi munsi alimwi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kuti ndayeeya mbwaakandipengela, nsikabweedi munsi alimwi."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Pe,pe,pe,pe,pe nsikabweedi munsi alimwi"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Kati ndayeeya mbwaandiyanda, nsikabweedi munsi alimwi"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Pe,pe,pe,pe,pe nsikabweedi munsi alimwi"
         ]
       }
     ]
@@ -3607,8 +2390,7 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Leza ulavuwa mafumofumo, Leza ulavuwa masikati,",
-          "Leza ulavuwa masikusiku,",
-          "Ulabamba moyo wako."
+          "Leza ulavuwa masikusiku, Ulabamba moyo wako."
         ]
       },
       {
@@ -3622,7 +2404,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 38,
+    "hymnNo": "38C",
     "title": "C. KWAAMBA KWAKWE PITA",
     "creator": "Unknown",
     "chorus": null,
@@ -3630,8 +2412,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "38C. KWAAMBA KWAKWE PITA",
-          "Kwaamba kwakwe pita ; nkwakulailila ncinzi ciyiitwaanda anya akaka mubulaye bwa-leza. Sena…sena ninzala?twama… twamana kupenga, eeco, eeco ciyootwa andaanya akaka mubulaye bwa-leza."
+          "KWAAMBA KWAKWE PITA nkwakulailila ncinzi ciyiitwaanda anya mubulaye bwa-leza. Sena…sena ninzala?twama… twamana kupenga, eeco, eeco ciyootwa andaanya akaka mubulaye bwa-leza."
         ]
       }
     ]
@@ -3651,7 +2432,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Malusa akwe asika kuli boonse bamusyoma,  ukobelela bana bakwe, mu milimo yabo yoonse"
+          "Malusa akwe asika kuli boonse bamusyoma, ukobelela bana bakwe, mu milimo yabo yoonse"
         ]
       },
       {
@@ -3675,46 +2456,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 39,
-    "title": "MUSINZE WAUMBULUKA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "39 MUSINZE WAUMBULUKAnew every morning”“",
-          "Musinze waumbuluka, twalumba leza ikuti wakatubamba masiku, wakatubusya kabotu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Malusa akwe asika kuli boonse bamusyoma,  ukobelela bana bakwe, mu milimo yabo yoonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Atumanine inzyo, milimo yoonse mibotu, myoza yesu itangale, ilumbe leza sikwense."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Atusoleke sikwense, kulamwa Lufuno lwakwe, ukulibambwa o manga, o luse lwakwe lukando."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Pele, mwami utuyovwe, tululililwe bukalo, kumunzi wako kolya, tukale aze sikwense"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 39,
+    "hymnNo": "39C",
     "title": "C. LEKA KUPENGA, KOPAILA",
     "creator": "Unknown",
     "chorus": null,
@@ -3722,8 +2464,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "39C. LEKA KUPENGA, KOPAILA",
-          "Leka kupenga, kopaila; syoma jesu, abe mwami tomasi, wakamuka kusyoma. Koleka kupenga, leka kupenga, kopaila!"
+          "Leka kupenga, kopaila; syoma jesu,",
+          "abe mwami tomasi, wakamuka kusyoma.",
+          "Koleka kupenga, leka kupenga, kopaila!"
         ]
       }
     ]
@@ -3737,7 +2480,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mwami icifumofumo nendikupaila, njakulanga kulinduwe nendikupaila"
+          "Mwami icifumofumo nendi kupaila, njakulanga kulinduwe nendi kupaila"
         ]
       },
       {
@@ -3755,89 +2498,39 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 40,
-    "title": ".MWAMI CIFUMOFUMO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "40.MWAMI CIFUMOFUMO“lord, in the morning”",
-          "Mwami icifumofumo nendikupaila, njakulanga kulinduwe nendikupaila"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mwami kondisololela munzila zibotu, konditondezya inzila zyamilimo yangu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bantu bayanda izina bakomanisyigwe leza, ulakubasisa munsi aciyubiio"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 40,
+    "hymnNo": "40C",
     "title": "C. LEZA WAKAAMBILA NOWA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Bakaccedwe, bakaccedwa, mane zambangulwe lyasika."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "40C. LEZA WAKAAMBILA NOWA",
-          "Leza wakaambila nowa, wakati, kobeza bwaato, misyobo yoose utole, ukaibike mubwaato."
+          "Leza wakaambila nowa, wakati, kobeza bwaato,",
+          "misyobo yoose utole, ukaibike mubwaato."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Bakaccedwe, bakaccedwa, mane zambangulwe lyasika."
+          "Wakatuma cikwangala, wati ukalange inyika.",
+          "Takukwe naakabweedela, wakagama kuzelengana"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakatuma cikwangala, wati ukalange inyika. Takukwe naakabweedela, wakagama kuzelengana"
+          "Limwi wakatuma nziba, wati, ukalange inyika.",
+          "Yabweza again lyamukuyu kuzibya kuti nyika yayuma"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Bakaccedwe, bakaccedwa, mane zambangulwe lyasika."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Limwi wakatuma nziba, wati, ukalange inyika. Yabweza again lyamukuyu kuzibya kuti nyika yayuma"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Bakaccedwe, bakaccedwa, mane zambangulwe lyasika."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Maanzi naakayuminina, boonse bakazwida anze. Nowa wakayaka kasanza, kakupailila jehova."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Bakaccedwe, bakaccedwa, mane zambangulwe lyasika."
+          "Maanzi naakayuminina, boonse bakazwida anze.",
+          "Nowa wakayaka kasanza, kakupailila jehova."
         ]
       }
     ]
@@ -3851,7 +2544,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Bwamana buzuba, kulasiya;waboneka mwezi enyenyezi."
+          "Bwamana buzuba, kulasiya;",
+          "Waboneka mwezi anyenyeezi."
         ]
       },
       {
@@ -3905,70 +2599,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 41,
-    "title": ". BWAMANA BUZUBA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "41. BWAMANA BUZUBA“now the day is over”",
-          "Bwamana buzuba, kulasiya;waboneka mwezi enyenyezi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Zyatutabilila, mbalindizi meso aakwe leza abonesya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu ubooneke, bakatede; ame ameso aangu aonesye"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mwami ukumbate baminidwe; balinyona abulo baumune"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Bana besu boons bakubone muziloto zyabo nibaona"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Nibakanza zibi abaiye mbowakabafwida, bafutulwe."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Basinkombe bako bandindile, awe mpongonede nintabona"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Nilyazwa izuba nkatuluke; muuya uusalala mbukulusya"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Atembuulwe leza mufutuli, muuya uusalala uupa buumi."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 41,
+    "hymnNo": "41C",
     "title": "C. LUYANDO NDUPATI",
     "creator": "Unknown",
     "chorus": null,
@@ -3976,7 +2607,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "41C. LUYANDO NDUPATI",
           "Uluyando ndupati, ndupati, ndupati (3)",
           "Luyando ndupati!"
         ]
@@ -3998,36 +2628,6 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 41,
-    "title": "c.luyando ndupati",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "41c. luyando ndupati",
-          "Uluyando ndupati, ndupati, ndupati {3×}",
-          "Luyando ndupati!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "ulwa-jesu ndupati ndupati ndupati, ndupati {3}",
-          "Ulwa-jesu ndupati!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ulwabantu ndusyoonto, ndusyoonto ndusyoonto{3×}",
-          "Kumamanino lwamana!"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 42,
     "title": "KUZA KUSIYA KALA AME",
     "creator": "Unknown",
@@ -4036,7 +2636,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "42 KUZA KUSIYA KALA AME",
           "Lyabbila izuba twaleka milimo; atulibambe, atwiimbe nyimbo zyakwe leza."
         ]
       },
@@ -4073,51 +2672,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 42,
-    "title": "KUZA KUSIYA KKALA AME",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Lyabbila izuba twaleka milimo; atulibambe, atwiimbe nyimbo zyakwe leza."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wasika mudima, abayuni boona; inyenyeezi zyaboneka, zyabamo zilike"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Twaabilwa a-leza zilyo zyesu zyoonse, alimwi ulatubotezya, bantu bakwe boonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mwami tupe tulo tupati tubotu; webo utusinsimune, tubuke kabotu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Taata tulindile mukoona kwesu; utuzuzye nguzu zyako, ciindi cacifumo"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Atulumbe leza , a-jesu mwanaakwe; a-muuya uusalala, mwami wesu omwe"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 42,
+    "hymnNo": "42C",
     "title": "C. MAKANI AANGU",
     "creator": "Unknown",
     "chorus": null,
@@ -4125,7 +2680,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "42C. MAKANI AANGU“this is my story”",
           "Makani aangu, lwiimbo lwangu, nkentembaula jesu wangu. (2)"
         ]
       }
@@ -4140,7 +2694,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "43. LYABBILA IZUBA“sweetly the holy hymn”",
           "kuza kusiya kala ame, kala ambebo kwandoosiya nakuba bamwi bakakilwa, yebo ooyovwa kala amebo"
         ]
       },
@@ -4165,40 +2718,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 43,
-    "title": ". lyabbila izaba",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "43. LYABBILA IZUBA“sweetly the holy hymn”",
-          "kuza kusiya kala ame, kala ambebo kwandoosiya nakuba bamwi bakakilwa, yebo ooyovwa kala amebo"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ukwesu kulafwamba kwiinda bubotu bwansi buli kuli? Zyoonse zisanduka buyo, ootasanduki kala amebo"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndiyanda kuba ayebo lyoonse na wandisiya ndawa buyo nguli ukonzya kundiyovwa iciindi coonse kkala amebo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Utandisiyi akasyoonto, mwami wabami, kkala ame salazya bubi mumoyo wangu boola uyake mulindime."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 43,
+    "hymnNo": "43C",
     "title": "C. MAJWI ALUBOMBA",
     "creator": "Unknown",
     "chorus": null,
@@ -4206,7 +2726,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "43C. MAJWI ALUBOMBA",
           "Majwi alubomba taafwi; taafwi pe!"
         ]
       }
@@ -4257,52 +2776,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 44,
-    "title": ".NDAKULUMBA LEZA WANGU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "44.NDAKULUMBA LEZA WANGU“glory to thee my God this night”",
-          "Ndakulumba leza wangu, amuzyoolwe zyamazuba, undiyobole mwami, o kukobelela kwako"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nkaambo ka mwanaako jesu, ugwisye zibi zyangu, kuti kusike tulo, tuboto tululeme"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndiiya mwami kabotu, kupona akweenda, uuli mukristo mwini, ulindilila lufu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Basinkondoma bainke, nibabona jesu mwami, wasika kundigwasya, kulwana akuzunda"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndilazunada cinicini, zibi azyoonse zibisya zyaansi eyi yainda, yamana mumulilo"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Atulumbe leza wesu lwatupa zilongezyo, tubande taata a mwana, a muuya, uupa buumi"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 44,
+    "hymnNo": "44C",
     "title": "c. MAYOBA NGOTUBONA",
     "creator": "Unknown",
     "chorus": null,
@@ -4310,28 +2784,32 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "44c. MAYOBA NGOTUBONA",
-          "Mayoba ngotubona, tumbizi ntotubona,imvula ituwida zyaalengwa namapinde, cilenga mwami wesu."
+          "Mayoba ngotubona, tumbizi ntotubona,",
+          "imvula ituwida zyaalengwa namapinde,",
+          "cilenga mwami wesu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Maila ngotulima, izuba ndetubona; mwezi ngotubona, zyaalengwa namapinde,",
+          "Maila ngotulima, izuba ndetubona; mwezi ngotubona,",
+          "zyaalengwa namapinde,",
           "cilenga mwami wesu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nyenyeezi nzotubona, ilwezi ndotubona bayuni bauluka; zyaalengwa namapinde,",
+          "Nyenyeezi nzotubona, ilwezi ndotubona bayuni bauluka;",
+          "zyaalengwa namapinde,",
           "cilenga mwami wesu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Banyama mbotujaya, masamu ngotutema, mulilo ngotuyota, zyaalengwa namapinde,",
+          "Banyama mbotujaya, masamu ngotutema, mulilo ngotuyota,",
+          "zyaalengwa namapinde,",
           "cilenga mwami wesu"
         ]
       }
@@ -4364,34 +2842,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 45,
-    "title": ". TWAKULUMBA LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "45. TWAKULUMBA LEZA“ we thank thee o God”",
-          "Twakulumba leza, a kukamda kwako mubusiku oobu, kuzibi o lufu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Twakukomba leza mwana o masiku, ukutuzobola uswe, bana bako"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Utupe busongo, a myoza mibotu, kuti tuccilile mu mikondo yako"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 45,
+    "hymnNo": "45C",
     "title": "C. MU-EDENI",
     "creator": "Unknown",
     "chorus": null,
@@ -4399,14 +2850,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "45C. MU-EDENI",
-          "Mu-edeni, zintu zyotatwe zyakasweeka mu-edeni, zintu zyotatwe zyakasweeka cimwi ncinzi mbulelo, cimwi cinzi munzi, cimwi cinzi mbuumi bupati butamani. Tukabuyandaula, tukabujane. Tukabuyandaula, tukabujane."
+          "Mu-edeni, zintu zyotatwe zyakasweeka mu-edeni,",
+          "zintu zyotatwe zyakasweeka cimwi ncinzi mbulelo,",
+          "cimwi cinzi munzi, cimwi cinzi mbuumi bupati butamani.",
+          "Tukabuyandaula, tukabujane. Tukabuyandaula, tukabujane."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ba-adamu kumalengelo bakali abuumi ba-adamu kumalengelo bakali abuumi imuzoka simaanu, imuzoka simaanu, imuzoka, dyabulosi mulala ngowabacenga. Waamba kuti ndaleta buumi anu waleta lufu."
+          "Ba-adamu kumalengelo bakali abuumi ba-adamu kumalengelo bakali abuumi imuzoka simaanu,",
+          "imuzoka simaanu, imuzoka, dyabulosi mulala ngowabacenga.",
+          "Waamba kuti ndaleta buumi anu waleta lufu."
         ]
       }
     ]
@@ -4415,7 +2870,9 @@ export const tongaHymns = [
     "hymnNo": 46,
     "title": "BANGELO BAKUJULU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -4426,157 +2883,61 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Nobeembezi nomulanga kubutanga masiku, leza eno ulaaswebo, kamuya muyoomujana"
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Nobasongo bazwa kujwe, kamusiya zyaansi; yandaula uuyandika, mwabona nyenyeezi."
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
-        ]
-      },
-      {
-        "stanzer": 7,
+        "stanzer": 4,
         "lines": [
           "Nobasyommi balangila, mwalinda ciindi coonse; mwami jesu ngo- mesiya, kamubona waika"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
         ]
       }
     ]
   },
   {
-    "hymnNo": 46,
-    "title": ". BANGELO BAKUJULU",
+    "hymnNo": "46C",
+    "title": "c. JUDA WAMWAABA JESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Motwakabujana mukufwidwa, oobu buumi.",
+      "Boola,boola jesu,",
+      "boola kaka boola boola jesu utuvune."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "46. BANGELO BAKUJULU“angels from the realms”",
-          "nobangelo bakujulu kamuboola kunyika; mwakaimba akulengwa, mwiimbe a-mwami jesu"
+          "Mukufwidwa mukufwidwa"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
+          "Mubuswini, mubuswini"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nobeembezi nomulanga kubutanga masiku, leza eno ulaaswebo, kamuya muyoomujana"
+          "Mukukomba, mukukomba"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
+          "Mukupegwa,mukupegwa"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Nobasongo bazwa kujwe, kamusiya zyaansi; yandaula uuyandika, mwabona nyenyeezi."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Nobasyommi balangila, mwalinda ciindi coonse; mwami jesu ngo- mesiya, kamubona waika"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Kamuboola, kamukomba, komba mwami wazyalwa kamuboola, kamukomba, komba mwami wazyalwa"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 46,
-    "title": "c. Mukufwidwa mukufwidwa",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "46c. Mukufwidwa mukufwidwa",
-          ". Mukufwidwa mukufwidwa",
-          "Ciindululo:",
-          "Motwakabujana mukufwidwa, oobu buumi. Boola,boola jesu, boola kaka boola boola jesu utuvune."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mubuswini, mubuswini",
-          "Ciindululo:",
-          "Motwakabujana mukufwidwa, oobu buumi. Boola,boola jesu, boola kaka boola boola jesu utuvune."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mukukomba, mukukomba",
-          "Ciindululo:",
-          "Motwakabujana mukufwidwa, oobu buumi. Boola,boola jesu, boola kaka boola boola jesu utuvune."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mukupegwa,mukupegwa",
-          "Ciindululo:",
-          "Motwakabujana mukufwidwa, oobu buumi. Boola,boola jesu, boola kaka boola boola jesu utuvune."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mukugwasya, mukugwasya",
-          "Ciindululo:",
-          "Motwakabujana mukufwidwa, oobu buumi. Boola,boola jesu, boola kaka boola boola jesu utuvune."
+          "Mukugwasya, mukugwasya"
         ]
       }
     ]
@@ -4585,125 +2946,41 @@ export const tongaHymns = [
     "hymnNo": 47,
     "title": "IZINA LYA-JESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Notukkalala ansi aano tatukonzya ansi aano tatukonzya kumvwa, izina limbi ibbotu, kwiinda lya-jesu"
+          "Notukkala ansi aano,",
+          "Tatukonzya kumvwa,",
+          "Izina limbi ibbotu,",
+          "Kwiinda lya-Jesu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
+          "Mungelo wakasaanguna kwaamba kulibanyina, ukuti izina lyakwe liyootegwa ngu-jesu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mungelo wakasaanguna kwaamba kulibanyina, ukuti izina lyakwe liyootegwa ngu-jesu"
+          "Naabikwa aciingano, bakalemba izina ukuti boonse babone tweelede kumuyanda"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Naabikwa aciingano, bakalemba izina ukuti boonse babone tweelede kumuyanda"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Asunu ulikujulu, abavune basyoma; nguwe mooneki,  ngo-mwami ngo-mufutuli jesu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
+          "Asunu ulikujulu, abavune basyoma; nguwe mooneki, ngo-mwami ngo-mufutuli jesu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 47,
-    "title": "IZINA LYA-JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "47 IZINA LYA-JESU“there is no name”",
-          "Notukkalala ansi aano tatukonzya ansi aano tatukonzya kumvwa, izina limbi ibbotu, kwiinda lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mungelo wakasaanguna kwaamba kulibanyina, ukuti izina lyakwe liyootegwa ngu-jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Naabikwa aciingano, bakalemba izina ukuti boonse babone tweelede kumuyanda"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Asunu ulikujulu, abavune basyoma; nguwe mooneki,  ngo-mwami ngo-mufutuli jesu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo;",
-          "Lino tuyanda kwiimba a- mwami wesu jesu, kwiina ibbala lyamvwidwe mbuli zina lya-jesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 47,
+    "hymnNo": "47C",
     "title": "C.MUSAMU UTAZYALI MICELO",
     "creator": "Unknown",
     "chorus": null,
@@ -4711,9 +2988,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "47C.MUSAMU UTAZYALI MICELO",
           "Musamu utazyali micelo nduuyanda nduuteme.(2)",
-          "Lindilila musamu, lindilila asyoonto hamu, hamu, asyoonto nduuyanda nduuteme.(2)"
+          "Lindilila musamu, lindilila asyoonto hamu,",
+          "hamu, asyoonto nduuyanda nduuteme.(2)"
         ]
       }
     ]
@@ -4727,91 +3004,118 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Kubotelwa kunyika, mufutuli weza; bantu boonse mutambule, waboola kuzoomuvuna; atwiimbe toonse, mufutuli wasika, mufutuli wasika, atwiimbe"
+          "Kubotelwa kunyika,",
+          "Mufutuli weza;",
+          "Bantu boonse mutambule,",
+          "Waboola kuzoomuvuna,"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mutazumini zibi,zilele lyooonse, muboole kuli- jesu zibi zyanu zijatilwe, tutangale toonse, zibi zyalekelelwa, zibi zyesu zyamana, tutangale."
+          "Atwiimbe toonse,",
+          "Mufutuli wasika,",
+          "Mufutuli wasika,",
+          "atwiimbe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakaboola kutugwasya, myoyo ipengede, jesu ulaiponya, ulaipa luumuno; atulumbe toonse; musilisi waboola, musilisi waboola, atulumbe."
+          "Mutazumini zibi,",
+          "zilele lyoonse",
+          "Muboole kuli Jesu,",
+          "Zibi zyanu zijatilwe,",
+          "Tutangale toonse,",
+          "Zibi zyalekelelwa,",
+          "Zibi zyesu zyamana,",
+          "tutangale."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ulalela munyika, ansi mubwini; ulacita kuti zisi zyoonse zitangale, uluyando lwakwe, ndupati kulindiswe, luyando ndupati, tumukombe."
+          "Wakaboola kutugwasya;",
+          "Myoyo ipengede.",
+          "Jesu ulaiponya,",
+          "ulaipa luumuno;",
+          "Atulumbe toonse;",
+          "musilisi waboola,",
+          "Musilisi waboola,",
+          "atulumbe."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Ulalela munyika,",
+          "ansi mubwini.",
+          "Ulacita kuti zisi zyoonse zitangale,",
+          "Uluyando lwakwe,",
+          "ndupati kulindiswe,",
+          "Luyanda ndupati,",
+          "tumukombe."
         ]
       }
     ]
   },
   {
-    "hymnNo": 48,
-    "title": "KUBOTELWA KUNYIKA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "48 KUBOTELWA KUNYIKA“joy to the world”",
-          "Kubotelwa kunyika, mufutuli weza; bantu boonse mutambule, waboola kuzoomuvuna; atwiimbe toonse, mufutuli wasika, mufutuli wasika, atwiimbe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mutazumini zibi,zilele lyooonse, muboole kuli- jesu zibi zyanu zijatilwe, tutangale toonse, zibi zyalekelelwa, zibi zyesu zyamana, tutangale."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakaboola kutugwasya, myoyo ipengede, jesu ulaiponya, ulaipa luumuno; atulumbe toonse; musilisi waboola, musilisi waboola, atulumbe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ulalela munyika, ansi mubwini; ulacita kuti zisi zyoonse zitangale, uluyando lwakwe, ndupati kulindiswe, luyando ndupati, tumukombe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 48,
+    "hymnNo": "48B",
     "title": "MU SODOMA A GOMOLA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mu-sodoma, a-gomola, bakawida mumulilo, boonse bamana kupya (2)"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "48 MU SODOMA A GOMOLA",
-          "Kwakali bangelo bobile bakatumwa abrahamu. (2)",
-          "Ciindululo:",
-          "Mu-sodoma, a-gomola, bakawida mumulilo, boonse bamana kupya (2)"
+          "Kwakali bangelo bobile bakatumwa abrahamu. (2)"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Tutabi mbuli muka-loti wakaba cuunu camunyo.(2)",
-          "Ciindululo:",
-          "Mu-sodoma, a-gomola, bakawida mumulilo, boonse bamana kupya (2)"
+          "Tutabi mbuli muka-loti wakaba cuunu camunyo.(2)"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ciindi cili kulindiswe; ncobayanda abano.(2)",
-          "Ciindululo:",
-          "Mu-sodoma, a-gomola, bakawida mumulilo, boonse bamana kupya (2)"
+          "Ciindi cili kulindiswe; ncobayanda abano.(2)"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "48C",
+    "title": "C. MU-SODOMA A-GOMOLA",
+    "creator": "Unknown",
+    "chorus": [
+      "Mu-Sodoma, a-Gomola,",
+      "Bakawida mumulilo,",
+      "Boonse bamana kupya."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kwakali bangelo bobile",
+          "Bakatumwa Abrahamu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tutabi mbuli muka-Loti",
+          "Wakaba cuulu camunyo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ciindi cili kulindiswe;",
+          "Ncobayanda abalo."
         ]
       }
     ]
@@ -4855,269 +3159,103 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 49,
-    "title": ".KULE KWAKALI BEEMBEZI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "49.KULE KWAKALI BEEMBEZI“while shepherds watched”",
-          "Kule kwakali beembezi balindila butanga, kwakalibonya kulimbabo mungelo wa-jehova"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Beembezi baayoowa loko, pele wakabaambila, mutayoowi ndamuletela makani abotezya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kulindinywe mu- betelehemu wazyalwa mufutuli, kamuya mukamujane sunu mucilido can’gombe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mpoonya bakanjila mumunzi kuyandaula jesu, bamujana, bamukomba, babotelwa kapati"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Asunu tukamukombe jesu, mwana wa-leza, twamulumba leza kujulu, watuyanda bobuya"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 49,
+    "hymnNo": "49C",
     "title": "C. MWAMI AKUBOOLA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndinjile sena, ndinjile sena?",
+      "Ndinjile sena mwami,ndafutulwa?",
+      "Ndinjile sena, ndinjile sena?",
+      "Ndinjile sena mwami, mu zioni?"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "49C. MWAMI AKUBOOLA",
-          "Mwami aakuboola omuno munyika, kutola bantu bakwe basyomeka.",
-          "Ciindululo:",
-          "Ndinjile sena, ndinjile sena? Ndinjile sena mwami,ndafutulwa? Ndinjile sena, ndinjile sena? Ndinjile sena mwami, mu zioni?"
+          "Mwami aakuboola omuno munyika,",
+          "kutola bantu bakwe basyomeka."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mulimigwagwa mibotu, itubatuba, maanda mabotu anyengema.",
-          "Ciindululo:",
-          "Ndinjile sena, ndinjile sena? Ndinjile sena mwami,ndafutulwa? Ndinjile sena, ndinjile sena? Ndinjile sena mwami, mu zioni?"
+          "Mulimigwagwa mibotu, itubatuba, maanda mabotu anyengema."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mulimasi mabotu, amwekamweka, misini mibotu yangolida",
-          "Ciindululo:",
-          "Ndinjile sena, ndinjile sena? Ndinjile sena mwami,ndafutulwa? Ndinjile sena, ndinjile sena? Ndinjile sena mwami, mu zioni?"
+          "Mulimasi mabotu, amwekamweka, misini mibotu yangolida"
         ]
       }
     ]
   },
   {
     "hymnNo": 50,
-    "title": "LANGA MWANAAKWE LEZA",
+    "title": "LANGA MWANAAKWE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "50. LANGA MWANAAKWE“see amid the winters snow”",
-          "Langa mwanaakwe leza mbwaatuzyalilwa  ansi waboneka munyika, wakaambwa ciindi"
+          "Langa mwanaakwe leza mbwaatuzyalilwa ansi waboneka munyika, wakaambwa ciindi"
         ]
       },
       {
         "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 3,
         "lines": [
           "Langa mbwabede sunu uwakalenga nyika wazyalwa mbuli mwana ulilede mukaanda"
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nobeembali babotu makaniinzi ngimwaamba? Mwasiilanzi mbelele mumalundu ayoosya?"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Netukkede masiku, twakabona maleele batwiimbila bangelo bati wazyalwa kristo"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "O mucece wa-leza, kugambya buuya bwako wakasiya bulemu, wazida nyika mbi"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Mwana osalalisya, watupa citondezyo atukozyanye nduwe mulubomba lubotu"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 50,
-    "title": ". LANGA MWANAAKWE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "50. LANGA MWANAAKWE“see amid the winters snow”",
-          "Langa mwanaakwe leza mbwaatuzyalilwa  ansi waboneka munyika, wakaambwa ciindi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
         "stanzer": 3,
         "lines": [
-          "Langa mbwabede sunu uwakalenga nyika wazyalwa mbuli mwana ulilede mukaanda"
+          "Nobeembali babotu makaniinzi ngimwaamba? Mwasiilanzi mbelele mumalundu ayoosya?"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
+          "Netukkede masiku, twakabona maleele batwiimbila bangelo bati wazyalwa kristo"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Nobeembali babotu makaniinzi ngimwaamba? Mwasiilanzi mbelele mumalundu ayoosya?"
+          "O mucece wa-leza, kugambya buuya bwako wakasiya bulemu, wazida nyika mbi"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Netukkede masiku, twakabona maleele batwiimbila bangelo bati wazyalwa kristo"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "O mucece wa-leza, kugambya buuya bwako wakasiya bulemu, wazida nyika mbi"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
           "Mwana osalalisya, watupa citondezyo atukozyanye nduwe mulubomba lubotu"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Ciindululo:",
-          "Twakujuzya o mwami watuzyalilwa sunu;atubiimbile boonse, wazyalwa mufutuli"
         ]
       }
     ]
   },
   {
-    "hymnNo": 50,
-    "title": ". MWAMI UNDISOLWEDE KUBANTU",
+    "hymnNo": "50C",
+    "title": "c. MWAMI UNDISOLWEDE KUBANTU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "50. MWAMI UNDISOLWEDE KUBANTU“lead me to some soul today”",
-          "Mwami undisolweede kubantu kubaambila; beenzuma basweekede nkaambo teebalizi. Mbace basikubagwasya, teensi banji bakomba. Ndipa moyo wabuumi, kusplweda bantu."
+          "Mwami undisolweede kubantu kubaambila;",
+          "beenzuma basweekede nkaambo teebalizi.",
+          "Mbace basikubagwasya, teensi banji bakomba.",
+          "Ndipa moyo wabuumi, kusplweda bantu."
         ]
       }
     ]
   },
   {
     "hymnNo": 51,
-    "title": "MUMUNZI WA-DAVIDA",
+    "title": "Mumunzi wa-Davida",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -5130,58 +3268,28 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Walo wakaselukila ansi, ngu-leza, singuzuzyoonse namakungwe wakaiibombye ulilede mucimpati. Mufutuli, mulengi, wakakkala abacete"
+          "Walo wakaselukila ansi, ngu-leza, singuzuzyoonse namakungwe wakaiibombye ulilede mucimpati.",
+          "Mufutuli, mulengi, wakakkala abacete"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Jesu wakali mwana musyoonto, pele wakakomena, nkaambo wakali mbuli ndiswe ulizi mapenzi esu. Sunu uli kujulu, ulatubambila busena"
+          "Jesu wakali mwana musyoonto, pele wakakomena, nkaambo wakali mbuli ndiswe ulizi mapenzi esu.",
+          "Sunu uli kujulu, ulatubambila busena"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Cimwi ciindi tuyoomubona jesu kristo, mwami wesu nkaambo muluyando lwakwe walo wakatufutula; uzootuzolwedela, tusike kumunzi wakujulu"
+          "Cimwi ciindi tuyoomubona jesu kristo, mwami wesu nkaambo muluyando lwakwe walo wakatufutula;",
+          "uzootuzolwedela, tusike kumunzi wakujulu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 51,
-    "title": ".Mumunzi wa-Davida",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "51.Mumunzi wa-Davida“once in royal David’s city”",
-          "Ciindi mumunzi wa-Davida kwakali ciba can’gombe, oko kuciindi camasiku, nkwaakazyalwa mwanaakwe maliya mubotu, mwanaakwe wakali jesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Walo wakaselukila ansi, ngu-leza, singuzuzyoonse namakungwe wakaiibombye ulilede mucimpati. Mufutuli, mulengi, wakakkala abacete"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu wakali mwana musyoonto, pele wakakomena, nkaambo wakali mbuli ndiswe ulizi mapenzi esu. Sunu uli kujulu, ulatubambila busena"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Cimwi ciindi tuyoomubona jesu kristo, mwami wesu nkaambo muluyando lwakwe walo wakatufutula; uzootuzolwedela, tusike kumunzi wakujulu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 51,
+    "hymnNo": "51C",
     "title": "C. MWAMI WANGU",
     "creator": "Unknown",
     "chorus": null,
@@ -5189,22 +3297,24 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "51C. MWAMI WANGU",
-          "Mwami wangu, mwami wangu, ndilongezye o mwami. Acikamu cabangelo cindiswenye nkobede."
+          "Mwami wangu, mwami wangu, ndilongezye o mwami.",
+          "Acikamu cabangelo cindiswenye nkobede."
         ]
       }
     ]
   },
   {
     "hymnNo": 52,
-    "title": "MUNYIKA MWATONTOLA",
+    "title": "Munyika mwatontola",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Munyika mwatontola, bantu boonse baona. Balikkede abanyama  maliya a-Josefa a-mwana wabo; bamulindila woona, woona kabotu"
+          "Munyika mwatontola, bantu boonse baona.",
+          "Balikkede abanyama maliya a-Josefa a-mwana wabo;",
+          "bamulindila woona, woona kabotu"
         ]
       },
       {
@@ -5222,93 +3332,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 52,
-    "title": ". Munyika mwatontola",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "52. Munyika mwatontola“silent night”",
-          "Munyika mwatontola, bantu boonse baona. Balikkede abanyama  maliya a-Josefa a-mwana wabo; bamulindila woona, woona kabotu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Munyika mwatontola, beembezi babona, bangelo ibaimba lwiimbo lupya lwa-leza; wasika muvuni, wasika muvuni"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Munyika mwatontola, mwanaa-leza uyandwa luyando luli mubusyu bwakwe ncecino ciindi caluzyalo, nkaambo wazyalwa mwami, nkaambo wazyalwa mwami."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 53,
-    "title": "MUZE NOBANTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Nubantu muboole, atusekelele, tuboole kumunzi wa betelehemu. Mwami wamasi, atuzoomubone,",
-          "muze tuvuntamine,muze tuvuntamine,muzetuvuntamine mwanaa- leza"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ngonguwe cilenga leza mwini mwini wakazuminina kuzyalwa kwaansi. Swebo tulemye mwanaakwe maliya;",
-          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mwami twakwaanzya, ozyalwa sunu. Twazookukambilila olike. Ijwi lya leza lyakacitwa muntu.",
-          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 53,
-    "title": ". MUZE NUBANTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "53. MUZE NUBANTU“o come all ye faithful”",
-          "Nubantu muboole, atusekelele, tuboole kumunzi wa betelehemu. Mwami wamasi, atuzoomubone,",
-          "muze tuvuntamine,muze tuvuntamine,muzetuvuntamine mwanaa- leza"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ngonguwe cilenga leza mwini mwini wakazuminina kuzyalwa kwaansi. Swebo tulemye mwanaakwe maliya;",
-          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mwami twakwaanzya, ozyalwa sunu. Twazookukambilila olike. Ijwi lya leza lyakacitwa muntu.",
-          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 53,
+    "hymnNo": "52C",
     "title": "C. NDABOTELWA",
     "creator": "Unknown",
     "chorus": null,
@@ -5316,7 +3340,51 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "53C. NDABOTELWA",
+          "Ndabotelwa, ndabotelwa, ndabotelwa (4)",
+          "Ndabotelwa, ndabotelwa",
+          "Nkaambo Jesu wakandifutula."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 53,
+    "title": "MUZE NUBANTU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nubantu muboole, atusekelele, tuboole kumunzi wa betelehemu. Mwami wamasi, atuzoomubone,",
+          "muze tuvuntamine,muze tuvuntamine,muzetuvuntamine mwanaa- leza"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ngonguwe cilenga leza mwini mwini wakazuminina kuzyalwa kwaansi. Swebo tulemye mwanaakwe maliya;",
+          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mwami twakwaanzya, ozyalwa sunu. Twazookukambilila olike. Ijwi lya leza lyakacitwa muntu.",
+          "muze tuvuntamine,muze tuvuntamine,muze tuvuntamine mwanaa- leza"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "53C",
+    "title": "C. NDABOTELWA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
           "Ndasala kumutobela jesu, Ndasala kumutobela jesu",
           "Ndasala kumutobela jesu",
           "Nsikooyookupiluka, pe."
@@ -5332,30 +3400,32 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Nyika munsi lyangu, ciingano kumbele; nyika munsi lyangu, ciingano kumbele; nyika munsi lyangu, ciingano kumbele; nsikooyookupiluka, pe"
+          "Nyika munsi lyangu, ciingano kumbele;",
+          "nyika munsi lyangu, ciingano kumbele; nyika munsi lyangu,",
+          "ciingano kumbele; nsikooyookupiluka, pe"
         ]
       }
     ]
   },
   {
     "hymnNo": 54,
-    "title": "Muciba Cang'ombe",
+    "title": "Muciba Cang’ombe",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Muciba cang'ombe takukwe bulo,",
+          "Muciba cang’ombe takukwe bulo,",
           "Nkokwazyalwa Jesu Mwami wanyika;",
           "Kujulu nyenyezi zyamumwekela;",
-          "Cilido cang'ombe mbobulo bwakwe."
+          "Cilido cang’ombe mbobulo bwakwe."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Zyalila ing'ombe wabuka mwana;",
+          "Zyalila ing’ombe wabuka mwana;",
           "Katalili Jesu mwana mucece;",
           "Ndakuyanda Jesu kolanga ndime,",
           "Ndilele O mwami masiku oonse."
@@ -5373,7 +3443,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 54,
+    "hymnNo": "54C",
     "title": "C. NDAYANDA KUYA",
     "creator": "Unknown",
     "chorus": null,
@@ -5381,15 +3451,17 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "54C. NDAYANDA KUYA",
-          "Ndayanda kuya kujulu, kujulu kujulu naa ndafwa; kujulu ndafwa, julu, julu, julu, kujulu ndafwa, julu, julu, naa ndafwa."
+          "Ndayanda kuya kujulu, kujulu kujulu naa ndafwa;",
+          "kujulu ndafwa, julu, julu,",
+          "julu, kujulu ndafwa,",
+          "julu, julu, naa ndafwa."
         ]
       }
     ]
   },
   {
     "hymnNo": 55,
-    "title": "BETELEHEMU",
+    "title": "O MUNZI WA BETELEHEMU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -5402,58 +3474,31 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Nkaambo kristo wazyalwa sunu kuli-maliya; masiku abangelo balamulangila o nyenyeezi koamba  kuzyalwa kwakwe; imba kulumbaizya  kuli-leza mwami"
+          "Nkaambo kristo wazyalwa sunu kuli-maliya;",
+          "masiku abangelo balamulangila o nyenyeezi koamba kuzyalwa kwakwe;",
+          "imba kulumbaizya kuli-leza mwami"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mubuumuzi leza wapa cipo cigambya munzila eyo mumoyo,  kwiina matwi akonzya kumvma naboola; ulanjila kubantu abamutambula"
+          "Mubuumuzi leza wapa cipo cigambya munzila eyo mumoyo, kwiina matwi akonzya kumvma naboola;",
+          "ulanjila kubantu abamutambula"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "O mwana wa- betelehemu, boola kulindiswe; gwisya izibi zyesu, swenzya myoyo yesu. kokkalilila aswe o mwami jesu; kokkala mazuba oonse imanuwele"
+          "O mwana wa- betelehemu, boola kulindiswe;",
+          "gwisya izibi zyesu, swenzya myoyo yesu.",
+          "kokkalilila aswe o mwami jesu;",
+          "kokkala mazuba oonse imanuwele"
         ]
       }
     ]
   },
   {
-    "hymnNo": 55,
-    "title": ". O MUNZI WA BETELEHEMU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "55. O MUNZI WA BETELEHEMU“o little town”",
-          "O munzi wa-betelehemu boonse bantu baloona, kujulu inyenyeezi zilamwekesya li, mudima wanu nkuuli Mumuni, wakali kulangilwe ciindi cilamfu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nkaambo kristo wazyalwa sunu kuli-maliya; masiku abangelo balamulangila o nyenyeezi koamba  kuzyalwa kwakwe; imba kulumbaizya  kuli-leza mwami"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mubuumuzi leza wapa cipo cigambya munzila eyo mumoyo,  kwiina matwi akonzya kumvma naboola; ulanjila kubantu abamutambula"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "O mwana wa- betelehemu, boola kulindiswe; gwisya izibi zyesu, swenzya myoyo yesu. kokkalilila aswe o mwami jesu; kokkala mazuba oonse imanuwele"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 55,
+    "hymnNo": "55C",
     "title": "C.NDICCILILE ULAITA",
     "creator": "Unknown",
     "chorus": null,
@@ -5461,7 +3506,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "55C.NDICCILILE ULAITA",
           "Ndiccilile, ulaita, ukabe muzeli wabantu mbwaakaiisya bensiku jesu ulaita ime."
         ]
       }
@@ -5488,54 +3532,25 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Jesu kristo mwami wesu, mwami uwa lyoonse lyoonse  waseluka amsi ano azyalwe anakalindu. Mbuli muntu wakaboola kubu leza ansi ano. Atubambile lufutuko jesu mwami wesu, bangelo balaimba bulemu kuli-jesu."
+          "Jesu kristo mwami wesu, mwami uwa lyoonse lyoonse waseluka amsi ano azyalwe anakalindu.",
+          "Mbuli muntu wakaboola kubu leza ansi ano.",
+          "Atubambile lufutuko jesu mwami wesu, bangelo balaimba bulemu kuli-jesu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Langa mwami waluumuno, watuletela buumi; kupona kwabantu boonse.",
-          "baboola kuliguwe; wasiya bulemu bwakwe, wazyalwa kuti tupone; abusye babisya boonse; kuti tuzyalwe alimwi bangelo balaimba bulemu kuli jesu"
+          "baboola kuliguwe;",
+          "wasiya bulemu bwakwe, wazyalwa kuti tupone;",
+          "abusye babisya boonse;",
+          "kuti tuzyalwe alimwi bangelo balaimba bulemu kuli jesu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 56,
-    "title": ". TEELELA BANGELO BOONSE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "56. TEELELA BANGELO BOONSE“hark the herald angels”",
-          "Teelela bangelo boonse, balaimba kujulu; twazyalilwa mufutuli kube luumuno lupati; ansi kumikowa yoonse,"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "luyando lubotu koonse akati kabantu boonse, wazyalwa ku-betelehemu; bangelo balaimba bulemu kuli-jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu kristo mwami wesu, mwami uwa lyoonse lyoonse  waseluka amsi ano azyalwe anakalindu. Mbuli muntu wakaboola kubu leza ansi ano. Atubambile lufutuko jesu mwami wesu, bangelo balaimba bulemu kuli-jesu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Langa mwami waluumuno, watuletela buumi; kupona kwabantu boonse.",
-          "baboola kuliguwe; wasiya bulemu bwakwe, wazyalwa kuti tupone; abusye babisya boonse; kuti tuzyalwe alimwi bangelo balaimba bulemu kuli jesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 56,
+    "hymnNo": "56C",
     "title": "c. Ndifutule lino",
     "creator": "Unknown",
     "chorus": null,
@@ -5543,7 +3558,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "56c. Ndifutule lino",
           "Ndifutule lino,ndifutule lino jesu kristo wandifwida, ndifutule lino."
         ]
       }
@@ -5553,7 +3567,9 @@ export const tongaHymns = [
     "hymnNo": 57,
     "title": "TOBASONGO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -5564,140 +3580,31 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
+          "Wakazyalwa ku-betelehemu, ndamuleta musini mwami lyoonse ulamani weza kutulela"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakazyalwa ku-betelehemu, ndamuleta musini mwami lyoonse ulamani weza kutulela"
+          "Muunde ndamuletela muunde oyo ununkisya alemekwe,atembaulwe, leza mufutuli!"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
+          "Ndamuletela Mafuta, aanunka apa buumi; kulila, kusinsima buusu bwakujalilwa mucuumbwe"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Muunde ndamuletela muunde oyo ununkisya alemekwe,atembaulwe, leza mufutuli!"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ndamuletela Mafuta, aanunka apa buumi; kulila, kusinsima buusu bwakujalilwa mucuumbwe"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Mubulemu twamubona mwami leza uupallwa, aleluya, aleluya boonse baimba"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
         ]
       }
     ]
   },
   {
-    "hymnNo": 57,
-    "title": ".TOBASONGO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "57.TOBASONGO“we three kings”",
-          "Tobasongo bazwa kujwe, tweza kubona muvwanda,twakabona inyenyeezi okuya kujwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakazyalwa ku-betelehemu, ndamuleta musini mwami lyoonse ulamani weza kutulela"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Muunde ndamuletela muunde oyo ununkisya alemekwe,atembaulwe, leza mufutuli!"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ndamuletela Mafuta, aanunka apa buumi; kulila, kusinsima buusu bwakujalilwa mucuumbwe"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Mubulemu twamubona mwami leza uupallwa, aleluya, aleluya boonse baimba"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "O inyenyeezi mweka inyenyeezi mweka; tuzolwede tukabone imwana muvwanda"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 57,
+    "hymnNo": "57C",
     "title": "C. NDIISYE KUKUYANDA AKUPAILA",
     "creator": "Unknown",
     "chorus": null,
@@ -5705,81 +3612,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "57C. NDIISYE KUKUYANDA AKUPAILA",
           "Ndiisye kukuyanda akupaila, ndiisye kukukomba mazuba oonse."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 58,
-    "title": "WAZYALWA MWAMI WA-ISRAELI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Kukuzyalwa kwa-mwami jesu kakuli beembezi mumuunda, boona, kabeembela mbelele zyabo, buzuba bwaali kutontola"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Amumuni wenyenyeezi eyo, kwakeza basongo kuzwa kuzwa kulaale,kabayandaula mwami, baccilila nyenyeezi nkoyakaya"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Inyenyeezi yakaswena afwaafwi, ku-betelehemu yakalyookezya yakaleka kweenda yakaima, mpoonya abusena jesu mpaakalede."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Bakanjila basongo botatwe, bakamuvundamina amazwi abo, bakamupa zipego zyabo, zyangolida, amula atunukilizyo"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Mbube toonse tuzuminane, atwiimbe kulumba mwami wejulu, wakalenga julu enyika, abulowa bwakwe twakafutulwa."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
         ]
       }
     ]
@@ -5788,78 +3621,44 @@ export const tongaHymns = [
     "hymnNo": 58,
     "title": "WAZYALWA MWAMI WA-IZILAYELI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "58 WAZYALWA MWAMI WA-IZILAYELI“the first noel”",
           "Kukuzyalwa kwa-mwami jesu kakuli beembezi mumuunda, boona, kabeembela mbelele zyabo, buzuba bwaali kutontola"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
+          "Amumuni wenyenyeezi eyo, kwakeza basongo kuzwa kuzwa kulaale,kabayandaula mwami, baccilila nyenyeezi nkoyakaya"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Amumuni wenyenyeezi eyo, kwakeza basongo kuzwa kuzwa kulaale,kabayandaula mwami, baccilila nyenyeezi nkoyakaya"
+          "Inyenyeezi yakaswena afwaafwi, ku-betelehemu yakalyookezya yakaleka kweenda yakaima, mpoonya abusena jesu mpaakalede."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
+          "Bakanjila basongo botatwe, bakamuvundamina amazwi abo, bakamupa zipego zyabo, zyangolida, amula atunukilizyo"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Inyenyeezi yakaswena afwaafwi, ku-betelehemu yakalyookezya yakaleka kweenda yakaima, mpoonya abusena jesu mpaakalede."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Bakanjila basongo botatwe, bakamuvundamina amazwi abo, bakamupa zipego zyabo, zyangolida, amula atunukilizyo"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Mbube toonse tuzuminane, atwiimbe kulumba mwami wejulu, wakalenga julu enyika, abulowa bwakwe twakafutulwa."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya! aleluya! Wazyalwa mwami wa-izilayeli"
         ]
       }
     ]
   },
   {
-    "hymnNo": 58,
+    "hymnNo": "58C",
     "title": "C. NDILAKKOMANA A MUFUTULI",
     "creator": "Unknown",
     "chorus": null,
@@ -5867,7 +3666,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "58C. NDILAKKOMANA A MUFUTULI",
           "Ndilakkomana a mufutuli Ndilakkomana a mufutuli",
           "Ndilakkomana a mufutuli",
           "Wafwa a kalivali."
@@ -5877,115 +3675,51 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 59,
-    "title": "AMBA MAKANI AA-JESU",
+    "title": "AMBA MAKANI AAJESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Amba makani aa-jesu lemba mumoyo wangu.",
+      "Amba makani mabotu manono tanamvwide"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Amba makani aa- jesu, lemba majwi mumoyo; amba makani mabotu, manono tanamvwidwe. Abma bangelo munyimbo, kuti jesu wazyalwa, botela leza mupati lummuno lubutu"
+          "Amba makani aa- jesu, lemba majwi mumoyo;",
+          "amba makani mabotu, manono tanamvwidwe.",
+          "Abma bangelo munyimbo, kuti jesu wazyalwa, botela leza mupati lummuno lubutu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
+          "Wakakala mulukulu, amba mazuba ensiku;",
+          "mbwaakasunkwa zibi zyesu mukugola wazunda.amba milimo ya-jesu,amba kupenga kwakwe;",
+          "wasampulwa mukupenga, takwe kupona kabotu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakakala mulukulu, amba mazuba ensiku; mbwaakasunkwa zibi zyesu mukugola wazunda.amba milimo ya-jesu,amba kupenga kwakwe;  wasampulwa mukupenga, takwe kupona kabotu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Amba ciingano  cakwe, amba kuciswa kwakwe; amba akwaakaazikwa jesu, amba wabuka alimwi;",
-          "luyando olu lupati, ndalubonesya lyoonse;  ndayanda kumwaambila, luyando lwakandilungila"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
+          "Amba ciingano cakwe, amba kuciswa kwakwe; amba akwaakaazikwa jesu, amba wabuka alimwi;",
+          "luyando olu lupati, ndalubonesya lyoonse; ndayanda kumwaambila, luyando lwakandilungila"
         ]
       }
     ]
   },
   {
-    "hymnNo": 59,
-    "title": ".AMBA MAKANI AAJESU",
+    "hymnNo": "59C",
+    "title": "C. NDINOOLUMBA JESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "59.AMBA MAKANI AAJESU“tell me the story of jesus”",
-          "Amba makani aa- jesu, lemba majwi mumoyo; amba makani mabotu, manono tanamvwidwe. Abma bangelo munyimbo, kuti jesu wazyalwa, botela leza mupati lummuno lubutu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakakala mulukulu, amba mazuba ensiku; mbwaakasunkwa zibi zyesu mukugola wazunda.amba milimo ya-jesu,amba kupenga kwakwe;  wasampulwa mukupenga, takwe kupona kabotu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Amba ciingano  cakwe, amba kuciswa kwakwe; amba akwaakaazikwa jesu, amba wabuka alimwi;",
-          "luyando olu lupati, ndalubonesya lyoonse;  ndayanda kumwaambila, luyando lwakandilungila"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo",
-          "Amba makani aa-jesu",
-          "lemba mumoyo wangu.",
-          "Amba makani mabotu",
-          "manono tanamvwide"
+          "Ndinoolumba Jesu, Jesu.",
+          "Ndinoolumba Mwami wangu.",
+          "Uwandiyanda wandifwida,",
+          "Ndinoolumba Jesu."
         ]
       }
     ]
@@ -5999,14 +3733,17 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "60 AAMBA MAKANI AA- JESU KULINDIME“stories of jesus”",
-          "Aamba makani aa-jesu kulindime; mbobwakabede munyika buumi bwakwe; mbwaacita muuzila amulweizi; makani aa-mwami mundaambile"
+          "Aamba makani aa-jesu kulindime;",
+          "mbobwakabede munyika buumi bwakwe;",
+          "mbwaacita muuzila amulweizi;",
+          "makani aa-mwami mundaambile"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Amba lutanzi makani aabanike, mbobakasikila jesu baala- coolwe; jesu alakwe wakakondwa, wababukata, wabayanda."
+          "Amba lutanzi makani aabanike, mbobakasikila jesu baala- coolwe;",
+          "jesu alakwe wakakondwa, wababukata, wabayanda."
         ]
       },
       {
@@ -6018,57 +3755,21 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Basikwiiya bakayoowa, bati “twafwa!” jesu wakali mun’gonzi katapengi. Bakamubusya, wakakasya luuwo amanzi kwabatama"
+          "Basikwiiya bakayoowa, bati “twafwa!” jesu wakali mun’gonzi katapengi.",
+          "Bakamubusya, wakakasya luuwo amanzi kwabatama"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Amba makani ayoosya mbwaakatolwa, mbwaakabambu ulwa aciingano mwami jesu. Wakatufwida, wakabuka kuti tujane lufutuko"
+          "Amba makani ayoosya mbwaakatolwa, mbwaakabambu ulwa aciingano mwami jesu.",
+          "Wakatufwida, wakabuka kuti tujane lufutuko"
         ]
       }
     ]
   },
   {
-    "hymnNo": 60,
-    "title": "AMBA MAKANI AA-JESU KULINDIME",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Aamba makani aa-jesu kulindime; mbobwakabede munyika buumi bwakwe; mbwaacita muuzila amulweizi; makani aa-mwami mundaambile"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Amba lutanzi makani aabanike, mbobakasikila jesu baala- coolwe; jesu alakwe wakakondwa, wababukata, wabayanda."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Amba makani aalwizi lwa-galili’ mbobakabede mubwaato benzinyina kwabuka gawo amaiwe, bwaamba kubbila bwaato bwabo"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Basikwiiya bakayoowa, bati “twafwa!” jesu wakali mun’gonzi katapengi. Bakamubusya, wakakasya luuwo amanzi kwabatama"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Amba makani ayoosya mbwaakatolwa, mbwaakabambu ulwa aciingano mwami jesu. Wakatufwida, wakabuka kuti tujane lufutuko"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 60,
+    "hymnNo": "60C",
     "title": "C. NDIYANDA KUTI NDIINKE",
     "creator": "Unknown",
     "chorus": null,
@@ -6085,9 +3786,14 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 61,
-    "title": "IZINA NDIBBOTU",
+    "title": "IZINA NDIBOTU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Izina, ndibbotu",
+      "Izina, lyakwe jesu.",
+      "Izina, ndibbotu.",
+      "Izina lyakwe jesu"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -6099,139 +3805,25 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
+          "Wakeendeenda koonse koonse, katufwida insoni. Wakaponya bantu banji, mumalwazi aabo"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wakeendeenda koonse koonse, katufwida insoni. Wakaponya bantu banji, mumalwazi aabo"
+          "Iswe tatuna kubona jesu iwasilika, nikubaboobo wapona, kwakwe tuyakusika."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Iswe tatuna kubona jesu iwasilika, nikubaboobo wapona, kwakwe tuyakusika."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Katuya ku-musilisi, uyakututambula. Atukombe, tusinizye, uya kutusandula"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 61,
-    "title": ". IZINA NDIBOTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "61. IZINA NDIBOTU“precious name”",
-          "Wakasika musilisi, usilika myoyo.wakaselukila ansi.",
-          "Ngonguwe mwanaa leza"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakeendeenda koonse koonse, katufwida insoni. Wakaponya bantu banji, mumalwazi aabo"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Iswe tatuna kubona jesu iwasilika, nikubaboobo wapona, kwakwe tuyakusika."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Katuya ku-musilisi, uyakututambula. Atukombe, tusinizye, uya kutusandula"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Izina, ndibbotu",
-          "Izina, lyakwe jesu.",
-          "Izina, ndibbotu.",
-          "Izina lyakwe jesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 61,
+    "hymnNo": "61C",
     "title": "c.ndiyanda kuya kwiinka",
     "creator": "Unknown",
     "chorus": null,
@@ -6239,7 +3831,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "61c.ndiyanda kuya kwiinka",
           "Ndiyanda kuya kwiinka",
           "Kuli tata kujulu (3)",
           "Kutakwe mapenzi"
@@ -6302,46 +3893,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 62,
-    "title": "JESU WAKAZIDE CIINDI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "62 JESU WAKAZIDE CIINDI“jesus shall reign”",
-          "Jesu wakazide ciindi; lino iswe twamukomba, twaswiilila majwi aakwe kuti wafutula boonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesu wakazide ciindi; leza wakatutumina mwana wakwe, kutubuzya, makani aalufutuko"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu wakazide ciindi; kuti ayanduule boonse ibaswekede munzila, babi abatatuleme."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Jesu wakazide ciindi; linotuli mukukondwa, ikati watuletela buumi bupya butamami"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Lino tulamwiimbuluka; jesu mwana wake leza; ulikede koonse koonse utuvuna mumilandu."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 62,
+    "hymnNo": "62C",
     "title": "C. NIKODEMA",
     "creator": "Unknown",
     "chorus": null,
@@ -6349,8 +3901,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "62C. NIKODEMA",
-          "Kwali muntu wakulale izina lyakwe nikodema; taakalizi cakusyoma, naa muntu ulazyalwa aimwi"
+          "Kwali muntu wakulale izina lyakwe nikodema;",
+          "taakalizi cakusyoma, naa muntu ulazyalwa aimwi"
         ]
       }
     ]
@@ -6388,50 +3940,32 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 63,
-    "title": ".KWAKABA GUWO IPATI",
+    "hymnNo": "63B",
+    "title": "Nkaambo wandiyanda",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "63.KWAKABA GUWO IPATI“fierce raged the tempest”",
-          "Kwakaba guwo ipati basikwiiya bakapenga; pele jesu kaoenede mubwaato"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Utufutule, o mwami, mbubakakumbila jesu; lwe wakakasya muuwo, umuna."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Imuuwo wakabatama, mayuwe akamanisya, oonse akaumuna wii, tontolo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Jesu tuli mumapenzi, utuvune, mwami wesu; koza, ukatontozye, kuteeli."
+          "Nkaambo wandiyanda (2)",
+          "Wakafwida aciingano nkaambo wandiyanda."
         ]
       }
     ]
   },
   {
-    "hymnNo": 63,
-    "title": "C. NKAAMBO WAMDIYANDA",
+    "hymnNo": "63C",
+    "title": "C. NKAAMBO WANDIYANDA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "63C. NKAAMBO WAMDIYANDA",
-          "Nkaambo wandiyanda (2)",
-          "Wakafwida aciingano nkaambo wandiyanda."
+          "Nkaambo wandiyanda",
+          "Wakafwida aciingano",
+          "Nkaambo wandiyanda."
         ]
       }
     ]
@@ -6440,102 +3974,63 @@ export const tongaHymns = [
     "hymnNo": 64,
     "title": "Mwana a-Leza Wazyalwa",
     "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwana a-Leza wazyalwa",
+          "Omuno Munyika; Abalo bangelo boonse mujulu balibunganya",
+          "Mwana a-Leza waboneka",
+          "Mwana a-Leza wasilika",
+          "Mwana a-Leza watumwa",
+          "Mwana a-Leza watufwida",
+          "Muuya wa-Leza wasika"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": "64C",
+    "title": "C. NKULI NKWENJAKUBA",
+    "creator": "Unknown",
     "chorus": [
-      "Omuno Munyika;",
-      "Abalo bangelo boonse mujulu balibunganya."
+      "Nkuli nkwenjakuba yakulila impeta,",
+      "nkuli nkwenjakuba yakulila kapati;",
+      "kulila kapati kuti ikabusye bafwide,",
+      "nkuli nkwenjakuba yakulila."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Mwana a-Leza wazyalwa."
+          "Mozesi wakafwa kali mucembele, nkuli nkwenjakuba;",
+          "taakwe wakamubona nkwaakazikkilwa nkuli nkwenjakuba"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mwana a-Leza waboneka."
+          "Leza wakajaya bana nowa a muyoba, nkuli nkwenjakuba;",
+          "takukwe maanzi pele mulilo, nkuli nkwenjakuba."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mwana a-Leza wasilika."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mwana a-Leza watumwa."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mwana a-Leza watufwida."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Muuya wa-Leza wasika."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 64,
-    "title": "C. NKULI NKWENJAKUBA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "64C. NKULI NKWENJAKUBA",
-          "Mozesi wakafwa kali mucembele, nkuli nkwenjakuba; taakwe wakamubona nkwaakazikkilwa nkuli nkwenjakuba"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Nkuli nkwenjakuba yakulila impeta, nkuli nkwenjakuba yakulila kapati; kulila kapati kuti ikabusye bafwide, nkuli nkwenjakuba yakulila."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Leza wakajaya bana nowa a muyoba, nkuli nkwenjakuba; takukwe maanzi pele mulilo, nkuli nkwenjakuba."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Nkuli nkwenjakuba yakulila impeta, nkuli nkwenjakuba yakulila kapati; kulila kapati kuti ikabusye bafwide, nkuli nkwenjakuba yakulila."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Jesu wakaboola kuyandaula, kufutula. Nkuli nkwenjakuba; uya kuboola kututola alimwi, nkuli nkwenjakuba"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Nkuli nkwenjakuba yakulila impeta, nkuli nkwenjakuba yakulila kapati; kulila kapati kuti ikabusye bafwide, nkuli nkwenjakuba yakulila."
+          "Jesu wakaboola kuyandaula, kufutula. Nkuli nkwenjakuba;",
+          "uya kuboola kututola alimwi, nkuli nkwenjakuba"
         ]
       }
     ]
   },
   {
     "hymnNo": 65,
-    "title": "NGUNI MUKWESU ULI MBULI JESU",
+    "title": "NGUNI MUKWESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -6547,121 +4042,27 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
+          "Tawo aubmi uutufutula, tawo pe tawo pe umbi uujisi inguzu zyoonse, tawo pe, tawo pe"
         ]
       },
       {
         "stanzer": 3,
-        "lines": [
-          "Tawo aubmi uutufutula, tawo pe tawo pe",
-          "umbi uujisi inguzu zyoonse, tawo pe, tawo pe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 5,
         "lines": [
           "Mpali mukristo ngwaakasiya? Tawo pe, tawo pe.",
           "Sena wabona ngwaakakaka? Tawo pe, tawo pe."
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kwiina mukwesu uuinda jesu, tawo pe, tawo pe.",
-          "Oyo uutusindikila lyoonse, Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 65,
-    "title": ". NGUNI MUKWESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "65. NGUNI MUKWESU?“no, not one”",
-          "Nguni mukwesu uli mbuli jesu? Tawa pe, tawo pe.",
-          "Uti silike malwazi eesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Tawo aubmi uutufutula, tawo pe tawo pe",
-          "umbi uujisi inguzu zyoonse, tawo pe, tawo pe"
-        ]
-      },
-      {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mpali mukristo ngwaakasiya? Tawo pe, tawo pe.",
-          "Sena wabona ngwaakakaka? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Kwiina mukwesu uuinda jesu, tawo pe, tawo pe.",
           "Oyo uutusindikila lyoonse, Tawo pe, tawo pe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Jesu uuzi kupenga kwesu, ulatweenzya tukasike. Nguni mukwesu uli mbuli jesu? Tawo pe, tawo pe."
         ]
       }
     ]
   },
   {
-    "hymnNo": 65,
+    "hymnNo": "65C",
     "title": "C. NOBAPATI LEZA",
     "creator": "Unknown",
     "chorus": null,
@@ -6669,14 +4070,13 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "65C. NOBAPATI LEZA",
           "Nobapati leza, tali wabana nyoonse leza ulamuyanda."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Lyakasika guwo, lyakapepela zyuumbwe  zyoonse zyakajaluka"
+          "Lyakasika guwo, lyakapepela zyuumbwe zyoonse zyakajaluka"
         ]
       },
       {
@@ -6691,7 +4091,9 @@ export const tongaHymns = [
     "hymnNo": 66,
     "title": "NGUNI UWAKASELUKA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -6702,169 +4104,47 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
+          "Nguni uwakabambulwa? Jesu mufutuli. Nguni ino utulungila? Jesu mufutuli."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nguni uwakabambulwa? Jesu mufutuli. Nguni ino utulungila? Jesu mufutuli."
+          "Nguni ooyo utujatila? Jesu mufutuli, Nguni uteeti, kosyoma? Jesu mufutuli"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
+          "Nguni mukamwini bamwi? Jesu mufutuli, Nguni utukombelela? Jesu mufutuli."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Nguni ooyo utujatila? Jesu mufutuli, Nguni uteeti, kosyoma? Jesu mufutuli"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Nguni mukamwini bamwi? Jesu mufutuli, Nguni utukombelela? Jesu mufutuli."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Kuno sena uciboola? Li, mbwaakaamba.  Sena tulaba awalo? Li, mbwaakaamba"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
+          "Kuno sena uciboola? Li, mbwaakaamba. Sena tulaba awalo? Li, mbwaakaamba"
         ]
       }
     ]
   },
   {
-    "hymnNo": 66,
-    "title": ". NGUNI UWAKASELUKA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "66. NGUNI UWAKASELUKA?",
-          "Nguni uwakaseluka? Jesu mufutuli. Wakeza, ucili mwana? Jesu mufutuli."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nguni uwakabambulwa? Jesu mufutuli. Nguni ino utulungila? Jesu mufutuli."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nguni ooyo utujatila? Jesu mufutuli, Nguni uteeti, kosyoma? Jesu mufutuli"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Nguni mukamwini bamwi? Jesu mufutuli, Nguni utukombelela? Jesu mufutuli."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Kuno sena uciboola? Li, mbwaakaamba.  Sena tulaba awalo? Li, mbwaakaamba"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Atulumbe toonse, tulemye jesu. Kwiina umbi mbuli nguwe, jesu, mufutuli"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 66,
+    "hymnNo": "66C",
     "title": "c. nobaya",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Uyoosika mbuli muntu naloboka; uyoosika mbuli sikuba; uyoosika mbuli muntu natumbuka; uyoosika mbuli sikuba"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "66c. nobaya",
           "Nobaya kuti munyika twaliliba, awalo jesu nayakusika"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Uyoosika mbuli muntu naloboka; uyoosika mbuli sikuba; uyoosika mbuli muntu natumbuka; uyoosika mbuli sikuba"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Mazuba asunu alainda kwa nowa ngaayo, ngaayo naayakusika."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Uyoosika mbuli muntu naloboka; uyoosika mbuli sikuba; uyoosika mbuli muntu natumbuka; uyoosika mbuli sikuba"
         ]
       }
     ]
@@ -6873,200 +4153,90 @@ export const tongaHymns = [
     "hymnNo": 67,
     "title": "NGUNI WAKKALA MOOMO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Nguni wakkkala moomo ngubalemya beembeli?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Nguni wakkkala moomo ngubalemya beembeli?"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nguni mun’ganda eyo ulabeza cisamu?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Nguni mun’ganda eyo ulabeza cisamu?"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nguni wapenga loko, akukkala musokwe?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Nguni wapenga loko, akukkala musokwe?"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Nguni wabusya  bafu akuponya balwazi?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Nguni wabusya bafu akuponya balwazi?"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "mumuunda wakombesya akuwa ansi Nguni?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "mumuunda wakombesya akuwa ansi Nguni?"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Wakombelela boonse akubalekelela",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Wakombelela boonse akubalekelela"
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Wabambwa aciingano akufwida inyika",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Wabambwa aciingano akufwida inyika"
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "We wabuka kucuumbwe akutanta kujulu",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "We wabuka kucuumbwe akutanta kujulu"
         ]
       },
       {
         "stanzer": 9,
         "lines": [
-          "Nguni acuuno cakwe ubamba nyika yoonse?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "Nguni acuuno cakwe ubamba nyika yoonse?"
         ]
       },
       {
         "stanzer": 10,
         "lines": [
-          "nguni uza kumoyo akuyandisya ambe?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
+          "nguni uza kumoyo akuyandisya ambe?"
         ]
       }
     ]
   },
   {
-    "hymnNo": 67,
-    "title": ".NGUNI WAKKALA MOOMO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "67.NGUNI WAKKALA MOOMO",
-          "Nguni wakkkala moomo ngubalemya beembeli?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nguni mun’ganda eyo ulabeza cisamu?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nguni wapenga loko, akukkala musokwe?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nguni wabusya  bafu akuponya balwazi?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "mumuunda wakombesya akuwa ansi Nguni?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Wakombelela boonse akubalekelela",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Wabambwa aciingano akufwida inyika",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "We wabuka kucuumbwe akutanta kujulu",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Nguni acuuno cakwe ubamba nyika yoonse?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "nguni uza kumoyo akuyandisya ambe?",
-          "Ciindululo:",
-          "Ngu-mwami, twagamba loko, ngu-mwami, mwami wa buumi wa buumi atufugamine, nguwe mwami wa-boonse"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 67,
+    "hymnNo": "67C",
     "title": "C.NYWEBO NOBAKAKA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Muzoolila, “moyo,moyo,moyo!” buumi bwangu bwasweeka."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "67C.NYWEBO NOBAKAKA",
-          "Nywebo nomukaka, ukusanduka, ndinywe bana ba-saatani",
-          "Ciindululo:",
-          "Muzoolila, “moyo,moyo,moyo!” buumi bwangu bwasweeka."
+          "Nywebo nomukaka, ukusanduka, ndinywe bana ba-saatani"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nywebo nomuti, tuli bana-leza. Amutambike matansyi",
-          "Ciindululo:",
-          "Muzoolila, “moyo,moyo,moyo!” buumi bwangu bwasweeka."
+          "Nywebo nomuti, tuli bana-leza. Amutambike matansyi"
         ]
       }
     ]
@@ -7080,7 +4250,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Nkwali uubainda banji, undiyanda. Ngubainda abalongwe, undiyanda. Balatwiimbisya kanji, kuno limwi, oko alimwi anu walo tatucengi, uundiyanda"
+          "Nkwali uubainda banji, undiyanda.",
+          "Ngubainda abalongwe, undiyanda.",
+          "Balatwiimbisya kanji, kuno limwi, oko alimwi anu walo tatucengi, uundiyanda"
         ]
       },
       {
@@ -7092,40 +4264,15 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Sa muyanda kumuziba? Undiyanda. Nguwe jesu , mwanaa leza, undiyanda. Izyaciindi muzilube muzileke zitidwe,  muze nyoonse mucilile, undiyanda."
+          "Sa muyanda kumuziba? Undiyanda.",
+          "Nguwe jesu , mwanaa leza, undiyanda.",
+          "Izyaciindi muzilube muzileke zitidwe, muze nyoonse mucilile, undiyanda."
         ]
       }
     ]
   },
   {
-    "hymnNo": 68,
-    "title": "NKWALI UUBAINDA BANJI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "68 NKWALI UUBAINDA BANJI",
-          "Nkwali uubainda banji, undiyanda. Ngubainda abalongwe, undiyanda. Balatwiimbisya kanji, kuno limwi, oko alimwi anu walo tatucengi, uundiyanda"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kujana nguwe mbobuumi, undiyanda langa mbwaakatulingezya, undiyanda kwiina naakatusampaula wakeza kutulangaula, akwe leza watujosya, undiyanda"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Sa muyanda kumuziba? Undiyanda. Nguwe jesu , mwanaa leza, undiyanda. Izyaciindi muzilube muzileke zitidwe,  muze nyoonse mucilile, undiyanda."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 68,
+    "hymnNo": "68C",
     "title": "C.NYWEBO NOMUKAKA",
     "creator": "Unknown",
     "chorus": null,
@@ -7133,7 +4280,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "68C.NYWEBO NOMUKAKA",
           "Nywebo nomukaka, nywebo nomukaka kamukakisisya pesi ciindi calo camana, mwasyaala"
         ]
       },
@@ -7164,7 +4310,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 69,
-    "title": "O MWANA WA-DAVIDA",
+    "title": "O mwana wa-Davida",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -7190,7 +4336,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Wati jesu, ulusyomo lwakufutula? Eelyo  meso akajuka, wamucilila jesu."
+          "Wati jesu, ulusyomo lwakufutula? Eelyo meso akajuka, wamucilila jesu."
         ]
       },
       {
@@ -7202,92 +4348,30 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 69,
-    "title": ". O mwana wa-Davida",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "69. O MWANA WA-DAVIDA",
-          "O mwana wa-davide, ndifwida luzyalo mbwaakaamba oyo moofu, naakati inde jesu."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Bantu bamutapatila, bati aunune, pele wakoompolola, undifwide luzyalo"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Jesu wakaima wati, ndikucitilenzi ino?",
-          "Moofu wakamuvwiila, mwami, ndikubone!."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Wati jesu, ulusyomo lwakufutula? Eelyo  meso akajuka, wamucilila jesu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nyoonse nomupenzegwa, ngooyu mufutuli, takooyoomukasya muntu, kuti asyome nguwe"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 69,
+    "hymnNo": "69C",
     "title": "c. OOZUMANANA ZYAMUNYIKA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Webo ni…….(webo muntu), teelela…..(teelela saatani ngosinkondoma){2×}",
+      "Mayo ma …..(mayo mayo, sunu mayo mayo saatani ngosinkondoma){2×}"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "69c. OOZUMANANA ZYAMUNYIKA",
           "Ozumanana zyamunyika komvwa, jesu ulakwiita {2×}"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Webo ni…….(webo muntu), teelela…..(teelela saatani ngosinkondoma){2×}",
-          "Mayo ma …..(mayo mayo, sunu mayo mayo saatani ngosinkondoma){2×}"
+          "Ozumanana zyakulowa, komvwa jesu ulakwiita. ozumanana zyakujaya, komvwa jesu ulakwiita"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ozumanana zyakulowa, komvwa jesu ulakwiita. ozumanana zyakujaya, komvwa jesu ulakwiita"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Webo ni…….(webo muntu), teelela…..(teelela saatani ngosinkondoma){2×}",
-          "Mayo ma …..(mayo mayo, sunu mayo mayo saatani ngosinkondoma){2×}"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Ozumanana zyabumambe, komvwa jesu ulakwiita{2×}"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Webo ni…….(webo muntu), teelela…..(teelela saatani ngosinkondoma){2×}",
-          "Mayo ma …..(mayo mayo, sunu mayo mayo saatani ngosinkondoma){2×}"
         ]
       }
     ]
@@ -7296,7 +4380,9 @@ export const tongaHymns = [
     "hymnNo": 70,
     "title": "TACUUSYI NSONI CIINGANO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ciingano cakwe jesu candivuna candibotya, candilemununa mumoyo: kulincico ndibwene luyando lwakwe, candikondezya lyoonse lyoonse"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -7307,24 +4393,17 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ciingano cakwe jesu candivuna candibotya, candilemununa mumoyo: kulincico ndibwene luyando lwakwe, candikondezya lyoonse lyoonse"
+          "Ndilizi zina lyakwe jesu, mwami ukombeka; zilazulila nguzu zyakwe zyakuvunwe lyoonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndilizi zina lyakwe jesu, mwami ukombeka; zilazulila nguzu zyakwe zyakuvunwe lyoonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
           "Ndilizi mwami ngwempeekezya; lino ndizumide kuti wakonzya kucibamba ncimpedwe kwa-jesu."
         ]
       },
       {
-        "stanzer": 5,
+        "stanzer": 4,
         "lines": [
           "Kubusya bwakwe leza, jesu ulandaambila, ulalondola kulinguwe bukalilo bwangu."
         ]
@@ -7332,78 +4411,24 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 70,
-    "title": ". TACUUSYI NSONI CIINGANO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "70. TACUUSYI NSONI CIINGANO“at the cross”",
-          "Tacuusyi nsoni ciingano icamwami jesu; ninguzu zyakwe leza wesu nzetubona zno"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ciingano cakwe jesu candivuna candibotya, candilemununa mumoyo: kulincico ndibwene luyando lwakwe, candikondezya lyoonse lyoonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndilizi zina lyakwe jesu, mwami ukombeka; zilazulila nguzu zyakwe zyakuvunwe lyoonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ndilizi mwami ngwempeekezya; lino ndizumide kuti wakonzya kucibamba ncimpedwe kwa-jesu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Kubusya bwakwe leza, jesu ulandaambila, ulalondola kulinguwe bukalilo bwangu."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 70,
+    "hymnNo": "70C",
     "title": "c. SAATANI AWALO WAKAZWA KUJULU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Yebo mwanaa leza, yebo {2×}",
+      "Mebo ndilakuyanda."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "70c. SAATANI AWALO WAKAZWA KUJULU",
           "saatani awalo wakazwa kujulu, tajisi busena"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Yebo mwanaa leza, yebo {2×}",
-          "Mebo ndilakuyanda."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Utandisiyi, ndime ndakuyanda kucilila anduwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Yebo mwanaa leza, yebo {2×}",
-          "Mebo ndilakuyanda."
         ]
       }
     ]
@@ -7412,7 +4437,9 @@ export const tongaHymns = [
     "hymnNo": 71,
     "title": "WAKATUYANDA BOBUYA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -7423,140 +4450,31 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
+          "Kristo ulatuyandisya, utwaambila aluyando akwalo ikutufwida, amulemye mwami leza"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kristo ulatuyandisya, utwaambila aluyando akwalo ikutufwida, amulemye mwami leza"
+          "Wakasama buntu bwesu, waba Mumuni wesu, amana mapenzi eesu, amulemye mwami leza."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
+          "Acisamu wabafwida bantu bakali kufwide, mucuumbwe wakazundila, amulemye mwami leza"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Wakasama buntu bwesu, waba Mumuni wesu, amana mapenzi eesu, amulemye mwami leza."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Acisamu wabafwida bantu bakali kufwide, mucuumbwe wakazundila, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Ulisumpwidwe kujulu, wasumpulwa cinicini, abasunu abaciindi, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
         ]
       }
     ]
   },
   {
-    "hymnNo": 71,
-    "title": ". WAKATUYANDA BOBUYA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "71. WAKATUYANDA BOBUYA“glory be to the father”",
-          "Wakatuyanda bobuya. Aluyando ulupati kufutuke bantu bakwe, amulemye mwami leza."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kristo ulatuyandisya, utwaambila aluyando akwalo ikutufwida, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Wakasama buntu bwesu, waba Mumuni wesu, amana mapenzi eesu, amulemye mwami leza."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Acisamu wabafwida bantu bakali kufwide, mucuumbwe wakazundila, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Ulisumpwidwe kujulu, wasumpulwa cinicini, abasunu abaciindi, amulemye mwami leza"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Amumulemye wisi amumulemye wisi amulemye, amulemye, amulemye mwami leza"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 71,
+    "hymnNo": "71B",
     "title": "c SALA YAKO",
     "creator": "Unknown",
     "chorus": null,
@@ -7564,23 +4482,20 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "SALA YAKO 71c",
-          "sala yako ×2",
-          "kuli nzila zyobile",
-          "sala yako ×2",
-          "kuli nzila zyobile",
+          "SALA YAKO 71c sala yako ×2 kuli nzila zyobile sala yako ×2 kuli nzila zyobile",
           "Imwi ilaya kujulu’ imwi iya kulufu.",
-          "sala yako, ×2",
-          "kuli nzila zyobile"
+          "sala yako, ×2 kuli nzila zyobile"
         ]
       }
     ]
   },
   {
     "hymnNo": 72,
-    "title": "ACIINGANO CA-JESU",
+    "title": "CIINGANO CA-JESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -7591,134 +4506,36 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Sunu ndili acoolwe cakwe, jesu wakkala mulindime.",
           "Wandibotezya iciindi coonse, atumulemye"
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Bazibi, nyoonse amutelele, amuzisanzye zibi zyanu, muboole kwa-jesu mujane coolwe atumulemye."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 72,
-    "title": ". CIINGANO CA-JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "72. CIINGANO CA-JESU“down at the cross”",
-          "Aciingano ca-jesu mwami aciingano cibyaabi, watutilila bulowa bwakwe atumulemye."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
-        ]
-      },
-      {
         "stanzer": 3,
         "lines": [
-          "Sunu ndili acoolwe cakwe, jesu wakkala mulindime.",
-          "Wandibotezya iciindi coonse, atumulemye"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Bazibi, nyoonse amutelele, amuzisanzye zibi zyanu, muboole kwa-jesu mujane coolwe atumulemye."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atumulemye, atumulemye, watutilila bulowa bwakwe, atumulemye"
         ]
       }
     ]
   },
   {
-    "hymnNo": 72,
+    "hymnNo": "72C",
     "title": "C. SA MLAAYEEYA MAPENZI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Bamujata, bamutola, kucilundu ca-gologota kuyoomujaya"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "72C. SA MLAAYEEYA MAPENZI",
           "Sa mulaayeeya mapenzi a-mwami jesu ngaakapenga muno munyika."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Bamujata, bamutola, kucilundu ca-gologota kuyoomujaya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Aswe tutayoowi netunjila mumapenzi, nkaambo jesu wakasaanguna"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Bamujata, bamutola, kucilundu ca-gologota kuyoomujaya"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 73,
-    "title": "Akulumbwe",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Akulumbwe, akulumbwe, ansi aano akujulu,",
-          "Taata, Jesu Muuya uusweya, sunu mane kutamami."
         ]
       }
     ]
@@ -7732,7 +4549,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "73c. Syoma nguwe",
           "Syoma nguwe aluyando lwakwe, syoma nguwe, aluse lwakwe, syoma nguwe, leza wajula, kosyoma mufutuli"
         ]
       }
@@ -7745,16 +4561,14 @@ export const tongaHymns = [
     "chorus": [
       "Ciingano, ciingano, mbobulemu bwangu,",
       "mane ndeza okuya,",
-      "kubulemu bwako."
+      "kubulemu bwako"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Jesu undijatisye",
-          "kuciingano cako,",
-          "oko kuli musamu",
-          "uusalazya zibi."
+          "Jesu undijatisye kuciingano cako,",
+          "oko kuli musamu uusalazya zibi."
         ]
       },
       {
@@ -7767,9 +4581,8 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ciingano Mwami Jesu undiyenzye lyoonse;",
-          "Oko lwakandizunda",
-          "luyandisyo lwako."
+          "Ciingano Mwami Jesu Undiyenzye lyoonse;",
+          "oko lwakandizunda luyandisyo lwako"
         ]
       },
       {
@@ -7777,14 +4590,13 @@ export const tongaHymns = [
         "lines": [
           "Oko ndilalindila,",
           "akusyoma lyoonse,",
-          "mane ndeza okuya",
-          "kulinduwe Mwami."
+          "mane ndeza okuya kulinduwe Mwami."
         ]
       }
     ]
   },
   {
-    "hymnNo": 74,
+    "hymnNo": "74C",
     "title": "C. TAAKWE BUSENA",
     "creator": "Unknown",
     "chorus": null,
@@ -7792,7 +4604,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "74C. TAAKWE BUSENA",
           "Taakwe busena, taakwe busena,taakwe busena bwabatasyomi, {2×}",
           "Taakwe busena kujulu"
         ]
@@ -7829,7 +4640,8 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mubi wakakomana kubona kasensa,ne ndili muntu mubisyi, ndiya kulisanzya. Ndiya kulisanzya, ndiya kulisanzya, ne ndili muntu mubisyi, ndiya kulisanzya"
+          "Mubi wakakomana kubona kasensa,ne ndili muntu mubisyi, ndiya kulisanzya.",
+          "Ndiya kulisanzya, ndiya kulisanzya, ne ndili muntu mubisyi, ndiya kulisanzya"
         ]
       },
       {
@@ -7842,79 +4654,41 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 75,
-    "title": ".KASENSA KALAA BULOWA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "75.KASENSA KALAA BULOWA“there is a fountain”",
-          "Kasensa kalaa bulowa buzwa kuli-jesu babisyi obanyikizya, balasowa zibi.",
-          "Balasowa zibi, balasowa zibi, babisyi obanyikizya, balasowa zibi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mubi wakakomana kubona kasensa,ne ndili muntu mubisyi, ndiya kulisanzya. Ndiya kulisanzya, ndiya kulisanzya, ne ndili muntu mubisyi, ndiya kulisanzya"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bulowa obuyandika tabusowi nguzu, limwi nguzu zizulile, nditabisyi limbi.",
-          "Nditabisyi limbi, nditabisyi limbi, limwi nguzu zizulile, nditabisyi limbi"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 75,
+    "hymnNo": "75B",
     "title": "c, TEELELESYA MUKWESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "75c, TEELELESYA MUKWESU",
-          "Teelelesya, mukwesu",
-          "Ciindululo:",
-          "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+          "Teelelesya, mukwesu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kozumina, mukwesu",
-          "Ciindululo:",
-          "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+          "Kozumina, mukwesu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kokomba, mukwesu.",
-          "Ciindululo:",
-          "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+          "Kokomba, mukwesu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Utacileki, mukwesu,",
-          "Ciindululo:",
-          "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+          "Utacileki, mukwesu,"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Utuswiilile, mukwesu",
-          "Ciindululo:",
-          "Makani aa-leza alakubotela, ayakukutola kubuumi butamani. Milazyo yakwe mibotu, ilakuvuna, ilakulela"
+          "Utuswiilile, mukwesu"
         ]
       }
     ]
@@ -7958,46 +4732,7 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 76,
-    "title": ".KULI CILUNDU AKULE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "76.KULI CILUNDU AKULE“come holy ghost”",
-          "Kuli cilundu akule kumbali kumunzi, nkwaakafwida jesu ciindi, kajailwa bantu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Tatulwizi lufu oolu,mbuli mbwaakafwide, pele tulizi kabotu, wakafwida boonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakafwa kuti tupone tuvunwe milandu netusanduka tubone, muvuni mupati"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Takukwe umbi uponya bantu ibabisya, taakwe umbi utubonya inzila impya."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Watuyanda cinicini aswe tumuyande, tubambe imbeta zyakwe kuti tukapone"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 76,
+    "hymnNo": "76C",
     "title": "c. TULAALWENDO LWAKU-JULU",
     "creator": "Unknown",
     "chorus": null,
@@ -8005,7 +4740,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "76c. TULAALWENDO LWAKU-JULU",
           "Tulaalweendo lwakujulu, mulaya, mulaya.imba luyando lwa-jesu mulaya, mulaya"
         ]
       },
@@ -8021,99 +4755,33 @@ export const tongaHymns = [
     "hymnNo": 77,
     "title": "NCIINDI ALWIIMBO LUBOTU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ulapona, ulapona, ndilaziba, ulapona"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Nciindi alwiimbo lubotu, na kristo munguzu zyakwe wakaza mukufwa; toonse tumutembaule nguwe wakazunda lufu, uufutula bantu"
+          "Nciindi alwiimbo lubotu, na kristo munguzu zyakwe wakaza mukufwa;",
+          "toonse tumutembaule nguwe wakazunda lufu, uufutula bantu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
+          "Ngonguwe wakataanguna kubuka mulibafwide kuti atuponye; nabantu bakwe bafwide, bayakubuka abalo akukoma lufu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ngonguwe wakataanguna kubuka mulibafwide kuti atuponye; nabantu bakwe bafwide, bayakubuka abalo akukoma lufu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Tatuyoowi acuumbwe akuti jesu muvuni uyakutubusya; nakuba mibili yesu yafwa, jesu muvuni uyakutuponya."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
         ]
       }
     ]
   },
   {
-    "hymnNo": 77,
-    "title": ". NCIINDI ALWIIMBO LUBOTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "77. NCIINDI ALWIIMBO LUBOTU“he lives”",
-          "Nciindi alwiimbo lubotu, na kristo munguzu zyakwe wakaza mukufwa; toonse tumutembaule nguwe wakazunda lufu, uufutula bantu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ngonguwe wakataanguna kubuka mulibafwide kuti atuponye; nabantu bakwe bafwide, bayakubuka abalo akukoma lufu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Tatuyoowi acuumbwe akuti jesu muvuni uyakutubusya; nakuba mibili yesu yafwa, jesu muvuni uyakutuponya."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ulapona, ulapona, ndilaziba, ulapona"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 77,
+    "hymnNo": "77C",
     "title": "C.TULI MULWEENDO",
     "creator": "Unknown",
     "chorus": null,
@@ -8121,7 +4789,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "77C.TULI MULWEENDO",
           "Tuli mulweendo swebo muno munyika tuya kumunzi wakujulu;(2)",
           "Tuti aleluya, tuti aleluya,tuti aleluya, aleluya, aleluya."
         ]
@@ -8137,36 +4804,31 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Nendalanga kuciingano akafwida Mwini Bwami,",
-          "ndaamba nsijisi cintu, ndabuseka bwami bwangu."
+          "Nendalanga kuciingano akafwida Mwini Bwami, ndaamba nsijisi cintu, ndabuseka bwami bwangu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nsilisumpuli Muvuni, ndilasyoma kufwa kwako,",
-          "Zyoonse zyaansi zindikondezya,",
-          "ndazinyasya nkaambo kako."
+          "Nsilisumpuli Muvuni, ndilasyoma kufwa kwako, Zyoonse zyaansi zindikondezya, ndazinyasya nkaambo kako."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kumaanza, mutwe amaulu, kwazwa kuusa aluyando,",
-          "wabona kuusa aluyando, amusyini iwa mamvwa."
+          "Kumaanza, mutwe amaulu, kwazwa kuusa aluyando, wabona kuusa aluyando, amusyini iwa mamvwa."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Nendijisi nyika yoonse, ncecilumbulo cisyoonto,",
-          "luyando lwakwe lugambya lulaita moyo wangu."
+          "Nendijisi nyika yoonse, ncecilumbulo cisyoonto, luyando lwakwe lugambya lulaita moyo wangu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 78,
+    "hymnNo": "78C",
     "title": "c. Tuyaka ng’anda",
     "creator": "Unknown",
     "chorus": null,
@@ -8174,7 +4836,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "78c. Tuyaka ng’anda",
           "Tuyaka ng’anda, tuyaka ng’anda, tuyaka ng’anda ya-mwami (2)"
         ]
       },
@@ -8201,52 +4862,33 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Bakazicita zibi, bakamujaya jesu; kali muntu mubotu, pele wakatufwida. Mutumba wakazikwa, kabanda kakasinkwa ; lyakavumbwa izuba, balindi bakali ooko"
+          "Bakazicita zibi, bakamujaya jesu;",
+          "kali muntu mubotu, pele wakatufwida.",
+          "Mutumba wakazikwa, kabanda kakasinkwa ;",
+          "lyakavumbwa izuba, balindi bakali ooko"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kwasiya koonse koonse, mpawo wabuka mwami, kubuzuba bwensondo wamana bwensondo wamana lufu lwakwe. Lufu wakalukoma abubuke bupati; ulatanda kuyoowa muzyuumbwe zyesu lino"
+          "Kwasiya koonse koonse, mpawo wabuka mwami, kubuzuba bwensondo wamana bwensondo wamana lufu lwakwe.",
+          "Lufu wakalukoma abubuke bupati;",
+          "ulatanda kuyoowa muzyuumbwe zyesu lino"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Swebo tuyoomubona nkaambo ucili muumi; nguwe uutuzulwida, iswe tumulemeke. Twakabisya mumyaka, pele ngu-siluzyaalo; walo jesu mupati, ulatulekelela."
+          "Swebo tuyoomubona nkaambo ucili muumi;",
+          "nguwe uutuzulwida, iswe tumulemeke.",
+          "Twakabisya mumyaka, pele ngu-siluzyaalo;",
+          "walo jesu mupati, ulatulekelela."
         ]
       }
     ]
   },
   {
-    "hymnNo": 79,
-    "title": ". BAKAZICITA ZIBI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "79. BAKAZICITA ZIBI“sow in the morning thy seed”",
-          "Bakazicita zibi, bakamujaya jesu; kali muntu mubotu, pele wakatufwida. Mutumba wakazikwa, kabanda kakasinkwa ; lyakavumbwa izuba, balindi bakali ooko"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kwasiya koonse koonse, mpawo wabuka mwami, kubuzuba bwensondo wamana bwensondo wamana lufu lwakwe. Lufu wakalukoma abubuke bupati; ulatanda kuyoowa muzyuumbwe zyesu lino"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Swebo tuyoomubona nkaambo ucili muumi; nguwe uutuzulwida, iswe tumulemeke. Twakabisya mumyaka, pele ngu-siluzyaalo; walo jesu mupati, ulatulekelela."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 79,
+    "hymnNo": "79C",
     "title": "C. TUYAKUMUBONA JESU",
     "creator": "Unknown",
     "chorus": null,
@@ -8254,7 +4896,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "79C. TUYAKUMUBONA JESU",
           "Tuyakumubona jesu,(3)",
           "Aakuboola amakumbi"
         ]
@@ -8280,49 +4921,21 @@ export const tongaHymns = [
           "Kristo wabuka sunu, Aleluya;",
           "Bangelo boonse bati, Aleluya;",
           "Atumulumbaizye, Aleluya;",
-          "Imba julu anyika, Aleluya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Lunununo lwacitwa, Aleluya;",
-          "Walo wazwidilila, Aleluya;",
-          "Zuba lyazwa alimwi, Aleluya;",
-          "Talikazwi alimwi, Aleluya."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Cuumbwe caba cabuyo, Aleluya;",
-          "Kristo waciponzola, Aleluya;",
-          "Walo wazunda lufu, Aleluya;",
-          "Watujulila julu, Aleluya."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Wapona Mwami wesu, Aleluya;",
-          "Lino lwambazi lufu? Aleluya;",
-          "Inga tulafutulwa, Aleluya;",
-          "Ino caambazi cuumbwe? Aleluya."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Tulaya nkwaya Kristo, Aleluya;",
-          "Ulatusololela, Aleluya;",
-          "Tulaya mbuli nguwe, Aleluya;",
-          "Ciingano, Cuumbwe Julu, Aleluya."
+          "Imba julu anyika, Aleluya.",
+          "Lunununo lwacitwa, Aleluya; Walo wazwidilila, Aleluya;",
+          "Zuba lyazwa alimwi, Aleluya; talikazwi alimwi, Aleluya.",
+          "3. \"Cuumbwe caba cabuyo, Aleluya; Kristo waciponzola, Aleluya;",
+          "Walo wazunda lufu, Aleluya; Watujulila julu, Aleluya.",
+          "Wapona Mwami wesu, Aleluya; Lino lwambazi lufu? Aleluya;",
+          "Inga tulafutulwa, Aleluya; ino caambazi cuumbwe? Aleluya.",
+          "Tulaya nkwaya Kristo, Aleluya; Ulatusololela, Aleluya",
+          "Tulaya mbuli nguwe, Aleluya; Ciingano, Cuumbwe Julu, Aleluya"
         ]
       }
     ]
   },
   {
-    "hymnNo": 80,
+    "hymnNo": "80C",
     "title": "C. TUYE KWA-JESU",
     "creator": "Unknown",
     "chorus": null,
@@ -8330,7 +4943,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "80C. TUYE KWA-JESU",
           "Tuye kwa-jesu kuli sibuuya, uleensoni."
         ]
       },
@@ -8352,7 +4964,9 @@ export const tongaHymns = [
     "hymnNo": 81,
     "title": "TOONSE ATUKONDWE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe, sunu nguwe muumi"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -8363,166 +4977,37 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
+          "Toonse atukondwe, wakasika Mumuni wamana mudima. Twakala tontolo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Toonse atukondwe, wakasika Mumuni wamana mudima. Twakala tontolo."
+          "toonse atukondwe, lino twaangununwa nkinkaako ncaakazida wakatufwida"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
+          "Toonse atukondwe, wakatolwa kulufu, kumane wazunda, wabuka alimwi,"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "toonse atukondwe, lino twaangununwa nkinkaako ncaakazida wakatufwida"
+          "Toonse atukondwe, wakabweeda kujulu kwa-wisi lyoonse ulatupaila."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Toonse atukondwe, wakatolwa kulufu, kumane wazunda, wabuka alimwi,"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Toonse atukondwe, wakabweeda kujulu kwa-wisi lyoonse ulatupaila."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
           "Toonse atukondwe, ulaboola alimwi, uleza abamwi, bulemu enguzu"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
         ]
       }
     ]
   },
   {
-    "hymnNo": 81,
-    "title": ". TOONSE ATUKONDWE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "81. TOONSE ATUKONDWE“rejoice and be glad”",
-          "Toonse atukondwe, wakasika muvuni; ngu-jesu uuvuna boonse bamuyanda"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Toonse atukondwe, wakasika Mumuni wamana mudima. Twakala tontolo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "toonse atukondwe, lino twaangununwa nkinkaako ncaakazida wakatufwida"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Toonse atukondwe, wakatolwa kulufu, kumane wazunda, wabuka alimwi,"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Toonse atukondwe, wakabweeda kujulu kwa-wisi lyoonse ulatupaila."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Toonse atukondwe, ulaboola alimwi, uleza abamwi, bulemu enguzu"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Ciindululo:",
-          "Aleluya tumulumbe, ngunguwe mujaye aleluya tumukombe,  sunu nguwe muumi"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 81,
+    "hymnNo": "81C",
     "title": "C. TUYUNI MUZISAMU TULAIMBA",
     "creator": "Unknown",
     "chorus": null,
@@ -8530,8 +5015,10 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "81C. TUYUNI MUZISAMU TULAIMBA",
-          "Tuyuni muzisamu tulaimba; maluba amumuunda mabotu; bangelo bakujulu balaimba; sena mebo ndilalumba mwami wangu?"
+          "Tuyuni muzisamu tulaimba;",
+          "maluba amumuunda mabotu;",
+          "bangelo bakujulu balaimba;",
+          "sena mebo ndilalumba mwami wangu?"
         ]
       }
     ]
@@ -8540,7 +5027,10 @@ export const tongaHymns = [
     "hymnNo": 82,
     "title": "UCIPONA JESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "ciindululo;:",
+      "Aleluya, aleluya, aleluya, ameni"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -8551,140 +5041,31 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
+          "Ulapona jesu lino wazwa mulindime ocuumbwe, kwalo kufwa ngomulyango wakunjila mubuumi"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ulapona jesu lino wazwa mulindime ocuumbwe, kwalo kufwa ngomulyango wakunjila mubuumi"
+          "Ulapona jesu lino wafwida milandu yesu, tumuponene lyoonse, tumulemye uululeme"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
+          "Ulapona jesu lino tatucaandano anguwe, tulapona naaba twafwa, twalulamikwa aa-jesu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Ulapona jesu lino wafwida milandu yesu, tumuponene lyoonse, tumulemye uululeme"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ulapona jesu lino tatucaandano anguwe, tulapona naaba twafwa, twalulamikwa aa-jesu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Ulapona jesu lino alelekwe koonse koonse, tuya kulinguwe, tulyookezya, akulelekwe anguwe mubwami"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
         ]
       }
     ]
   },
   {
-    "hymnNo": 82,
-    "title": ".UCIPONA JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "82.UCIPONA JESU“jesus is still living“",
-          "Ulapona jesu lino taluciyooweki lufu, ulapona jesu lino, tojisi nguzu ocuumbwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ulapona jesu lino wazwa mulindime ocuumbwe, kwalo kufwa ngomulyango wakunjila mubuumi"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ulapona jesu lino wafwida milandu yesu, tumuponene lyoonse, tumulemye uululeme"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ulapona jesu lino tatucaandano anguwe, tulapona naaba twafwa, twalulamikwa aa-jesu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Ulapona jesu lino alelekwe koonse koonse, tuya kulinguwe, tulyookezya, akulelekwe anguwe mubwami"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "ciindululo;:",
-          "Aleluya, aleluya, aleluya, ameni"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 82,
+    "hymnNo": "82C",
     "title": "C. TWEENDA AWE",
     "creator": "Unknown",
     "chorus": null,
@@ -8692,7 +5073,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "82C. TWEENDA AWE",
           "Ooyu jesu tweenda awe, tukkala awe, tubuka awe; twabuka."
         ]
       }
@@ -8702,7 +5082,9 @@ export const tongaHymns = [
     "hymnNo": 83,
     "title": "ULILEDE JESU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -8713,114 +5095,25 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
+          "Bamulindilila jesu mwami wesu, bajatisya cuumbwe pele tamo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Bamulindilila jesu mwami wesu, bajatisya cuumbwe pele tamo."
+          "Bakafwa insoni, basikwiiya bakwe, eno balakondwa, boonse boonse"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Bakafwa insoni, basikwiiya bakwe, eno balakondwa, boonse boonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Lufu talukonzyi, kumujata mwami, jesu waluzunda, mwami wangu"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
         ]
       }
     ]
   },
   {
-    "hymnNo": 83,
-    "title": ".ULILEDE JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "83.ULILEDE JESU“Christ arose”",
-          "Ulilede jesu, uli mucuumbwe, uli mumudima, mufutuli"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bamulindilila jesu mwami wesu, bajatisya cuumbwe pele tamo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Bakafwa insoni, basikwiiya bakwe, eno balakondwa, boonse boonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Lufu talukonzyi, kumujata mwami, jesu waluzunda, mwami wangu"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Wakabuka kukufwa, tulumba inguzu zya-leza, wakazunda lufu azintu zyoonse, ucipona abazumini bakwe wakabuka kulufu akulumbwe wapona!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 83,
+    "hymnNo": "83C",
     "title": "C. WAKAZWA",
     "creator": "Unknown",
     "chorus": null,
@@ -8828,8 +5121,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "83C. WAKAZWA",
-          "Wakazwa, wakazwa,wakazwa, oonse mukuli wamoyo wakazwa, oonse mukuli wamoyo wakazwa, coonse cibi cakaya, amalowa akunka. Wakazwa, wakazwa, wakazwa, oonse mukuli wamoyo wakazwa."
+          "Wakazwa, wakazwa,wakazwa, oonse mukuli wamoyo wakazwa, oonse mukuli wamoyo wakazwa, coonse cibi cakaya, amalowa akunka.",
+          "Wakazwa, wakazwa, wakazwa, oonse mukuli wamoyo wakazwa."
         ]
       }
     ]
@@ -8840,7 +5133,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Bamwi baimba, bamwi balila,",
-      "bamwi bausa balasyaala.",
+      "bamwi bausa balasyaala",
       "Bamwi bakomba, bamwi bayuba,",
       "Jesu Mwami asika!"
     ],
@@ -8859,80 +5152,53 @@ export const tongaHymns = [
         "lines": [
           "Sena ulatija Jesu?",
           "Kumubona okuya,",
-          "Moyo wako watuntaana,",
+          "Moyo wako watuntaana",
           "Jesu Mwami asika."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Sena ulataangala",
-          "kuteelela majwi aakwe?",
-          "Wakabamba moyo wako",
-          "uswaangane amakumbi."
+          "Sena ulataangala kuteelela majwi aakwe? Wakabamba moyo wako uswaangane amakumbi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Insi eyi ilamana,",
+          "Insi eyi ilamana",
           "Mwezi ulasiya mbii;",
-          "Inyenyeezi zilaloka,",
+          "Inyenyeezi zilaloka",
           "Alazwa malundu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 84,
+    "hymnNo": "84C",
     "title": "C. WALO WATUYANDA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Walo watuyanda Walo watuyanda",
+      "Walo watuyanda",
+      "Walo watuyanda"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "84C. WALO WATUYANDA",
           "Tuli bana leza, tuli bana leza, eeno tuyandane, eeno tuyandane"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Walo watuyanda Walo watuyanda",
-          "Walo watuyanda",
-          "Walo watuyanda"
+          "Tuleke munyono, tuleke munyono; pele tugwasyanye,pele tugwasyanye"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tuleke munyono, tuleke munyono; pele tugwasyanye,pele tugwasyanye"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Walo watuyanda Walo watuyanda",
-          "Walo watuyanda",
-          "Walo watuyanda"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Walo watufwida, walo watufwida, nkaambo watuyanda, nkaambo watuyanda."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Walo watuyanda Walo watuyanda",
-          "Walo watuyanda",
-          "Walo watuyanda"
         ]
       }
     ]
@@ -8946,62 +5212,44 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mulange iwasika walo",
-          "ngo-Mubetesi.",
-          "Mumayoba waboneka",
-          "uubeteka inyika.",
+          "Mulange iwasika walo ngo-Mubetesi.",
+          "Mumayoba waboneka uubeteka inyika",
           "Ncoonzyo, ncoonzyo,",
-          "nguubeteka inyika."
+          "nguubeteka inyika"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Bwami bwakwe bwaboneka,",
-          "bwami mbomwakaluba.",
-          "Busyu bwakwe bulamweka,",
-          "bwakozyana azuba.",
-          "Ncoonzyo, ncoonzyo,",
-          "bwakozyana azuba."
+          "Bwami bwakwe bwaboneka bwami mbomwakaluba. Busyu bwakwe bulamweka bwakozyana azuba",
+          "Ncoonzyo, ncoonzyo, bwakozyana azuba."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nyika ilayoboloka yoonse",
-          "kubusyu bwakwe.",
-          "Aabo bafu bayoobuka,",
-          "bayoobetekwa nguwe.",
-          "Ncoonzyo, ncoonzyo,",
-          "bayoobetekwa nguwe."
+          "Nyika ilayoboloka yoonse kubusyu bwakwe. Aabo bafu bayoobuka bayoobetekwa nguwe",
+          "Ncoonzyo, ncoonzyo, bayobetekwa nguwe."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Wabeteka zisi zyoonse,",
-          "ulizi majwi aazyo.",
-          "Sunu myoyo yesu yoonse,",
-          "iboole kulinguwe.",
-          "Ncoonzyo, ncoonzyo,",
-          "iboole kulinguwe."
+          "Wabeteka zisi zyoonse ulizi majwi aazyo.",
+          "Sunu myoyo yesu yoonse, iboole kulinguwe Ncoonzyo, ncoonzyo, iboole kulinguwe."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Mufutuli ngundiyanda,",
-          "ndakomba muuya oyu.",
-          "Uyoondivuna ncobeni,",
-          "undinjizye mujulu.",
-          "Ncoonzyo, ncoonzyo,",
-          "undinjizye mujulu."
+          "Mufutuli ngundiyanda, ndakomba muuya oyu.",
+          "Uyoondivuna ncobeni, undinjizye mujulu Ncoonzyo, ncoonzyo, undijizye mujulu"
         ]
       }
     ]
   },
   {
-    "hymnNo": 85,
+    "hymnNo": "85C",
     "title": "C. WANDIVWENTA",
     "creator": "Unknown",
     "chorus": null,
@@ -9009,8 +5257,22 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "85C. WANDIVWENTA",
-          "Wandivwenta, wandivwenta, nindakali kweendeenda kulaale; wandivwenta, wandijana, bwakali buzuba bubotu"
+          "Uyanda zileleo? Kopa, kopa buyo. Kuti mulimo uzunde?",
+          "Kopa, kopa buyo. Amuzule luyando,mupe akwaanguluka mvwa kulaya kwa mwami, kopa,kopa buyo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Amoyo ukkomana kopa, kopa buyo, mbuli mume uloka, kopa, kopa buyo.",
+          "Leta kapego kako, Mwami ulakabelesya, kopa, kopa buyo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kopa kweenzya mulumbe, kopa, kopa buyo. Kumunikila nyika, kopa, kopa buyo.",
+          "Naa uyanda bulumbu, kuzwa ku-mwami jesu,teelela ijwi lyakwe, kopa, kopa buyo"
         ]
       }
     ]
@@ -9024,113 +5286,106 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Atukutembule leza inguwe syatwakwe ngu ciyobolola nyika ucilenga mubumbi",
-          "Ciindululo:",
-          "Namapinde, namapinde, tumutembule leza{2×}"
+          "Atukutembule leza inguwe syatwakwe ngu ciyobolola nyika ucilenga mubumbi"
         ]
+      },
+      {
+        "stanzer": 0,
+        "lines": [
+          "Namapinde, namapinde, tumutembule leza{2×}"
+        ],
+        "type": "chorus",
+        "label": "Ciindululo"
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nguwe iwakazibumba, zintu zyoonse zibonwa, taakwe uumwiinda nguzu, kuzwa kusanguna",
-          "Ciindululo:",
-          "Nguwe leza, nguwe leza, nguwe, takukwe umbi.{2×}"
+          "Nguwe iwakazibumba, zintu zyoonse zibonwa, taakwe uumwiinda nguzu, kuzwa kusanguna"
         ]
+      },
+      {
+        "stanzer": 0,
+        "lines": [
+          "Nguwe leza, nguwe leza, nguwe, takukwe umbi.{2×}"
+        ],
+        "type": "chorus",
+        "label": "Ciindululo"
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nyika yaakumaninina, abo bantu benyika, izuba, mwezi, nyenyeezi, ziyoofwidilila.",
-          "Ciindululo:",
-          "Anu leza, anu leza,  takooyookumanina{2×}"
+          "Nyika yaakumaninina, abo bantu benyika, izuba, mwezi, nyenyeezi, ziyoofwidilila."
         ]
+      },
+      {
+        "stanzer": 0,
+        "lines": [
+          "Anu leza, anu leza, takooyookumanina{2×}"
+        ],
+        "type": "chorus",
+        "label": "Ciindululo"
       },
       {
         "stanzer": 4,
         "lines": [
-          "Tulabona nguzu zyakwe ansi a kujulu imvula, luuwo, mizumo, malabi atumbizi.",
-          "Ciindululo:",
-          "Nzyakwe zyoonse, nzyakwe zyoonse, wisi wejulu ansi{2×)"
+          "Tulabona nguzu zyakwe ansi a kujulu imvula, luuwo, mizumo, malabi atumbizi."
         ]
+      },
+      {
+        "stanzer": 0,
+        "lines": [
+          "Nzyakwe zyoonse, nzyakwe zyoonse, wisi wejulu ansi{2×)"
+        ],
+        "type": "chorus",
+        "label": "Ciindululo"
       }
     ]
   },
   {
-    "hymnNo": 86,
-    "title": ". ATUKUTEMBULE LEZA",
+    "hymnNo": "86C",
+    "title": "C. KOPA, KOPA BUYO",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "86. ATUKUTEMBULE LEZA“lo! He comes with clouds”",
-          "Atukutembule leza inguwe syatwakwe ngu ciyobolola nyika ucilenga mubumbi",
-          "Ciindululo:",
-          "Namapinde, namapinde, tumutembule leza{2×}"
+          "Uyanda zileleko? Kopa, kopa buyo.",
+          "Kuti mulimo uzunde, Kopa, kopa buyo.",
+          "Amuzule luyando, mupe akwaanguluka",
+          "Mvwa kulaya kwa-Mwami, Kopa, kopa buyo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nguwe iwakazibumba, zintu zyoonse zibonwa, taakwe uumwiinda nguzu, kuzwa kusanguna",
-          "Ciindululo:",
-          "Nguwe leza, nguwe leza, nguwe, takukwe umbi.{2×}"
+          "Amoyo ukkomana, Kopa, kopa buyo.",
+          "Mbuli mume uloka, Kopa, kopa buyo.",
+          "Leta kapego kako, Mwami ulakayanda,",
+          "Walo ulakabelesya, Kopa, kopa buyo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nyika yaakumaninina, abo bantu benyika, izuba, mwezi, nyenyeezi, ziyoofwidilila.",
-          "Ciindululo:",
-          "Anu leza, anu leza,  takooyookumanina{2×}"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tulabona nguzu zyakwe ansi a kujulu imvula, luuwo, mizumo, malabi atumbizi.",
-          "Ciindululo:",
-          "Nzyakwe zyoonse, nzyakwe zyoonse, wisi wejulu ansi{2×)"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 86,
-    "title": "c. YEBO KOPA BUYO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "86c. YEBO KOPA BUYO",
-          "Uyanda zileleo? Kopa, kopa buyo. Kuti mulimo uzunde?",
-          "Kopa, kopa buyo. Amuzule luyando,mupe akwaanguluka mvwa kulaya kwa mwami, kopa,kopa buyo"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Amoyo ukkomana kopa, kopa buyo, mbuli mume uloka, kopa, kopa buyo.",
-          "Leta kapego kako,Mwami ulakabelesya, kopa, kopa buyo."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kopa kweenzya mulumbe, kopa, kopa buyo. Kumunikila nyika, kopa, kopa buyo.",
-          "Naa uyanda bulumbu, kuzwa ku-mwami jesu,teelela ijwi lyakwe, kopa, kopa buyo"
+          "Kopa kweenzya Mulumbe, Kopa, kopa buyo.",
+          "Kumunikila nyika, Kopa, kopa buyo.",
+          "Naa uyanda bulumbu, Kuzwa ku-Mwami Jesu,",
+          "Teelele ijwi lyakwe, Kopa, kopa buyo."
         ]
       }
     ]
   },
   {
     "hymnNo": 87,
-    "title": "Busyu Kubusyu",
+    "title": "KUFUTULWA AABWANGA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Tuyoobona busyu bwakwe",
+      "Tukalangane awe\";",
+      "Abulemu bwakwe boonse,",
+      "Tuyoobona kujulu."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -9144,16 +5399,6 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Tatukwe netwakabona,",
           "Twakaswiilila buyo,",
           "Pele busiku bwasika,",
@@ -9161,60 +5406,23 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Buzuba bwakubotelwa",
           "Tuyoobona bulemu,",
           "Zintu zibi ziyoomana,",
           "Kuyoosyala zibotu."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Buzuba bwakubotelwa",
-          "Tuyoobona bulemu,",
-          "Zintu zibi ziyoomana,",
-          "Kuyoosyala zibotu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
         ]
       }
     ]
   },
   {
     "hymnNo": 88,
-    "title": "KUFUTULWA AA-BWANGA",
+    "title": "KUFUTULWA AABWANGA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -9225,191 +5433,76 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Ciindi cimwi n’ganda iyoowa, nsikonzya kwaamba mbwiiyoowa, pele eci ncezi cilice, ujisi busena bwangu!"
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Cindi cimwi izuba lyabbila, kunze Makumbi asalala, mwamiwangu uyoobotelwa kunditambula kujulu."
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ciindi cimwi ndiyoolangila, ilambe lyangu lyamwekesya, mwami aakujula mulyango, muuya wangu uyoolyookezya."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 88,
-    "title": ". KUFUTULWA AABWANGA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Tuyoobona busyu bwakwe,",
-          "Busyu bwa-Jesu Mwami,",
-          "Abulemu bwakujulu.",
-          "Twakukkala kwa-Taata."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Tatukwe netwakabona,",
-          "Twakaswiilila buyo,",
-          "Pele busiku bwasika,",
-          "Tuyoobona kabotu."
-        ]
-      },
-      {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Buzuba bwakubotelwa",
-          "Tuyoobona bulemu,",
-          "Zintu zibi ziyoomana,",
-          "Kuyoosyala zibotu."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Buzuba bwakubotelwa",
-          "Tuyoobona bulemu,",
-          "Zintu zibi ziyoomana,",
-          "Kuyoosyala zibotu."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoobona busyu bwakwe",
-          "Tukalangane awe",
-          "Abulemu bwakwe boonse,",
-          "Tuyoobona kujulu."
+          "Ciindi cimwi ndiyoolangila, ilambe lyangu lyamwekesya, mwami aakujula mulyango, muuya wangu uyoolyookezya."
         ]
       }
     ]
   },
   {
     "hymnNo": 89,
-    "title": "Kulindila akulangila",
+    "title": "Tatuzi ciindi naboola,",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Linda … Langila,",
+      "Linda … Langila,",
+      "Linda … Langila,",
+      "Tulangila akukulinda."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ciindi cimwi inyika iyoomana, mbube nsiciyooimbi limbi. Ndiyoobotelwa mubusena bwa-leza mwami wesu!"
+          "Tatuzi ciindi naboola,",
+          "Masikati naa masiku;",
+          "Nakuba nelibbila zuba,",
+          "Antela kuyanda kuca."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
+          "Ulatwaambila tulibambe,",
+          "Tutaleki kumwekesya;",
+          "Nayakuboola atujane,",
+          "Toonse tulamulangila"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ciindi cimwi n’ganda iyoowa, nsikonzya kwaamba mbwiiyoowa, pele eci ncezi cilice, ujisi busena bwangu!"
+          "Ndayeeya luse lwakwe lunji,",
+          "Bulumbu bwalufutuko;",
+          "Wakasiya munzi kujulu,",
+          "Akufwida basweekede.",
+          "Ndasyoma kumukomanisya,",
+          "Mbafwida kubafutula;",
+          "Amukomane ulaboola",
+          "Mukumulangila walo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Cindi cimwi izuba lyabbila, kunze Makumbi asalala, mwamiwangu uyoobotelwa kunditambula kujulu."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ciindi cimwi ndiyoolangila, ilambe lyangu lyamwekesya, mwami aakujula mulyango, muuya wangu uyoolyookezya."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndiyoobona busyu bwakwe, kuyooamba kufutulwa {2×}"
+          "O Jesu Mufutuli wangu,",
+          "Ulinzi ndilayandisya;",
+          "Lusyomo kuti nkakubone,",
+          "Nkamvwe ijwi lyako lindiita.",
+          "Kuti bamwi wababeteka,",
+          "Nguni inga wakuyuba;",
+          "Ndiyakukwaanzya aluyando,",
+          "Nkaambo ndilakulangila."
         ]
       }
     ]
@@ -9418,7 +5511,12 @@ export const tongaHymns = [
     "hymnNo": 90,
     "title": "Nibaya Kuzulwa boonse",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Nibaya … kuzulwa boonse,",
+      "Nibaya … kuzulwa boonse,",
+      "Nibaya … kuzulwa boonse,",
+      "Nibaya … kuzulwa boonse njoobako"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -9432,48 +5530,18 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse njoobako"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kuciindi cibotu, nibaya kubuka BaKristo,",
+          "Kuciindi cibotu, nibaya kubuka Ba Kristo,",
           "Bayakuba akufutuka kupya; Basalidwe nibaya kubunganyigwa",
           "Mumunzi",
           "Ndiya kubako, nibaya kuzulwa."
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse njoobako"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Atumunyonene Mwami, likabbile izuba,",
           "Atwaambile luyando lwakwe, Kwamana kufutuka kwesu",
           "Mulimo wamana, Ndiya kubako, nibaya kuzulwa."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse,",
-          "Nibaya … kuzulwa boonse njoobako"
         ]
       }
     ]
@@ -9482,7 +5550,9 @@ export const tongaHymns = [
     "hymnNo": 91,
     "title": "TUYOOMUBONA MWAMI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -9493,154 +5563,32 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
+          "Kwaakukumana koonse ukuciswa kwesu, tuyoomubona mwami; kwaakumana koonse ukupenga kwesu tuyoomubona mwami"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kwaakukumana koonse ukuciswa kwesu, tuyoomubona mwami; kwaakumana koonse ukupenga kwesu tuyoomubona mwami"
+          "Sinkondoma wesu ulazundwa boonse, tuyoomubona mwami; tutalangi ansi, jesu ulabona, tuyoomubona mwami"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Sinkondoma wesu ulazundwa boonse, tuyoomubona mwami; tutalangi ansi, jesu ulabona, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Bayandwa besu bainka kale okuya, tuyoomubona mwami; mause ainka akutamani, tuyoomubona mwami."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 91,
-    "title": ". TUYOOMUBONA MWAMI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "91. TUYOOMUBONA MWAMI“we shall see the king someday”",
-          "Na inzila jesu ilatuba bu, tuyoomubona mwami. Buzuba bubotu mayoba akumana, tuyoomubona mwami."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kwaakukumana koonse ukuciswa kwesu, tuyoomubona mwami; kwaakumana koonse ukupenga kwesu tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Sinkondoma wesu ulazundwa boonse, tuyoomubona mwami; tutalangi ansi, jesu ulabona, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Bayandwa besu bainka kale okuya, tuyoomubona mwami; mause ainka akutamani, tuyoomubona mwami."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Tuyoomubona mwami, tuyooseka akwiimba. Twaakuswaangana acuuno, uyootuita, tuyoomubona mwami"
         ]
       }
     ]
   },
   {
     "hymnNo": 92,
-    "title": "INKKALE MUNSI LYA-LEZA",
+    "title": "INKALE MUNSI LYA-LEZA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Inkale munsi lya-leza, ndipegwe luumuno; ndisololelwe Mumuni, uutozya ku-mwami"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndakalijisi luumuno, ndaluyeeya lino; lwazwa ndakuleka, pele nyika tiilupi, pe."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Joka muuya uusalala, undyookezye moyo; ndilanyansya zibi ezyo, zyayndaandaanya anduwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nkukombe olike. Cikala mucilawo cako, naciba ciyande; ngwasye kuti ndicigusye."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 92,
-    "title": ". INKALE MUNSI LYA-LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "92. INKALE MUNSI LYA-LEZA“jesus the very thought”",
           "Inkale munsi lya-leza, ndipegwe luumuno; ndisololelwe Mumuni, uutozya ku-mwami"
         ]
       },
@@ -9703,49 +5651,15 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 93,
-    "title": ". IWE MUUYA UUSALALA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "93. IWE MUUYA UUSALALA“our blest redeemer ere”",
-          "Iwe muuya uusalala, nduwe muumbulizi; koza, ndigwasye kulwisya zibi zyangu."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nsikonzyi me kuzilwisya zibi zyangu nzinji; zilandaanga, zilantola mumapenzi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ciindi ndakafutatila imbeta zya- leza lino ime ndasanduka ndijatilwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Sunu ndausa insoni kuzibi nzencita; o muuya muumi wa-leza ndisalazye."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "O mufutuli wabantu owakandifwida, mwami, ndivuna kuzibi, nditambula"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 94,
     "title": "KONDIZUZYA LINO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Koboola, koboola,",
+      "Undinjile mumoyo",
+      "Kondizuzya nsetekane",
+      "Uzuzye moyo wangu."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -9759,16 +5673,6 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Koboola, koboola,",
-          "Undinjile mumoyo",
-          "Kondizuzya nsetekane",
-          "Uzuzye moyo wangu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Nzuzye a-Muuya mubotu",
           "Nakuba ndimulwazi",
           "Pesi ndakuyanda iwe",
@@ -9776,17 +5680,7 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Koboola, koboola,",
-          "Undinjile mumoyo",
-          "Kondizuzya nsetekane",
-          "Uzuzye moyo wangu."
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Ndimubombe-bombe mubi,",
           "Ndoona ansi kukomba,",
@@ -9795,39 +5689,19 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Koboola, koboola,",
-          "Undinjile mumoyo",
-          "Kondizuzya nsetekane",
-          "Uzuzye moyo wangu."
-        ]
-      },
-      {
-        "stanzer": 7,
+        "stanzer": 4,
         "lines": [
           "Nsanzya, ntube ndifutulwe,",
           "Nkomanisye, ndeleke,",
           "Ndiwe undikomanisya,",
           "Akuzuzya mumoyo."
         ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Koboola, koboola,",
-          "Undinjile mumoyo",
-          "Kondizuzya nsetekane",
-          "Uzuzye moyo wangu."
-        ]
       }
     ]
   },
   {
     "hymnNo": 95,
-    "title": "KOZA O MUUYA MUBOTU",
+    "title": "KOZA O MUUYA MUBOYU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -9870,58 +5744,7 @@ export const tongaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "Koza mbuli muuwo muuwi waluse ansoni, kuti bantu bakubone,  akumweka kwako."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 95,
-    "title": ".KOZA O MUUYA MUBOYU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "95.KOZA O MUUYA MUBOYU“jesus the very thought of thee”",
-          "Koza o muuya mubotu, kkala mun’ganda eeyi, seluka lino canguzu, omuuya wa-jesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Koza, muuya umunike, bala mbuli zuba; munikila myoyo yesu, tutondezye bubi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Twaabone mapenzi esu, amalwazi oonse; uttuzulwide munzila, mboeenda babotu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Muuya utume mulilo. Wuumpe myoyo yesu; tusungule buumi bwesu, ku-mwami mupati"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Koza muuya, lino mbuli luno mbuli lume lwakujulu; myoyo eyo iitazyali, izyale micelo."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Koza muuya, mbuli nziba ulete luumuno, koza amababa aaluse, alulekelelo."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Koza mbuli muuwo muuwi waluse ansoni, kuti bantu bakubone,  akumweka kwako."
+          "Koza mbuli muuwo muuwi waluse ansoni, kuti bantu bakubone, akumweka kwako."
         ]
       }
     ]
@@ -9977,61 +5800,12 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 96,
-    "title": ". MUUYA WAKWE LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "96. MUUYA WAKWE LEZA“spirit of God”",
-          "Muuya wakwe leza kotuselukila, ciindi mbowakabazida mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Muuya waluyando koza kutuyandya; tuyandane mbuli bako mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Muuya wabusinisyi koza kutusimya, mbowakamusimya mwami mu-jerusalemu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Muuya walulimi koza kuzootwaambya, mbowakakanana jesu mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Muuya wakukomba koza kutukombya, tukukombe mbuli bako mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Muuya wakuponya koza kutuponya, bafu mbubakaponesegwa mu-jerusalemu"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Muuya wabuvuni koza kutuvuna, mbookabavuna bantu mu-jerusalemu"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 97,
-    "title": "MUBOTEZYI WAKASIKA",
+    "title": "mubotezyi",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -10042,108 +5816,21 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
+          "Nokwankanka kuca kwatalika nkuko, oko ku-pentekosti kwamweeka kwati mwe.",
+          "Bantu mu-jerusalemu balumba bati “ehe!” ngooyu mubotezyi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nokwankanka kuca kwatalika nkuko, oko ku-pentekosti kwamweeka kwati mwe. Bantu mu-jerusalemu balumba bati “ehe!” ngooyu mubotezyi."
+          "Li, mpali walo aawa mpali lino, tuzunde basinkondo boonse tukombe, atuzuzigwe swe tubambe kabotu, ngooyu mubotezyi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Li, mpali walo aawa mpali lino, tuzunde basinkondo boonse tukombe, atuzuzigwe swe tubambe kabotu, ngooyu mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Asunu aliimwi ulaanguzu zyoonse, ulatusalazya tuya kutuba bu, fwambana mweenzuma mutole kufwamba. Ngooyu mubotezyi"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 97,
-    "title": ". mubotezyi",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "97. mubotezyi",
-          "Mubuke nombungano moonenanzi ino? Tamumumvwide na muuya mubotu uli munyika eyi, twamutola sena? Ngooyu mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nokwankanka kuca kwatalika nkuko, oko ku-pentekosti kwamweeka kwati mwe. Bantu mu-jerusalemu balumba bati “ehe!” ngooyu mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Li, mpali walo aawa mpali lino, tuzunde basinkondo boonse tukombe, atuzuzigwe swe tubambe kabotu, ngooyu mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Asunu aliimwi ulaanguzu zyoonse, ulatusalazya tuya kutuba bu, fwambana mweenzuma mutole kufwamba. Ngooyu mubotezyi"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ncobeni uli munyika uzwida kujulu, uyakusanzya koonse okuli mumoyo, tuya kutuba bu, twasamba sena na? ngooya mubotezyi."
+          "Asunu aliimwi ulaanguzu zyoonse, ulatusalazya tuya kutuba bu, fwambana mweenzuma mutole kufwamba.",
+          "Ngooyu mubotezyi"
         ]
       }
     ]
@@ -10152,145 +5839,44 @@ export const tongaHymns = [
     "hymnNo": 98,
     "title": "MUNUNUNI WAKEZA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Munununi wakeza, munununi wakeza! Muuya wakujulu,",
+      "muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Mwaisya makani koonse kuli muntu koonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu,"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Busiku bwamana, buzuba bwasika, kuyoba kupati,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu,"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "O mwami wabami, ulaponya bako, kumyoyo yaangwa,"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu,"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Luyando lupati, omulaka wangu, koambaziyoosya,"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu,"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Mwiimbe canguzu kusika kujulu, basweya bajulu"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu,"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 98,
-    "title": ". MUNUNUNI WAKEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "98. MUNUNUNI WAKEZA“spread the tidings round”",
           "Mwaisya makani koonse kuli muntu koonse kuli myoyo yakaangwa azibi nywebo nobakristo muume mikunga, muleli wakeza!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu, muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
+          "Busiku bwamana, buzuba bwasika, kuyoba kupati,",
+          "bukali bwamyuuwo, atala zilundu,",
+          "uleenda kufwamba; muleli wakeza"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Busiku bwamana, buzuba bwasika, kuyoba kupati, bukali bwamyuuwo, atala zilundu, uleenda kufwamba; muleli wakeza"
+          "O mwami wabami, ulaponya bako, kumyoyo yaangwa,",
+          "ulainununa, moonse mwiina zintu lwiimbo lulabako;",
+          "muleli wakeza!"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu, muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
+          "Luyando lupati, omulaka wangu, koambaziyoosya,",
+          "bweza luse lwakwe, ndimwana wazibi nkamweke omwakwe muleli wakeza!"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "O mwami wabami, ulaponya bako, kumyoyo yaangwa, ulainununa, moonse mwiina zintu lwiimbo lulabako; muleli wakeza!"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu, muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Luyando lupati, omulaka wangu, koambaziyoosya, bweza luse lwakwe, ndimwana wazibi nkamweke omwakwe muleli wakeza!"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu, muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Mwiimbe canguzu kusika kujulu, basweya bajulu kunsi balavuwa luyando lwaboonse lwiimbo lutamani; muleli wakeza!"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ciindululo:",
-          "Munununi wakeza, munununi wakeza! Muuya wakujulu, muuya usalala, mwaisya makani koonse kuli muntu: muleli wakeza!"
         ]
       }
     ]
@@ -10299,87 +5885,31 @@ export const tongaHymns = [
     "hymnNo": 99,
     "title": "MUUYA MUBOTU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Muuya mubotu, mweenzyi, Ookkala aba-Jesu;"
+          "Muuya mubotu, mweenzyi, Ookkala aba-Jesu;",
+          "Kotweenzya kabotu,",
+          "Tulibeenzu munyika Bakatede baseka, Nobateelela ijwi"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
+          "Ulaaswebo Mukwesu, Ulaafwaafwi kugwasya,",
+          "Tatusiyi tulike, Mumudima usiya;",
+          "Noluungisya luuwo Myoyo ilayoowesya."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ulaaswebo Mukwesu, Ulaafwaafwi kugwasya,"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Notwamana mulimo,"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 99,
-    "title": ".MUUYA MUBOTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "99. MUUYA MUBOTU\"HOLY SPIRIT, FAITHFUL GUIDE\"",
-          "Muuya mubotu, mweenzyi, Ookkala aba-Jesu; Kotweenzya kabotu, Tulibeenzu munyika Bakatede baseka, Nobateelela ijwi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ulaaswebo Mukwesu, Ulaafwaafwi kugwasya, Tatusiyi tulike, Mumudima usiya;  Noluungisya luuwo Myoyo ilayoowesya."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Notwamana mulimo, twalinda kwaangululwa tulakulumba pele tatuzi antela tulilembedwe kujulu, tulasyoma bulowa"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Lyaambe, mweenzu uboola, ndilakweenzya kumunzi!"
+          "Notwamana mulimo,",
+          "twalinda kwaangululwa tulakulumba pele tatuzi antela tulilembedwe kujulu, tulasyoma bulowa"
         ]
       }
     ]
@@ -10393,45 +5923,6 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Muuya usalala, koza nkotubede; ezi nyimbo zyesu zibe mbozyeelede."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Koza kutugwasye mukukomba kwesu; leza atambule aya majwi esu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Munikila bbuku ndookalembya bako, akayubununwe oonse majwi aako"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Utubombye myoyo tukozyanye aa-jesu; tube basinsoni mbuli mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Muuya usalala utusekelezye mumilimo yoonse tutanookalali"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 100,
-    "title": ".MUUYA UUSALALA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "100.MUUYA UUSALALA“holy spirit hear us”",
           "Muuya usalala, koza nkotubede; ezi nyimbo zyesu zibe mbozyeelede."
         ]
       },
@@ -10494,39 +5985,6 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 101,
-    "title": ".MUUYA WALUSYOMO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "101.MUUYA WALUSYOMO“blest be the tie”",
-          "Muuya walusyomo utuselukile; tondezya ncito zya-leza kulindiswe toonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kusalazya nkwako; nkwako kutubonya; kuti wakafwida bantu, wakatufwida swe"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kotupa lusyomo kuti balijise bazibisye uli wabo akaambo mbabako"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Lusyomo lukoma lutazi kwaalilwa, lulafutula baita lulabasalazya"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 102,
     "title": "NJOYELE MUUYA LEZA",
     "creator": "Unknown",
@@ -10559,80 +6017,14 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 102,
-    "title": ". NJOYELE MUUYA LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "102. NJOYELE MUUYA LEZA“breathe on me breath of God”",
-          "Njoyele muuya leza, ndizuzye anguzu kuti ndiyande ncoyanda, ncite mbuli nduwe"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Njoyele muuya leza, nsalazye mumoyo kuyanda kwangu akube kuyanda kwako kwini"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Njoyele muuya leza kuti muuya wangu moyo amubili woonse ulimvwe inguzu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Njoyele muuya leza kuti nditakafwi, pele kukala awebo kuya kutamani"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 103,
-    "title": "SELUKA MUUYA WABUUMI",
+    "title": "Seluka muuya wabuumi",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Seluka muuya wabuumi ubusye bafwide; ubalizizye nguluulu, ubalesye zibi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Baambile myoyo mbwiibede, babone milandu; ikuti ngobabisizya ngu leza mupati."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Babonye luse lwa-leza bakalutambule bazibye majwi aa-leza kuti bakapone"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Mumyoyo yoonse yabantu unjile mumonya; abajane buumi bupya bupegwa kwa-leza."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 103,
-    "title": ". Seluka muuya wabuumi",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "103. Seluka muuya wabuumi“now let us see thy beauty”",
           "Seluka muuya wabuumi ubusye bafwide; ubalizizye nguluulu, ubalesye zibi."
         ]
       },
@@ -10658,7 +6050,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 104,
-    "title": "AMWIISYE WI LYAKWE LEZA",
+    "title": "AMWIISYE JWI LYAKWE LEZA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -10701,61 +6093,7 @@ export const tongaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Zisi ezyo zili kule",
-          "azizibe ndilyo;",
-          "Zilangile Mwami Jesu",
-          "Zikamutembuule."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 104,
-    "title": "AMWIISYE 慗WI LYAKWE LEZA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Amwiisye ijwi lyakwe Leza,",
-          "Nobantu ba-Jesu;",
-          "Amubaisye ijwi lyakwe,",
-          "Basizibi boonse."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ijwi lyako, Mwami Jesu,",
-          "Lilabazulila;",
-          "Lyakapedwa bantu boonse,",
-          "Lilabafutula."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Amwiisye ijwi lyakwe Leza",
-          "Nobantu ba-Jesu",
-          "Mane ijwi lyakwe Leza",
-          "Liswiililwe koonse."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Lino ijwi lyako, Mwami",
-          "Twasikilwa ndilyo",
-          "Liswaanganye zisi zyoonse",
-          "Amilaka yazyo."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Zisi ezyo zili kule",
-          "azizibe ndilyo;",
+          "Zisi ezyo zili kule azizibe ndilyo;",
           "Zilangile Mwami Jesu",
           "Zikamutembuule."
         ]
@@ -10781,8 +6119,7 @@ export const tongaHymns = [
         "lines": [
           "KInkombelo zyamu-Kristo,",
           "Zyoonse zili oomo;",
-          "Nzyazumina anzyacita",
-          "zilabalwa oomo."
+          "Nzyazumina anzyacita zilabalwa oomo."
         ]
       },
       {
@@ -10816,68 +6153,40 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 106,
-    "title": "MAJWI A-KUFUTUKA",
+    "title": "MAJWI A KUFUTUKA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Oonse aya mabotu, Majwi afutusya {2×}"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
           "Kocindiimbila kanji, majwi afutusya;",
-          "CIINDULULO:",
-          "Oonse aya mabotu, Majwi afutusya {2×}"
+          "Kondibonesyesya kanji Majwi afutusya makani mabotu andisisya kwakwe"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Jesu wakabapa boonse Majwi afutusya;",
-          "CIINDULULO:",
-          "Oonse aya mabotu, Majwi afutusya {2×}"
+          "O mubisyi teelelesya Majwi afutusya",
+          "Twakapegwa buyo kututola kwakwe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kobaambila bantu boonse Majwi afutusya;"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 106,
-    "title": ". MAJWI A KUFUTUKA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "106. MAJWI A KUFUTUKA\"SING THEM OVER AGAIN\"",
-          "Kocindiimbila kanji, majwi afutusya;  Kondibonesyesya kanji Majwi afutusya makani mabotu andisisya kwakwe",
-          "CIINDULULO:",
-          "Oonse aya mabotu, Majwi afutusya {2×}"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jesu wakabapa boonse Majwi afutusya;  O mubisyi teelelesya Majwi afutusya  Twakapegwa buyo kututola kwakwe.",
-          "CIINDULULO:",
-          "Oonse aya mabotu, Majwi afutusya {2×}"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kobaambila bantu boonse Majwi afutusya; Kobatola kukukondwa, Majwi afutusya Mufutuli wesu tubotezye lyoonse."
+          "Kobaambila bantu boonse Majwi afutusya;",
+          "Kobatola kukukondwa,",
+          "Majwi afutusya Mufutuli wesu tubotezye lyoonse."
         ]
       }
     ]
   },
   {
     "hymnNo": 107,
-    "title": "NDAABILA ZILYO ZYAKO",
+    "title": "Ndaabila zilyo zyako zyabuumi, Mwami,",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -10931,7 +6240,12 @@ export const tongaHymns = [
     "hymnNo": 108,
     "title": "NDIPE BBAIBBELE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ndipa Baibele, kaambo kalomenye",
+      "Kusalala kwako kulandeenzya",
+      "Mulawo acisyomyo caluyando",
+      "Limwi mudima ukamanisye."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -10945,16 +6259,6 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Ndipa 'Baibele, noucisa moyo,",
           "A muya wavula zinyonyoono,",
           "Kondipa majwi akaambwa Jesu,",
@@ -10962,96 +6266,11 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndipa 'Baibele, lisalazye nzila,",
-          "Litondezya bubi bwamunyika",
-          "Litondezya jordani mubotu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 108,
-    "title": ".NDIPE BBAIBBELE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "108.NDIPE BBAIBBELETune: Give me the Bible",
-          "Ndipa ‘Bbaibbele, inyenyeenzi imweka",
-          "Kukkomana mweenzu usoweka",
-          "Kupenga takukwe kukuzimaanya,",
-          "Jesu mbwakasika kubavuna."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
-        ]
-      },
-      {
         "stanzer": 3,
         "lines": [
-          "Ndipa 'Baibele, noucisa moyo,",
-          "A muya wavula zinyonyoono,",
-          "Kondipa majwi akaambwa Jesu,",
-          "Koumunika ndimubone Jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
           "Ndipa 'Baibele, lisalazye nzila,",
           "Litondezya bubi bwamunyika",
           "Litondezya jordani mubotu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Ndipa Baibele, kaambo kalomenye",
-          "Kusalala kwako kulandeenzya",
-          "Mulawo acisyomyo caluyando",
-          "Limwi mudima ukamanisye."
         ]
       }
     ]
@@ -11101,7 +6320,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 110,
-    "title": "ATUBUNGANE, TWIIMBE LUYANDO 110",
+    "title": "Atubungane twiimbe luyando",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -11110,59 +6329,37 @@ export const tongaHymns = [
         "lines": [
           "Atubungane twiimbe luyando! Julu anyika ziimbe luyando!",
           "Woonse aleke kubisya, ajane lukondo lwini,",
-          "Aimbe antoomwe andiswe luyando!"
+          "aimbe antoomwe andiswe luyando!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Koonse koonse kalumvwigwa luyando nkokuli luvuno lwini, nduyando!",
-          "Wakagwisye zibi zyesu akutupa lumuniko,",
-          "Elyo tulakonzya kwaamba nduyando!"
+          "Koonse koonse kalumvwigwa luyando nkokuli Luvuno lwini,",
+          "nduyando! Wakagwisye zibi zyesu akutupa lumuniko,",
+          "elyo tulakonzya kwaamba nduyando!"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tulijisi lukkomano, luyando! Tulaazisyomezyo zyakwe, aduyando!",
-          "Uyakuba ntobo yesu alugwasyo aluyumyo;",
-          "Uyakutuvuna alwakwe luyando!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 110,
-    "title": ".Atubungane twiimbe luyando",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "110.Atubungane twiimbe luyando“God is love”",
-          "Atubungane twiimbe luyando! Julu anyika ziimbe luyando! Woonse aleke kubisya, ajane lukondo lwini,aimbe antoomwe andiswe luyando!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Koonse koonse kalumvwigwa luyando nkokuli Luvuno lwini, nduyando! Wakagwisye zibi zyesu akutupa lumuniko,elyo tulakonzya kwaamba nduyando!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Tulijisi lukkomano,luyando! Tulaazisyomezyo zyakwe, aduyando! Uyakuba ntobo yesu alugwasyo aluyumyo; uyakutuvuna alwakwe luyando!"
+          "Tulijisi lukkomano,luyando! Tulaazisyomezyo zyakwe,",
+          "aduyando! Uyakuba ntobo yesu alugwasyo aluyumyo;",
+          "uyakutuvuna alwakwe luyando!"
         ]
       }
     ]
   },
   {
     "hymnNo": 111,
-    "title": "Muli inguzu mubulowa",
+    "title": "SENA UYANDA KUSOWA CIBI",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Inguzu ziyoosya milimo",
+      "Bulowa bwa-Jesu",
+      "Inguzu zyakweenda kabotu,",
+      "Mubulowa bwake Mwami."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -11176,16 +6373,6 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "CIINDULULO:",
-          "Inguzu ziyoosya milimo",
-          "Bulowa bwa-Jesu",
-          "Inguzu zyakweenda kabotu,",
-          "Mubulowa bwake Mwami."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Sena ulayanda kwaangululwa?",
           "Muli inguzu mubulowa;",
           "Boola usalazigwe Kalivali,",
@@ -11193,32 +6380,12 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Inguzu ziyoosya milimo",
-          "Bulowa bwa-Jesu",
-          "Inguzu zyakweenda kabotu,",
-          "Mubulowa bwake Mwami."
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "SUyanda kutuba mbuli caanda?",
           "Muli inguzu mubulowa,",
           "Sa ulabotelwa kumwiimbila?",
           "Muli inguzu mubulowa."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Inguzu ziyoosya milimo",
-          "Bulowa bwa-Jesu",
-          "Inguzu zyakweenda kabotu,",
-          "Mubulowa bwake Mwami."
         ]
       }
     ]
@@ -11229,8 +6396,8 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Lomba ku-Mufutuli,",
-      "Kuti akakugwasye,",
-      "Ulayanda kuyovwa,",
+      "Kuti akakugwasye",
+      "Ulayanda kuyovwa",
       "Uyakukuyumya."
     ],
     "stanzers": [
@@ -11239,17 +6406,17 @@ export const tongaHymns = [
         "lines": [
           "Leka kulinjizya mumasukusyo,",
           "Cizundo ciyakukugwasya lino;",
-          "Lwanina kumpela, lilele webo,",
-          "Uyakukugwasya, langa ku-Mwami."
+          "Lwanina kumpela, Lilele webo,",
+          "Uyakukugwasya, Langa ku-Mwami."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Lino kuli Jesu kolisungula,",
-          "Kobweza lufutuko lwakwe lwini,",
+          "Kobweza lufutuko lwakwe lwini",
           "Lindila, paila, sinizya, syoma,",
-          "Uyakukugwasya, langa ku-Mwami."
+          "Uyakugwasya, langa ku-Mwami."
         ]
       },
       {
@@ -11274,21 +6441,21 @@ export const tongaHymns = [
         "lines": [
           "Munzi ulikule sena?",
           "Ndakamubuzya mulindi,",
-          "Wakaamba, \"Masiku ayeeya kumana,",
+          "Wakaamba, “Masiku ayeeya kumana,",
           "Leka kulila fwambaana,",
-          "Cisyomyo cilakukweenzya,",
-          "Limwi ukasike,",
-          "Kunyika yakusalala.\""
+          "Cisyomyo cilakukweenzya",
+          "Limwi ukasike",
+          "Kunyika yakusalala."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndakamubuzya Silumamba,",
+          "Ndakamubuzya Silumamba.",
           "Wakaimba lwiimbo oolu;",
           "Ndalwanisya abukano,",
           "Ndilakoma koonse;",
-          "Utalili bililila limwi tukaenzye Mwami,",
+          "Utalili bililila limwi tukaenzye Mwami",
           "Tulizi tulakupegwa coolwe notwakoma."
         ]
       },
@@ -11299,7 +6466,7 @@ export const tongaHymns = [
           "Koyeeya kabotu ooku;",
           "Kulakomanisya mweenzuma",
           "Mumusinzo wakwe;",
-          "Utalili tulakuswaangana,",
+          "Utalili tulakuswaangana",
           "Kutamani kwakwe.",
           "Kupenga kwamana tuli",
           "Mumunzi wa-Taata."
@@ -11309,12 +6476,9 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 114,
-    "title": "Mwambile Jesu",
+    "title": "MWAMBILE JESU",
     "creator": "Unknown",
     "chorus": [
-      "Mwambile Jesu, Mwambile Jesu,",
-      "Mweenzuma ngotwaziba;",
-      "Taakwe mweenzinyoko mbuli Jesu,",
       "Mwaambile Jesu alikke."
     ],
     "stanzers": [
@@ -11323,29 +6487,42 @@ export const tongaHymns = [
         "lines": [
           "Wakatazigwa mumoyo sena?",
           "Mwaambile Jesu,",
-          "Mwaambile Jesu,",
-          "Wakatazigwa mumoyo sena?",
-          "Mwaambile Jesu alikke."
+          "Mwaambile Jesu:",
+          "Wakatazigwa mumoyo sena?"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ulalila misozi nopenga;",
-          "Mwaambile Jesu,",
-          "Mwaambile Jesu,",
-          "Usisilaanzi cibi mumoyo;",
-          "Mwaambile Jesu alikke."
+          "Mwambile Jesu, Mwambile Jesu,",
+          "Mweenzuma ngotwaziba;",
+          "Taakwe mweenzinyoko mbuli Jesu,"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
+          "Ulalila misozi nopenga;",
+          "Mwaambile Jesu,",
+          "Mwaambile Jesu,",
+          "Usisilaanzi cibi mumoyo;"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
           "Ulayoowa kupenga mumoyo;",
           "Mwaambile Jesu,",
           "Mwaambile Jesu,",
-          "Uyanda kuziba iziboola;",
-          "Mwaambile Jesu alikke."
+          "Uyanda kuziba iziboola;"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Ulapenzegwa noyeeya lufu; Mwaambile Jesu,",
+          "Mwaambile Jesu,",
+          "Ulalila bulelo buboola;"
         ]
       }
     ]
@@ -11366,7 +6543,7 @@ export const tongaHymns = [
         "lines": [
           "Ndateelela Mufutuli,",
           "Wandiita nkacilile,",
-          "Ati, 'Ciingano cangu,",
+          "Ati, ‘Ciingano cangu",
           "Nciyumune lyoonse.",
           "Mucilile."
         ]
@@ -11376,8 +6553,8 @@ export const tongaHymns = [
         "lines": [
           "Ndacilila Getsemane,",
           "Oko kumapenzi oonse,",
-          "Akukunenyegwa koonse,",
-          "Aluzyalo lwakwe, amucilile."
+          "Akukunenyegwa koonse",
+          "Aluzyalo lwakwe, amuculile."
         ]
       },
       {
@@ -11392,7 +6569,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndafutulwa aluzyalo,",
+          "Ndafutulwa aluzyalo",
           "Ndayumizigwa",
           "Anguzu zyakwe,",
           "Nkondapegwa bwami bwakwe.",
@@ -11462,8 +6639,8 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mwami ndilabona, kuti nguzu zyako,",
-          "Zigwisya cinsenda,",
+          "Mwami ndilabona, kuti nguzu zyako",
+          "Zigwisya cinsenda",
           "Zilabombya moyo."
         ]
       },
@@ -11504,7 +6681,7 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Twamutamba, nobeenzuma",
-          "Nimwapambwidwe ku-Mwami;",
+          "Nimwapambwidwe ku-Mwami\";",
           "Amunjile kulindiswe,",
           "Jesu mwali, ngu-Mubotu."
         ]
@@ -11544,7 +6721,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Anjile Mwami, musa,",
-      "Anjile Mwami,",
+      "Anjile Mwami",
       "Tulakuba buti toonse,",
       "Anjile Mwami?"
     ],
@@ -11569,7 +6746,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ulakukomana nabona,",
+          "Ulakukomana nabona",
           "Bavumbidwe ngubo zyabwinga,",
           "Kulabota, twakoma toonse,",
           "Anjile Mwami."
@@ -11578,7 +6755,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Kwaandanyizigwa kutamani,",
+          "Kwaandanyizigwa kutamani",
           "Bauninwa bayakulila,",
           "Ciindi cakupengesya eco,",
           "Anjile Mwami."
@@ -11588,7 +6765,7 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "MMwami, tupe luzyalo lwako,",
-          "Kuku nyonena, nitulinda,",
+          "Kuku nyonena, nitulinda",
           "Kuti tutakuyoowi Jesu,",
           "Anjile Mwami."
         ]
@@ -11600,9 +6777,9 @@ export const tongaHymns = [
     "title": "BAYA KWA-JESU BATOLA MYOYO",
     "creator": "Unknown",
     "chorus": [
-      "Tulazumina mbuboobo,",
-      "Tumvwide, mwana, ululeme,",
-      "Tulazumina mbuboobo,",
+      "Tulazumina mbuboobo",
+      "Tumvwide, mwana, ululeme",
+      "Tulazumina mbuboobo",
       "Kuli Jesu takuyi babi."
     ],
     "stanzers": [
@@ -11627,7 +6804,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Tobantu baansi twakiitwa."
+          "Tobantu baansi twakiitwa"
         ]
       }
     ]
@@ -11636,7 +6813,10 @@ export const tongaHymns = [
     "hymnNo": 121,
     "title": "BAZIBI WABAITA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mwiimbe, amwiimbe, musanduke, muponisigwe,",
+      "basweekede, babula muvuni, jesu uponya babi"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -11648,87 +6828,15 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,",
-          "basweekede, babula muvuni, jesu uponya babi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
           "Kamuza muponisigwe, luse lwakwe talweeli,",
           "wakonzya kusalazya milandu yoonse yanu"
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,",
-          "basweekede, babula muvuni, jesu uponya babi"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Toonse atuswiilile, tutobele Mumuni,",
           "tatunoolengwaali boonse bacedwa bafwa!"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe,",
-          "basweekede, babula muvuni, jesu uponya babi"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 121,
-    "title": ".BAZIBI WABAITA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "121.BAZIBI WABAITA“sinners Jesus will receive”",
-          "Bazibi wabaita, mubaambile boonse, mubatondezye nzila, boonse bacedwe bafwa!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe, basweekede, babula muvuni, jesu uponya babi"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kamuza muponisigwe, luse lwakwe talweeli, wakonzya kusalazya milandu yoonse yanu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe, basweekede, babula muvuni, jesu uponya babi"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Toonse atuswiilile, tutobele Mumuni, tatunoolengwaali boonse bacedwa bafwa!"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Mwiimbe, amwiimbe, musanduke, muponisigwe, basweekede, babula muvuni, jesu uponya babi"
         ]
       }
     ]
@@ -11774,78 +6882,28 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 122,
-    "title": ".BEENZUMA  ATUZUMINE JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "122.BEENZUMA  ATUZUMINE JESU“friends,come to jesus”",
-          "Beezuma atuzumine jesu!",
-          "Ciindululo:",
-          "Tuboole boole tutambule lufutuko, ndulo lwa-mwanaa-leza. Tuboole boole tutambule lufutuko"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Nituseka atutembuule jesu",
-          "Ciindululo:",
-          "Tuboole boole tutambule lufutuko, ndulo lwa-mwanaa-leza. Tuboole boole tutambule lufutuko"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Nitulila atwiimbila jesu",
-          "Ciindululo:",
-          "Tuboole boole tutambule lufutuko, ndulo lwa-mwanaa-leza. Tuboole boole tutambule lufutuko"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Inywe bantu atulemeke jesu.",
-          "Ciindululo:",
-          "Tuboole boole tutambule lufutuko, ndulo lwa-mwanaa-leza. Tuboole boole tutambule lufutuko"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Tubasweeki atutobele jesu",
-          "Ciindululo:",
-          "Tuboole boole tutambule lufutuko, ndulo lwa-mwanaa-leza. Tuboole boole tutambule lufutuko"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 123,
     "title": "BOOLA KUMUVUNI UTAMUKI",
     "creator": "Unknown",
     "chorus": [
-      "Tuyakukondwa kuswaangana,",
-      "Myoyo yesu niitubide,",
-      "Naa twaba antoomwe a-Mwami,",
+      "TTuyakukondwa kuswaangana",
+      "Myoyo yesu niitubide",
+      "Naa twaba antoomwe a-Mwami",
       "Kumunzi wajulu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Boola ku-Muvuni utamuki;",
-          "Nzila ilatondekwa a-Jwi,",
-          "Akati kesu uciimvwi,",
-          "Uti, Amuboole!"
+          "MBoola ku-Muvuni utamuki;",
+          "Nzila ilatondekwa a-Jwi",
+          "Akati kesu uciimvwi uti, Amuboole!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Boola nkwabede,",
+          "Boola nkwabede",
           "Komvwa ijwi;",
           "Cita moyo woonse ukondwe,",
           "Atumutobele Muvuni,",
@@ -11873,17 +6931,17 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Fwamba uzumine, kukondwa,",
-          "Fwamba uzumine Jesu,",
+          "Fwamba uzumine Jesu.",
           "Umwi inga wati,",
-          "Kondileka muya,",
+          "Kondileka muya.",
           "Njakwiita buzuba bweelede."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Fwamba uzumine koboola,",
-          "Fwamba uzumine, utakakaki,",
+          "Fwamba uzumine koboola",
+          "Fwamba uzumine, utakakaki.",
           "Jesu ukwiita, bangelo abalo,",
           "Bayandika bapaila, boola."
         ]
@@ -11891,7 +6949,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Fwamba uzumine, waindwa,",
+          "Fwamba uzumine, waindwa.",
           "Fwamba uzumine, wasweeka,",
           "Fwamba uzumine kunyina kugwasya,",
           "Uya kulilila mumudima."
@@ -11904,16 +6962,16 @@ export const tongaHymns = [
     "title": "Jesu Mwami Utandiindi",
     "creator": "Unknown",
     "chorus": [
-      "Jesu, Jesu, ndakukumbila,",
-      "Bamwi nocili kubaita,",
+      "Jesu, Jesu, Ndakukumbila,",
+      "Bamwi nocili kubaita",
       "Utandiindi me."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Jesu Mwami utandiindi,",
-          "Ndakukumbila,",
+          "Jesu Mwami Utandiindi,",
+          "Ndakukumbila",
           "Bamwi nocili kubaita,",
           "Utandiindi me."
         ]
@@ -11921,15 +6979,15 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Acuuno caluse cako, undaangulule,",
-          "Ndafugama cakulila,",
+          "Acuuno caluse cako, Undaangulule,",
+          "Ndafugama cakulila",
           "Ndipe lusyomo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndasyoma mulufu lwako, ncindasikila,",
+          "Ndasyoma mulufu lwako, Ncindasikila;",
           "Ndisilike ndityokede,",
           "Mvune aluse."
         ]
@@ -11938,9 +6996,9 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Taakwe umbi uundigwasya,",
-          "Ndakuyandisya,",
+          "Ndakuyandisya;",
           "Nsikwe, Mufutuli umbi,",
-          "Kunze lya-Jesu."
+          "kunze lya-Jesu"
         ]
       }
     ]
@@ -11986,9 +7044,9 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Taakwe umbi uundigwasya,",
-          "Ndakuyandisya,",
+          "Ndakuyandisya;",
           "Nsikwe, Mufutuli umbi,",
-          "Kunze lya-Jesu."
+          "kunze lya-Jesu"
         ]
       }
     ]
@@ -11998,9 +7056,9 @@ export const tongaHymns = [
     "title": "Kale Ndakacita zibi",
     "creator": "Unknown",
     "chorus": [
-      "Wakafwida a-Kalivali, andisungulule,",
+      "Wakafwida a-Kalivali, Andisungulule",
       "Pele wakazwa kubafu,",
-      "Andiiminine."
+      "Andiiminine"
     ],
     "stanzers": [
       {
@@ -12009,7 +7067,7 @@ export const tongaHymns = [
           "Kale ndakacita zibi,",
           "Kakwiina kuyoowa;",
           "Limwi ndakabona mweenzuma,",
-          "Iwakandinyona."
+          "Iwakandinyona"
         ]
       },
       {
@@ -12017,7 +7075,7 @@ export const tongaHymns = [
         "lines": [
           "Wakankaminwa amusamu,",
           "Wafwa akuciswa;",
-          "Andiyasa meso aakwe,",
+          "Andiyasa meso aakwe",
           "Ndayaswa mumoyo."
         ]
       },
@@ -12036,8 +7094,8 @@ export const tongaHymns = [
     "title": "KOMUSYOMA",
     "creator": "Unknown",
     "chorus": [
-      "Komusyoma, komusyoma,",
-      "Kosyoma lino,",
+      "Komusyoma, komusyoma",
+      "Kosyoma lino.",
       "Ulavuna, ulavuna,",
       "Uvuna lino."
     ],
@@ -12047,14 +7105,14 @@ export const tongaHymns = [
         "lines": [
           "Koboola yebo wazingwa,",
           "Kuluse lwa-Leza;",
-          "Uyakujana luumuno,",
+          "Uyakujana luumuno",
           "Akusyoma ijwi."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Bulowa bwakatilwa ansi,",
+          "Bulowa bwakatilwa ansi",
           "A-Jesu Muvuni;",
           "Dumpukila mubulowa,",
           "Samba utube bu."
@@ -12074,7 +7132,7 @@ export const tongaHymns = [
         "lines": [
           "Jesu ninzila mbobuumi,",
           "Ujane luumuno;",
-          "Komusyoma sunu buya,",
+          "Komusyoma sunu buya",
           "Ulatondezegwa."
         ]
       }
@@ -12086,7 +7144,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Kweenda lino,",
-      "Ii, kweenda lino,",
+      "Ii, kweenda lino",
       "Ii, kweenda lino,",
       "Ii, tukombe Leza."
     ],
@@ -12095,16 +7153,16 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Koza, tukombe,",
-          "Yee, yee, yee,",
-          "Tumukombe Leza,",
+          "Yee, yee, yee",
+          "Tumukombe Leza",
           "Yee, yee, yee."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Tozi mbocita,",
-          "Yee, yee, yee,",
+          "tozi mbocita",
+          "Yee, yee, yee",
           "Lilomoke,",
           "Yee, yee, yee."
         ]
@@ -12146,7 +7204,7 @@ export const tongaHymns = [
           "Kuli kasensa kazwide,",
           "Bulowa bwa-Mwami;",
           "Basizibi basamba mo,",
-          "Balasalazigwa."
+          "Balasalazigwa"
         ]
       },
       {
@@ -12162,7 +7220,7 @@ export const tongaHymns = [
         "lines": [
           "O Mwami, Mwanaa wa-Leza,",
           "Lufu lwako, Jesu;",
-          "Lulakonzya kutuvuna,",
+          "Lulakonzya kutuvuna",
           "Mumilandu yoonse."
         ]
       },
@@ -12178,25 +7236,8 @@ export const tongaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Njookwiimbila lwiimbo oolu, mazuba aangu oonse;",
-          "Kujulu njookondwa loko, mubuumi buteeli."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 131,
-    "title": "MBWENDIBEDE",
-    "creator": "Unknown",
-    "chorus": [
-      "Mwanaa mbelele, ndaboola."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mbwendibede nsikwe cintu,",
-          "Pele bulowa bwa-Jesu"
+          "Njookwiimbila lwiimbo oolu, Mazuba aangu oonse;",
+          "Kujulu njookondwa loko, Mubuumi buteeli."
         ]
       }
     ]
@@ -12205,20 +7246,16 @@ export const tongaHymns = [
     "hymnNo": 131,
     "title": ",MBWENDIBEDE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mwanaa mbelele ,ndaboola."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "131. MBWENDIBEDE\"JUST AS I AM\"",
-          "1",
           "Mbwendibede nsikwe cintu,",
           "Pele bulowa bwa-Jesu",
-          "Wandiita kuboola kwako.",
-          "CIINDULULO:",
-          "Mwanaa mbelele ,ndaboola.",
-          ".",
-          "."
+          "Wandiita kuboola kwako."
         ]
       },
       {
@@ -12226,9 +7263,7 @@ export const tongaHymns = [
         "lines": [
           "Mbwendibede, nsilindili,",
           "Kondigwisya zinyonyoono,",
-          "Bulowa bulandisanzya",
-          "CIINDULULO:",
-          "Mwanaa mbelele ,ndaboola."
+          "Bulowa bulandisanzya"
         ]
       },
       {
@@ -12236,19 +7271,14 @@ export const tongaHymns = [
         "lines": [
           "Mbwendibede, ndazungaana",
           "Kulengaula bunene,",
-          "Akulwana akuyoowa",
-          "CIINDULULO:",
-          "Mwanaa mbelele ,ndaboola"
+          "Akulwana akuyoowa"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mbwendibede, luse lwako",
-          "lWagwisya kusinka 'nzila,",
-          "Lino ndiya kuba wako",
-          "CIINDULULO:",
-          "Mwanaa mbelele ,ndaboola"
+          "Mbwendibede, luse lwako l Wagwisya kusinka 'nzila,",
+          "Lino ndiya kuba wako"
         ]
       }
     ]
@@ -12374,7 +7404,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "O Luse lupati sena, Ndaujulilwa mulyango,",
-      "Ime..Ime.Wajulilwa ime."
+      "Ime.. Ime. Wajulilwa ime."
     ],
     "stanzers": [
       {
@@ -12401,77 +7431,8 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Katala mulonga tulaKubika' nsi cingano;",
+          "Katala mulonga tula Kubika' nsi cingano;",
           "Tulakutola misini, Tulange muyandisi."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 134,
-    "title": ".MULYANGO WAJULWA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "134. MULYANGO WAJULWA\"THE GATE OPEN FOR ME\"",
-          "Nguulya mulyango wajulwa, Mukati mulamweka;",
-          "Ciingano ca Mufutuli, Luyando lwalibonya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "O Luse lupati sena, Ndaujulilwa mulyango,",
-          "Ime..Ime.Wajulilwa ime."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wajulilwa bantu boonse, Bayanda kufutuka;",
-          "Bavubide abacete, Amikowa mikowa."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "O Luse lupati sena, Ndaujulilwa mulyango,",
-          "Ime..Ime.Wajulilwa ime."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Kamuciya mutayoowi, Kwacili kujulilwe;",
-          "Mucitambule cingano, Mulapegwa misini."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "O Luse lupati sena, Ndaujulilwa mulyango,",
-          "Ime..Ime.Wajulilwa ime."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Katala mulonga tulaKubika' nsi cingano;",
-          "Tulakutola misini, Tulange muyandisi."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "CIINDULULO:",
-          "O Luse lupati sena, Ndaujulilwa mulyango,",
-          "Ime..Ime.Wajulilwa ime."
         ]
       }
     ]
@@ -12479,258 +7440,6 @@ export const tongaHymns = [
   {
     "hymnNo": 135,
     "title": "MWAALA WANGU UTEELI",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwaala wangu uteeli,",
-          "Ndayanda njube kwako,",
-          "Maanzi oonse amalowa,",
-          "Akazwida kulinguwe,",
-          "Abe musamu wangu,",
-          "Andisalazye bubi."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Tiili milimo yangu,",
-          "Iizoondisisya kwako,",
-          "Taali mali ngendeeta,",
-          "Tiili misozi yangu,",
-          "Ndulo luzyalo lwako,",
-          "Lundinununa zibi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Acinkwa-maanza ndeza,",
-          "Nsikuletede cintu,",
-          "Ndanamatila kwako,",
-          "Ndisalazye, ndimubi.",
-          "Ndisalazye, ndimubi,",
-          "Unyanzanye, usalale."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Nindaswena kulufu,",
-          "Bumane buumi bwangu,",
-          "Nindainka kujulu,",
-          "Ciindi cakubetekwa,",
-          "Mufutuli uteeli,",
-          "Nkayube kulinduwe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 136,
-    "title": "MWAMI IME NDAKUSOWA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwami, ime ndakusowa,",
-          "Pesi iwe wakandifwida,",
-          "Lino sunu nduuside,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Pele ime nsyeelede,",
-          "Kucitilwa nsoni zyako,",
-          "Lino Mwami ncite biyeni?",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bubi mbonjisi mbupati,",
-          "Lino bwandimanikizya,",
-          "Ndiliikulanga nkobede,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Zibi zyoonse nzindacita,",
-          "Zyabija ndazyausila;",
-          "Mwami wangu wabuswini,",
-          "Ndasika, unditambule."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mwami Jesu ndakukomba,",
-          "Ulange, ndi kunsi lyako,",
-          "Ndalila milandu yangu,",
-          "Ndasika, unditambule."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 137,
-    "title": "Mwami Ndaboola",
-    "creator": "Unknown",
-    "chorus": [
-      "Ndaboola, Ndaboola;",
-      "Nsibweedi alimwi;",
-      "Mwami konditambula;",
-      "Mwami, ndaboola."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndakaya kule aa-Leza,",
-          "Lino ndaboola;",
-          "Ndainda munzila zibi,",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndakasowa myaka minji,",
-          "Lino ndaboola;",
-          "Ndasanduka akulila,",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndakatala kukusiya,",
-          "Lino ndaboola;",
-          "Ndakusyoma akuzumina,",
-          "Mwami, ndaboola."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Moyo wangu ulaciswa,",
-          "Lino ndaboola;",
-          "Ndapa nguzu akusyoma,",
-          "Mwami, Ndaboola."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 138,
-    "title": "Mwasamba mubulowa",
-    "creator": "Unknown",
-    "chorus": [
-      "Mwasamba mubulowa,",
-      "Mbwaakatila Mwanaa Mbelele?",
-      "Sena myoyo yanu ilatuba buu?",
-      "Lino amusambe mo nyoonse."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mwakasanzigwa kuli-Jesu sena?",
-          "Mwasamba mubulowa bwakwe?",
-          "Sena mulasyoma munguzu zyakwe,",
-          "Mwasamba mubulowa bwakwe?"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Sibwiinga aboola, kulaba buti?",
-          "Mwalibamba kumwanzya sena?",
-          "Mwatontozya kuciingano sena?",
-          "Mwasamba mubulowa bwakwe?"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Samununa zisani zyanu zibi;",
-          "Samba mubulowa bwa-Jesu.",
-          "Nkasensa kasalazya moyo mubi,",
-          "Amusambe mubulowa bwakwe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 139,
-    "title": "NAA IZIBI ZYESU ZYASIYA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Naa izibi zyesu zyasiya,",
-          "Zyoonse zilatuba buu;",
-          "Naa izibi zyesu zyasiya,",
-          "Zyoonse ziyootuba buu;",
-          "Nazisiya buya,",
-          "Zilasweya swee!"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Naa izibi zyesu zyasiya,",
-          "Naa izibi zyesu zyasiya,",
-          "Zyoonse ziyootuba buu,",
-          "Zyoonse ziyootuba buu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Muzumine nomuleezibi,",
-          "Amuboole kwa-Leza;",
-          "Muzumine nomuleezibi,",
-          "Amuboole kwa-Leza,",
-          "Waluzyalo lupati,",
-          "Amuyumye nta!",
-          "Muzumine nomuleezibi,",
-          "Muzumine nomuleezibi,",
-          "Amuboole kwa-Leza,",
-          "Amuboole kwa-Leza."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Wazijatila zyoonse,",
-          "Mbube ulaziluba,",
-          "Wazijatila zyoonse,",
-          "Mbube ulaziluba,",
-          "Amumusyome nyoonse,",
-          "Amutubye buu!",
-          "Ulazijatila zyoonse,",
-          "Ulazitatila zyoonse,",
-          "Mbube ulaziluba,",
-          "Mbube ulaziluba."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 140,
-    "title": "NDAMUKOMBELELA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -12781,12 +7490,217 @@ export const tongaHymns = [
     ]
   },
   {
+    "hymnNo": 136,
+    "title": "MWAMI IME NDAKUSOWA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwami, ime ndakusowa,",
+          "Pesi iwe wakandifwida,",
+          "Lino sunu nduuside,",
+          "Ndasika, unditambule."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Pele ime nsyeelede",
+          "Kucitilwa nsoni zyako,",
+          "Lino Mwami ncite biyeni?",
+          "Ndasika, unditambule."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Bubi mbonjisi mbupati,",
+          "Lino bwandimanikizya,",
+          "Ndiliikulanga nkobede,",
+          "Ndasika, unditambule."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Zibi zyoonse nzindacita,",
+          "Zyabija ndazyausila;",
+          "Mwami wangu wabuswini,",
+          "Ndasika, unditambule."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mwami Jesu ndakukomba",
+          "Ulange, ndi kunsi lyako,",
+          "Ndalila milandu yangu,",
+          "Ndasika, unditambule."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 137,
+    "title": "Mwami Ndaboola",
+    "creator": "Unknown",
+    "chorus": [
+      "Ndaboola, Ndaboola;",
+      "Nsibweedi alimwi;",
+      "Mwami konditambula;",
+      "Mwami, ndaboola."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndakaya kule aa-Leza,",
+          "Lino ndaboola;",
+          "Ndainda munzila zibi,",
+          "Mwami, ndaboola."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndakasowa myaka minji,",
+          "Lino ndaboola;",
+          "Ndasanduka akulila,",
+          "Mwami, ndaboola."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndakatala kukusiya,",
+          "Lino ndaboola;",
+          "Ndakusyoma akuzumina",
+          "Mwami, ndaboola."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Moyo wangu ulaciswa,",
+          "Lino ndaboola;",
+          "Ndapa nguzu akusyoma",
+          "Mwami, Ndaboola."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 138,
+    "title": "Mwasamba mubulowa",
+    "creator": "Unknown",
+    "chorus": [
+      "Lino amusambe mo nyoonse."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwakasanzigwa kuli-Jesu sena?",
+          "Mwasamba mubulowa bwakwe?",
+          "Sena mulasyoma munguzu zyakwe.",
+          "Mwasamba mubulowa bwakwe?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mwasamba mubulowa,",
+          "Mbwaakatila Mwanaa Mbelele?",
+          "Sena myoyo yanu ilatuba buu?"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Sibwiinga aboola, kulaba buti?",
+          "Mwalibamba kumwanzya sena?",
+          "Mwatontozya kuciingano sena?",
+          "Mwasamba mubulowa bwakwe?"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Samununa zisani zyanu zibi;",
+          "Samba mubulowa bwa-Jesu.",
+          "Nkasensa kasalazya moyo mubi,",
+          "Amusambe mubulowa bwakwe."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 139,
+    "title": "NAA IZIBI ZYESU ZYASIYA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Naa izibi zyesu zyasiya,",
+          "Zyoonse zilatuba buu;",
+          "Naa izibi zyesu zyasiya,",
+          "Zyoonse ziyootuba buu;",
+          "Nazisiya buya",
+          "Zilasweya swee!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Naa izibi zyesu zyasiya",
+          "Naa izibi zyesu zyasiya",
+          "Zyoonse ziyootuba buu",
+          "Zyoonse ziyootuba buu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Muzumine nomuleezibi,",
+          "Amuboole kwa-Leza;",
+          "Muzumine nomuleezibi,",
+          "Amuboole kwa-Leza",
+          "Waluzyalo lupati,",
+          "Amuyumye nta!",
+          "Muzumine nomuleezibi,",
+          "Muzumine nomuleezibi.",
+          "Amuboole kwa-Leza,",
+          "Amuboole kwa-Leza."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Wazijatila zyoonse,",
+          "Mbube ulaziluba.",
+          "Wazijatila zyoonse",
+          "Mbube ulaziluba.",
+          "Amumusyome nyoonse",
+          "Amutubye buu!",
+          "Ulazijatila zyoonse,",
+          "Ulazitatila zyoonse.",
+          "Mbube ulaziluba,",
+          "Mbube ulaziluba."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 141,
     "title": "Ndazumina",
     "creator": "Unknown",
     "chorus": [
       "Ii, ii, ii, Leza ndigwasye,",
-      "Kuba wako,",
+      "Kuba wako.",
       "Wakanduula abulowa bwako,",
       "Ii, ndibe wako."
     ],
@@ -12796,7 +7710,7 @@ export const tongaHymns = [
         "lines": [
           "Kuli kasensa kazwide,",
           "Ndaimbisya amumoyo wangu, ijwi lyako Mwami,",
-          "Mwami leka eno ndikubone, sena wazumina?"
+          "Mwami leka eno ndikubone, Sena wazumina?"
         ]
       },
       {
@@ -12811,7 +7725,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ulizi akulibombya kwangu, aboowa mbwenjisi,",
+          "Ulizi akulibombya kwangu, Aboowa mbwenjisi,",
           "Nguzu zyangu zizwa kulinduwe,",
           "Asunu undipe."
         ]
@@ -12829,7 +7743,7 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "Bakakumbila nowakali aano, Mwami nawayanda,",
-          "Twamvwa boonse kabaamba aabo,",
+          "Twamvwa boonse kabaamba aabo.",
           "Atukalilile."
         ]
       }
@@ -12883,56 +7797,56 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Uundiita ngooyu Jesu, (x3),",
+          "Uundiita ngooyu Jesu, (x3)",
           "Ndilaboola, boola eno-eno."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Muuya wakwe wandikwela, (x3),",
+          "Muuya wakwe wandikwela, (x3)",
           "Ndilaboola, boola eno-eno."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Akukomba ndilakomba, (x3),",
-          "Ndilaboola, boola eno-eno."
+          "Akukomba ndilakomba, (x3)",
+          "Ndilaboola, boola eno-eno"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Kuzumina ndazumina, (x3),",
+          "Kuzumina Ndazumina, (x3)",
           "Ndilaboola, boola eno-eno."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Kozisanzya zibi zyangu, (x3),",
-          "Ndilaboola, boola eno-eno."
+          "Kozisanzya zibi zyangu, (x3)",
+          "Ndilaboola, boola eno-eno"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Mwami Jesu ndijatila, (x3),",
+          "Mwami Jesu ndijatila, (x3)",
           "Ndilaboola, boola eno-eno."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Akusyoma ndilashoma, (x3),",
-          "Ndilaboola, boola eno-eno."
+          "Akusyoma ndilashoma, (x3)",
+          "Ndilaboola, boola eno-eno"
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Jesu kondisindikila, (x3),",
+          "Jesu kondisindikila, (x3)",
           "Ndilaboola, boola eno-eno."
         ]
       }
@@ -12951,7 +7865,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndilaboola Jesu Mwami, ndimucete ndimutete,",
+          "Ndilaboola Jesu Mwami, Ndimucete ndimutete,",
           "Zintu zyansi tazigwasyi,",
           "Ndayandisya lufutuko."
         ]
@@ -12991,21 +7905,21 @@ export const tongaHymns = [
           "Ndilaa zibi zinji zinji,",
           "Zindipenzya lyoonse,",
           "Ndilayanda Mufutuli,",
-          "Ufutula boonse."
+          "Ufutula boonse"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Wakandiyanda ndemubi, watufwida toonse,",
-          "Nduwe wakandilungila,",
+          "Wakandiyanda ndemubi, Watufwida toonse,",
+          "Nduwe wakandilungila",
           "Umulandu woonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Bululami nsibujisi,",
+          "Bululami nsibujisi",
           "Abusweyi boonse,",
           "Swena Jesu undisanzye,",
           "Sanzya moyo woonse."
@@ -13015,7 +7929,7 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Jesu, lino ndili wako,",
-          "Kondienzya lyoonse,",
+          "Kondienzya lyoonse",
           "Ndipa nguzu nkucilile,",
           "Amunzila moonse."
         ]
@@ -13023,8 +7937,7 @@ export const tongaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Oko kuli nduwe, Mwami, tuyookkala lyoonse,",
-          "Tunolumbaizya Jesu,",
+          "Oko kuli nduwe, Mwami, Tuyookkala lyoonse, Tunolumbaizya Jesu,",
           "Kumaindi oonse."
         ]
       }
@@ -13039,16 +7952,16 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ngooyu Jesu, ngooyu Jesu,",
+          "Ngooyu Jesu, Ngooyu Jesu,",
           "Ngooyu Jesu eeno,",
-          "Eeno ngooyu Jesu,",
+          "Eeno ngooyu Jesu",
           "Ngooyu Jesu eeno."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Usilikwe, usilikwe,",
+          "Usilikwe, Usilikwe,",
           "Usilikwe eeno,",
           "Eeno usilikwe,",
           "Usilikwe eeno."
@@ -13058,27 +7971,27 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Akuponye, akuponye,",
-          "Akuponye eeno,",
-          "Eeno akuponye,",
-          "Akuponye eeno."
+          "Akuponye eeno",
+          "Eeno akuponye",
+          "Akuponye eeno"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Uzumine, uzumine,",
-          "Uzumine eeno,",
-          "Eeno uzumine,",
-          "Uzumine eeno."
+          "Uzumine, Uzumine,",
+          "Uzumine eeno",
+          "Eeno uzumine",
+          "Uzumine eeno"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Kokumbila, kokumbila,",
-          "Kokumbila eeno,",
-          "Eeno kokumbila,",
-          "Kokumbila eeno."
+          "Kokumbila eeno",
+          "Eeno Kokumbila",
+          "Kokumbila eeno"
         ]
       },
       {
@@ -13094,9 +8007,9 @@ export const tongaHymns = [
         "stanzer": 7,
         "lines": [
           "Uleenguzu, uleenguzu,",
-          "Ulenguzu eeno,",
-          "Eeno uleenguzu,",
-          "Uleenguzu eeno."
+          "Ulenguzu eeno",
+          "Eeno uleenguzu",
+          "Uleenguzu eeno"
         ]
       },
       {
@@ -13120,9 +8033,9 @@ export const tongaHymns = [
       {
         "stanzer": 10,
         "lines": [
-          "Boola kwakwe, boola kwakwe,",
+          "Boola kwakwe, boola kwakwe",
           "Boola kwakwe eeno,",
-          "Eeno boola kwakwe,",
+          "Eeno boola kwakwe",
           "Boola kwakwe eeno."
         ]
       }
@@ -13134,9 +8047,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Majwi a-Jesu alaamba,",
-      "Ndijulila mebo.",
-      "Kuti undiswiilile,",
-      "Ndilakkala ayebo."
+      "ndijulila mebo. Kuti undiswiilile, Ndilakkala ayebo."
     ],
     "stanzers": [
       {
@@ -13159,7 +8070,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndajula moyo wangu, ndifwambaane loko,",
+          "Ndajula moyo wangu, Ndifwambaane loko,",
           "Jesu ulandiita, ulindila ndime."
         ]
       }
@@ -13167,11 +8078,11 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 148,
-    "title": "NYOONSE MUBOOLE MUSWIILILE",
+    "title": ",NYOONSE MUBOOLE MUSWIILILE",
     "creator": "Unknown",
     "chorus": [
       "Atumukombe tumulumbe, nguwe sibuuya uululeme;",
-      "wakafwida bantu boonse, kuti bafutuke"
+      "wakafwida bantu boonse , kuti bafutuke"
     ],
     "stanzers": [
       {
@@ -13198,62 +8109,14 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 148,
-    "title": ",NYOONSE MUBOOLE MUSWIILILE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "148,NYOONSE MUBOOLE MUSWIILILE“the great physician”",
-          "Nyoonse muboole muswiilile mbwaatufwida jesu. Ngo mwami wesu mufutuli simalelo wesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Atumukombe tumulumbe, nguwe sibuuya uululeme; wakafwida bantu boonse , kuti bafutuke"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Tuleke zitaluzi zyoonse, jesu watuyanda. Tucita ziluleme zyoonse jesu abotelwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Atumukombe tumulumbe, nguwe sibuuya uululeme; wakafwida bantu boonse , kuti bafutuke"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Lino aswe tumutobele mwami watufwida. Tulasalala myoyo yesu twamusyoma jesu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Atumukombe tumulumbe, nguwe sibuuya uululeme; wakafwida bantu boonse , kuti bafutuke"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 149,
     "title": "SENA ULIMWIZI JESU",
     "creator": "Unknown",
     "chorus": [
       "Yanda Jesu Mufutuli,",
       "Nguwe iwakatufwida,",
-      "Wamuyanda ulajanwa,",
-      "Ufutulwe sunu buya."
+      "Wamuyanda ulajanwa",
+      "Ufutulwe sune buya."
     ],
     "stanzers": [
       {
@@ -13261,7 +8124,7 @@ export const tongaHymns = [
         "lines": [
           "Sena ulimwizi Jesu,",
           "Mwami wako Mufutuli,",
-          "Siluyando, siluzyalo,",
+          "Siluyando, Siluzyalo,",
           "Ulimwizi Jesu na?"
         ]
       },
@@ -13269,8 +8132,8 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Wakali mujulu lwakwe,",
-          "Wakalaa-Wisi namakungwe,",
-          "Walemekwa ciindi coonse,",
+          "Wakalaa-Wisi Namakungwe,",
+          "Walemekwa ciindi coonse",
           "Embungano zyakujulu."
         ]
       },
@@ -13286,9 +8149,9 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Nkaambo kaluyando lwakwe,",
+          "Nkaambo kaluyando lwakwe",
           "Wakaboola ansi aano,",
-          "Wakasika kupilusya,",
+          "Wakasika kupilusya",
           "Bantu boonse basweekede."
         ]
       },
@@ -13296,16 +8159,16 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "Toteeleli nakwiita,",
-          "Ati, \"Boola kulindime,",
-          "Ufutulwe kukubisya,",
-          "Ube mucilili wangu.\""
+          "Ati, “Boola kulindime",
+          "Ufutulwe kukubisya",
+          "Ube mucilili wangu."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
           "Ii, Jesu ndazumina,",
-          "Ndilaboola eeno Mwami,",
+          "Ndilaboola eeno Mwami",
           "Undiponye, undibambe,",
           "Ndicilile nduwe lyoonse."
         ]
@@ -13326,7 +8189,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Swebo tunyamuke toonse, mukubisya kwesu,",
+          "Swebo tunyamuke toonse, Mukubisya kwesu,",
           "Katuya amoyo woonse,",
           "Kuli-Leza wesu."
         ]
@@ -13376,8 +8239,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Wakazyalwa ansi aano, leza wazumina",
-          "ikuti twayanda maanu, tulamuzumina"
+          "Wakazyalwa ansi aano, leza wazumina ikuti twayanda maanu, tulamuzumina"
         ]
       },
       {
@@ -13397,39 +8259,6 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 151,
-    "title": ".SWIILILISYA LOKO",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "151.SWIILILISYA LOKO“listen carefully to jesus”",
-          "Swiililisya loko-loko makani aa-jesu, ciindi loko katuyanda kuba mwami wesu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakazyalwa ansi aano, leza wazumina ikuti twayanda maanu, tulamuzumina"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Waselela kulika bafwide mumoyo, ikwakwe tulatambika imalwazi eesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "aswebo toonse atweempwe zibi zyesu zyoonse, tujane lulekelelo muluse lwa-mwami."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 152,
     "title": "Tulaa lweendo lwa kujulu",
     "creator": "Unknown",
@@ -13440,11 +8269,11 @@ export const tongaHymns = [
         "lines": [
           "Tulaa lweendo lwa-kujulu,",
           "Mulaya? Mulaya?",
-          "Kwiimba luyando lwa-Jesu,",
+          "Kwiimba luyando lwa-Jesu",
           "Mulaya? Mulaya?",
           "Banji bakaenda kooko,",
           "Kupenga kwabo kwamana;",
-          "Mpoicili mvuta mpati,",
+          "Mpoicili mvuta mpati",
           "Mulaya? Mulaya?"
         ]
       },
@@ -13457,7 +8286,7 @@ export const tongaHymns = [
           "Mulaya? Mulaya?",
           "Mufutuli ulamwiita,",
           "Amuyumune ciingano canu,",
-          "Muncilile, mufutulwe,",
+          "Muncilile, mufutulwe.",
           "Mulaya? Mulaya?"
         ]
       },
@@ -13467,9 +8296,9 @@ export const tongaHymns = [
           "Kuti ndamvwa umwi wati,",
           "Ndilaya, ndilaya,",
           "Ndatalika ntubye nzila,",
-          "Ayende, ayende,",
-          "Nindamwaambila asiye,",
-          "Beenzinyina bamunyika,",
+          "Ayende, ayende.",
+          "Nindamwaambila asiye",
+          "Beenzinyina bamunyika",
           "Kuti akkale a-Jesu,",
           "Ayende, ayende."
         ]
@@ -13485,16 +8314,16 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Tuli beenzu ansi aano,",
+          "Tuli beenzu ansi aano",
           "Tuli boofu, twafubaala,",
-          "Lino sunu twakumbila,",
+          "Lino sunu twakumbila",
           "Jesu atusindikila."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Bamataata ibaciindi,",
+          "Bamataata ibaciindi",
           "Bakabula Mufutuli,",
           "Teebakalina swiilila,",
           "Kuti Jesu waabafwida."
@@ -13505,25 +8334,25 @@ export const tongaHymns = [
         "lines": [
           "Bakacili mumudima,",
           "Bakalijisi mafwabi,",
-          "Nebakaya kukupiila,",
+          "Nebakaya kukupiila",
           "Ninzi ncebakalanguula?"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Baaya bulanguula nguzu,",
-          "Teebakazijana, pe pe,",
-          "Mizimu yakazibula,",
+          "Baaya bulanguula nguzu",
+          "Teebakazijana, pe pe.",
+          "Mizimu yakazibula",
           "Lino bantu basanduka."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Balakomba Leza Mwami,",
+          "Balakomba Leza Mwami",
           "Nguwe uutuyanda toonse,",
-          "Buumi bwesu buzwa kwakwe,",
+          "Buumi bwesu buzwa kwakwe",
           "Atubambe mbeta zyakwe."
         ]
       }
@@ -13538,11 +8367,11 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ulainda akufwamba,",
+          "Ulainda akufwamba",
           "Ino nkuli nkotiye?",
-          "Ulinzi nzila eeyi,",
+          "Ulinzi nzila eeyi",
           "Njoceenda anjiyo?",
-          "Ulainda, ulainda,",
+          "Ulainda, Ulainda,",
           "Uya ko kujulu na?"
         ]
       },
@@ -13551,9 +8380,9 @@ export const tongaHymns = [
         "lines": [
           "Ulainda akufwamba,",
           "Taliimi zuba pe,",
-          "Lyapasula lilabbila,",
+          "Lyapasula lilabbila",
           "Yebo tokabbila na?",
-          "Ulainda, ulainda,",
+          "Ulainda, Ulainda",
           "Tokakkali aano pe."
         ]
       },
@@ -13562,9 +8391,9 @@ export const tongaHymns = [
         "lines": [
           "Ulainda akufwamba,",
           "Uuya kuli ino?",
-          "Ko kujulu tokanjili,",
+          "Ko kujulu tokanjili",
           "Otanasanduka, pe;",
-          "Ulainda, ulainda,",
+          "Ulainda, Ulainda,",
           "Ulaboola lili ino?"
         ]
       },
@@ -13573,9 +8402,9 @@ export const tongaHymns = [
         "lines": [
           "Ulainda akufwamba,",
           "Kulaafwiifwi kufwa, Ma!",
-          "Kwiina ukutakwe cuumbwe,",
+          "Kwiina ukutakwe cuumbwe",
           "Uyoovunwa yebo na?",
-          "Ulainda, ulainda,",
+          "Ulainda, Ulainda,",
           "Takusali kufwa, pe."
         ]
       }
@@ -13591,33 +8420,33 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Mwami, Jesu abulowa bwako,",
-          "Undisanzye, undisanzye;",
+          "Undisanzye, Undisanzye;",
           "Njanda kusanzigwa kuzibyaabi,",
-          "Undisanzye, undisanzye;",
+          "Undisanzye, Undisanzye;",
           "Nakuba ndijisi zinyonyoono,",
           "Nakuba ndakakomwa amasunko,",
-          "Ndilasyoma majwi aako kuti ulasanzya, ulasanzya."
+          "Ndilasyoma majwi aako kuti Ulasanzya, ulasanzya."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Kuzwa mumiyeeyo indikopa,",
-          "Undisanzye, undisanzye;",
+          "Undisanzye, Undisanzye;",
           "Kuzwa mukuyoowa kukatazya,",
-          "Undisanzye, undisanzye;",
+          "Undisanzye, Undisanzye;",
           "Nakuba inga tanditeeleli,",
-          "Alusyomo ndatambika maanza, kuti webo undiimikizye,",
-          "Undisanzye, undisanzye."
+          "Alusyomo ndatambika maanza, kuti webo undiimikizye",
+          "Undisanzye, Undisanzye."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mukuyoowa ncobaamba bamwi,",
-          "Undisanzye, undisanzye;",
+          "Mukuyoowa ncobaamba bamwi",
+          "Undisanzye, Undisanzye;",
           "Nditayoowi kukukambauka,",
-          "Undisanzye, undisanzye;",
+          "Undisanzye, Undisanzye;",
           "Mwami munguzu zyako undiyumye;",
           "Boonse bazibe kuti ndiwako;",
           "Kuti ndasunkwa ndipe ndizunde,",
@@ -13643,7 +8472,7 @@ export const tongaHymns = [
           "Umfwile ntenda Jesu Mwami,",
           "Njomvwa ntakafwiilili,",
           "Ndeza kwako nkafutuke,",
-          "Ndeza mbwimbele."
+          "Ndeza mbwimbele"
         ]
       },
       {
@@ -13680,9 +8509,9 @@ export const tongaHymns = [
     "title": "WOONSE UUYANDA",
     "creator": "Unknown",
     "chorus": [
-      "Woonse uuyanda, woonse uuyanda,",
+      "Woonse uuyanda, woonse uuyanda",
       "Amoongolole majwi mabotu,",
-      "Wiita wasweeka ngu-Leza Taata,",
+      "Wiita wasweeka ngu-Leza Taata.",
       "Uuyanda inga weza."
     ],
     "stanzers": [
@@ -13698,7 +8527,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Woonse uuli kuza atanomuki,",
+          "TWoonse uuli kuza atanomuki,",
           "Amulyango nkuuli ujalukide,",
           "Anzila yabuumi yalo nkoili,",
           "Uuyanda inga weza."
@@ -13724,7 +8553,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Amulange mulubone,",
+          "Amulange mulubone",
           "Oolo luse luli boobo,",
           "Lwakaletwa a-Muvuni,",
           "Wakatufwida, tobantu."
@@ -13774,7 +8603,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Muuya wangu utayoowi,",
-      "Zumina, asolole,",
+      "Zumina, asolole.",
       "Njakuunka nsikakaki,",
       "Ncite kuyanda kwakwe."
     ],
@@ -13813,10 +8642,10 @@ export const tongaHymns = [
     "title": "Buzuba bwakukkomana",
     "creator": "Unknown",
     "chorus": [
-      "Mbubotu buzuba,",
+      "Mbubotu buzuba",
       "Jesu naandigwisya zibi,",
       "Wandiisya kupaila akukkomanisya lyoonse,",
-      "Mbubotu buzuba,",
+      "Mbubotu buzuba",
       "Jesu naandigwisya zibi."
     ],
     "stanzers": [
@@ -13842,7 +8671,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Kolyookezya moyo wangu,",
-          "Koyeeya Mwami wazyoonse utandaani a-Leza,",
+          "Koyeeya Mwami wazyoonse Utandaani a-Leza,",
           "Ulijisi zintu zyoonse."
         ]
       }
@@ -13932,7 +8761,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Luyando lwako, lulandilweelela,",
+          "Luyando lwako, lulandilweelela",
           "Mbookandifwida aluzyalo, Jesu,",
           "Nsikoobona uumbi weelene ayebo,",
           "Amumoyo wangu kooneka, Mwami."
@@ -13949,8 +8778,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mwami, aluzyalo lwako, bona ooyu moyo wangu,",
-          "Ndakotama kulinduwe, gwisya zyoonse zibi zyangu."
+          "Mwami, aluzyalo lwako, Bona ooyu moyo wangu’",
+          "Ndakotama kulinduwe, Gwisya zyoonse zibi zyangu."
         ]
       },
       {
@@ -14018,7 +8847,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndakupeda ijwi lyangu,",
+          "Ndakupeda ijwi lyangu",
           "Likwiimbile, Leza wangu,",
           "Amilimo isanzigwe,",
           "Ikalumbe zina lyako."
@@ -14071,7 +8900,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndabika kuyanda kwangu, ku-Mwanaa-Leza,",
+          "Ndabika kuyanda kwangu, Ku-Mwanaa-Leza,",
           "Uponya malwazi aangu, uvuna muuya wangu,",
           "Ndabika kuusa kwangu, amapenzi oonse,",
           "Muli-Jesu waayumuna, waatola kule."
@@ -14080,7 +8909,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndayaandisya ukuba, muli Jesu wangu,",
+          "Ndayaandisya ukuba, muli Jesu wangu.",
           "Wakali Siluzyalo, wakalibombede,",
           "Ndayandisya kukkala a-Jesu kujulu,",
           "Kwiimba, kulumbaizya abasalali bakwe."
@@ -14102,97 +8931,35 @@ export const tongaHymns = [
     "title": "NDAMUSUNGULILA KOONSE",
     "creator": "Unknown",
     "chorus": [
-      "Ndakusungulila koonse nkwenjisi,",
-      "Jesu wangu ndakusungulila koonse."
+      "Ndakusungulila koonse nkwenjisi jesu wangu ndakusungulila koonse"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ndamusungulila koonse, ndamupa Jesu wangu,",
-          "Ndilakumusyoma lyoonse, ndilakkala a-Jesu."
+          "Ndamusungulila koonse, ndamupa jesu wangu,",
+          "ndilakumusyoma lyoonse, ndilakkala a-jesu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Ndamusungulila koonse, ndilamuvuntamina,",
-          "Kukkomana kwamunyika, ndamulekela Jesu."
+          "kukkomana kwamunyika, ndamulekela jesu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Ndamusungulila koonse, ndicita ndibe wako,",
-          "Nditilile muuya wako, kuti ndikuzibisye."
+          "nditilile muuya wako, kuti ndikuzibisye."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Ndamusungulila koonse, lino ndamuteelela,",
-          "Wakandipa kufutuka, acoolwe cibe cakwe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 166,
-    "title": ". NDAMUSUNGULILA KOONSE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "166. NDAMUSUNGULILA KOONSE“all to jesus I surrender”",
-          "Ndamusungulila koonse, ndamupa jesu wangu, ndilakumusyoma lyoonse, ndilakkala a-jesu."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ciindululo:",
-          "Ndakusungulila koonse nkwenjisi jesu wangu ndakusungulila koonse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndamusungulila koonse, ndilamuvuntamina, kukkomana kwamunyika, ndamulekela jesu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ndakusungulila koonse nkwenjisi jesu wangu ndakusungulila koonse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndamusungulila koonse, ndicita ndibe wako, nditilile muuya wako, kuti ndikuzibisye."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Ndakusungulila koonse nkwenjisi jesu wangu ndakusungulila koonse"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Ndamusungulila koonse, lino ndamuteelela, wakandipa kufutuka, acoolwe cibe cakwe"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Ndakusungulila koonse nkwenjisi jesu wangu ndakusungulila koonse"
+          "wakandipa kufutuka, acoolwe cibe cakwe"
         ]
       }
     ]
@@ -14208,8 +8975,8 @@ export const tongaHymns = [
         "lines": [
           "Ndapa zyoonse kuli Jesu, mubili anguzu,",
           "Miyeeyo yoonse amajwi,",
-          "Mazuba oonse aangu,",
-          "Ndapa zyoonse kuli Jesu,",
+          "Mazuba oonse aangu",
+          "Ndapa zyoonse kuli Jesu",
           "Mazuba oonse aangu."
         ]
       },
@@ -14220,7 +8987,7 @@ export const tongaHymns = [
           "Kucita majwi akwe,",
           "Maulu aangu ameso,",
           "Kubeleka ku-Mwami,",
-          "Ndapa zyoonse kuli Jesu,",
+          "Ndapa zyoonse kuli Jesu",
           "Kubeleka ku-Mwami."
         ]
       },
@@ -14229,19 +8996,19 @@ export const tongaHymns = [
         "lines": [
           "Nendabona Mufutuli,",
           "Ndasiya zintu zibi,",
-          "Ndamutobela alikke,",
+          "Ndamutobela alikke;",
           "Ndamuyanda alikke,",
-          "Ndapa zyoonse kuli Jesu,",
+          "Ndapa zyoonse kuli Jesu",
           "Ndamuyanda alikke."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Luyando lwakwe ndupati, wakandiyanda loko,",
+          "Luyando lwakwe ndupati, Wakandiyanda loko,",
           "Jesu Mufutuli wangu,",
           "Wakafwa kundiponya,",
-          "Ndapa zyoonse kuli Jesu,",
+          "Ndapa zyoonse kuli Jesu",
           "Wakafwa kundiponya."
         ]
       }
@@ -14253,8 +9020,8 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Ndazumina mapenzi oonse,",
-      "Ali buti-buti,",
-      "Nzila yoonse aciingano,",
+      "Ali buti-buti",
+      "Nzila yoonse aciingano",
       "Ndiina kukkala pe."
     ],
     "stanzers": [
@@ -14263,7 +9030,7 @@ export const tongaHymns = [
         "lines": [
           "Ndazumina mapenzi oonse,",
           "Kuno naa okuya;",
-          "Kwiina kusala nzila yangu,",
+          "Kwiina kusala nzila yangu",
           "Jesu wandeenzya."
         ]
       },
@@ -14279,9 +9046,8 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Azumina matende aangu,",
-          "Alamucilila,",
-          "Naaba musokwe akuminzi,",
+          "Azumina matende aangu alamucilila,",
+          "Naaba musokwe akuminzi",
           "Ngaaya matende aangu."
         ]
       },
@@ -14290,7 +9056,7 @@ export const tongaHymns = [
         "lines": [
           "Wazumina mulomo wangu,",
           "Majwi aangu oonse;",
-          "Kukambauka makani,",
+          "Kukambauka makani",
           "Ngooyu mulomo wangu."
         ]
       },
@@ -14299,7 +9065,7 @@ export const tongaHymns = [
         "lines": [
           "Ulazumina moyo wangu,",
           "Moyo wangu oonse;",
-          "Kukambauka makani,",
+          "Kukambauka makani",
           "Ngooyu moyo wangu."
         ]
       }
@@ -14310,20 +9076,20 @@ export const tongaHymns = [
     "title": "NDILI WAKO, MWAMI",
     "creator": "Unknown",
     "chorus": [
-      "Undiswenye, swenye Mwami,",
+      "Undiswenye, swenye Mwami",
       "Kuciingano cako.",
-      "Undiswenye, swenye Mwami Jesu,",
+      "Undiswenye, swenye Mwami Jesu",
       "Nkowakafwida ime."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ndili wako,",
+          "Ndili wako",
           "Mwami, ndateelela,",
           "Ijwi lyako lyaluse,",
           "Pele ndayanda, amoyo woonse,",
-          "Ndiswenye kulinduwe."
+          "Ndiswenye kulinduwe,"
         ]
       },
       {
@@ -14340,7 +9106,7 @@ export const tongaHymns = [
         "lines": [
           "Ndakkomanisya nindifugeme,",
           "Ciindi cakukukomba;",
-          "Tulaswaanana a-Leza wangu,",
+          "Tulaswaanana a-Leza wangu",
           "Wakozya mulongwaangu."
         ]
       },
@@ -14376,7 +9142,7 @@ export const tongaHymns = [
           "Nkenaba mbuli Jesu,",
           "Kupenzya bamupenzya,",
           "Walo katabweedezyi,",
-          "Kwalo wabakombela."
+          "II Kwalo wabakombela. II"
         ]
       },
       {
@@ -14385,7 +9151,7 @@ export const tongaHymns = [
           "Nkenaba mbuli Jesu,",
           "Ndiyeeye mbwakakomba,",
           "Alikke mucilundu,",
-          "A-Wisi mbwateelela."
+          "II A-Wisi mbwateelela. II"
         ]
       },
       {
@@ -14394,7 +9160,7 @@ export const tongaHymns = [
           "Nkenaba mbuli Jesu,",
           "Amajwi aangu oonse,",
           "Amubotezye Mwami,",
-          "Libombe ijwi lyangu."
+          "II Libombe ijwi lyangu. II"
         ]
       },
       {
@@ -14403,7 +9169,7 @@ export const tongaHymns = [
           "Nkenaba mbuli Jesu,",
           "Kuncito zyangu zyoonse,",
           "Ndimutobele Mwami,",
-          "Mukweenda kwangu koonse."
+          "II Mukweenda kwangu koonse. II"
         ]
       },
       {
@@ -14412,14 +9178,14 @@ export const tongaHymns = [
           "Nkenaba mbuli Jesu,",
           "Nsoleke oko kwako,",
           "Kwalo ame ndigwasya,",
-          "Mane nkozyane ayebo."
+          "II Mane nkozyane ayebo. II"
         ]
       }
     ]
   },
   {
     "hymnNo": 171,
-    "title": "PELE BULOWA BWA-JESU",
+    "title": "PELE BULOWA BWA JESU",
     "creator": "Unknown",
     "chorus": [
       "Bunsanzye bulowa, ntube mbuli lukobo",
@@ -14436,63 +9202,19 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Cigwisya kodoneeka, mbulowa bwa-Jesu buyo;",
-          "Cindigwasya kusyoma, mbulowa bwa-Jesu buyo."
+          "Cigwisya kodoneeka, mbulowa bwa-jesu buyo;",
+          "cindigwasya kusyoma, mbulowa bwa-jesu buyo"
         ]
       },
       {
         "stanzer": 3,
-        "lines": [
-          "Kunyina cinununa, Pele bulowa bwa-Jesu;",
-          "Tiinsi kululama kwangu, Pele bulowa bwa-Jesu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ooku kusyoma kwangu, Pele bulowa bwa-Jesu,",
-          "Ooku kuloma kwangu, Pele bulowa bwa-Jesu."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 171,
-    "title": ". PELE BULOWA BWA JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "171. PELE BULOWA BWA JESU\"WHAT CAN WASH AWAY MY SIN?\"",
-          "INga ndilasanzigwanzi? Pele bulowa bwa-Jesu;",
-          "INga ndasalala buti? Pele bulowa bwa-Jesu."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Bunsanzye bulowa, ntube mbuli lukobo",
-          "Kunyina nzila imbi, Pele bulowa bwa-Jesu"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Cigwisya kodoneeka, mbulowa bwa-jesu buyo; cindigwasya kusyoma, mbulowa bwa-jesu buyo"
-        ]
-      },
-      {
-        "stanzer": 4,
         "lines": [
           ". Kunyina cinununa, Pele bulowa bwa Jesu",
           "Tiinsi kululama kwangu, Pele bulowa bwa Jesu"
         ]
       },
       {
-        "stanzer": 5,
+        "stanzer": 4,
         "lines": [
           "Ooku kusyoma kwangu, Pele bulowa bwa-Jesu,",
           "Ooku kuloma kwangu, Pele bulowa bwa Jesu."
@@ -14505,10 +9227,10 @@ export const tongaHymns = [
     "title": "Ponena Jesu",
     "creator": "Unknown",
     "chorus": [
-      "Ndigwasya kukumanina,",
-      "Kondigwasya kukulumba;",
-      "Mpone ayebo lyoonse,",
-      "Nsikwe kuya kukusiya."
+      "Ponena Jesu muluumuno,",
+      "Kukomba Mwami ndalelekwa;",
+      "Ndayanda buyo kucita,",
+      "Luyando lwakwe lyoonse."
     ],
     "stanzers": [
       {
@@ -14523,28 +9245,10 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ponena Jesu muluumuno,",
-          "Kukomba Mwami ndalelekwa;",
-          "Ndayanda buyo kucita,",
-          "Luyando lwakwe lyoonse."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ponena Jesu muluumuno,",
-          "Mikuli yangu yabwezwa,",
-          "Kumusyoma walo Mwami,",
-          "Uyoondisololela."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ponena Jesu muluumuno,",
-          "Kukomba Mwami ndalelekwa;",
-          "Ndayanda buyo kucita,",
-          "Luyando lwakwe lyoonse."
+          "ponena jesu muluumuno,",
+          "mikuli yangu yabwezwa,",
+          "kumusyoma walo mwami,",
+          "uyoondisololela"
         ]
       }
     ]
@@ -14554,13 +9258,37 @@ export const tongaHymns = [
     "title": "UKUFUTULWA NKUBOTU",
     "creator": "Unknown",
     "chorus": [
-      "Mumulemye, mumulemye,"
+      "Mumulemye, mumulemye,",
+      "Siluzyalo mumulemye,",
+      "Aleluya, aleluya,",
+      "Akulumbwe Mufutuli!"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ukufutulwa!"
+          "Ukufutulwa!",
+          "Nkubotu amumatwi eesu!",
+          "Nkaambo twaangululwa nkuko,",
+          "Mukubisya kwesu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kale twali kusweekede",
+          "Mukubisya kwesu,",
+          "Kwalo eeno twaangululwa",
+          "Mumapenzi eesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ukufutulwa kulumbwe",
+          "Akumasi oonse,",
+          "Akujulu kulalumbwa,",
+          "Embungano zyoonse."
         ]
       }
     ]
@@ -14574,10 +9302,10 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Uyanda kubota, kaambe a-Mwami,",
+          "Uyanda Kubota, kaambe a-Mwami,",
           "Kkala awe lyoonse, akwiiya majwi,",
           "Uyanda ba-Jesu, gwasya batete,",
-          "Utalubi lyoonse, kukomba Mwami."
+          "Utalubi lyoonse, kukomba Mwami"
         ]
       },
       {
@@ -14592,7 +9320,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Uyanda kubota, Jesu ngugwasya,",
+          "Uyanda Kubota, Jesu ngugwasya,",
           "Utaciti cintu citabotezyi,",
           "Kukondwa naa kuusa tumutobele,",
           "Ulange kwa-Jesu, syoma ijwi lyakwe."
@@ -14601,7 +9329,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Uyanda kubota, komunikisya,",
+          "Uyanda Kubota, komunikisya,",
           "Koyeeya milimo ya-Mwami wesu,",
           "Tusolwede Jesu munzila yako,",
           "Noyakubambilwa, kukkala a-Mwami."
@@ -14682,7 +9410,7 @@ export const tongaHymns = [
         "lines": [
           "Wali muntu, ulaaluse,",
           "Tookabisya webo;",
-          "Bwamwaika bulowa bwako,",
+          "Bwamwaika bulowa bwako",
           "Uli mubotu webo."
         ]
       },
@@ -14700,7 +9428,7 @@ export const tongaHymns = [
         "lines": [
           "Twajatilwa twafutulwa,",
           "Imalwazi eesu,",
-          "Twasanzigwa mukubija,",
+          "Twasanzigwa mukubija",
           "A-bulowa bwako."
         ]
       }
@@ -14720,9 +9448,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Buumi bwangu boonse bwakandisintila,",
+          "Buumi bwangu boonse Bwakandisintila,",
           "Jesu naakanjila moyo;",
-          "Ndijisi mumuni ngwindali kuyanda,",
+          "Ndijisi mumuni ngwindali kuyanda",
           "Jesu naakanjila moyo!"
         ]
       },
@@ -14750,7 +9478,7 @@ export const tongaHymns = [
           "Nsiyoowi mapenzi, nsiyoowi lufu,",
           "Jesu naakanjila moyo!",
           "Sunu ndili mulweendo, ndaya kujulu,",
-          "Jesu naakanjila moyo!"
+          "Jesus naakanjila moyo!"
         ]
       }
     ]
@@ -14872,35 +9600,42 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Waponya balwazi (x3)",
+          "Waponya balwazi, (x3)",
           "Walo wandiyanda."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Waenda muminzi (x3)",
+          "Waenda muminzi, (x3)",
           "Walo wandiyanda."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Wandipengela (x3)",
+          "Wandipengela, (x3)",
           "Walo wandiyanda."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Wafwa acisamu (x3)",
+          "Wafwa acisamu, (x3)",
           "Walo wandiyanda."
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Wabuka alimwi (x3)",
+          "Wabuka alimwi, (x3)",
+          "Walo wandiyanda."
+        ]
+      },
+      {
+        "stanzer": 9,
+        "lines": [
+          "Waunka kujulu (x3)",
           "Walo wandiyanda."
         ]
       }
@@ -14911,16 +9646,16 @@ export const tongaHymns = [
     "title": "Mufutuli ndamuyanda",
     "creator": "Unknown",
     "chorus": [
-      "Mufutuli ndamuyanda,",
+      "Mufutuli ndamuyanda",
       "Nkaambo wakandijatila;",
       "Wakanditilila bulowa,",
-      "Waliya mulandu wangu."
+      "Waliya mulandu wangu"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Mufutuli ndamuyanda,",
+          "Mufutuli ndamuyanda",
           "Nkaambo nguwakandivuna;",
           "Wakandigwisya mulufu,",
           "Wakandipa buumi bwakwe."
@@ -14929,7 +9664,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mufutuli ndamuyanda,",
+          "Mufutuli ndamuyanda",
           "Nkaambo nguwakandisalazya;",
           "Wakamanya zibi zyangu,",
           "Amilandu yangu yoonse."
@@ -14938,7 +9673,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mufutuli ndamuyanda,",
+          "Mufutuli ndamuyanda",
           "Nkaambo nguundisindikila;",
           "Ijwi lyakwe ngomumuni,",
           "Uumunika nzila zyangu."
@@ -14947,7 +9682,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Mufutuli ndamuyanda,",
+          "Mufutuli ndamuyanda",
           "Walo ngamaulu aangu;",
           "Ulazunda nkondo zyoonse,",
           "Moyo wangu ulakondwa."
@@ -14988,8 +9723,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mukuusa akupenga, kolanga,",
-          "Langa Mufutuli akupe buumi;",
+          "Mukuusa akupenga, kolanga langa Mufutuli akupe buumi;",
           "Lufutuko alutangalo lwakwe,",
           "Ulakuletela, komutambula."
         ]
@@ -15011,7 +9745,7 @@ export const tongaHymns = [
           "Wandyaanga luyando;",
           "Wauzambaila moyo,",
           "Intambo yaluyando,",
-          "Ndili wakwe, uli wangu,",
+          "Ndili wakwe, uli wangu",
           "Ngwangu okutamani."
         ]
       },
@@ -15021,11 +9755,11 @@ export const tongaHymns = [
           "Ndajana mweenzuma mwini,",
           "Owakandiyasilwa;",
           "Wakandipa kufutuka;",
-          "Ulwakwe mwini Jesu,",
+          "Ulwakwe mwini Jesu",
           "Kunyina nceng’amba ncangu,",
           "Nkwendijisi nkokwakwe,",
           "Moyo ainguzu zyangu,",
-          "Nzizyakwe kutamani."
+          "Nzizyakwe kutamani"
         ]
       },
       {
@@ -15068,7 +9802,7 @@ export const tongaHymns = [
         "lines": [
           "Ndamuyandilanzi Jesu?",
           "Nkaambonzi ndamuyanda?",
-          "Nkaambo bulowa bwa-Jesu,",
+          "Nkaambo bulowa bwa-Jesu",
           "Bwanditubya, ndapona."
         ]
       },
@@ -15099,7 +9833,7 @@ export const tongaHymns = [
     "chorus": [
       "Ndayanda kwaamba kaambo,",
       "Kalaba coolwe cangu,",
-      "Kwaamba kaambo kakale,",
+      "Kwaamba kaambo kakale",
       "Kaluyando lwakwe."
     ],
     "stanzers": [
@@ -15108,12 +9842,11 @@ export const tongaHymns = [
         "lines": [
           "Ndayanda kwaamba kaambo,",
           "Kazitalibonyi;",
-          "Jesu acoolwe cakwe,",
+          "Jesu acoolwe cakwe",
           "Aluyando lwakwe,",
           "Ndayanda kwaamba kaambo,",
           "Mbwendizi kasimpe,",
-          "Kalandi-kkomanisya,",
-          "Kuli zintu zyoonse."
+          "Kalandi-kkomanisya kuli zintu zyoonse."
         ]
       },
       {
@@ -15122,23 +9855,23 @@ export const tongaHymns = [
           "Ndayanda kwaamba kaambo,",
           "Kalainda koonse,",
           "Nkotuyanda kuyeeya,",
-          "Ncendiimba kaambo kaaka,",
+          "Ncendiimba kaambo kaaka",
           "Kulinduwe lino,",
           "Mukuleta kwesu,",
-          "Ndayanda kwaamba kaambo,",
+          "Ndayanda kwaamba kaambo",
           "Akakandivuna."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndayanda kwaamba kaambo,",
+          "Ndayanda kwaamba kaambo",
           "Kainu kukaamba;",
           "Lyoonse nindakanana,",
-          "Kainda kubota;",
+          "Kainda Kubota;",
           "Ndayanda kwaamba kaamba,",
           "Bamwi tabanamvwa,",
-          "Kaambo kakufutuka,",
+          "Kaambo kakufutuka",
           "Mwibbuku lya-Leza."
         ]
       }
@@ -15183,9 +9916,9 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Wakatutondezya,",
+          "Wakatutondezya",
           "Bubotu bwakwe boonse,",
-          "Abo buuya bwakwe, abo buuya bwakwe,",
+          "Abo buuya bwakwe, abo buuya bwakwe",
           "A-Mwanaakwe Jesu."
         ]
       },
@@ -15201,7 +9934,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Lino tulabona,",
+          "Lino tulabona",
           "Luzyalo aluyando,",
           "Lufutuko lwakwe, lufutuko lwakwe,",
           "Leza Mwami wesu."
@@ -15254,17 +9987,17 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 189,
-    "title": "WAKANDIFUTULA",
+    "title": "C. Alumbwe mwami",
     "creator": "Unknown",
     "chorus": [
-      "Jesu ulaa zyoonse,",
+      "Jesu ulaa zyoonse",
       "Wakandinununa,",
       "Wakandyaangulula,",
       "Wakandisanzisya.",
       "Jesu ulaa zyoonse,",
       "Wakonzya kuyovwa,",
       "Ndalumba aleluya,",
-      "Wakandifutula."
+      "wakandifutula."
     ],
     "stanzers": [
       {
@@ -15284,7 +10017,7 @@ export const tongaHymns = [
           "Ndakkala kabotu,",
           "Ndakondwa cinicini,",
           "Moyo wangu woonse,",
-          "Zintu zyoonse zyamana,",
+          "Zintu zyoonse zyamana",
           "Wasanduka moyo,",
           "Ee, Jesu ndamulumba wakandifutula."
         ]
@@ -15360,7 +10093,7 @@ export const tongaHymns = [
           "Ciindi cakumupaila,",
           "Ndamvwa kukondwa aluzyalo,",
           "Ulaa baabo balindila,",
-          "Kuboola kwa-Mwami Jesu,",
+          "Kuboola kwa-Mwami Jesu",
           "Ndafwambaana kucilawo,",
           "Kubona busyu bwa-Leza,",
           "Kutambula cuuno cangu,",
@@ -15371,11 +10104,12 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ciindi cakumupaila,",
-          "Mababa alakutola,",
+          "Mababa alakutola",
           "Kuli oyo usyomeka,",
           "Kukukondezya iyebo,",
           "Ulandiita kumuyanda,",
-          "Akuzumina kusyoma,",
+          "Akuzumina kusyoma",
+          "Ndilainka kulinguwe,",
           "Kuyookomba amoyo woonse."
         ]
       }
@@ -15410,7 +10144,7 @@ export const tongaHymns = [
         "lines": [
           "Zilundu kakutakwe pe,",
           "Ayo nyika yoonse,",
-          "Muziindi zyoonse we-Leza,",
+          "Muziindi zyoonse we-Leza",
           "Ulikkede mumo."
         ]
       },
@@ -15455,7 +10189,7 @@ export const tongaHymns = [
           "Leza Mwami na?",
           "Ii Mwami, taakwe umbi (x2)",
           "Nguwe undifutula?",
-          "Ii nguwe, taakwe umbi. (x2)"
+          "Ii nguwe, taakwe umbi.(x2)"
         ]
       },
       {
@@ -15464,14 +10198,14 @@ export const tongaHymns = [
           "Leza Taata na?",
           "Ii Taata ulindizi. (x2)",
           "Nguwe undisanina?",
-          "Ii nguwe, taakwe umbi. (x2)"
+          "Ii nguwe, taakwe umbi.(x2)"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Leza nkwali na?",
-          "Ii Leza uli koonse. (x2)",
+          "Ii Leza uli koonse.(x2)",
           "Nguwe ngondakumbila?",
           "Ii nguwe, taakwe umbi (x2)"
         ]
@@ -15482,14 +10216,14 @@ export const tongaHymns = [
           "Leza mumuni na?",
           "Ii Leza utamani. (x2)",
           "Nzookkala awe Leza?",
-          "Ii nguwe, tandileki. (x2)"
+          "Ii nguwe, tandileki.(x2)"
         ]
       }
     ]
   },
   {
     "hymnNo": 194,
-    "title": "LUSYOMO LUTAKAMANI",
+    "title": "Lusyomo lutakamani nolukatazigwa,",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -15497,7 +10231,7 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Lusyomo lutakamani nolukatazigwa,",
-          "Lutakayoowi mapenzi,",
+          "Lutakayoowi mapenzi",
           "Naa basinkondoma."
         ]
       },
@@ -15510,13 +10244,6 @@ export const tongaHymns = [
       },
       {
         "stanzer": 3,
-        "lines": [
-          "Lusyomo lulakomena kabotu lyoonse,",
-          "Kwiina kulimbulula amapenzi oonse."
-        ]
-      },
-      {
-        "stanzer": 4,
         "lines": [
           "Lusyomo lulakomena kabotu lyoonse,",
           "Kwiina kulimbulula amapenzi oonse."
@@ -15570,7 +10297,7 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "Wakaambisya kuti,",
-          "Njakuboola akubatambula bangu,",
+          "Njakuboola akubatambula bangu",
           "Akubanjizya mu-Bwami bwangu,",
           "Bwakujulu ubutamani."
         ]
@@ -15614,7 +10341,7 @@ export const tongaHymns = [
     "title": "NDAIMBA LWAANO LUGAMBYA",
     "creator": "Unknown",
     "chorus": [
-      "Ii ndaimba lwaano olu,",
+      "Ii ndaimba lwaano olu",
       "Jesu mbwaakafwida ame,",
       "Njooimba abafutukide,",
       "Kubusyu bwakwe Leza."
@@ -15650,8 +10377,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ulandeenzya nzila zyoonse,",
-          "Ndamusyoma moyo woonse,",
+          "Ulandeenzya nzila zyoonse, Ndamusyoma moyo woonse,",
           "Ndicisikilwa mapenzi,",
           "Pele tuli awe lyoonse."
         ]
@@ -15679,18 +10405,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndayanda kukambaukilwa,",
+          "Ndayanda kukambaukilwa",
           "Mbondafutulwa bulowa,",
           "Ndafutuka aluse lwakwe,",
-          "Ndaanguluka bunene."
+          "Ndaanguluka bunene"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Jesu ulandikkomanisya,",
+          "Jesu ulandikkomanisya",
           "Kukkomanisya kupati,",
-          "Ndizi kuti kumweka kwakwe,",
+          "Ndizi kuti kumweka kwakwe",
           "Kuya kukkala andime."
         ]
       },
@@ -15699,14 +10425,14 @@ export const tongaHymns = [
         "lines": [
           "Ndayeeya Mufutuli wangu,",
           "Zuba lyoonse ndamuyeeya,",
-          "Ndilaimba nsikaumuni,",
+          "Ndilaimba nsikaumuni",
           "Kwiimba luyando lwakwe."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndaziba ndiya kumubona,",
+          "Ndaziba ndiya kumubona",
           "Mwami ooyu undiyanda,",
           "Ulandisololela koonse,",
           "Akundibamba masiku."
@@ -15723,47 +10449,46 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Syaala zibyaabi, Jesu nguwangu,",
-          "Ndazisiya zyoonse,",
+          "Syaala zibyaabi, Jesu nguwangu",
+          "Ndazisiya zyonse,",
           "Jesu nguwangu,",
-          "Musinzo mulamfu,",
-          "Kuzwa ansi aano,",
-          "Jesu wandikwela, Jesu nguwangu."
+          "Musinzo mulamfu kuzwa ansi aano",
+          "Jesu wandikwela, Jesu nguwangu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mutandisukusyi, Jesu nguwangu,",
+          "Mutandisukusyi, Jesu nguwangu",
           "Kuno ndiyookkala,",
-          "Jesu nguwangu,",
-          "Zyaansi zilamana, zyoonse zimwaigwe,",
-          "Zilanyonyaunwa, Jesu nguwangu."
+          "Jesu nguwangu",
+          "Zyaansi zilamana, zyoonse zimwaigwe",
+          "Zilanyonyaunwa, Jesu ngwangu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Syaala owazibi, Jesu nguwangu,",
-          "Syaala zyamasiku, Jesu nguwangu,",
+          "Syaala owazibi, Jesu nguwangu",
+          "Syaala zyamasiku, Jesu nguwangu",
           "Zyakandikatazya, zyandipenzya buyo,",
-          "Zyoonse ndazisowa,",
+          "Zyoonse ndazisowa",
           "Jesu nguwangu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Syaala zyoonse zyaansi, Jesu nguwangu,",
-          "Boola zitamani, Jesu nguwangu,",
-          "Boola buumi bupya, boola lutangalo,",
+          "Syaala zyoonse zyaansi, Jesu nguwangu",
+          "Boola zitamani, Jesu nguwangu",
+          "Boola buumi bupya, Boola lutangalo",
           "Boola ziluleme, Jesu nguwangu."
         ]
       }
     ]
   },
   {
-    "hymnNo": 199,
+    "hymnNo": "199B",
     "title": "Zyaansi zilamana",
     "creator": "Unknown",
     "chorus": null,
@@ -15771,17 +10496,17 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Syaala zibyaabi, Jesu nguwangu,",
-          "Ndazisiya zyoonse, Jesu nguwangu,",
-          "Musinzo mupati kuzwa ansi aano,",
-          "Jesu wandikwela, Jesu nguwangu."
+          "Syaala zibyaabi, Jesu nguwangu",
+          "Ndazisiya zyoonse, Jesu nguwangu",
+          "Musinzo mupati kuzwa ansi aano",
+          "Jesus wandikwela, Jesu nguwangu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Mutandisukusyi, Jesu nguwangu,",
-          "Kuno ndiyookkala, Jesu nguwangu,",
+          "Kuno ndiyookkala, Jesu nguwangu",
           "Zyaansi zilamana, zyoonse zimwaigwe,",
           "Zilanyonyaunwa, Jesu nguwangu."
         ]
@@ -15790,16 +10515,16 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Syaala owazibi, Jesu nguwangu,",
-          "Syaala zyamasiku, Jesu nguwangu,",
-          "Zyakandikatazya, zyandipenzya buyo,",
-          "Zyoonse ndazisowa, Jesu nguwangu."
+          "Syaala zyamasiku, Jesu nguwangu",
+          "Zyakandikatazya; zyandipenzya buyo,",
+          "Zyoonse ndazisowa, Jesu nguwangu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Syaala coonse caansi, Jesu nguwangu,",
-          "Boola zitamani, Jesu nguwangu,",
+          "Boola zitamani, Jesu nguwangu.",
           "Boola buumi bupya, boola lutangalo,",
           "Boola ziluleme, Jesu nguwangu."
         ]
@@ -15811,19 +10536,16 @@ export const tongaHymns = [
     "title": "CIYUSILO CENZIBA",
     "creator": "Unknown",
     "chorus": [
-      "Ku-Mufutuli ndilayuba,",
-      "Oko nkondilyookezezya kabotu,",
-      "Kulandipa nguzu zipya,",
       "Naa mbulizye aluse lwakwe."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Mbuli nziba yuuluka,",
+          "Mbuli nziba yuuluka",
           "Kumpangala kukuyusa,",
           "Ambe ndiyusila ku-Mufutuli wangu,",
-          "Walo ndendilyobbwe lyangu,",
+          "Walo ndendilyo bbwe lyangu,",
           "Walo nkufutulwa kwangu,",
           "Nkuulyookezezya woonse moyo wangu."
         ]
@@ -15837,8 +10559,7 @@ export const tongaHymns = [
           "Naa mbulizye aluse lwakwe.",
           "Ku-Mufutuli ndilayuba,",
           "Oko nkondilyookezezya kabotu,",
-          "Kulandipa nguzu zipya,",
-          "Naa mbulizye aluse lwakwe."
+          "Kulandipa nguzu zipya,"
         ]
       },
       {
@@ -15847,8 +10568,8 @@ export const tongaHymns = [
           "Aibe inkani yangu,",
           "Ndilisise kuleelyo bbwe,",
           "Nkaambo Jesu uti,",
-          "Kokkala andime,",
-          "Nkokuti batolwa bakwe,",
+          "Kokkala andime.",
+          "Nkokuti batolwa bakwe",
           "Iyoolonga nziba yakwe,",
           "Ooko kuyoobula amasunko, pe."
         ]
@@ -15869,7 +10590,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ibwe eeli ngu-Mwami wesu, tuya kuyubila mumo;",
+          "Ibwe eeli ngu-Mwami wesu, Tuya kuyubila mumo;",
           "Nokuba twakatazigwa,",
           "Nkocili coonde ciyumu."
         ]
@@ -15915,7 +10636,7 @@ export const tongaHymns = [
           "Jata ijanza Taata,",
           "Ndileendikke,",
           "Ninjumu, yasofwaala nzila yangu,",
-          "Jata ijanza, kuti nditayoowi,",
+          "Jata ijanza, kuti nditayoowi",
           "Nuuba musinzo aawa,",
           "Mwami wangu."
         ]
@@ -15937,7 +10658,7 @@ export const tongaHymns = [
           "Jata ijanza Taata,",
           "Ndabotelwa,",
           "Ndiyoovwigwa ajanza lyako, Mwami.",
-          "Jata ijanza ndilajana nguzu,",
+          "Jata ijanza ndilajana nguzu",
           "Naa ndilizi kuteeti ulaafwaafwi."
         ]
       },
@@ -15945,7 +10666,7 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Jata ijanza naa lwasika lufu,",
-          "Ndiyanda kufutulwa,",
+          "Ndiyanda kufutulwa",
           "Mwami wangu,",
           "Jata ijanza ndisike kumunzi,",
           "Tukabonane awe,",
@@ -15968,9 +10689,9 @@ export const tongaHymns = [
           "Nokunjila mapenzi,",
           "Ndiyube mucimvule,",
           "Kasimpe wandiyanda,",
-          "Wakasiya kujulu,",
+          "Wakasiya kujulu.",
           "Nkaambo kazibi zyangu,",
-          "Tambula moyo wangu."
+          "Tambula moyo wangu"
         ]
       },
       {
@@ -15981,7 +10702,7 @@ export const tongaHymns = [
           "Utandifutatili,",
           "Konoondibamba lyoonse,",
           "Lusyomo lwangu lyoonse,",
-          "Ndabika kulinduwe,",
+          "Ndabika kulinduwe.",
           "Salazya buumi bwangu,",
           "A-Muuya Uusalala."
         ]
@@ -15992,8 +10713,8 @@ export const tongaHymns = [
           "Nduwe olikke Kristo,",
           "Ngwenyanda ciindi coonse,",
           "Koimika bawide,",
-          "Koumuzya balila,",
-          "Kosilika baciswa,",
+          "Koumuzya balila.",
+          "Kosilika baciswa",
           "Kosololela boofu,",
           "Ndisofweede, ndimubi,",
           "Kosanzya moyo wangu."
@@ -16023,10 +10744,10 @@ export const tongaHymns = [
         "lines": [
           "Mbwendakkala ansi aano,",
           "Ulakonzya kundilela,",
-          "Zintu zyoonse zyateelela,",
-          "Nawaamba, \"Kamuumuna,",
+          "Zintu zyoonse zyateelela",
+          "Nawaamba, “Kamuumuna,",
           "Jesu Mwami Mufutuli,",
-          "Ulakonzya kundigwasya.\""
+          "Ulakonzya kundigwasya."
         ]
       },
       {
@@ -16053,9 +10774,9 @@ export const tongaHymns = [
         "lines": [
           "Jokwe lyako talilemi,",
           "Likatulusya moyo,",
-          "Luyando lwako nintobo,",
-          "Nduwe utabilila,",
-          "Kukondwa ndakakujana,",
+          "Luyando lwako nintobo",
+          "Nduwe utabilila.",
+          "Kukondwa ndakakujana",
           "Munzila yako Mwami,",
           "Ibandwisya balayoowa,",
           "Bazundwe kulinduwe."
@@ -16064,23 +10785,23 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Nendabomba ansi aano,",
+          "Nendabomba ansi aano",
           "Ulamponya cabuuya;",
-          "Wazida atwaambo twako,",
-          "Itufwamba kugwasya,",
-          "Nendati, \"Ndimutengwana.\",",
-          "Wati, \"Pe, ulaambe.\",",
-          "Nendati, \"Ndimutengwana.\",",
-          "Wati, \"Pe, ulaambe.\""
+          "Wazida atwaambo twako",
+          "Itufwamba kugwasya.",
+          "Nendati, “Ndimutengwana.",
+          "Wati, “Pe, ulaambe.",
+          "Nendati, “Ndimutengwana.",
+          "Wati, “Pe, ulaambe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Kondisindikila lyoonse,",
-          "Jesu Muvuni wangu,",
+          "Jesu Muvuni wangu;",
           "Utandeki ansi aano,",
-          "Mane nkasike kwako,",
+          "Mane nkasike kwako.",
           "Ooko kwako kutamani,",
           "Ndinooyoomutembula,",
           "Aleluya ku-Singuzu,",
@@ -16101,37 +10822,36 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Koonse koonse nkwaya,",
-          "Jesu ndilainka,",
-          "Koonse nkwanditumina,",
-          "Ansi aano;",
-          "Koonse nkwandiitila,",
+          "Koonse koonse nkwaya",
+          "Jesu ndilainka",
+          "Koonse nkwanditumina",
+          "Ansi aano; Koonse nkwandiitila",
           "Ndilamucilila,",
-          "Ndilasyoma Jesu,",
+          "Ndilasyoma Jesu",
           "Nsikooyoowa, pe."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Koonse koonse,",
+          "Koonse koonse",
           "Nsikooenda endikke,",
-          "Bamwi bandisiya,",
+          "Bamwi bandisiya",
           "Ulakkala ame;",
-          "Tondisiyi, Jesu,",
+          "Tondisiyi, Jesu",
           "Swena kulindime,",
-          "Ndilasyoma Jesu,",
+          "Ndilasyoma, Jesu,",
           "Nsikooyoowa, pe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Koonse koonse,",
+          "Koonse koonse",
           "Jesu ulizi nzila,",
-          "Kumasena oonse,",
+          "Kumasena oonse",
           "Wandisololela;",
-          "Kondisindikila,",
+          "Kondisindikila",
           "Ndileenda ayebo,",
           "Ndilasyoma Jesu,",
           "Nsikooyoowa, pe."
@@ -16144,7 +10864,7 @@ export const tongaHymns = [
     "title": "MUFUTULI NDIBAMBE",
     "creator": "Unknown",
     "chorus": [
-      "Mwami wangu,",
+      "Mwami wangu",
       "Ndisololele Mwami,",
       "Amuciindi ciboola,",
       "Ndisololele Mwami."
@@ -16162,7 +10882,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Yebo ulausisa,",
+          "Yebo Ulausisa",
           "Moyo wangu muguwo;",
           "Mukusunkwa nkazunde,",
           "Njakukujatilila."
@@ -16171,8 +10891,8 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mufutuli ndibambe,",
-          "Mukulwana kuyumu,",
+          "Mufutuli ndibambe",
+          "Mukulwana kuyumu",
           "Kuti njende kujulu,",
           "Ooko taako mapenzi."
         ]
@@ -16192,8 +10912,8 @@ export const tongaHymns = [
           "Mwendikkede lyoonse,",
           "Mbobusena bubotu,",
           "Butanjilwa zibi,",
-          "Ndiyoolongezegwa ooyo,",
-          "Uwakandifwida,",
+          "Ndiyoolongezegwa ooyo",
+          "Uwakandifwida.",
           "Uundibamba aluzyalo,",
           "Eeno ndabotelwa."
         ]
@@ -16202,25 +10922,22 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Naa mpocili cintu cibi,",
-          "Icindibukila,",
+          "Icindibukila",
           "Lyoonse ndisumpulwa nguwe,",
           "Ooyo ngwendisyoma,",
-          "Ndoluyando lwa kujulu,",
-          "Ulutalesegwa,",
-          "Ndoluzyalo mbuli lwizi,",
+          "Ndoluyando lwa kujulu ulutalesegwa.",
+          "Ndoluzyalo mbuuli lwizi,",
           "Uluteelekedwe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ulayanda kumuziba,",
-          "Ukamutambule,",
+          "Ulayanda kumuziba ukamutambule,",
           "Langa eeno ulaafwaafwi,",
           "Fwamba mutobele,",
-          "Uluyando ulwa-Jesu,",
-          "Ulutalesegwa,",
-          "Ndilalumba Mwami sunu,",
+          "Uluyando ulwa-Jesu ulutalesegwa.",
+          "Ndilalumba Mwami sunu",
           "Mbwaakanditambula."
         ]
       }
@@ -16228,7 +10945,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 209,
-    "title": "NDISOLOLELA JEHOVA",
+    "title": "NDISOLOLELE JEHOVA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -16238,7 +10955,7 @@ export const tongaHymns = [
           "Ndisololela Jehova,",
           "Ndili mulweendo lwangu;",
           "Ulaanguzu, ime nyina,",
-          "Ndijatilila eeno,",
+          "Ndijatilila eeno",
           "Mufutuli, Mufutuli;",
           "Nduwe Muvuni wangu."
         ]
@@ -16257,42 +10974,12 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Kuti ndasika kulufu,",
+          "KKuti ndasika kulufu,",
           "Gwisya kuyoowa kwangu;",
           "Andinjile julu lyako,",
           "Koba mugwasyi wangu;",
           "Njakwiimba, Njakwiimba,",
           "Nyimbo zyalutangalo."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 209,
-    "title": ". NDISOLOLELE JEHOVA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "209. NDISOLOLELE JEHOVA\"GUIDE ME O THOU GREAT JEHOVA\"",
-          "Ndisololele Jehova, ndili mulweendo lwangu; Ula'nguzu ime nsina , Ndijatilila eeno,",
-          "Mufutuli, Mufutuli, Nduwe muvuni wangu{2×}"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Jalula kasensa kako kalabaponya bantu; leta kusalala lyoonse. Mwaangululi, mwaangululi,",
-          "Kobe intobo yangu {2×}"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kuti ndasika kulufu, gwisya kuyoowa kwangu; andinjile julu lyako, koba mugwasyi wangu; njakwiimba, njakwiimba,",
-          "Nyimbo zyalutangalo{2×}"
         ]
       }
     ]
@@ -16304,14 +10991,14 @@ export const tongaHymns = [
     "chorus": [
       "Muswiilile,",
       "Taakwe nzila imbi,",
-      "Kukondwa muli-Jesu,",
+      "Kukondwa muli-Jesu",
       "Pele kuswiilila."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Notuya a-Leza,",
+          "Notuya a-Leza",
           "Muluyando lwakwe,",
           "Usalazye nzila zyesu,",
           "Notwamuswiilila,",
@@ -16327,70 +11014,19 @@ export const tongaHymns = [
           "Ulatutambula kabotu,",
           "Taakwe kuyoowa,",
           "Taakwe kunyema,",
-          "Kuti twasyoma,",
+          "Kuti twasyoma",
           "Twaswiilila."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Muluyando lwakwe,",
+          "Muluyando lwakwe",
           "Tulakkala munsi,",
           "Tuleenda awe munzila,",
           "Naamba tucite,",
           "Twatumwa twiinke,",
           "Mutayoowi, pele musyome."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 210,
-    "title": ". KUSYOMA AKUSWIILILA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "210. KUSYOMA AKUSWIILILA\"TRUST AND OBEY\"",
-          "Notuya a-Leza muLuyando lwakwe,",
-          "Usalazya inzila zyesu",
-          "Notwamu swilila, ukkala aswebo.",
-          "Abasyoma abaswililila."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO",
-          "Muswiilile,taakwe nzila imbi, kukondwa muli-jesu pele kuswiilila."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Taakwe kupenga, taakwe mukuli, ulatutambula kabotu, taakwe kuyoowa, taakwe kunyema, kuti twasyoma twaswiilila"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO",
-          "Muswiilile,taakwe nzila imbi, kukondwa muli-jesu pele kuswiilila."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Muluyando lwakwe tulakala munsi, tuleenda awe munzila, naamba tucita, twatumwa twiinke, mutayoowi pele musyome"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO",
-          "Muswiilile,taakwe nzila imbi, kukondwa muli-jesu pele kuswiilila."
         ]
       }
     ]
@@ -16440,16 +11076,7 @@ export const tongaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Kumulimo ukatazya,",
-          "Tutanoolengani;",
-          "Kumafwabi, makatazyo,",
-          "Tube basicamba."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Kumulimo ukatazya,",
+          "Kumulimo ukatazya",
           "Tutanoolengani;",
           "Kumafwabi, makatazyo,",
           "Tube basicamba."
@@ -16477,16 +11104,16 @@ export const tongaHymns = [
         "lines": [
           "Tuli bako Leza muumi,",
           "Utuvune ansi aano;",
-          "Nduwe Buumi a-Buswini,",
+          "Nduwe Buumi a-Buswini",
           "Utweenzye nkobede."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tuli bako, Basicoolwe,",
+          "Tuli bako, Basicoolwe",
           "Ibakkala mulinduwe,",
-          "O Muvuni, Mulindili,",
+          "O Muvuni, Mulindili",
           "Ututabilile."
         ]
       },
@@ -16515,8 +11142,8 @@ export const tongaHymns = [
     "title": "UNDISOLOLELA",
     "creator": "Unknown",
     "chorus": [
-      "Ulandeenzya, ulandeenzya,",
-      "Nkuboko kwakwe kundeenzya;",
+      "Ulandeenzya, ulandeenzya",
+      "Nkuboko kwakwe Kundeenzya;",
       "Ndilamutobela Jesu,",
       "Nkuboko kwakwe kundeenzya."
     ],
@@ -16524,10 +11151,10 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mwami wandisololela,",
-          "Amajwi akuumuna,",
+          "Mwami wandisololela",
+          "Amajwi akuumuna.",
           "Nkwendicita, ankwendiya,",
-          "Kuboko kwakwe kundeenzya."
+          "Kuboko kwakwe kundeezya."
         ]
       },
       {
@@ -16577,8 +11204,8 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Lilacita kuti muuya,",
-          "Ubote, upone,",
+          "Lilacita kuti muuya",
+          "Ubote, upone.",
           "Lilakutya balaanzala,",
           "Lilabatontozya."
         ]
@@ -16587,15 +11214,15 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Izina lyakwe nintobo,",
-          "Ndibbwe, nciyubilo,",
-          "Nkikasensa kazwide luse,",
+          "Ndibbwe, nciyubilo;",
+          "Nkikasensa kazwide, luse",
           "Alubomba."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Moyo ulabombabomba,",
+          "Moyo ulabombabomba",
           "Unyina nguzu,",
           "Pele naa ndaakumubona,",
           "Njoomutembaula."
@@ -16610,7 +11237,7 @@ export const tongaHymns = [
     "chorus": [
       "Coolwe cipati,",
       "Coolwe cipati nca-Leza,",
-      "Luse lulatusikila,",
+      "Luse lulatusikila ,",
       "Luse tulalulilila."
     ],
     "stanzers": [
@@ -16626,7 +11253,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Coolwe cipati nca-Leza, ciyootusinsimunisya;",
+          "Coolwe cipati nca-Leza. Ciyootusinsimunisya;",
           "Muuya wawida ombuli,",
           "Mvula impati iiyoosya."
         ]
@@ -16636,7 +11263,7 @@ export const tongaHymns = [
         "lines": [
           "Coolwe cipati nca-Leza,",
           "Acituwide bwasunu;",
-          "Mwami koboola tuyomvwe,",
+          "Mwami koboola tuyomvwe.",
           "Boola eno Mufutuli."
         ]
       },
@@ -16661,9 +11288,9 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Kokondwa mu-Kristo,",
-          "Kondwa kuli-Jesu,",
+          "Kondwa kuli-Jesu",
           "Wafutulwa nguwe,",
-          "Kondwa amumoyo."
+          "Kondwa amumoyo"
         ]
       },
       {
@@ -16671,7 +11298,7 @@ export const tongaHymns = [
         "lines": [
           "Komulumba Jesu,",
           "Moyo wako woonse,",
-          "Wakulekelela,",
+          "Wakulekelela",
           "Mumilandu yoonse."
         ]
       },
@@ -16679,7 +11306,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Kokondwa mu-Kristo,",
-          "Wakaambwidwa lino,",
+          "Wakaambwidwa lino.",
           "Kondwa amumoyo,",
           "Kondwa kuli-Jesu."
         ]
@@ -16689,7 +11316,7 @@ export const tongaHymns = [
         "lines": [
           "Akulako kufwa,",
           "Nkwaakafwa ankuko,",
-          "Ube akupona,",
+          "Ube akupona",
           "Moyo wako woonse."
         ]
       },
@@ -16705,8 +11332,8 @@ export const tongaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Amisozi yako,",
-          "Yasindwa yoonse,",
+          "Amisozi yako",
+          "Yasindwa yoonse.",
           "Kolumba mu-Kristo,",
           "Moyo wako woonse."
         ]
@@ -16718,7 +11345,7 @@ export const tongaHymns = [
     "title": "KUPONA KWANGU NKUBOTU",
     "creator": "Unknown",
     "chorus": [
-      "Kwabota kulime,",
+      "Kwabota kulime",
       "Kwabota, kwabota kulime."
     ],
     "stanzers": [
@@ -16734,10 +11361,10 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Naa kuti Saatani,",
+          "Naa kuti Saatani",
           "Waleta masunko,",
-          "Ulajana ndimuyumu,",
-          "Jesu waandigwasya,",
+          "Ulajana ndimuyumu.",
+          "Jesu waandigwasya",
           "Anguzu zyakwe,",
           "Wakanditilila bulowa."
         ]
@@ -16747,7 +11374,7 @@ export const tongaHymns = [
         "lines": [
           "Ndakkomana nkaambo ndalekelelwa,",
           "Zinyonyoono zyangu zyoonse,",
-          "Zyagagailwa,",
+          "Zyagagailwa",
           "Aciingano cakwe,",
           "Ndalumba,",
           "Ndalumba, O Mwami."
@@ -16776,7 +11403,7 @@ export const tongaHymns = [
         "lines": [
           "Leza uli zuba lyesu,",
           "Ulabona akujulu,",
-          "Kuti muuya ukubone,",
+          "Kuti muuya ukubone",
           "Aawo mponoozooyendela."
         ]
       },
@@ -16811,7 +11438,7 @@ export const tongaHymns = [
         "stanzer": 5,
         "lines": [
           "Inye nyoonse muli ansi,",
-          "Amwiimbe kuli-Jehova,",
+          "Amwiimbe kuli-Jehova;",
           "Amutembuule muluumuno,",
           "Muze kwakwe akukondwa."
         ]
@@ -16831,20 +11458,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndabotelwa mumulimo",
-          "wa-Mwami,",
+          "Ndabotelwa mumulimo wa-Mwami,",
           "Ndabotelwa, ndabotelwa,",
           "Ndijisi kutangala kwa-Leza,",
-          "Mumulimo wa-Mwami."
+          "Mumulimo wa-Mwami"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndabotelwa mumulimo",
-          "wa-Mwami,",
+          "Ndabotelwa mumulimo wa-Mwami,",
           "Ndabotelwa, ndabotelwa,",
-          "Naa kuumuna,",
+          "Naa kuumuna",
           "Naa mapenzi ndaimba,",
           "Mumulimo wa-Mwami."
         ]
@@ -16852,8 +11477,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndabotelwa mumulimo",
-          "wa-Mwami,",
+          "Ndabotelwa mumulimo wa-Mwami,",
           "Ndabotelwa, ndabotelwa,",
           "Ndajatilila ijanza lyakwe,",
           "Mumulimo wa-Mwami."
@@ -16862,10 +11486,9 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndabotelwa mumulimo",
-          "wa-Mwami,",
+          "Ndabotelwa mumulimo wa-Mwami,",
           "Ndabotelwa, ndabotelwa,",
-          "Zintu zyangu ndazipa kulinguwe,",
+          "Zintu zyangu ndazipa kulinguwe",
           "Mumulimo wa-Mwami."
         ]
       }
@@ -16876,15 +11499,15 @@ export const tongaHymns = [
     "title": "NAA ULABOTELWA",
     "creator": "Unknown",
     "chorus": [
-      "Muswiilile, taakwe nzila imbi, kukondwa muli-Jesu pele kuswiilila."
+      "Muswiilile,taakwe nzila imbi, kukondwa muli-jesu pele kuswiilila."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Notuya a-Leza muLuyando lwakwe,",
-          "Usalazya inzila zyesu,",
-          "Notwamuswilila, ukkala aswebo,",
+          "Notuya a-Leza mu Luyando lwakwe,",
+          "Usalazya inzila zyesu",
+          "Notwamu swilila, ukkala aswebo.",
           "Abasyoma abaswililila."
         ]
       },
@@ -16892,23 +11515,23 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Taakwe kupenga, taakwe mukuli,",
-          "Ulatutambula kabotu, taakwe kuyoowa,",
-          "Taakwe kunyema, kuti twasyoma twaswiilila."
+          "ulatutambula kabotu, taakwe kuyoowa,",
+          "taakwe kunyema, kuti twasyoma twaswiilila"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Muluyando lwakwe tulakala munsi, tuleenda awe munzila,",
-          "Naamba tucita, twatumwa twiinke,",
-          "Mutayoowi pele musyome."
+          "naamba tucita, twatumwa twiinke,",
+          "mutayoowi pele musyome"
         ]
       }
     ]
   },
   {
     "hymnNo": 221,
-    "title": "NDAKUYANDA JESU",
+    "title": "Ndakuyanda jesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -16932,34 +11555,13 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 221,
-    "title": ". Ndakuyanda jesu",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "221. Ndakuyanda jesu",
-          "Ndakuyanda jesu, ndakuyanda, ndakuyanda jesu, ndakuyanda mwangululi a mufutuli wangu, ndilakuyanda jesu, ndakuyanda"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndakuyanda jesu, ndakuyanda, ndakuyanda, ndakuyanda jesu, ndakuyanda buzuba bwakufwa ndiyookwiimbila, ndilakuyanda jesu, ndakuyanda"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 222,
     "title": "NDILAKONDWA [Autosaved]",
     "creator": "Unknown",
     "chorus": [
       "Ndakondwa Jesu wandiyanda,",
       "Wandiyanda, wandiyanda,",
-      "Ndakondwa Jesu wandiyanda,",
+      "Ndakondwa Jesu wandiyanda",
       "Ndamuyanda ame."
     ],
     "stanzers": [
@@ -16985,56 +11587,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ndabuzigwa inga ndilaambanzi?",
-          "Majwi ngenkozya kuvuwa ngaaya,",
-          "Muuya wa-Leza ulandyaambila,",
-          "Kuti Jesu lyoonse wandiyanda."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Moyo wangu uli aluyando,",
-          "Nkaambo Jesu ngu-Muvuni wangu,",
-          "Ndamubelekela amoyo woonse,",
-          "Nkaambo ndasyoma luyando lwakwe."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 222,
-    "title": "NDILAKONDWA",
-    "creator": "Unknown",
-    "chorus": [
-      "Ndakondwa Jesu wandiyanda,",
-      "Wandiyanda, wandiyanda,",
-      "Ndakondwa Jesu wandiyanda,",
-      "Ndamuyanda ame."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndilakondwa nkaambo Leza wesu,",
-          "Waamba luyando lwakwe mwi-Bbuku,",
-          "Muzigambya zili mu-Malembe,",
-          "Cipati ncakuti wandiyanda."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wandiyanda ame, ndamuyanda,",
-          "Nduyando lwakamuleta ansi,",
-          "Nduyando lwamucita amfwide,",
-          "Ndasinizya kuti wandiyanda."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndabuzigwa inga ndilaambanzi?",
-          "Majwi ngenkozya kuvuwa ngaaya,",
+          "Majwi ngenkozya kuvuwa ngaaya;",
           "Muuya wa-Leza ulandyaambila,",
           "Kuti Jesu lyoonse wandiyanda."
         ]
@@ -17056,7 +11609,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Ndilamuyanda Muvuni,",
-      "Ndilamuyanda Jesu,",
+      "Ndilamuyanda Jesu",
       "Akaambo ngo-Munununi,",
       "Wandiyanda awalo."
     ],
@@ -17065,7 +11618,7 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Ciindi cilijisi coolwe,",
-          "Ncendili kulinguwe;",
+          "Ncendili kulinguwe,;",
           "Cilijisi lubatamo,",
           "Luzwa ku-Mufutuli."
         ]
@@ -17156,13 +11709,13 @@ export const tongaHymns = [
           "Mukwiibulukwa banji,",
           "Ndiibulusya ambebo.",
           "Ambebo, ambebo,",
-          "Ndiibulusya ambebo."
+          "ndiibulusya ambebo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Jesu owalemba bako,",
+          "Jesu owalemba bako",
           "Mubbuku ilyabuumi,",
           "Nobaita banji banji,",
           "Kondiita ambebo.",
@@ -17271,7 +11824,7 @@ export const tongaHymns = [
           "Busungu butamani,",
           "Tabulungili zibi,",
           "Nduwe mwini olikke,",
-          "Ofutula babisyi,",
+          "Ofutula babisyi.",
           "Pele bulowa bwako."
         ]
       },
@@ -17335,8 +11888,8 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Moyo wangu woonse,",
-      "Ndakupa ncobeni,",
-      "Buumi bwangu boonse,",
+      "Ndakupa ncobeni",
+      "Buumi bwangu boonse",
       "Njane babisyi."
     ],
     "stanzers": [
@@ -17391,10 +11944,10 @@ export const tongaHymns = [
         "lines": [
           "Andibunywe ntakanyotwi,",
           "Imbazu zyalukkomano,",
-          "O Kasensa, kunka munguzu,",
+          "O Kasensa, kunka munguzu",
           "Ube milonga yaluse,",
           "Yalukondo lutamani,",
-          "Yabuumi bukkala lyoonse."
+          "Yabuumi bukkala lyoonse"
         ]
       },
       {
@@ -17428,9 +11981,9 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ciindi twakajisi,",
+          "Ciindi twakajisi",
           "Ziimbo zitaluzi,",
-          "Sunu twakuyoowa,",
+          "Sunu twakuyoowa",
           "Nkaambo ulaabbivwe."
         ]
       },
@@ -17439,7 +11992,7 @@ export const tongaHymns = [
         "lines": [
           "Leza, tufutule,",
           "Twakuyanda loko,",
-          "Nkaambo buumi bwesu,",
+          "Nkaambo buumi bwesu",
           "Buli mumafwabi."
         ]
       },
@@ -17448,14 +12001,14 @@ export const tongaHymns = [
         "lines": [
           "Tulaa kuswiilila,",
           "Majwi aako, Leza,",
-          "Sunu twazumina,",
+          "Sunu twazumina",
           "Kulinduwe, Mwami."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Ulijisi nguzu,",
+          "Ulijisi nguzu",
           "Zyakutujatila,",
           "Ulaabuuya Mwami,",
           "Watufwida nsoni."
@@ -17491,8 +12044,8 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Moyo mutete O-Mwami,",
-          "Cuuno ca-Muvuni,",
-          "Nkwateelelwa Mwami Kristo,",
+          "Cuuno ca-Muvuni.",
+          "Nkwateelelwa Mwami Kristo",
           "Nkwakkala alikke."
         ]
       },
@@ -17501,16 +12054,16 @@ export const tongaHymns = [
         "lines": [
           "Moyo mubombe, mutete,",
           "Uusyoma, uusweya,",
-          "Kwiina cintu caandaanya,",
+          "Kwiina cintu caandaanya",
           "Mwami ambebo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Moyo uyeezya zibotu,",
+          "Moyo uyeezya zibotu",
           "Amulusinizyo,",
-          "Moyo ululeme mbuli,",
+          "Moyo ululeme mbuli",
           "Moyo wako Mwami."
         ]
       }
@@ -17525,18 +12078,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mufutuli, wandiita,",
-          "Akaambo kaluyando,",
-          "Ndaleta zyoonse nzejisi,",
+          "Mufutuli, wandiita",
+          "Akaambo kaluyando",
+          "Ndaleta zyoonse nzejisi",
           "Zikabe zyako lyoonse."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndivune kuzwa kuntenda,",
+          "Ndivune kuzwa kuntenda",
           "Zindilebya munzila;",
-          "Amumasunko mayumu,",
+          "Amumasunko mayumu",
           "Ndifwida nkumbu zyako."
         ]
       },
@@ -17636,9 +12189,9 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Pele ndakombelela,",
+          "Pele ndakombelela",
           "Kuti ukkale amebo,",
-          "Nsiyandi kuzimina,",
+          "Nsiyandi kuzimina",
           "Kuzwa nkobede Mwami."
         ]
       },
@@ -17647,7 +12200,7 @@ export const tongaHymns = [
         "lines": [
           "Katukkala antoomwe,",
           "Kulatangazya moyo,",
-          "Ndilakulemya lyoonse,",
+          "Ndilakulemya lyoonse",
           "Jesu, Mwami, Muvuni."
         ]
       }
@@ -17664,8 +12217,8 @@ export const tongaHymns = [
         "lines": [
           "Mwami Leza, mbe mu-Kristo.",
           "Moyo woonse, moyo woonse,",
-          "Mwami Leza, mbe mu-Kristo,",
-          "Moyo woonse, moyo woonse."
+          "Mwami Leza, mbe mu-kristo,",
+          "Moyo woonse, moyo woonse"
         ]
       },
       {
@@ -17673,8 +12226,8 @@ export const tongaHymns = [
         "lines": [
           "Mwami Leza, kondiyanda.",
           "Moyo woonse, moyo woonse,",
-          "Mwami Leza, kondiyanda,",
-          "Moyo woonse, moyo woonse."
+          "Mwami Leza, Kondiyanda",
+          "Moyo woonse, moyo woonse"
         ]
       },
       {
@@ -17683,7 +12236,7 @@ export const tongaHymns = [
           "Mwami Leza, mbe mubotu,",
           "Moyo woonse, moyo woonse,",
           "Mwami Leza, mbe mubotu,",
-          "Moyo woonse, moyo woonse."
+          "Moyo woonse, moyo woonse"
         ]
       },
       {
@@ -17692,13 +12245,13 @@ export const tongaHymns = [
           "Mwami Leza, ndipe buuya,",
           "Moyo woonse, moyo woonse,",
           "Mwami Leza, ndipe buuya,",
-          "Moyo woonse, moyo woonse."
+          "Moyo woonse, moyo woonse"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Mwami Leza, mboole kwako,",
+          "Mwami Leza, Mboole kwako,",
           "Moyo woonse, moyo woonse,",
           "Mwami Leza, mboole kwako,",
           "Moyo woonse, moyo woonse."
@@ -17797,7 +12350,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ndayanda kuteelelesya,",
-          "Naa Saatani ulandipenzya,",
+          "Naa saatani ulandipenzya,",
           "Mbondakondwa kuli-Leza,",
           "Ndilakwiinka kujulu."
         ]
@@ -17811,7 +12364,7 @@ export const tongaHymns = [
     "chorus": [
       "Waseluka kulindiswe,",
       "Wasiya buumi kujulu,",
-      "Watweetela lufutuko,",
+      "Watweetela lufutuko",
       "Mwami wangu."
     ],
     "stanzers": [
@@ -17820,7 +12373,7 @@ export const tongaHymns = [
         "lines": [
           "Ndilangisye akukondwa,",
           "Mwami wangu,",
-          "Nduwe olikke wamfwida,",
+          "Nduwe olikke wamfwida",
           "Mwami wangu."
         ]
       },
@@ -17830,7 +12383,7 @@ export const tongaHymns = [
           "Ndakacili mumudima,",
           "Mwami wangu,",
           "Ndakali kweenda mulufu,",
-          "Mwami wangu,",
+          "Mwami wangu.",
           "Wakasika, O Muvuni,",
           "Amakani aakwe Leza,",
           "Makani aaluse lwako,",
@@ -17843,7 +12396,7 @@ export const tongaHymns = [
           "Atumvwe luzyalo lwako,",
           "Mwami wangu,",
           "Ube Mufutuli wesu,",
-          "Mwami wangu,",
+          "Mwami wangu.",
           "Zibi zyesu azimane,",
           "Myoyo yesu wiisalazye,",
           "Taata utulekelele,",
@@ -17858,7 +12411,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Luzyalo lwa-Jesu,",
-      "Nguzu zifutusya,",
+      "Nguzu zifutusya",
       "Aluyandisyo nkazimvwe;",
       "Nzizyakwe uwandifwida."
     ],
@@ -17868,7 +12421,7 @@ export const tongaHymns = [
         "lines": [
           "Ndizibisye luyandisyo,",
           "Anguzu zya-Jesu Mwami,",
-          "Ndaambile bamwi luzyalo,",
+          "Ndaambile bamwi luzyalo",
           "Lwakwe uwakandifwida."
         ]
       },
@@ -17877,7 +12430,7 @@ export const tongaHymns = [
         "lines": [
           "Ndizibisye izya-Jesu,",
           "Ambeta zyakwe zibotu;",
-          "Mugwasyi Jesu ngwatuma,",
+          "Mugwasyi Jesu ngwatuma",
           "Undibede Mufundisi."
         ]
       },
@@ -17922,7 +12475,7 @@ export const tongaHymns = [
           "Ndaba mbuli mweenzu kwasiya mbi,",
           "Ndaba, mumudima, kondibweza,",
           "Mukulota ndibe nswene kwako, Leza,",
-          "Nswene kwako Leza, nswene kwako."
+          "Nswene kwako Leza, nswene kwako"
         ]
       },
       {
@@ -17931,7 +12484,7 @@ export const tongaHymns = [
           "Nzila naibonwe yakuyako,",
           "Koonse kondipegwa muluzyalo,",
           "Bangelo bandiita, nswene kwako, Leza,",
-          "Nswene kwako Leza, nswene kwako."
+          "Nswene kwako Leza, nswene kwako"
         ]
       },
       {
@@ -17954,8 +12507,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "O Lukombo, O Lukombo,",
-          "Lumbweza mulizyanyika,",
+          "O Lukombo, O Lukombo",
+          "Lumbweza mulizyanyika",
           "Akundeeta kuli Leza,",
           "Ndimwaambile nzendiyanda;",
           "Muziindi zyamakatazyo,",
@@ -17968,13 +12521,13 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "O Lukombo, O Lukombo,",
-          "Kotola inkombyo zyangu,",
+          "O Lukombo, O Lukombo",
+          "Kotola inkombyo zyangu",
           "Kuli-Leza walusyomo,",
-          "Uuzi kukkazika moyo,",
-          "Eelyo nkaambo wandilaya,",
+          "Uuzi kukkazika moyo.",
+          "Eelyo nkaambo wandilaya",
           "Kuti ndisyome ijwi lyakwe,",
-          "Ndamuletela zipenzya,",
+          "Ndamuletela zipenzya",
           "Mulinduwe, O Lukombo."
         ]
       }
@@ -17982,7 +12535,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 243,
-    "title": "O ZUBA LYAMUUYA WANGU",
+    "title": "O ZUBA LYA MUYA WANGU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -18011,35 +12564,6 @@ export const tongaHymns = [
           "Nsikwe kukkala endikke;",
           "kala ame mumudima",
           "Ndayoowa kufwa endikke."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 243,
-    "title": ". O ZUBA LYA MUYA WANGU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "243. O ZUBA LYA MUYA WANGU\"SUN OF MY SOUL\"",
-          "O zuba lyamuuya wangu,",
-          "Takusiyi  nolimunsi,",
-          "kutabi makunbi kuti asinkile meso aangu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Kuti kandili mukoona, undibambe ndakulomba, aube muyeeyo wangu kuti nkalyookezye awe"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Uubambe buzuba boonse, nsikwe kukala endike; kala ame mumudima ndayoowa kufwa endike"
         ]
       }
     ]
@@ -18138,7 +12662,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Kocili mung'anda yako,",
+          "Kocili mung’anda yako,",
           "Sa wakomba na?",
           "Muzina lya-Mwami Jesu,",
           "Sa wakumbila luzyalo,",
@@ -18161,7 +12685,7 @@ export const tongaHymns = [
           "Naa wanyema moyo wako,",
           "Sa wakomba na?",
           "Sa wabuzya luse, musa,",
-          "Kuti ujatile umwi,",
+          "Kuti ujatile umwi",
           "Wakubisizya?"
         ]
       },
@@ -18185,16 +12709,16 @@ export const tongaHymns = [
       "Koya, koya,",
       "Leza nkwaali oko,",
       "Utayoowi cintu, pe.",
-      "Nekuba kuti maanzi apaya,",
+      "Nekuba kuti maanzi apaya",
       "Alamwaisigwa."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Ba-Israeli bakaazwa,",
+          "Ba-Israeli bakaazwa",
           "Mapenzi mapati,",
-          "Bajana maanzi munzila,",
+          "Bajana maanzi munzila",
           "Akamwaisigwa."
         ]
       },
@@ -18220,8 +12744,8 @@ export const tongaHymns = [
         "stanzer": 4,
         "lines": [
           "Bakwesu tukalasika,",
-          "Mulonga walufu,",
-          "Tujane maanzi malamfu,",
+          "Mulonga walufu.",
+          "Tujane maanzi malamfu",
           "Alamwaisigwa."
         ]
       }
@@ -18236,9 +12760,9 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Jesu ndakuyanda,",
+          "Jesu ndakuyanda",
           "Muvuni wangu,",
-          "Nkaambo kako,",
+          "Nkaambo kako",
           "Ndaleka zibi zyangu,",
           "Mufutuli wangu ulandifutula,",
           "Ndakuyanda Mwami,",
@@ -18248,10 +12772,10 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndakuyanda nkaambo,",
+          "Ndakuyanda nkaambo",
           "Wakandiyanda,",
           "Akundifwida njatilwe milandu,",
-          "Ndakuyanda nkaambo,",
+          "Ndakuyanda nkaambo",
           "Wakasama maamvwa,",
           "Ndakuyanda Mwami,",
           "Kwiinda zintu zyoonse."
@@ -18261,11 +12785,10 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ndilakuyanda Mwami,",
-          "Lyoonse, lyoonse,",
-          "Ndilakuyandisya,",
+          "Lyoonse, lyoonse",
+          "Ndilakuyandisya",
           "Mubuumi bwangu,",
-          "Nindasika kulufu,",
-          "Ndicinooamba,",
+          "nindasika kulufu ndicinooamba,",
           "Ndakuyanda Jesu,",
           "Ndakuyanda lino."
         ]
@@ -18292,7 +12815,7 @@ export const tongaHymns = [
         "lines": [
           "Tuzooboole nitwabuka tumwaambe;",
           "Tuzooboole nitwaona muluyando.",
-          "A mulufu utubambe, tutajatwi a-Saatani,",
+          "A mulufu utubambe, Tutajatwi a-Saatani,",
           "Tutambulwe abangelo mujulu."
         ]
       }
@@ -18321,7 +12844,7 @@ export const tongaHymns = [
           "Kuvula nzyaacita,",
           "Misena itamani,",
           "Walumbwa namampinde,",
-          "Cilenga Mwami wesu."
+          "Cilenga Mwami wesu"
         ]
       },
       {
@@ -18330,8 +12853,8 @@ export const tongaHymns = [
           "Mayoba ngaatuma,",
           "Maila ngetulima,",
           "Mulilo ngotuyota,",
-          "Walumbwa namampinde,",
-          "Cilenga Mwami wesu."
+          "Walumbwa Namampinde,",
+          "Cilenga Mwami wesu"
         ]
       },
       {
@@ -18340,8 +12863,8 @@ export const tongaHymns = [
           "Banyama mbetuvuba,",
           "Bayuni mbetulela,",
           "Icisyu ncetulima,",
-          "Walumbwa namampinde,",
-          "Cilenga Mwami wesu."
+          "Walumbwa Namampinde,",
+          "Cilenga Mwami wesu"
         ]
       },
       {
@@ -18350,15 +12873,15 @@ export const tongaHymns = [
           "Zilundu nzetubona,",
           "Masaka ayoosya,",
           "Maluba ngetweeba,",
-          "Weelelwa uutulela,",
-          "Cilenga Mwami wesu."
+          "Weelelwa Uulela,",
+          "Cilenga Mwami wesu"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
           "Tumbizi ngemababa,",
-          "Ijoba njing'anda,",
+          "Ijoba njing’anda,",
           "Mwatuba mwaakkala,",
           "Cibamba nacaanzo,",
           "Cilenga Mwami wesu."
@@ -18380,8 +12903,8 @@ export const tongaHymns = [
         "lines": [
           "Ndakabbila muzibi kule, kuzwa Mwami,",
           "Ndakeenda ababi, ndakawa musiya,",
-          "Pele Jesu wakamvwa kukulila kwangu,",
-          "Wakambweza kuzwa muzibi zyangu."
+          "Pele Jesu wakamvwa kukulila kwangu",
+          "Wakambweza kuzwa, muzibi zyangu."
         ]
       },
       {
@@ -18501,7 +13024,7 @@ export const tongaHymns = [
         "lines": [
           "O muuya wangu,",
           "Komulumba Leza Muleli;",
-          "Bubotu bwakwe aluse,",
+          "Bubotu bwakwe aluse",
           "Zinookutobela.",
           "Uziibaluke,",
           "Zyoonse nzyakucitila,",
@@ -18525,10 +13048,10 @@ export const tongaHymns = [
         "lines": [
           "O muuya wangu,",
           "Komulumba Jesu Sibuuya;",
-          "Mumuni wakwe,",
+          "Mumuni wakwe",
           "Nguukumunikila mumoyo.",
-          "Naanka mumwaakwe,",
-          "Walufu usiya mbi,",
+          "Naanka mumwaakwe",
+          "Walufu usiya mbi",
           "Omo utayoowi mudima."
         ]
       },
@@ -18537,10 +13060,10 @@ export const tongaHymns = [
         "lines": [
           "O muuya wangu,",
           "Komulumba Leza Sinsoni,",
-          "Amumulemeke nyoonse,",
+          "Amumulemeke nyoonse",
           "Nomwakafutulwa.",
-          "Wamusalazya,",
-          "Kuzibi zyakainda,",
+          "Wamusalazya",
+          "Kuzibi zyakainda",
           "Ngu-Mufutuli uteeli."
         ]
       }
@@ -18556,8 +13079,8 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "O mulaka wangu buka;",
-          "Olulimi imba,",
-          "Ncito a-zina lipati,",
+          "Olulimi imba",
+          "Ncito a-Zina lipati",
           "Lya-Mwami uutafwi."
         ]
       },
@@ -18566,83 +13089,35 @@ export const tongaHymns = [
         "lines": [
           "Amba kusyomeka kwakwe,",
           "Lumba nguzu zyakwe;",
-          "Imba aluzyalo lwakwe,",
+          "Imba aluzyalo lwakwe",
           "Uutakasanduki."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ompolola lufutuko kuli,",
+          "Ompolola lufutuko kuli",
           "Boonse babi,",
-          "Janza lyakwe ndyaakalemba,",
+          "Janza lyakwe ndyaakalemba",
           "Aluvuno lwini."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndijwi lyakalenga julu,",
+          "Ndijwi lyakalenga julu",
           "Lijisi lubomba;",
-          "Ndijwi libamba nyenyeezi,",
+          "Ndijwi libamba nyenyeezi",
           "Nditusyoma loko."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Lino moyo ulalumba,",
+          "Lino moyo ulalumba",
           "Nkaambo wandiyeeya;",
-          "Ndilasyoma ijwi lyakwe,",
+          "Ndilasyoma ijwi lyakwe",
           "Akusangaalilwa."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 256,
-    "title": "Kulangila kwangu Koonse - Copy",
-    "creator": "Unknown",
-    "chorus": [
-      "Kristo ndibbwe mpondiimvwi,",
-      "Koonse kumbi muse buyo,",
-      "Koonse kumbi muse buyo. x2"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Kulangila kwangu koonse,",
-          "Kuli mubulowa bwakwe,",
-          "Ndasyoma Jesu alikke,",
-          "Ngowakandisalulula."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Naa mudima wamusisa,",
-          "Ndajata luse luyumu,",
-          "Nokuba mapenzi abe,",
-          "Ndajitila kulinguwe."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kusyomezya abulowa,",
-          "Nkokuvuna mumasunko,",
-          "Bamwi nibawa muzibi,",
-          "Ndiyakukkala anguwe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Aakuboola amukunga,",
-          "Ndayanda akantambule,",
-          "Nkesamide bululami,",
-          "Nketakwe kaambo awalo."
         ]
       }
     ]
@@ -18704,7 +13179,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndakusyoma Mwami,",
+          "Ndakusyoma Mwami",
           "Mwana wa-Mbelele, Uusalala.",
           "Komvwa nencilomba,",
           "Gwisya bubi bwangu,",
@@ -18743,8 +13218,8 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndamvwa ijwi lyako lilandiita lyoonse,",
-          "Usalazye moyo wangu,",
+          "Ndamvwa ijwi lyako lilandiita lyoonse",
+          "Usalazye moyo wangu",
           "Mubulowa bwako."
         ]
       },
@@ -18752,7 +13227,7 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Inguzu ndabula, nduwe undiyumya,",
-          "Wandisalazizya zibi,",
+          "Wandisalazizya zibi",
           "Unditubye moyo."
         ]
       },
@@ -18761,8 +13236,7 @@ export const tongaHymns = [
         "lines": [
           "Ngu-Jesu uundiita,",
           "Uundipa luyando.",
-          "Aluumuno alusyoma,",
-          "Ansi akujulu."
+          "Aluumuno alusyoma ansi akujulu."
         ]
       },
       {
@@ -18770,16 +13244,16 @@ export const tongaHymns = [
         "lines": [
           "Ngu-Jesu uuyumya,",
           "Mulimo uuyandwa.",
-          "Wazulizya luse lwakwe,",
+          "Wazulizya luse lwakwe",
           "Wandizundya zibi."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Ndalumba bulowa,",
+          "Ndalumba bulowa",
           "Ndalumba luzyalo,",
-          "Ndalumba cipo ca-Leza,",
+          "Ndalumba cipo ca-Leza",
           "Jesu Mwami wesu."
         ]
       }
@@ -18790,7 +13264,7 @@ export const tongaHymns = [
     "title": "NDASYOMA MULI-JESU",
     "creator": "Unknown",
     "chorus": [
-      "Ngu-Jesu ngundasyoma,",
+      "Ngu-Jesu ngundasyoma",
       "Ziindi ansiku zyoonse,",
       "Naa ndasinkilwa zyoonse,",
       "Muli-Jesu ndisyomede."
@@ -18799,18 +13273,18 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndasyoma muli-Jesu,",
+          "Ndasyoma muli-Jesu",
           "Ziindi ansiku zyoonse,",
-          "Naa lusyoma nduniini,",
+          "Naa lusyoma nduniini",
           "Muli-Jesu ndisyomede."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "O Muuya, ugwisye zibi,",
+          "O Muuya, ugwisye zibi",
           "Zyamoyo wangu,",
-          "Ndizulwide munzila,",
+          "Ndizulwide munzila",
           "Muli-Jesu ndisyomede."
         ]
       },
@@ -18917,7 +13391,7 @@ export const tongaHymns = [
         "lines": [
           "Babi bayanda kundisolweda,",
           "Moyo wangu uyanda kubisya,",
-          "Ndilamwaambila ulandigwasya,",
+          "Ndilamwaambila ulandigwasya",
           "Kuzunda Saatani munyika."
         ]
       }
@@ -18937,7 +13411,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ngunjanda lyoonse,",
+          "Ngunjanda lyoonse",
           "Ngu-Mwami Siluzyalo,",
           "Nakkala mulindime,",
           "Mulatontola wi."
@@ -18946,7 +13420,7 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ngunjanda lyoonse,",
+          "Ngunjanda lyoonse",
           "Ngu-Mwami Sikugwasya,",
           "Uukonzya kundizundya,",
           "Zyoonse zindeena."
@@ -18966,7 +13440,7 @@ export const tongaHymns = [
         "lines": [
           "Ngunjanda lyoonse,",
           "Ngu-Mwami uli ambe,",
-          "Uugwasya ndime sunu,",
+          "Uugwasya ndime sunu",
           "Amazuba oonse."
         ]
       },
@@ -18975,7 +13449,7 @@ export const tongaHymns = [
         "lines": [
           "Ngunjanda lyoonse,",
           "Ngu-Mwami undiisya,",
-          "Luyando lwa-Taateesu,",
+          "Luyando lwa-Taateesu",
           "Uuli kujulu."
         ]
       }
@@ -19007,7 +13481,7 @@ export const tongaHymns = [
           "Nkubotu kusyoma Jesu,",
           "Akusyoma bulowa,",
           "Ndayanda kusalazigwa,",
-          "Mubulowa bwa-Jesu."
+          "Mubulowa bwa-Jesu"
         ]
       },
       {
@@ -19045,7 +13519,7 @@ export const tongaHymns = [
           "Ngu-Mwami wesu,",
           "Pele tuyandane,",
           "Pele tuyandane,",
-          "Takukwe munyono,",
+          "Takukwe munyono",
           "Ooko kujulu."
         ]
       },
@@ -19054,37 +13528,36 @@ export const tongaHymns = [
         "lines": [
           "Tuli kugwasyanya,",
           "Tuli kugwasyanya,",
-          "Tuli bazumini,",
+          "Tuli bazumini",
           "Ba-Mwami wesu;",
           "Tutapambukani,",
           "Tutapambukani,",
-          "Nkaambo mbokubede,",
+          "Nkaambo mbokubede",
           "Ooko kujulu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
+          "Tuli panga limwi",
           "Tuli panga limwi,",
-          "Tuli panga limwi,",
-          "Tuli basicamba,",
+          "Tuli basicamba",
           "Ba-Mwami wesu;",
-          "Tumwaambila buyo,",
-          "Amumoyo omwe,",
-          "Munzila eeyo,",
+          "Tumwaambila buyo amumoyo omwe,",
+          "Munzila eeyo",
           "Iya kujulu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Nkukooko kujulu,",
+          "Nkukooko kujulu",
           "Nkobakondedwe,",
-          "Tuli bazumini,",
+          "Tuli bazumini",
           "Ba-Mwami wesu;",
-          "Nzizeezyo nguzu,",
+          "Nzizeezyo nguzu",
           "Zizwida ku-Mwami,",
-          "Tukasike aazyo,",
+          "Tukasike aazyo",
           "Kuya kujulu."
         ]
       }
@@ -19098,7 +13571,7 @@ export const tongaHymns = [
       "Yaama, yaama,",
       "Yaama kumaanza atamani,",
       "Yaama, yaama,",
-      "Kumaanza tuvunigwe lyoonse."
+      "kumaanza tuvunigwe lyoonse."
     ],
     "stanzers": [
       {
@@ -19125,7 +13598,7 @@ export const tongaHymns = [
           "Njowenzi sena, ntijenzi sena,",
           "Njeeme kumaanza atamani,",
           "Ndilakuumuna nkaambo nda-Mwami,",
-          "Njeeme kumaanza atamani."
+          "Njeeme kumaanza atamani"
         ]
       }
     ]
@@ -19142,24 +13615,22 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Balikuli balombwana bakozyanya a-Mozesi;",
-          "Wakagwisya aba-Israeli, wabatola Mukenaani?"
+          "Wakagwisya aba-Israeli, Wabatola Mukenaani?"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Balikuli abakaintu,",
-          "Bakozyanya a-Maliya;",
-          "Wakafuma acifuma,",
-          "Wakainka kucuumbwe."
+          "Balikuli abakaintu bakozyanya a-Maliya;",
+          "wakafuma acifuma,",
+          "wakainka kucuumbwe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Sena wamvwa ijwi lyakwe lyamba kuti,",
-          "Bala-acoolwe batobela Mwami wabo,",
-          "Kusikila akaboole."
+          "Bala-acoolwe batobela mwami wabo kusikila akaboole"
         ]
       }
     ]
@@ -19187,10 +13658,10 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Atube basinkombe,",
+          "LAtube basinkombe,",
           "Bacita nzila yakwe,",
           "Izibi tuzizunde,",
-          "Cibote cisi cesu."
+          "Cibote cisi cesu"
         ]
       },
       {
@@ -19224,17 +13695,17 @@ export const tongaHymns = [
         "lines": [
           "Jesu wanjana ndimucete,",
           "Kulufu lwakwe ndaba abuumi,",
-          "Ubwa ku-Muuya, ubwa ku-Muuya,",
+          "Ubwa ku-Muuya, Ubwa ku-Muuya",
           "Uuzwa kujulu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nguwakagwasya ibapenga,",
+          "Nguwakagwasya ibapenga",
           "Waponya sicinsenda,",
           "Wabusya bafu,",
-          "Ku-Galilaya, ku-Galilaya,",
+          "Ku-Galilaya, Ku-Galilaya,",
           "Lwizi lupati."
         ]
       },
@@ -19244,7 +13715,7 @@ export const tongaHymns = [
           "Nguwakabuka cabuswini,",
           "Wazunda cuumbwe, waya kwa-Wisi,",
           "Kukkala abwami, kukkala abwami,",
-          "Bwa-Leza mwini."
+          "Bwa-Leza Mwini."
         ]
       },
       {
@@ -19275,19 +13746,19 @@ export const tongaHymns = [
       "Mwiime basinkondo ba-Kristo,",
       "Mulibambe kulwa anguzu;",
       "Amweende,",
-      "Amwiimbe nyoonse,",
+      "Amwiimbe nyoonse",
       "Jesu ngo-Musololi wesu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Amulundane,",
-          "Tulwe a-Mubi,",
+          "Amulundane",
+          "Tulwe a-Mubi",
           "Basinkondoma baswena;",
           "Sama ntobo,",
           "Mwiime nyoonse,",
-          "Kosyomesya,",
+          "Kosyomesya",
           "Mumajwi aakwe."
         ]
       },
@@ -19297,8 +13768,8 @@ export const tongaHymns = [
           "Tuye kumbele,",
           "Tuye anguzu,",
           "Ncotulwanina ncabwini;",
-          "Intobo zyesu,",
-          "Zibe luyando,",
+          "Intobo zyesu",
+          "Zibe luyando",
           "Lwa-Jesu walo utazundwi."
         ]
       },
@@ -19347,9 +13818,9 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Lino mubone ndembela,",
+          "Lino mubone ndembela",
           "Amumvwe nyeele,",
-          "Muzina lya-Mufutuli,",
+          "Muzina lya-Mufutuli",
           "Tuyakukoma."
         ]
       },
@@ -19358,7 +13829,7 @@ export const tongaHymns = [
         "lines": [
           "Nakuba kulwa nkuyumu,",
           "Tulagwasigwa,",
-          "Mwami wesu ulaandiswe,",
+          "Mwami wesu ulaandiswe",
           "Ulatuyumya."
         ]
       }
@@ -19386,20 +13857,20 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Lusyomo mulubweze,",
-          "Ibe intobo yanu,",
+          "ibe intobo yanu",
           "Musame lufutuko lube,",
-          "Ngowani yanu,",
+          "ngowani yanu,",
           "Ipanga lyakulwisya,",
           "Ngo-Muuya ngomwapegwa,",
-          "Ngonguwe umuyumya,",
+          "Ngonguwe umuyumya",
           "Mukulwa kwanu lyoonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Inguzu zituyumya,",
-          "Nzizya-Jesu ilwakwe,",
+          "Inguzu zituyumya",
+          "Nzizya-Jesu ilwakwe",
           "Mwasyoma nguzu zyanu,",
           "Nyoonse mulakuzundwa.",
           "Atumukakatile,",
@@ -19440,7 +13911,7 @@ export const tongaHymns = [
         "lines": [
           "Nowatontaikwa amapenzi manji,",
           "Nowakataazigwa zyamana nguzu,",
-          "Bala zilongezyo Leza zyaakupa,",
+          "Bala zilongezyo Leza zyaakupa",
           "Ulalumba Leza nzyaakucitila."
         ]
       },
@@ -19468,7 +13939,7 @@ export const tongaHymns = [
           "Mumapenzi aayoosya utacimwi,",
           "Leza ulaawe, uliyumye nta,",
           "Muuya Uusalala ulakugwasya,",
-          "Mane do wamanizya,",
+          "Mane do wamanizya",
           "Lweendo loonse."
         ]
       }
@@ -19483,7 +13954,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Yebo, moyo wangu, konga kosongwaala,",
+          "Yebo, moyo wangu, konga kosongwaala",
           "Mpobali mbomulwana abo abakubukila."
         ]
       },
@@ -19498,7 +13969,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Utayeeyi sunu kusowa masumo,",
-          "Mulimo ooyu tuumani,",
+          "Mulimo ooyu tuumani",
           "Notucikkede ansi."
         ]
       },
@@ -19516,8 +13987,10 @@ export const tongaHymns = [
     "title": "BWEZA MUSA",
     "creator": "Unknown",
     "chorus": [
-      "Ciingano cakulemena, Musa bweza,",
-      "Utautuli mukuli, Musa bweza."
+      "Bweza ciingano, cijate,",
+      "Musa bweza,",
+      "Nobweza koligwasya,",
+      "Musa bweza."
     ],
     "stanzers": [
       {
@@ -19539,60 +14012,6 @@ export const tongaHymns = [
         "lines": [
           "Nowabona kubi kunji, Musa bweza;",
           "Kobwezesya utaleki Musa bweza."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 274,
-    "title": ". BWEZA MUSA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "274. BWEZA MUSA\"LIFT BROTHER LIFT\"",
-          "Ciingano cakulemena, Musa bweza,",
-          "Utautuli mukuli, Musa bweza."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Bweza ciingano cijate, Musa bweza,",
-          "nobweza koligwasya, Musa bweza."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kulisungula nkubotu, Musa bweza,",
-          "Nosola uyookoma, Musa bweza."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Bweza ciingano cijate, Musa bweza,",
-          "nobweza koligwasya, Musa bweza."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Nowabona kubi kunji, Musa bweza;",
-          "Kobwezesya utaleki Musa bweza."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Bweza ciingano cijate, Musa bweza,",
-          "nobweza koligwasya, Musa bweza."
         ]
       }
     ]
@@ -19620,7 +14039,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Naa twaungumana, naa twasukusigwa,",
+          "Naa twaungumana, naa twasukusigwa",
           "Lilatufundisya, lilatupa nguzu."
         ]
       },
@@ -19646,7 +14065,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Beleka, beleka,",
-      "Beleka, beleka!",
+      "beleka, beleka!",
       "Tusyome, tulange,",
       "Mane Jesu akaboole."
     ],
@@ -19655,10 +14074,10 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Kobeleka! Kobeleka!",
-          "Tobazike ba-Leza,",
+          "Tobazike ba-Leza",
           "Atutobele nguzu zya-Mwami wesu;",
           "Ulatupa inguzu zyakubeleka,",
-          "Atucite enguzu,",
+          "Atucite enguzu",
           "Mulimo wa-Leza."
         ]
       },
@@ -19669,8 +14088,7 @@ export const tongaHymns = [
           "Sanina bafwa nzala,",
           "Kobasolweda batete kufutuka;",
           "Nceciingano catupa coolwe cesu,",
-          "Tulaimba, \"Lufutuko",
-          "Lwabantu boonse.\""
+          "Tulaimba, “Lufutuko lwabantu boonse."
         ]
       },
       {
@@ -19678,11 +14096,11 @@ export const tongaHymns = [
         "lines": [
           "Kobeleka! Kobeleka!",
           "Munguzu zya-Mwami,",
-          "Tulakulyookezya kuzwa mumulimo,",
-          "Kumuunzi wa-Jehova,",
+          "Tula kulyookezya kuzwa mumulimo",
+          "Kumuunzi wa-Jehova",
           "Tulakkala ooko,",
-          "Tulaimba \"Lufutuko",
-          "Lwabantu boonse.\""
+          "Tulaimba “Lufutuko",
+          "Lwabantu boonse."
         ]
       }
     ]
@@ -19717,8 +14135,10 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mumoyo wamuntu mulakatazya, Pesi Jesu ulangusya zyoonse",
-          "Kokumya kuluyando lwakwe Jesu Ntambo zya-Satani ulazwa"
+          "Mumoyo wamuntu mulakatazya,",
+          "Pesi Jesu ulagusya zyoonse,",
+          "Kokumya kuluyando lwakwe Jesu,",
+          "Ntambo zya-Saatani zyaanguluka."
         ]
       },
       {
@@ -19726,83 +14146,7 @@ export const tongaHymns = [
         "lines": [
           "Kofutula bantu bayanda kufwa",
           "Koyumya balenga ababombe",
-          "Kobapilusyila munzila yakwe",
-          "ubaambile bakafutusigwe"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 277,
-    "title": ". KUFUTUSYA BAFWA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "277. KUFUTUSYA BAFWA\"RESCUE THE PERISHING\"",
-          "Kofutula bantu bayanda kufwa",
-          "Ubagusye muzyuumbwe zyabubi",
-          "Lilila babisyi ubaimike,",
-          "Ubaambile Jesu nguufutusya."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Kofutula bantu bayanda kufwa",
-          "Jesu ulaaluse nguufutusya."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Bamusulaika ulabalinda,",
-          "Uyanda kutambula babisyi",
-          "Naa wabatondeezya luyando lwakwe",
-          "Mukalo wa-Saatani ulazwa"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Kofutula bantu bayanda kufwa",
-          "Jesu ulaaluse nguufutusya."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mumoyo wamuntu mulakatazya, Pesi Jesu ulangusya zyoonse",
-          "Kokumya kuluyando lwakwe Jesu Ntambo zya-Satani ulazwa"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Kofutula bantu bayanda kufwa",
-          "Jesu ulaaluse nguufutusya."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Kofutula bantu bayanda kufwa",
-          "Koyumya balenga ababombe",
-          "Kobapilusyila munzila yakwe",
-          "ubaambile bakafutusigwe"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "CIINDULULO:",
-          "Kofutula bantu bayanda kufwa",
-          "Jesu ulaaluse nguufutusya."
+          "Kobapilusyila munzila yakwe ubaambile bakafutusigwe"
         ]
       }
     ]
@@ -19811,12 +14155,7 @@ export const tongaHymns = [
     "hymnNo": 278,
     "title": "KUNYONENA BUSIKU BULEZA",
     "creator": "Unknown",
-    "chorus": [
-      "Makani aangu, ndwiimbo lwangu,",
-      "Nketembaula Jesu wangu,",
-      "Makani aangu, ndwiimbo lwangu,",
-      "Nketembaula Jesu wangu."
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
@@ -19851,7 +14190,12 @@ export const tongaHymns = [
     "hymnNo": 279,
     "title": "MAKANI AANGU",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Makani aangu, ndwiimbo lwangu,",
+      "Nketembaula Jesu wangu,",
+      "Makani aangu, ndwiimbo lwangu,",
+      "Nketembaula Jesu wangu."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
@@ -19874,7 +14218,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndilacita kuyanda kwakwe,",
+          "Ndilacita kuyanda kwakwe",
           "Ndatangala, ndilaaluumuno,",
           "Ndilasyomezya kulinguwe,",
           "Ndizuzigwe aluyandisyo."
@@ -19888,7 +14232,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Munsi abulowa bwakulunga,",
-      "Munsi abulowa bwakulunga,",
+      "Munsi abulowa bwakulunga.",
       "Nsipengi omuno,",
       "Ndakkala kabotu,",
       "Kulungila kwa-Mwami."
@@ -19939,8 +14283,8 @@ export const tongaHymns = [
     "chorus": [
       "Ino ndiinke buti kuya,",
       "Nkentajisi bamwi bantu?",
-      "Ndiyoousa loko loko,",
-      "Nkaambo ndalikulengaala."
+      "Ndiyoousa loko loko",
+      "Nkaambo ndalikulengaala"
     ],
     "stanzers": [
       {
@@ -19957,16 +14301,16 @@ export const tongaHymns = [
         "lines": [
           "Nsikooyoowa lufu mebo,",
           "Nkaambo ndafutulwa kale,",
-          "Pele ndalikulengaala,",
+          "Pele ndalikulengaala",
           "Ciindi cakukambauka."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndakasowa ciindi cangu,",
+          "Ndakasowa ciindi cangu",
           "Kuno ndali mutolo.",
-          "Ino ndiyooima buti,",
+          "Ino ndiyooima buti",
           "Kumbele lya-Mwami wangu?"
         ]
       },
@@ -19975,7 +14319,7 @@ export const tongaHymns = [
         "lines": [
           "Amubuke noba-Kristo,",
           "Amusungilizye bamwi,",
-          "Nolutanasika lufu,",
+          "Nolutanasika lufu",
           "Lukajane basanduka."
         ]
       }
@@ -20001,68 +14345,14 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Akuseka tukaambe kaambo, Kaluyando lwakwe kubantu,",
-          "Jesu kasalala kwakwe, usyi, Ulatwaabila bulelo."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Akulisenda, tumucilile Mukukondwa munzila yakwe,",
-          "Tusololele beenzu kwa-Jesu, Tutondezye babisyi Jesu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 282,
-    "title": ". NYONENA JESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "282. NYONENA JESU\"TOILING FOR JESUS\"",
-          "Twakomana kunyonena Jesu, Maanza eesu alazumina,",
-          "Koonse nkwatwaambila tukucite, Mukusyomeka tulanyona."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Nyonena Jesu, Mukukomana,",
-          "Nyonena Jesu, Mumuunda wakwe muno."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Akuseka tukaambe kaambo, Kaluyando lwakwe kubantu,",
           "Jesu kasalala kwakwe,usyi, Ulatwaabila bulelo."
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Nyonena Jesu, Mukukomana,",
-          "Nyonena Jesu, Mumuunda wakwe muno."
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Akulisenda, tumucilile Mukukondwa munzila yakwe,",
           "Tusololele beenzu kwa-Jesu, Tutondezye babisyi Jesu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Nyonena Jesu, Mukukomana,",
-          "Nyonena Jesu, Mumuunda wakwe muno."
         ]
       }
     ]
@@ -20071,18 +14361,16 @@ export const tongaHymns = [
     "hymnNo": 283,
     "title": "AFWAAFWI AFWAAFWI",
     "creator": "Unknown",
-    "chorus": [
-      "Muswiilile, taakwe nzila imbi, kukondwa muli-Jesu pele kuswiilila."
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
           "Jesu ngo-Muvuni wangu,",
-          "Wainda zintu zyoonse,",
-          "Munzila yangu yoonse,",
+          "Wainda zintu zyoonse",
+          "Munzila yangu yoonse",
           "Kuti ndeende ayebo.",
-          "Afwaafwi afwaafwi,",
+          "Afwaafwi afwaafwi",
           "Munzila yangu yoonse,",
           "Kuti nkeende ayebo."
         ]
@@ -20095,7 +14383,7 @@ export const tongaHymns = [
           "Njakukupengela Mwami,",
           "Kuti nkeende ayebo.",
           "Afwaafwi, afwaafwi,",
-          "Njakukupengala Mwami,",
+          "Njakukupengala Mwami",
           "Kuti nkeende ayebo."
         ]
       },
@@ -20120,7 +14408,7 @@ export const tongaHymns = [
     "chorus": [
       "Amuye ba-Kristo,",
       "Amuye kunkondo;",
-      "Mulasolwedelwa,",
+      "Mulasolwedelwa",
       "Ciingano cakwe."
     ],
     "stanzers": [
@@ -20129,7 +14417,7 @@ export const tongaHymns = [
         "lines": [
           "Amuye ba-Kristo, amuye kunkondo;",
           "Mulasolwedelwa ciingano cakwe.",
-          "Mwami wesu lwakwe,",
+          "Mwami wesu lwakwe",
           "Nguutuzulwida swe,",
           "Muye, mukakome,",
           "Ulatuyumya swe."
@@ -20141,17 +14429,17 @@ export const tongaHymns = [
           "Basinkondo besu balayoowa loko,",
           "Amuye ba-Kristo muyoozunda boonse,",
           "Bayoobila-bila kuzikombyo zyesu,",
-          "Amuyumye nyimbo,",
+          "Amuyumye nyimbo",
           "Atwiimbisye toonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Yaba mbuli panga,",
+          "Yaba mbuli panga",
           "Yaba imbungano;",
           "Twatobela nzila yabo basalala.",
-          "Tatupambukene,",
+          "Tatupambukene",
           "Twaamba cintu comwe,",
           "Cakukomba Leza amuluyandano."
         ]
@@ -20159,26 +14447,25 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Bayoomwaisigwa,",
+          "Bayoomwaisigwa",
           "Boonse bwami bwaansi;",
           "Pele imbungano inooyoociliwo,",
-          "Bwami bwa-Saatani,",
+          "Bwami bwa-Saatani",
           "Buyoozundwa loko,",
-          "Majwi aakwe Jesu,",
+          "Majwi aakwe Jesu",
           "Atwaambila oobo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Kamuya mbuboobo,",
+          "MKamuya mbuboobo,",
           "Atweendesye toonse.",
           "Lwiimbo lwakuzunda,",
           "Atwiimbe canguzu,",
-          "Atumulemeke Kristo,",
+          "Atumulemeke Kristo",
           "Mwami wesu.",
-          "Mbobaimba lyoonse,",
-          "Bantu abangelo."
+          "Mbobaimba lyoonse bantu abangelo."
         ]
       }
     ]
@@ -20192,35 +14479,35 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Beenzuma nywe, ndayanda,",
+          "Beenzuma nywe, ndayanda",
           "Kuzumina kuya kuli-Jesu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Beenzuma nywe, ndayanda,",
+          "Beenzuma nywe, ndayanda",
           "Kutobela kuya kuli-Jesu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Beenzuma nywe, ndayanda,",
+          "Beenzuma nywe, ndayanda",
           "Lufutuko lwakaleta Jesu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Beenzuma nywe, ndayanda,",
+          "Beenzuma nywe, ndayanda",
           "Kuzumina kumajwi aa-Jesu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Beenzuma nywe, ndayanda,",
+          "Beenzuma nywe, ndayanda",
           "Kululama kuba mbuli Jesu."
         ]
       }
@@ -20235,11 +14522,11 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Lino atumuswaanane,",
+          "Lino atumuswaanane",
           "Jesu Mufutuli,",
-          "Tusaangune kumwiimbila,",
+          "Tusaangune kumwiimbila",
           "Tumukombe lwesu.",
-          "Eelyo zibi zyesu zyoonse,",
+          "Eelyo zibi zyesu zyoonse",
           "Zilalekelelwa."
         ]
       },
@@ -20259,10 +14546,9 @@ export const tongaHymns = [
         "lines": [
           "Lino Jesu tutambule,",
           "Utuponye toonse,",
-          "Utmvwisye buuya bwako,",
+          "Utmvwisye buuya bwako",
           "Amilazyo yako.",
-          "Lino tulakutobela,",
-          "Tukasike kwako."
+          "Lino tulakutobela tukasike kwako."
         ]
       }
     ]
@@ -20277,34 +14563,34 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Ndeelede kubamba makani amoyo,",
-          "Muuya utakwe kumana,",
-          "Ubambilwa julu."
+          "Muuya utakwe kumana",
+          "Ubambilwa julu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kukwelela Leza,",
+          "Kukwelela Leza",
           "Boonse basweekede,",
-          "Tambula nguzu zyangu,",
+          "Tambula nguzu zyangu",
           "Kusumpula Jesu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kondipa bulondo,",
-          "Nkapone lyoonse,",
-          "Nkabambe buumi bubotu,",
+          "Kondipa bulondo",
+          "Nkapone lyoonse",
+          "Nkabambe buumi bubotu",
           "Nkape kuli nguwe."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndiyomvwa nkalinde,",
+          "Ndiyomvwa nkalinde",
           "Nkasyome Muvuni,",
-          "Kuti ndamutama Mwami,",
+          "Kuti ndamutama Mwami",
           "Njakufwa lyoonse."
         ]
       }
@@ -20332,26 +14618,26 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Kamuya moompolole,",
+          "Kamuya moompolole",
           "Eeli ivangeli lyangu.",
-          "Mubaiisye abantu,",
+          "Mubaiisye abantu",
           "Milaizyo yangu yoonse.",
-          "Ukuti uundisyoma,",
+          "Ukuti uundisyoma",
           "Uyooba uufutulwa,",
-          "Ukuti uundikaka,",
+          "Ukuti uundikaka",
           "Uyooba uufwidilila."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Amuye enguzu zyangu,",
+          "Amuye enguzu zyangu",
           "Zyapegwa kulindime zyoonse,",
           "Mulange njooba anywebo,",
-          "Mane kumamanino.",
+          "Mane kumamanino",
           "Amane ukwaamba,",
           "Wasumpuka mujulu,",
-          "Mbube baya kumasi,",
+          "Mbube baya kumasi",
           "Bakambauka ijwi."
         ]
       }
@@ -20372,7 +14658,7 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Basinkondo ba-Jesu, mumulwiide,",
-          "Siya zintu zyanyika, lwiida Mwami."
+          "siya zintu zyanyika, lwiida Mwami."
         ]
       },
       {
@@ -20392,8 +14678,8 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ulati, \"Kosyomeka\" mumulwiide;",
-          "\"Ndilwide, utaleki,\" lwiida Mwami."
+          "Ulati, “Kosyomeka” mumulwiide;",
+          "Ndilwide, utaleki,” lwiida Mwami."
         ]
       }
     ]
@@ -20414,7 +14700,7 @@ export const tongaHymns = [
         "lines": [
           "Twatolwa mayuwe,",
           "Buumi twabula kuliiba.",
-          "Mayoba asiya kwakanka,",
+          "Mayoba asiya kwakanka",
           "Kumana kusalala;",
           "Mubuzuba busweya acisi cizoobota,",
           "Tuzooteelela kabotu aakale."
@@ -20423,10 +14709,10 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Bunwa busisidwe,",
+          "Bunwa busisidwe",
           "Bwamasunkusyo twajatwa,",
           "Myoyo yesu yausa nkaambo kamajwi mabi.",
-          "Twagambwa okuyeeya,",
+          "Twagambwa okuyeeya",
           "Nitwayanda cibotu,",
           "Tuzooteelela kabotu aakale."
         ]
@@ -20434,11 +14720,11 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Lubela twakomwa kuzintu,",
+          "Lubela twakomwa kuzintu",
           "Ziyandwa buumi,",
-          "Taakwe cilawo inyota nyika,",
+          "Taakwe cilawo inyota nyika",
           "Nciyumayuma,",
-          "Pele twasyoma Jesu,",
+          "Pele twasyoma Jesu",
           "Okumajwi ngoonya aaya,",
           "Tuzooteelela kabotu aakale."
         ]
@@ -20500,16 +14786,16 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Kujulu, aakale,",
-      "Tuyakuswaangana antoomwe,",
+      "Tuyakuswaangana antoomwe",
       "Kujulu, aakale,",
-      "Tuyakumuswaangana Leza."
+      "Tuyakumuswaangana Leza"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
           "Kujulu kwa-Leza Mubuumbi,",
-          "Baibbele litubuzya munzi,",
+          "baibbele litubuzya munzi,",
           "Basweeki, bazibi kamuza,",
           "Ncobeni kubuumi bubotu."
         ]
@@ -20538,7 +14824,7 @@ export const tongaHymns = [
           "Taata ulatulindila ooko,",
           "Ulatubambila masena;",
           "Tulumbaizye Jesu toonse,",
-          "Kukondwa kwaansi kulamana."
+          "Kukondwa kwaansi kulamana"
         ]
       }
     ]
@@ -20550,9 +14836,9 @@ export const tongaHymns = [
     "chorus": [
       "Izuba talibbili,",
       "Masamu taayumi,",
-      "Kuli basyomekede,",
-      "Kumunzi kuya,",
-      "Kumunzi ooyo wangolide."
+      "Kuli basyomekede",
+      "Kumunzi kuya",
+      "Kumunzi ooyo wangolide"
     ],
     "stanzers": [
       {
@@ -20561,7 +14847,7 @@ export const tongaHymns = [
           "Kuli munzi mubotu ulatulindila,",
           "Bulemu bwawo tabwambiki,",
           "Kuya zuba talibbili akubbila,",
-          "Kumunzi ooyo wangolide."
+          "Kumunzi ooyo wangolide"
         ]
       },
       {
@@ -20578,7 +14864,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Bantu boonse balalanga kuciingano,",
-          "Ku-Mwanaambelele wakafwa,",
+          "Ku-Mwanaambelele wakafwa",
           "Bayakuba mabwe aakwe aamwekesya,",
           "Kumunzi ooyo wangolide."
         ]
@@ -20592,7 +14878,7 @@ export const tongaHymns = [
     "chorus": [
       "Kuti ndabaamababa lino,",
       "Ndauluka; njinke ooko;",
-      "Nkalangaule manjililo,",
+      "Nkalangaule manjililo",
       "Akujulu kule."
     ],
     "stanzers": [
@@ -20602,15 +14888,15 @@ export const tongaHymns = [
           "Lyoonse, lyoonse tumwiimbile,",
           "Akujulu nkwali Leza;",
           "Nkwayakide munzi wakwe,",
-          "Uusalala wabuumi."
+          "Uusalala wabuumi"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Eeyo nyika njiya-Jesu,",
+          "Eeyo nyika njiya-Jesu",
           "Ukkede acuuno cakwe;",
-          "Bangelo bamukomba,",
+          "Bangelo bamukomba",
           "Bangelo Mwami wabo."
         ]
       },
@@ -20626,7 +14912,7 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Amasamu afulula,",
+          "Amasamu afulula",
           "Taakwe naayuma pe;",
           "Amyuunda ilazyala,",
           "Taakwe nzala, nceyo lyoonse."
@@ -20646,7 +14932,7 @@ export const tongaHymns = [
         "lines": [
           "Kuti matwi asinkuka,",
           "Baswiilila lwiimbo lwabo;",
-          "Kuti meso apwatula,",
+          "Kuti meso apwatula",
           "Neebela munzi uulya."
         ]
       }
@@ -20660,7 +14946,7 @@ export const tongaHymns = [
       "Mukumbi taamo, taamo,",
       "Kwiina misozi akulila,",
       "Bandaambila kwiina mapenzi,",
-      "Muuli munzi omuya mujulu."
+      "Muuli munzi omuya mujulu"
     ],
     "stanzers": [
       {
@@ -20677,7 +14963,7 @@ export const tongaHymns = [
         "lines": [
           "Bandaambila kuli balongwaangu,",
           "Bakafwa muli Jesu kale,",
-          "Bandaambila masamu alimo,",
+          "Bandaambila masamu alimo.",
           "Muli munzi omuya mujulu."
         ]
       },
@@ -20686,14 +14972,14 @@ export const tongaHymns = [
         "lines": [
           "Bandaambila Mwami wabami,",
           "Ulaa cuuno mumunzi omuya,",
-          "Ulijisi bwami bupati-pati,",
+          "Ulijisi Bwami bupati-pati,",
           "Muuli munzi omuya mujulu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Bandaambila bantu baseka,",
+          "TBandaambila bantu baseka,",
           "Akwiimba inyimbo mbotu,",
           "Kwiina misozi naaba mapenzi,",
           "Muuli munzi omuya mujulu."
@@ -20709,17 +14995,17 @@ export const tongaHymns = [
       "Munzi wangu kubota,",
       "Munzi wangu kunona.",
       "Nkotuya kwiimbila kuti aleluya!",
-      "Busyu bwangu kolanga,",
-      "Kutwi kwangu teelela,",
+      "Busyu bwangu kolanga",
+      "Kutwi kwangu teelela",
       "Umunzi wangu ngooyo kujulu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Tauko ansi aano,",
+          "Tauko ansi aano",
           "Umunzi wangu pe,",
-          "Ndili mulweendo lwangu,",
+          "Ndili mulweendo lwangu",
           "Ndilazunga zunga.",
           "Umunzi wangu ngooyo!",
           "Nkouli kujulu.",
@@ -20733,18 +15019,16 @@ export const tongaHymns = [
           "Ciyoondikasya na?",
           "Ndiyanda moyo uutuba buya bu.",
           "Mbokuli takunjili,",
-          "Kumunzi okuya,",
-          "Zintu zisofweede zibyaabi."
+          "Kumunzi okuya izintu zisofweede zibyaabi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Oobo buzuba,",
+          "Oobo buzuba",
           "Mbotuyoonjila mumunzi,",
-          "A-Mufutuli wesu,",
-          "Abubotu bwakwe,",
-          "Kuyoozwa eeli ijwi,",
+          "A-Mufutuli wesu abubotu bwakwe",
+          "Kuyoozwa eeli ijwi",
           "Lyakukankamana,",
           "Acisela tandikacimvwide."
         ]
@@ -20752,12 +15036,9 @@ export const tongaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndilakumbila Mwami,",
-          "Ukuti ndipegwe,",
-          "Inguzu nzendibula,",
-          "Zyakusisya ooko,",
-          "Mbokuli amasunko,",
-          "Andizinguluka,",
+          "Ndilakumbila Mwami ukuti ndipegwe,",
+          "Inguzu nzendibula zyakusisya ooko,",
+          "Mbokuli amasunko andizinguluka,",
           "Ndiyookakilwa naa ndileendikke."
         ]
       }
@@ -20771,7 +15052,7 @@ export const tongaHymns = [
       "Njakuboola, njakuboola,",
       "Cifumofumo mumunzi omuya,",
       "Njakuboola, njakuboola,",
-      "Cifumofumo mumunzi omuya."
+      "Cifumofumo mumunzi omuya"
     ],
     "stanzers": [
       {
@@ -20787,7 +15068,7 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Naa ulafwamba kuunka,",
-          "Kala munsi amulyango,",
+          "kala munsi amulyango,",
           "Njakuboola, ndilyona,",
           "Tokalindili ciindi."
         ]
@@ -20797,7 +15078,7 @@ export const tongaHymns = [
         "lines": [
           "Kobamba malambe aako,",
           "Ulinde Nacibinde,",
-          "Uyakuswaana aswebo,",
+          "Uyakuswaana aswebo",
           "Mumulyango wakujwe."
         ]
       },
@@ -20817,9 +15098,8 @@ export const tongaHymns = [
     "title": "MUZEEZO MUBOTU",
     "creator": "Unknown",
     "chorus": [
-      "Ndi afwafwi a ku munzi",
-      "Ndi afwafwi a ku munzi",
-      "Kuinda kaindi."
+      "Ndi afwiifwi akumunzi x2",
+      "Kwiinda kaindi."
     ],
     "stanzers": [
       {
@@ -20846,63 +15126,6 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 298,
-    "title": ". MUZEEZO MUBOTU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "298. MUZEEZO MUBOTU\"ONE SWEETLY SOLEMN THOUGHT\"",
-          "Kuyeya kubotu, Kulazwa mumoyo,",
-          "Kumunzi kwafwiimpa lino, Kwiinda kaindi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Ndi afwafwi a ku munzi",
-          "Ndi afwafwi a ku munzi",
-          "Kuinda kaindi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kufwiifwi a taata, Nkokuli ciilawo",
-          "Acuuno ca Jesu Mwami, Kulwizyi lumweka"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Ndi afwafwi a ku munzi",
-          "Ndi afwafwi a ku munzi",
-          "Kuinda kaindi."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndabinda mulweendo, Nkatule mukuli",
-          "Kutula Ciingano cangu, Nkasame musyini"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Ndi afwafwi a ku munzi",
-          "Ndi afwafwi a ku munzi",
-          "Kuinda kaindi."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 299,
     "title": "NDAJANA MWEENZUMA",
     "creator": "Unknown",
@@ -20913,9 +15136,9 @@ export const tongaHymns = [
         "lines": [
           "Ndajana mweenzuma,",
           "Jesu wangu;",
-          "Luyando lwa-Mwami,",
+          "Luyando lwa-Mwami",
           "Talusimpi.",
-          "Lukondo lwanyika,",
+          "Lukondo lwanyika",
           "Luya kwiindilila;",
           "Pele ndatontola uli wangu."
         ]
@@ -20939,7 +15162,7 @@ export const tongaHymns = [
           "Jesu wangu;",
           "Uya kulumbula,",
           "Uli wangu.",
-          "Oko njakukondwa,",
+          "Oko njakukondwa",
           "Kubona Muvuni,",
           "Nkaambo wakandipa lufutuko."
         ]
@@ -20951,11 +15174,11 @@ export const tongaHymns = [
     "title": "NDASIKA CISI CIBOTU",
     "creator": "Unknown",
     "chorus": [
-      "Kwa Kenani, kwa Kenani,",
+      "Kwa Kenani, kwa Kenani",
       "Ndilikkede kwa-Kenani,",
       "Meso aangu alangisya,",
       "Kucisi ica kujulu,",
-      "Ndikonzya kuubona,",
+      "Ndikonzya kuubona",
       "Munzi wangu utamani."
     ],
     "stanzers": [
@@ -20964,7 +15187,7 @@ export const tongaHymns = [
         "lines": [
           "Ndasika cisi cibotu,",
           "Ncacilyo caciveni,",
-          "Kwiina nzala, kwiina nyota,",
+          "Kwiina nzala, kwiina nyota",
           "Bakkuta boonse basika."
         ]
       },
@@ -20980,7 +15203,7 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Koonse kuli cisi,",
+          "Koonse kuli cisi",
           "Balakkala akubotelwa,",
           "Inkondo yoonse yamana,",
           "Coolwe cipati casika."
@@ -20991,7 +15214,7 @@ export const tongaHymns = [
         "lines": [
           "Toonse twaimba inyimbo,",
           "Akuseka tulaseka,",
-          "Kukondwa kupati loko,",
+          "Kukondwa kupati loko",
           "Kwacisi ca-Jesu Mwami."
         ]
       }
@@ -21003,9 +15226,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "ndiceenda mumusinzo,",
-      "Ndiceenda mumusinzo;",
-      "Munzi wangu mupya nkuuli?",
-      "Ndiceenda mumusinzo."
+      "Ndiceenda mumusinzo;"
     ],
     "stanzers": [
       {
@@ -21040,7 +15261,7 @@ export const tongaHymns = [
         "lines": [
           "Leza wandipa inguzu,",
           "Ndiceenda mumusinzo,",
-          "Limwi nkabone kujulu,",
+          "Limwi nkabone kujulu",
           "Ndiceenda mumusinzo."
         ]
       }
@@ -21060,7 +15281,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Imba luyando lwa-Jesu,",
+          "Imba luyando lwa-Jesu",
           "Imba luzyalo lwakwe,",
           "Kumunzi wakwe mubotu,",
           "Ulabamba cilawo."
@@ -21100,8 +15321,7 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndamana milimo yangu",
-          "yoonse munyika eeyi,",
+          "Ndamana milimo yangu yoonse munyika eeyi,",
           "Njakusamikwa mubili uutafwi,",
           "Eelyo njakumuziba",
           "Mufutuli kabotu,",
@@ -21111,21 +15331,18 @@ export const tongaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndiya kukkomana abusyu",
-          "bwakwe bwakuumuna,",
+          "Ndiya kukkomana abusyu bwakwe bwakuumuna,",
           "Ameso aakwe alaa luse lunji;",
           "Ndiya kumulumbaizya",
           "Wakandiyandisya",
-          "Akundibambila ng'anda yabwami."
+          "Akundibambila ng’anda yabwami."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Bayandika bangu",
-          "twakaandaana kaindi",
-          "Mubuumi bubotu",
-          "bwa-Mwami Jesu;",
+          "Bayandika bangu twakaandaana kaindi",
+          "Mubuumi bubotu bwa-Mwami Jesu;",
           "Tatukaandaani",
           "Mumabanda aa-Edeni,",
           "Pele ntaangune mbone Mufutuli."
@@ -21196,10 +15413,10 @@ export const tongaHymns = [
     "title": "Sena ndililembedwe",
     "creator": "Unknown",
     "chorus": [
-      "Sena ndalembwa mo?",
-      "Sena ndalembwa mo?",
-      "Sena ndililembedwe",
-      "mwibbuku Lyabuumi?"
+      "Ii, ndalembwa mo,",
+      "Jesu nguwandilemba,",
+      "Ii, ndililembedwe mwibbuku",
+      "Lyabuumi."
     ],
     "stanzers": [
       {
@@ -21220,7 +15437,7 @@ export const tongaHymns = [
           "Zibi zyangu zyavula,",
           "Zyali mbuli musenga",
           "Ubulowa bwa-Jesu",
-          "Bwazisanzya zyatuba buu.",
+          "Bwazisanzya zyatuba.",
           "Cisyomezyo ca-Mwami",
           "Cilandibotezya;",
           "Zibi zyako naa nzinji,",
@@ -21237,16 +15454,6 @@ export const tongaHymns = [
           "Takunjili ukubi ukubisya bubotu,",
           "Nkobalinda bangelo,",
           "Ii ndililembedwe."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Ii, ndalembwa mo,",
-          "Jesu nguwandilemba,",
-          "Ii, ndililembedwe mwibbuku",
-          "Lyabuumi."
         ]
       }
     ]
@@ -21357,7 +15564,7 @@ export const tongaHymns = [
     "title": "YAMANA MILIMO YESU YOONSE",
     "creator": "Unknown",
     "chorus": [
-      "TIi, kuyooba coolwe cesu,",
+      "Ii, kuyooba coolwe cesu,",
       "Coolwe cesu, coolwe cesu;",
       "Nitwasikilwa luzyalo lwakwe,",
       "Kuyooba coolwe, ii,",
@@ -21386,8 +15593,8 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Ooko nkwaali maanda manji loko,",
-          "Ambe ndayanda kujana omwe;",
-          "Wati Jesu, \"Ndamuzululila,",
+          "Ambe ndayanda kujana yomwe;",
+          "Wati Jesu, “Ndamuzululila,",
           "Nkalulamike nkomuzookkala."
         ]
       }
@@ -21395,7 +15602,7 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 309,
-    "title": "BUZUBA BWA KUSEKA",
+    "title": "BUZUBA BWA KU SEKA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -21403,7 +15610,7 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Buzuba bwa kuseka, Buzuba bwa-Mwami;",
-          "Mucelo usilika, Bulainda oonse; Basyoonto abapati;",
+          "Mucelo usilika, Bulainda oonse; Basyoonto abapati,",
           "Kubuzuba oobo Balaimbila Mwami, Mwami ulomenye"
         ]
       },
@@ -21418,27 +15625,6 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 309,
-    "title": ". BUZUBA BWA KU SEKA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "309. BUZUBA BWA KU SEKA\"O DAY OF REST AND GLADNESS\"",
-          "Buzuba bwa kuseka, Buzuba bwa-Mwami; Mucelo usilika, Bulainda oonse; Basyoonto abapati, Kubuzuba oobo Balaimbila Mwami, Mwami ulomenye"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Buzuba bwakuvuna, Mu luuwo lupati, lukoya muunda wakwe,Ulaameenda manji Buli mbuli itini, Munkanda injumu; mu buzuba oobo, twayeeya Kenani"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 310,
     "title": "MWAMI TWABUNGANA",
     "creator": "Unknown",
@@ -21448,7 +15634,7 @@ export const tongaHymns = [
         "stanzer": 1,
         "lines": [
           "Mwami twabungana",
-          "Muno mung'anda yako;",
+          "Muno mung’anda yako;",
           "Tweza oobu mbutwanjila,",
           "Mwami, munsi lyako."
         ]
@@ -21490,7 +15676,7 @@ export const tongaHymns = [
         "lines": [
           "Jesu wabweza cibunge",
           "Wakwamwida boonse.",
-          "Wati, \"Mutambule, mulye.",
+          "Wati, “Mutambule, mulye.",
           "Ngumubili wangu."
         ]
       },
@@ -21507,7 +15693,7 @@ export const tongaHymns = [
         "stanzer": 3,
         "lines": [
           "Jesu wabweza cinywido,",
-          "Wati, \"Amulumbe,",
+          "Wati, “Amulumbe,",
           "Ncecizuminano cipya",
           "Cabulowa bwangu."
         ]
@@ -21519,6 +15705,410 @@ export const tongaHymns = [
           "Toonse tulakunywa.",
           "Twayeeya bulowa bwakwe",
           "Bwakatwaangununa."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 312,
+    "title": "KKALA ASWE MWAMI WESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kkala aswe, Mwami wesu,",
+          "Utupe luzyalo Iwalko.",
+          "Tatukwe kupona swebo,",
+          "tulayanda luse lwako tatukwe kupona swebo tulayanda luse lwako"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kkala a Swe, Zaba lyesu",
+          "Utumunikile swebo.",
+          "Tumvwe coonse cisyomezyo,",
+          "Tutambule tucijate.",
+          "Tumvwe coonse cisyomezyo,",
+          "Tutambule fucijate."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kkala aswe, Mabetesi.",
+          "Zanda basinkondonyoko",
+          "Kotukwabilila lyoonse,",
+          "Yebo uli ntobo yesu.",
+          "Kotukwabilila lyoonse,",
+          "Yebo uli ntobo yesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Kkala aswe, O Muvuni,",
+          "Ejwi ibbotu lyako.",
+          "Kotuyumya, tutatyoli,",
+          "Yalo milawo yako.",
+          "Kotuyumya, tutatyoli,",
+          "Yalo milawo yako."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Kkala aswe, Mufutuli,",
+          "Utucitile Iufutuko.",
+          "Yovwa, tatunazibila,",
+          "Ukukkala kubotu.",
+          "Yovwa, tatunazibila,",
+          "Ukukkala kubotu."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Kkala aswe, Leza wesu,",
+          "Atubambwe luse Iwako,",
+          "Kuti mapenzi eesu,",
+          "Mwami utubambisisye.",
+          "Kuti mapenzi eesu,",
+          "Mwami utubambisisye."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 313,
+    "title": "kumasiku ayoosya",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kumasiku ayoosya,",
+          "Nowakaabwa, O Jesu",
+          "Wakatubusya kuti",
+          "Lyoonse tukwiibaluke"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "zintu zitwiibalusya,",
+          "Nzitwabona bwasunu.",
+          "Ncecinkwa ncitwaabilwa.",
+          "Awaini uutililwa."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "eezi nzeziibalusyo,",
+          "Zyaluyandisyo Iwako,",
+          "Mubili ngutupegwa",
+          "Buumi mbututililwa."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tuli mukukuy eey a,",
+          "Tuli mukuswenena,",
+          "Webo wakatufwida",
+          "Kuti utupe buumí."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 314,
+    "title": "NAAKATUSIYA JESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Naakatusiya Jesu,",
+          "Mwami wesu,",
+          "Wakatusiila mulawo kuti tumuyeeye"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Nzeezi zituyeeya,",
+          "NZotubona sunu,",
+          "Ngusmubili ngotupegwa",
+          "Abulowa bwakve."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "tukalube buti luyando lwa jesu kwiina lumbi lulukozya lwatugambya loko"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "tukalube buti mufutuli wesu lwakasika ansi aano akutupa buumi"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "tulamuyeeyesya,",
+          "twamuyeeya sunu ngo-siluse, ngo-simanga jesu, mwami wesu"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 315,
+    "title": "Nkokano nkotwabonana,",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nkokano nkotwabonana,",
+          "Mwamwi,",
+          "Kuno ndaibaluka majwi aako",
+          "Kano nkondajana luse lwako,",
+          "Kuno ndalibombya kulinduwe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kuno ndalya mukamu wa-Leza:",
+          "Kuno ndanywa mucinywido cako;",
+          "Kano ndatula mikuli yaansi",
+          "Kuno ndaziba Iulekelelo"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nceeci ciidi cakulya akwiimba",
+          "Nditafule ndowadibanbila",
+          "Aano mpotuli kubusyu bwako,",
+          "lutamani luswaanano lwesu"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "tunyampuke camana Cakulya",
+          "Pesi luyando Iwako",
+          "Iucisyaala:",
+          "Cink Wa awa zilazwa aawo,",
+          "Pesi mpocili,",
+          "O Mwami wangu."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Cilyo cilatobelana acilyo,",
+          "Zyoonse zyatubonya zyakujulu;",
+          "Zyatuzibya lukondo lupati,",
+          "Ndotuyoojana kubusyu bwako."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 316,
+    "title": "TWAKAVUNWA JESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Twakavunwa Jesu Kristo,",
+          "Nkabela twamwiibuluka;",
+          "Twatondezya lufu Iwakwe",
+          "Mane aze."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mubili wakwe watyoka,",
+          "Aboobo twakomona eeci,",
+          "Ncecibunge cituponya,",
+          "Mane aze."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Twabona bulowa bwakwe,",
+          "Ibwakatililwa ndiswe;",
+          "Cinywido catwiibalusya,",
+          "Mane aze."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "nkambela masiku aayo naakaabwe muvuni wesu ajatana kuyoosika mane aze"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Nkaambo kaako twabotelwa.",
+          "itapegi myoyo yesu,",
+          "tuli acanba kusyoma,",
+          "Mane aze."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 317,
+    "title": "JESU WAKATULAIZYA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesu, wakatulaizya",
+          "Kati basikwiiya bakwe,",
+          "Bainke Haunyika yoonse,",
+          "Bakaiisye bantu boonse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Aabo boonse bazumina,",
+          "Batambula ijwi lya ko,",
+          "Wakaanba kuti banikwe",
+          "Babambe imbeta zyako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Aabo baswiilila, Mwam,",
+          "Bazumina akusyoma,",
+          "Balileta kuluniko,",
+          "Basungula buumi bwabo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ubatanbule, Muvuní.",
+          "Usalazye m myoy yaba",
+          "Ubalele lyoonse, yoonse",
+          "Bajane buuni butteeli"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 318,
+    "title": "TUBAPATIZYE,",
+    "creator": "Unknown",
+    "chorus": [
+      "Tulakukomba alubomba Mwami",
+      "Kotubbapatizya mu Muuya sunu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "tubbapatizye munguzu zyako,",
+          "Aluse, tubusye,",
+          "kokisala munsi."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tatweelede,",
+          "tujisi tombe,",
+          "Tusanzye kabotu mububi boonse."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Inziba yako iseluke kwangu,",
+          "Twalomba kulelwa,",
+          "Swena muluse."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Teelela ijwi lizwa kujulu;",
+          "Ndiwe ngwendiyanda,",
+          "ndilakkomana."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 319,
+    "title": "NDINYWE BATOBELI BAKWE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "ndinywe batobeli bakwe mwani muleza mukukumbila kulipanga kwanu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "kamuza munikwe, musanzigwe zibi",
+          "Cizuminano ca-Mwami mujatisya sunu"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Lazumino lwanu nyoonse lwalibonya:",
+          "Mwakumbila kutobela inzila ya- jesu"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Lino mwatambulwa basalali boonse,",
+          "Mu-Mbungano iisalala yakumasi oonse."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Amuyumye myoyo alusyomo iwanu",
+          "Munguzu zya-Mwami Jes",
+          "Amube bazundi"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Mube basinkembe bamajwi as-Mwami",
+          "Mukaambe makani aakwe",
+          "Bazumine bawmwi"
         ]
       }
     ]
@@ -21566,6 +16156,113 @@ export const tongaHymns = [
     ]
   },
   {
+    "hymnNo": 321,
+    "title": "AMAJWI OONSE,",
+    "creator": "Unknown",
+    "chorus": [
+      "Tola maji aa-Jesa,",
+      "Tola majwi aa-Jesu,",
+      "Wakandiyanda, nketana ziba,",
+      "Tola majwi aa-Jesu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Amajwi oonse",
+          "Mwani Leza",
+          "Mabotu nkaambo ngaakwe mwin",
+          "Azibwe aansi akujulu,",
+          "Tola majwi an-Jess."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kwakafwa oonse malangalanga,",
+          "Kwavumbwa zuba amakumbi,",
+          "Zibotu zilafwamba kwiinda,",
+          "Tola majwi aa-Jesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Balafwa bantu abatamuzi,",
+          "Balila balemenwa zibi,",
+          "Katuya tubakombelele,",
+          "Tola majwi aa-Jesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ubuumi tuyoobujana kkwakwe,",
+          "Bukkalo bwesu bwakujulu",
+          "Lyoonse, tuyooimba ooko,",
+          "Tola majwi aa-Jesu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 322,
+    "title": "TWATEELELA KUKOMANA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "twateelela kukkomana,",
+          "Uvuna, Uvanal",
+          "Tola kaambo kumasi,",
+          "Koonse kwitala alwizi,",
+          "Koya ukaabe Mwami,",
+          "Uvara! Uvuna!"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Koompolola bunene,",
+          "Uvuna, Uvuna!",
+          "Kobaambila babisyi,",
+          "Uvuna, Uvuna!",
+          "Koimbisya ziluzí,",
+          "ayebo Iwizi vuwa,",
+          "Inyika ilikwiimba!",
+          "Uvuna! Uvuna!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Koimbisya munkondo,",
+          "Uvuna, Uvuna!",
+          "Alufu Iwakwe Jesu,",
+          "Uvuna, Uvuna!",
+          "Wiimba mangolezya nolomba luzyalo,",
+          "Imba kukkoma cuumbwe",
+          "Uvuna Uyuna!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Luwo alwaambisye,",
+          "Uvana, Uvuna!",
+          "Masi akkonanisye,",
+          "Uvuna, Uvuna!",
+          "Moompolole kuvunwa",
+          "Malundu amabanda,",
+          "awiinbo Iwakukoma,",
+          "Uvuna! Uvuna!"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 323,
     "title": "Kunyika Ilikule",
     "creator": "Unknown",
@@ -21589,7 +16286,7 @@ export const tongaHymns = [
         "stanzer": 2,
         "lines": [
           "Ndamumvwa Mwami waamba",
-          "\"Mufwambe batebuli\"",
+          "“Mufwambe batebuli”",
           "Kumuunda ulikule,",
           "Bakwesu mundileke."
         ]
@@ -21610,6 +16307,56 @@ export const tongaHymns = [
           "Musyaale nyoonse nene",
           "Kwitala lyookuya,",
           "Ndijisi mulimo ooko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 324,
+    "title": "KULI KWIITA KUZWA",
+    "creator": "Unknown",
+    "chorus": [
+      "Mumuni wamajwi mabotu",
+      "Umweke koonse-koonse.",
+      "Mumuni wamajwi mabotu,",
+      "Umweke kutaman."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kuli kwiita kuzwa kubantu boonse",
+          "Umweke mumuni,",
+          "Myoyo yabo ilalila kuvunwa,",
+          "Umweke mumuni"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "2.",
+          "Twakamvwa kwiita kwabo kulindiswe,",
+          "Umweke mumuni;",
+          "Twapaizya zipo zyesu ku-Mwami,",
+          "Umweke mumuni."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Luzyalo lwa-Jesu alube aabo,",
+          "Umweke mumuni,",
+          "Mwami bantu boonse bamutobele,",
+          "Umweke mumnuni."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Utuyumye mumakani mabotu,",
+          "Umweke mumuni;",
+          "Tumwekesye mumuni kubeenzuma,",
+          "Umweke mumnuni."
         ]
       }
     ]
@@ -21656,61 +16403,39 @@ export const tongaHymns = [
   },
   {
     "hymnNo": 326,
-    "title": ". KUYANDAULA BASWEEKEDE",
+    "title": "KUYANDAULA BASWEEKEDE",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Kule kule, atala amalundu, tulaleta basweekede alimwi.",
+      "Mucimpati, camunununi. Mwanaambelele, uwakayaswa"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "326. KUYANDAULA BASWEEKEDE“SEEKING THE LOST”",
-          "Tulayandaula basweekede, baingaila mumalundu, tulabaambila majwi aa-mwami amuboole kulindime nywebo"
+          "Tulayandaula basweekede, baingaila mumalundu,",
+          "tulabaambila majwi aa-mwami amuboole kulindime nywebo"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Kule kule, atala amalundu, tulaleta basweekede alimwi. Mucimpati, camunununi. Mwanaambelele, uwakayaswa"
+          "Tulayandaula basweekede twatondezya babisyi jesu,",
+          "tulabeenzya munzila ya-mwami, yakufutuka kutamani"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tulayandaula basweekede twatondezya babisyi jesu, tulabeenzya munzila ya-mwami, yakufutuka kutamani"
+          "Ndilayanda kuccilila jesu, akukombela baciswa,",
+          "ndayanda kwiimisya ababisyi akubaleta kuli- jesu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Kule kule, atala amalundu, tulaleta basweekede alimwi. Mucimpati, camunununi. Mwanaambelele, uwakayaswa"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ndilayanda kuccilila jesu, akukombela baciswa, ndayanda kwiimisya ababisyi akubaleta kuli- jesu"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Kule kule, atala amalundu, tulaleta basweekede alimwi. Mucimpati, camunununi. Mwanaambelele, uwakayaswa"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Atwiibaluke mwaka uciza, mwami akaboole mubulemu, atuyandaule muuya wa-jesu, bakwesu banji bafutulwe."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ciindululo:",
-          "Kule kule, atala amalundu, tulaleta basweekede alimwi. Mucimpati, camunununi. Mwanaambelele, uwakayaswa"
+          "Atwiibaluke mwaka uciza, mwami akaboole mubulemu,",
+          "atuyandaule muuya wa-jesu, bakwesu banji bafutulwe."
         ]
       }
     ]
@@ -21719,10 +16444,7 @@ export const tongaHymns = [
     "hymnNo": 327,
     "title": "Ndakutuma",
     "creator": "Unknown",
-    "chorus": [
-      "Nkubotu, nkokuya,",
-      "Tulaya kucisi cibotu."
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
@@ -21778,8 +16500,7 @@ export const tongaHymns = [
     "chorus": [
       "Ndakkala, ndakomba, mumuunda",
       "Mumuunda wa-Leza.",
-      "Kwiimba, kukomba",
-      "akubeleka lyoonse",
+      "Kwiimba, kukomba akubeleka lyoonse",
       "Mumuunda wa-Leza"
     ],
     "stanzers": [
@@ -21816,12 +16537,56 @@ export const tongaHymns = [
     ]
   },
   {
+    "hymnNo": 329,
+    "title": "TULI KUBUSYU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "tuli kubusyu bwako taata mwami wesu tupeluzyalo lwako mukukomba kwesu, tu.vwide kuliila",
+          "Kwaabe basweekede,",
+          "Tulakumbila,",
+          "Mwami abapoye"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Amasi nanjimanji ali mukusiya,",
+          "Ali munzila imbi.",
+          "iiya kumapenzi,",
+          "Ubafwide luzyalo,",
+          "bape ijwi lyako,",
+          "Ubagwisye mukusiya akusweya bako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kotuma bafundisi baleenguza zyako,",
+          "Baambile bantu boonse amakani aako",
+          "Booneki bwako buze ansi aano Mwami",
+          "Kovurya bantu bako akumasi oonse"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Taata, kofwambaanya cilndi icibotu cako,",
+          "Aawo bantu boonse babe ejwi lyako",
+          "Bamuzibe Jehova umubumbi wabo bamuyande jesu kristo mufutuli wabo"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 330,
     "title": "Zinjizye",
     "creator": "Unknown",
     "chorus": [
-      "Zinjizye, zinjizye, zinjizye",
-      "muluba lwazyo",
+      "Zinjizye, zinjizye, zinjizye muluba lwazyo",
       "Zinjizye, zinjizye, zinjizye",
       "Zifutuke."
     ],
@@ -21901,7 +16666,7 @@ export const tongaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Sena uyanda kumuletela",
-      "Ncayanda, Komwaambila, \"Mwami ndakupa moyo wangu."
+      "Ncayanda, Komwaambila, “Mwami ndakupa moyo wangu."
     ],
     "stanzers": [
       {
@@ -21930,44 +16695,37 @@ export const tongaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Walila: \"Mwami ndikuzi uli Siluse",
+          "Walila: “Mwami ndikuzi uli Siluse",
           "Kotola nkwendijisi",
-          "Moyo wangu mubi.\"",
+          "Moyo wangu mubi.”",
           "Jesu wamwaambila:",
-          "\"Utayeeyi ncisyoonto,",
+          "“Utayeeyi ncisyoonto,",
           "Zyoonse nzibotu pesi",
-          "Cako cilainda.\""
+          "Cako cilainda.”"
         ]
       }
     ]
   },
   {
     "hymnNo": 333,
-    "title": ". MVWA MALI ALOKA",
+    "title": "MVWA MALI ALOKA",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ngwele, Ngwele, ngwele., ngwele",
+      "Telela aloka oonse ngaakwe Jesu",
+      "Uya kwaatola."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "333. MVWA MALI ALOKA\"HEAR THE PENNIES DROPPING\"",
           "Mvwa mali aloka",
-          "Komvwa mbwaaloka",
-          "oOnse ngookwa Jesu",
+          "Komvwa mbwaaloka o Onse ngookwa Jesu",
           "Uya kwaatola."
         ]
       },
       {
         "stanzer": 2,
-        "lines": [
-          "CIINDULULO:",
-          "Ngwele, Ngwele, ngwele., ngwele",
-          "Telela aloka oonse ngaakwe Jesu",
-          "Uya kwaatola."
-        ]
-      },
-      {
-        "stanzer": 3,
         "lines": [
           "Ngwele ngwele lyoonse",
           "Boonse abana",
@@ -21975,16 +16733,7 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "CIINDULULO:",
-          "Ngwele, Ngwele, ngwele., ngwele",
-          "Telela aloka oonse ngaakwe Jesu",
-          "Uya kwaatola."
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Ngwele ngwele atupe",
           "Milumbo yesu",
@@ -21993,27 +16742,9 @@ export const tongaHymns = [
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "CIINDULULO:",
-          "Ngwele, Ngwele, ngwele., ngwele",
-          "Telela aloka oonse ngaakwe Jesu",
-          "Uya kwaatola."
-        ]
-      },
-      {
-        "stanzer": 7,
+        "stanzer": 4,
         "lines": [
           "Nakuba kusyoonto tupe muluyando, uliitambula akwiibelesya"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "CIINDULULO:",
-          "Ngwele, Ngwele, ngwele., ngwele",
-          "Telela aloka oonse ngaakwe Jesu",
-          "Uya kwaatola."
         ]
       }
     ]
@@ -22062,6 +16793,92 @@ export const tongaHymns = [
     ]
   },
   {
+    "hymnNo": 336,
+    "title": "SUNU TWABUNGANA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sunu twabungana aano",
+          "Twasikila aakukwatya,",
+          "Aba bantu mbotwaiigwa",
+          "Mumulazyo wa-Jehova.",
+          "Kuleelede bayandane",
+          "Bakayumizigwe Mwami,",
+          "Tobasyomi atulumbe,",
+          "Mulimo o0yu woonse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Bakakkale mucibanda,",
+          "Bakusyome bateelele,",
+          "Babe bana bamumuni,",
+          "Bayovwegwe nduwe lyoonse",
+          "Kolongezya n'ganda yabo,",
+          "Kobasololela Mwami.",
+          "Baponene nduwe balo,",
+          "Kobabamba ciindi coonse.."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 337,
+    "title": "TULALUMBA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tulalumba, Taata wesu",
+          "Kubalenga kwako bantu:",
+          "Wakabalenga bobile",
+          "Mwaalumi amwanakazi."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Wakaamba ijwi pati",
+          "Ndituswiilila asunu",
+          "Mwaalumi asiye wisi",
+          "Kuti babe amukaakwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Aba bazumini bako,",
+          "Mwaalumi amukaintu,",
+          "Banjila mubwiinga lino",
+          "Mbolyakaamba ijwi lyako."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Bacite mulimo omwe,",
+          "Kuzumina akucita,",
+          "Kuti mukukkala kwabo",
+          "Bagwasyanye muluyando."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "O Mwami Ubape nguzu batobele nzila yako;",
+          "Amumyaka yabo yoonse",
+          "Babambe milumbe yako."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 338,
     "title": "Notuyandana",
     "creator": "Unknown",
@@ -22078,8 +16895,7 @@ export const tongaHymns = [
           "Notuyandana;",
           "Kuseka koonse koonse,",
           "Notuyandana",
-          "Nkokuli kuumuna kunyina",
-          "nzala ooko,",
+          "Nkokuli kuumuna kunyina nzala ooko,",
           "Ciindi cilafwambaana,",
           "Notuyandana."
         ]
@@ -22125,62 +16941,336 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 342,
-    "title": ". Jesu ulandiyanda",
+    "hymnNo": 339,
+    "title": "BATUMBU ABANA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "342. JESU ULANDIYANDA“jesus loves me”",
-          "Jesu ulandiyanda lilaamba bbaibele, twana toonse ntutwakwe ulatupa inguzu"
+          "batumbu abana bakeza ku mwami basikwiiya bakakaka bakatl, Kamuya",
+          "Pele jesu ababone",
+          "Wakabaite nkwaakabede.",
+          "Wati, \"Mubaleke,",
+          "baze kulindime."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ulandiyanda, ndayandwe jesu; ulandiyanda, ambe ndamuyanda"
+          "Ndilabatambula oti ndibabukate,",
+          "Ndilaba Mweembezi wabo,",
+          "Mutabakasyi pe",
+          "Njanda kuti bana boonse",
+          "Bakkale mubuumi ambes",
+          "Amubaleke bana,",
+          "baze kulindime."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Jesu ulandiyanda, jesu wakandifwida; uyakunditubya buu, nkanjile nkendi wakwe."
+          "Mwami ngu-Sibuuya,",
+          "Wabapa coolwe boonse,",
+          "Pele bana banji loko tabana kuziba.",
+          "Tabezi makani aakwe,",
+          "Tabamvwide kwaamba kwakwes",
+          "Amuleke bana,",
+          "baze kulindime."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ulandiyanda, ndayandwe jesu; ulandiyanda, ambe ndamuyanda"
+          "Tuli mukupaila kuti mikowa yoonse",
+          "Isiye mizimo yayo,",
+          "ize kulinduwe.",
+          "Wiimuikile, O Mwamts",
+          "Ibone zila yabuumi,",
+          "Kuti wiifutule,i ize kulinduwe."
         ]
-      },
+      }
+    ]
+  },
+  {
+    "hymnNo": 340,
+    "title": "JESU mulongwaabo",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
       {
-        "stanzer": 5,
+        "stanzer": 1,
         "lines": [
-          "Satani naazoosika kundisunka kubisya; jesu ulikkede ame, ulandiyumya lyoonse"
+          "Jesu mulongwaabo bana",
+          "Ube mulongwaangu",
+          "Undjate janza lyangu,",
+          "Tweende ayebo, Mwami"
         ]
       },
       {
-        "stanzer": 6,
+        "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ulandiyanda, ndayandwe jesu; ulandiyanda, ambe ndamuyanda"
+          "Ndiisye zyoonse zibotu nditakubisizyi;",
+          "Ulindizi kwiinda boonse",
+          "Nkaambo ndilii mwana."
         ]
       },
       {
-        "stanzer": 7,
+        "stanzer": 3,
+        "lines": [
+          "Undizuzye luyandisyo,",
+          "Nkakozyanye ayebo,",
+          "Ntole nzila itontola,",
+          "nkazibisye buumi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Undibotye mbuli nduwe,",
+          "Ndisalale moyo;",
+          "Buumi bwangu bube zuba,",
+          "Limunika banji."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 341,
+    "title": "JESU UNDUWE UUBAITA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesu nduwe uubaita bana,",
+          "ambe ndeza",
+          "Undilele mumaboko aako,",
+          "umfutule. Ndajatwa Saatani sinkondoma."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndakondwa nkaambo kakuti",
+          "Jesn, Wakiitola:",
+          "Nzila yangu wakasindikilwa",
+          "Leza Wisi",
+          "Naakali mwana musyoonto,",
+          "walo wakabombela bazyali bakwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Jesu usandule moyo wangu,",
+          "Moyo mubi.",
+          "Ube mbuli wako, utube buu,",
+          "Kkala mumo.",
+          "Lino mnoyo wangu ulaziba,",
+          "Ndilakula mubusongo bwako."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Lino Jesu ndilii kukwiimbila",
+          "Nyimbozyangu;",
+          "Mumapenzi amubutontozi,",
+          "njookulumba",
+          "Ninsekelela, mukubeleka,",
+          "Njakukondwa",
+          "Iuyando Iwako."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 342,
+    "title": "Jesu ulandiyanda",
+    "creator": "Unknown",
+    "chorus": [
+      "Ulandiyanda, ndayandwe jesu;",
+      "ulandiyanda, ambe ndamuyanda"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Jesu ulandiyanda lilaamba baibele,",
+          "twana toonse ntutwakwe ulatupa inguzu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Jesu ulandiyanda, jesu wakandifwida;",
+          "uyakunditubya buu, nkanjile nkendi wakwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Satani naazoosika kundisunka kubisya;",
+          "jesu ulikkede ame, ulandiyumya lyoonse"
+        ]
+      },
+      {
+        "stanzer": 4,
         "lines": [
           "Jesu ulandiyanda, ulandisololela; kuti ndamuyandisya ndilakutolwa kwakwe."
         ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 343,
+    "title": "MAANZA MASYOONTO",
+    "creator": "Unknown",
+    "chorus": [
+      "Maulu masyoonto, amucenjele;",
+      "Milimo ya-Jesu andiicite."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndasaba maanza aangu.",
+          "Ndasanba kabotu:",
+          "Ndamupa Jesu kuti amubelekele."
+        ]
       },
       {
-        "stanzer": 8,
+        "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ulandiyanda, ndayandwe jesu; ulandiyanda, ambe ndamuyanda"
+          "Ndaambile matwi aangu",
+          "Akuteelelesya",
+          "Mulimo woonse mubotu",
+          "Maanza acite."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Meso aangu alange milimo mibotu",
+          "Akasye nzila zibi akaambo ka-Jesu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 344,
+    "title": "MEBO NDILI",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "mebo ndili mwana",
+          "Pele eeno ndamvwa aa Jehova leza mbwaakalenga zy0onse.",
+          "Aliwi baiyi besu babatwaambila,",
+          "Aa Mufutuli wesu,",
+          "Mbwaakafwida toonse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Lino ndilongezegwe",
+          "Nkaambo ndilaisigwa,",
+          "Nceeci cintu cibotu,",
+          "Ndibe wana wvakwe.",
+          "Ndizoobaswiilila,",
+          "abazyali bangu,",
+          "Ndimuyande Jehova",
+          "Amoyo wangu w OOnse."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndiyakukukomba mazaba amazuba,",
+          "Ndijane nguzu zyakwe",
+          "Zyakuzunda zyoonse.",
+          "Leza undilongezye azilongezyo zyako,",
+          "Undeenzye kabotu,",
+          "Munzila yako yo0nse."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 345,
+    "title": "NDISOLOLOLA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndisololola ndisololela",
+          "Ndiyanda kuya kuli-Jesu;",
+          "Ngu-Mufutuli,",
+          "ndamuzumina munditondezye, muccilile."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndisololela, ndisololela,",
+          "Moye wakwe ulibombede:",
+          "Uiatwiita, tobana baniini,",
+          "Uli kundiita, ndi mwanaakwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndeza, Jesu Mufutuli wangu,",
+          "Ndipe buuya bwako aluse:",
+          "Ndakuzumina, ndakutambula,",
+          "Ndayanda kuti undisalazye."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 346,
+    "title": "ULASIKA JESU",
+    "creator": "Unknown",
+    "chorus": [
+      "Akujulu bavule bana bakwe mbaayanda",
+      "Luzilule lubono",
+      "Iwa-Jesu Mwami."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ulasika Jesu Mwami kubamba lubono",
+          "Bana b0onse bamuyanda",
+          "Ndolubono Iwakwe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Obu bwami bwakujulu",
+          "Mbubwaabo mbaaita;",
+          "Balaa coolwe aluyando",
+          "Bavunwa nguwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Bana boonse bayandisya",
+          "Muvuni mupati;",
+          "Ndolubono Iwalkkwe Jesu",
+          "Ndwaabunganya ooko."
         ]
       }
     ]
@@ -22194,20 +17284,196 @@ export const tongaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "347 YEEYA MULENGI WAKO“stand up, stand up for jesus”",
-          "Yeeya mulengi wako nocili musyoonto ufwambaane kujana Luvuno lwa-leza,. Nkozili nzila zinji zyakubweza muuya, kuzwa kunzila mbotu, kuzwa kubuluzi"
+          "Yeeya Mulengi wako",
+          "Nocili musyoonto",
+          "Ufwambaane kujana",
+          "Luvuno lwa-Leza.",
+          "Nkozili nzila zinji",
+          "Zyakubweza Muuya,",
+          "Kuzwa kunzila mbotu,",
+          "Kuzwa kubuluzi."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kulabota kuyanda leza koli mwana; nuutanayumisigwa moyo kuli-leza, uuyanda kutukondya akutufutula, yeeya mulengi wako nocili musyoonto"
+          "Kulabota kuyanda",
+          "Leza koli mwana;",
+          "Nuutanayumisigwa",
+          "Moyo kuli-Leza,",
+          "Uuyanda kutukondya",
+          "Akutufutula,",
+          "Yeeya mulengi wako",
+          "Nocili musyoonto."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Kabutaningaboola buzuba mboamba nsijani lukkomano, lukondo taluko. Upe moyo ku-mwami akusololele, abe muvuni wako kuya kutamani"
+          "Kabutaninga boola",
+          "Buzuba mboamba",
+          "Nsijani lukkomano,",
+          "Lukondo taluko.",
+          "Upe moyo ku-Mwami",
+          "Akusololele,",
+          "Abe Muvuni wako",
+          "Kuya kutamani."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 348,
+    "title": "you mwana tulatula",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "you mwana tulatula",
+          "Kulinduwe, O-siluse,",
+          "Umevune kububyaabi.",
+          "Umupe buumi bulamfu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Muuya wako umucite,",
+          "Abambe milawo yako,",
+          "Bubotu abusalazí,",
+          "Bumutalikile lino."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Iswe tuli bana bako,",
+          "Eelyo kuti twalubila,",
+          "Tunjizye munzila yako,",
+          "Kuti tutasweeki limwi."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 349,
+    "title": "ATUKOMBE LEZA",
+    "creator": "Unknown",
+    "chorus": [
+      "Watusisya mumwaka uu",
+      "Atukonbe Leza Taata,",
+      "Watusisya mumwaka uuno.",
+      "Komba, atukombe;",
+      "komba, atukombe;",
+      "Komba Leza Taata."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Atukombe Leza Taats"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Atukonm be Leza Taata,",
+          "Watugwisya mumwaka uun0.",
+          "Atukombe Leza Taata,",
+          "Watugwisya mumwaka uuno"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 350,
+    "title": "ALUKKOMANO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "O Mpompo valukkomano",
+          "Milimo aikulumbe,",
+          "Katuli mun'ganda yako",
+          "Ootupa bubotu lyoonse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kumwaka mbokulaigwa,",
+          "Kulanunkilizya nyika;",
+          "Neabwacabwa zyamainza,",
+          "Zilamenessya maila."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Janza lyako kugoloka",
+          "Lizuzya matala oonse,",
+          "Eelyo mupeyo wasika,",
+          "Ulaisalazya nyika."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Anyimbo zyesu weelede",
+          "Kuti ulumbaizigwe;",
+          "Pesi cintu ciinda nceeci",
+          "Nkulipa",
+          "Iwesu tobeni"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 351,
+    "title": "inywe lyoonse nobantu",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "inywe lyoonse nobantu,",
+          "Kamuza akwiimbisya",
+          "Musangaalilwe sunu",
+          "Nkaam bo kacoolwe canu,",
+          "Ngu-Leza wakatupa,",
+          "Zintu zy o onse zibotu",
+          "Ulatulela lyoonse,",
+          "Nyoonse amulumbe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Twamana kuyobola,",
+          "Oonse maila eesu;",
+          "Lino tuli tambwide,",
+          "Zilyo zyamwaka uuno.",
+          "Nkaamnbo kaako twaleta",
+          "Zipo zyesu ku-Mwami;",
+          "Ulatutabilila,",
+          "atumulumbe toonse."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nyika yoonse ngomuunda",
+          "Wakwe Leza Mubumbi;",
+          "Lyoonse ulasyangamo",
+          "Mbuto zyaluse Iwakwe;",
+          "Pesi Saatani limwi",
+          "Ulasyanga mbuto zyamapenzi abubi.",
+          "Nsaku zibi nzizyakwe."
         ]
       }
     ]
@@ -22254,62 +17520,246 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 357,
-    "title": ". KWIINA MASIKU OKUYA",
+    "hymnNo": 353,
+    "title": "twalima myuunda yesu",
+    "creator": "Unknown",
+    "chorus": [
+      "Zintu zyoonse zyaansi ngu-Leza uutupa",
+      "Atulumbe Mubumbi uulenga zyoonse."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Twalima myuunda yesu",
+          "Akusyanga mbuto.",
+          "Nguni uzimeneka?",
+          "Ngu-Leza mubotu.",
+          "Ulawisiya mvala,",
+          "mbuto zilamena,",
+          "Ezuba amayoba tuyoojana zilyo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ngu-Leza wakabumba",
+          "Zintu zyoonse zyaansi.",
+          "Wakacita maluba,",
+          "mweezi enyenyeezi,",
+          "Ulaungisya luuwe akulela banyama;",
+          "Swebo tobana bakwe,",
+          "ulatupa nsima."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Twakulumba, 0 Leza,",
+          "Zyoonse zyazwa kwako,",
+          "Kusyanga, kutebula,",
+          "azyoolwe zipati.",
+          "Tambula nzitwaleta,",
+          "akulumba kwesu;",
+          "Ayalo my oyo yesu kulinduwe twiipa."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 354,
+    "title": "BALOONA MULI JESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "357. KWIINA MASIKU OKUYA“no night there”",
           "Izuba talibili, alaamana masiku. Ciidi tacibalwi pe mumunzi mujulu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Ilamana misozi, alamana masiku, ciindi tacibalwi pe mumunzi mujulu"
+          "Miyango njamabwe mibotu kapati, inzila nzyangolide mumunzi mujulu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Miyango njamabwe mibotu kapati, inzila nzyangolide mumunzi mujulu"
+          "Mulonga uleenda mulonga wabuumi meenda atamani pe mumunzi mujulu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ciindululo:",
-          "Ilamana misozi, alamana masiku, ciindi tacibalwi pe mumunzi mujulu"
+          "Jesu ngo Mumuni kusalala kwakwe, kulainda azuba mumunzi mujulu"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 355,
+    "title": "inziba",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Inziba, inziba,",
+          "yalila buumba, inziba.",
+          "Insika yanditolela mwana,",
+          "Ndeenda nkindila."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "lufu lwaza, lufu lwaza,",
+          "Ndalila sunu, lufu Iwa ZA ilufu Iwvanditolela wangu,",
+          "Ndeenda nkindila."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mazuba eesu, mazuba eesu",
+          "Ayoomana mazuba eesu,",
+          "Mafwabi alasikila ndiswe",
+          "Ndeenda nkindila."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Amuswiilile, amnuswiilile,",
+          "Lufu Iwakoma amuswiilile,",
+          "Mudima wakamanina ndiswe,",
+          "Amukondwe buyo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Mulonga uleenda mulonga wabuumi meenda atamani pe mumunzi mujulu"
+          "Amukondwe, amukondwe,",
+          "Nyoonse bakwesu, amukondwe,",
+          "Mubili uyoomana kulufu,",
+          "Buyo muuya pe."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Ciindululo:",
-          "Ilamana misozi, alamana masiku, ciindi tacibalwi pe mumunzi mujulu"
+          "Mutalili, mutalili,",
+          "Muuya wamuntu ulabuka,",
+          "Nkokuli kubuka kwabafu muli-",
+          "Jesu."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Jesu ngo Mumuni kusalala kwakwe, kulainda azuba mumunzi mujulu"
+          "Tumusyome, tumusyomne,",
+          "Mufutuli tumusyome,",
+          "Jesu wakatufwida toonse,",
+          "Twakafutulwa."
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Ciindululo:",
-          "Ilamana misozi, alamana masiku, ciindi tacibalwi pe mumunzi mujulu"
+          "Buumi bupya, buumi bupya,",
+          "Mwami waleta buumi bupya,",
+          "Basyomni bayoojana boonse,",
+          "Buumi bupya."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 356,
+    "title": "swe toonse tulamana",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "swe toonse tulamana,",
+          "Olu lufu lulaafwiifwi,",
+          "Bauni bwesu bulaceya,",
+          "Tulafwa ciindi ciniini."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Matata boonse baciindi",
+          "Bakali muno mucisi,",
+          "Bakamaninina kufwa;",
+          "Bakabolela muzyuumbwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Bakeenda mukubetekwa,",
+          "Aboobo bakabetekwa,",
+          "Ngu-Leza wakababuzya,",
+          "Azintu nzibakacita."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Aswebo toonse nitufwa,",
+          "Tulakutobela mbabo,",
+          "Amilandu yoonse yesu,",
+          "Leza uyakutubuzya."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Aabo bakalekelelwa,",
+          "Akusyoma muli-Jesu,",
+          "Bayakubuka alimwi,",
+          "Bayakukkala a-Leza."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 357,
+    "title": "KWIINA MASIKU OKUYA",
+    "creator": "Unknown",
+    "chorus": [
+      "Ilamana misozi, alamana masiku, ciindi tacibalwi pe mumunzi mujulu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Izuba talibili, alaamana masiku. Ciidi tacibalwi pe mumunzi mujulu"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Miyango njamabwe mibotu kapati, inzila nzyangolide mumunzi mujulu"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mulonga uleenda mulonga wabuumi meenda atamani pe mumunzi mujulu"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Jesu ngo Mumuni kusalala kwakwe, kulainda azuba mumunzi mujulu"
         ]
       }
     ]
@@ -22380,11 +17830,44 @@ export const tongaHymns = [
     ]
   },
   {
+    "hymnNo": 359,
+    "title": "sinkondo",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Sinkondo lyookerye",
+          "Kuzwa mumulimo,",
+          "Wakalwana akuzunda",
+          "Konjila mujulu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kuciswa kwabuumi akufwa kwamana:",
+          "Amuuya wako wajana,",
+          "Kulyookerya kwini."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wakalwida Kristo.",
+          "Lino komukomba;",
+          "Lyookerye mulutontole"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 360,
     "title": "Ukwakwe Leza Tabala Mweelwe",
     "creator": "Unknown",
     "chorus": [
-      "ulaya, Tulaya",
+      "Tulaya, Tulaya",
       "Tulaya nkutuzwa kwa-Leza",
       "Tulaya kuswanana awe."
     ],
@@ -22434,78 +17917,116 @@ export const tongaHymns = [
     ]
   },
   {
-    "hymnNo": 363,
-    "title": ",BUTONGA",
+    "hymnNo": 362,
+    "title": "atwiibaluke Makani mwami wesu mbowakati",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "363,BUTONGA“our father’s land”",
+          "atwiibaluke Makani mwami wesu mbowakati",
+          "Misyobe yoonse yaansi lkaambilwe lufutuke"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mazwi aabo bantu boonse",
+          "Afugame kulinduwe:",
+          "Mane do yoonse milaka,",
+          "Yaambe bulemu bwako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Koza, Jesu Mwami wesu,",
+          "Utubonye zibi zyesu;",
+          "Zyoonsezicibisya buumi",
+          "SWisye mumyoyo yesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ulangisye cisi cesu,",
+          "Uzimarye zibi zyabe,",
+          "Uleke bukali bwako,",
+          "Ubafutule, batafwi."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Utugwasye, tutany ansyi,",
+          "Kufundisya kwejwi lyako;",
+          "Tutambule lusiniryo,",
+          "Tusanduke kumilandu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 363,
+    "title": "BUTONGA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
           "Butonga insi yamausyeesu akati kamasi nimbotu yalo,motwakazyalilwa, nimbotu yalo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Bamasi naa baisampaula, tobeni bensi ilatubotezya, myuunda Minji Minji azyo a’gombe zinji, nimbotu yalo"
+          "Bamasi naa baisampaula,",
+          "tobeni bensi ilatubotezya,",
+          "myuunda Minji Minji azyo a’gombe zinji,",
+          "nimbotu yalo"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Leza twalumba mbootupa baiyi, baiye kabotu makani aa-leza, bapone kabotu insiku zivule, baiyi besu."
+          "Leza twalumba mbootupa baiyi,",
+          "baiye kabotu makani aa-leza,",
+          "bapone kabotu insiku zivule, baiyi besu."
         ]
       }
     ]
   },
   {
     "hymnNo": 365,
-    "title": ". Leza uzulwide afrika",
+    "title": "Leza uzulwide afrika",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Koza muuya, koza muuya uusalala, kuti utuvune"
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "365. Leza uzulwide afrika“god lead africa”",
-          "Leza uzulwide afrika, abe wako awalo lyoonse yanganzya nkondo zyesu zyoonse, mwami twakukomba aswe tuli bako."
+          "Leza uzulwide afrika, abe wako awalo lyoonse yanganzya nkondo zyesu zyoonse,",
+          "mwami twakukomba aswe tuli bako."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ciindululo:",
-          "Koza muuya, koza muuya uusalala, kuti utuvune"
+          "Ijwi lyako lyaambwe abantu, balitambule bantu boonse,",
+          "yanzanya bana bako boonse, babatame bataa uyendelezye we."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ijwi lyako lyaambwe abantu, balitambule bantu boonse, yanzanya bana bako boonse, babatame bataa uyendelezye we."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ciindululo:",
-          "Koza muuya, koza muuya uusalala, kuti utuvune"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Ulele bami besu kaka, bagwasye kubeteka kwabo, ugwasye babetesi besu, zyoonse zilondoke, gwisya bubi boonse"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ciindululo:",
-          "Koza muuya, koza muuya uusalala, kuti utuvune"
+          "Ulele bami besu kaka, bagwasye kubeteka kwabo,",
+          "ugwasye babetesi besu, zyoonse zilondoke, gwisya bubi boonse"
         ]
       }
     ]
   }
-]
+];

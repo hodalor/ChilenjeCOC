@@ -3,7 +3,6 @@ import { chewaHymns } from './chewa-hymns';
 import { tongaHymns } from './tonga-hymns';
 import { tumbukaHymns } from './tumbuka-hymns';
 import { zuluHymns } from './zulu-hymns';
-import { shonaHymns } from './shona-hymns';
 import { englishHymns} from './english-hymns';
 
 export const data = [

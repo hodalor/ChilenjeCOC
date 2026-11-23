@@ -202,6 +202,15 @@ export const hymnDetailsCreenStyles = StyleSheet.create({
     height: 'auto',
     paddingTop: 5,
   },
+  lyricsScroll: {
+    flex: 1,
+    width: '100%',
+  },
+  lyricsContent: {
+    flexGrow: 1,
+    paddingVertical: 10,
+    paddingBottom: 28,
+  },
 });
 
 export const chorusCardStyles = StyleSheet.create({

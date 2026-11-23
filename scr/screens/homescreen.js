@@ -11,7 +11,7 @@ export function HomeScreen({navigation}) {
         <Text style={homescreenStyles.headerTextStyle}>
           Church Of Christ
         </Text>
-        <Text style={homescreenStyles.smallText}>Hyms Mobile App</Text>
+        <Text style={homescreenStyles.smallText}>Hymns Mobile App</Text>
       </View>
 
       <View style={homescreenStyles.componentsContainerStyle}>

@@ -1,5 +1,6 @@
 import BootSplash from 'react-native-bootsplash';
-import {View, StatusBar, StyleSheet} from 'react-native';
+import {View, StatusBar} from 'react-native';
+import {GestureHandlerRootView} from 'react-native-gesture-handler';
 import {HomeScreen} from './scr/screens/homescreen';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -27,8 +28,10 @@ export default function App() {
   BootSplash.hide({fade: true});
 
   return (
-    <NavigationContainer>
-      <MainScreen />
-    </NavigationContainer>
+    <GestureHandlerRootView style={styles.containerStyle}>
+      <NavigationContainer>
+        <MainScreen />
+      </NavigationContainer>
+    </GestureHandlerRootView>
   );
 }

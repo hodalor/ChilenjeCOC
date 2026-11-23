@@ -1,4 +1,4 @@
-// Auto-generated Tumbuka hymns data
+// Tumbuka hymns
 export const tumbukaHymns = [
   {
     "hymnNo": 1,
@@ -108,7 +108,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "3  TIKUMSOPANI CHIUTA",
+          "3 TIKUMSOPANI CHIUTA",
           "Tikumsopani Chiuta,",
           "mphavu",
           "Zinu zithuwukwe;",
@@ -476,7 +476,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "10  TUMBIKANI YEHOVA ALELUYA",
+          "10 TUMBIKANI YEHOVA ALELUYA",
           "Tumbikani Yehova Aleluya,",
           "Mwe ŵa m'charu cha pasi",
           "Aleluya,",
@@ -588,7 +588,7 @@ export const tumbukaHymns = [
           "Mwa Ŵantu mose Ŵa pasi",
           "Mucindikani Yehova",
           "MteŴetani na kukondwa",
-          "Zani  kwa lye na kWimba."
+          "Zani kwa lye na kWimba."
         ]
       },
       {
@@ -871,7 +871,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "17  CHIUTA MWENECHO WA MTAMBO NA PASI",
+          "17 CHIUTA MWENECHO WA MTAMBO NA PASI",
           "Chiuta mwenecho wa",
           "mtambo na pasi,",
           "mbwani na charu ndi",
@@ -990,12 +990,10 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "19  TIMRUMBENGE CHIUTA",
-          "1",
+          "19 TIMRUMBENGE CHIUTA",
           "timrumbenge Chiuta,",
           "timrumbenge Chiuta,",
           "watizira na mutende.",
-          "2",
           "Wakatipa Mponoslti, (2X)",
           "ndiyo Fumu Yesu Kristu."
         ]
@@ -1016,11 +1014,9 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "5",
           "tikanpenja mu maji,",
           "kweni ntha",
           "tikamsanganga",
-          "6",
           "Yesu pera ndi Mtaski",
           "Palivyeso mtaski yunji"
         ]
@@ -1028,10 +1024,8 @@ export const tumbukaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "7",
           "zina la Yesu Khristu",
           "Ntha tilimarenge kose.",
-          "8",
           "Tose timlambirenge,",
           "Mponoski wa myirayira."
         ]
@@ -1360,7 +1354,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "26  ZANINGE MWA ‘NYITU",
+          "26 ZANINGE MWA ‘NYITU",
           "Zaninge mwa ‘nyitu, Na kusekerera, Tendenge ku Betelehem pamoza Lababiwako Themba la ŵangelo",
           "zaninge timtumbike",
           "zaninge timtumbike",
@@ -1928,22 +1922,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 37,
-      "title": "NDIMWE WA CHIUTA TIMWIMBIRE",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Tiye timchindike,",
-            "Ndi Mwana-mberere.",
-            "Chiuta, jurani mitima,",
-            "Timwimbire!"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 37,
+    "title": "NDIMWE WA CHIUTA TIMWIMBIRE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tiye timchindike,",
+          "Ndi Mwana-mberere.",
+          "Chiuta, jurani mitima,",
+          "Timwimbire!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 38,
@@ -2700,7 +2694,7 @@ export const tumbukaHymns = [
         "lines": [
           "Ukuliraci Mariya?",
           "Ndine Yesu",
-          "Pharira  ŵasambiri ndiri",
+          "Pharira ŵasambiri ndiri",
           "na moyo."
         ]
       },
@@ -2766,14 +2760,14 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 51,
-    "title": ".....",
+    "title": "MWA ŴANA, TICHINDIKENGE",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "51  MWA ŴANA, TICHINDIKENGE",
+          "51 MWA ŴANA, TICHINDIKENGE",
           "Mwa ŵana, tichindikenge",
           "Fumu yithu ya 'chindami,",
           "Lero wawuka ku nyifwa.",
@@ -3494,7 +3488,7 @@ export const tumbukaHymns = [
         "lines": [
           "Nyengo yiweme yikwiza,",
           "yikapharika kale;",
-          "Yikulayizgika  mazgu,",
+          "Yikulayizgika mazgu,",
           "ŵatuŵa ŵakaloska",
           "Aŵo ŵakukhara m'chisi",
           "ŵati ŵangweruskike",
@@ -3654,7 +3648,7 @@ export const tumbukaHymns = [
         "lines": [
           "Kasi tiri kuyezgeka, panji tikusuzgika? Ntha tingagongowaposo,",
           "tiyenge ku Mwenecho,",
-          "Ka timwonenku   munyake mbwezi",
+          "Ka timwonenku munyake mbwezi",
           "wakweghamako?",
           "Yesu wakutimanyiska,",
           "timpharire Mwenecho."
@@ -4923,21 +4917,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 86,
-      "title": "YESU",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Mvwiri wane,",
-            "mundovwire.",
-            "Zani, A Fumu, zani!"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 86,
+    "title": "YESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mvwiri wane,",
+          "mundovwire.",
+          "Zani, A Fumu, zani!"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 87,
@@ -4980,7 +4974,7 @@ export const tumbukaHymns = [
           "Ekleziya litechi na",
           "Lakusuzgika",
           "Kweni m'Chizizipizgo",
-          "ŵalinda  bakristu",
+          "ŵalinda bakristu",
           "Ŵakucerezga mpaka",
           "dazi lihenge che!"
         ]
@@ -5530,7 +5524,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "97  DADA WITHU",
+          "97 DADA WITHU",
           "Dada withu, tiza",
           "panthazi pinu,",
           "Mukumane na ise,fumu",
@@ -5631,11 +5625,9 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "4",
           "Mutume mazgu nga ndi",
           "moto,",
           "Ghachitenge mkati mwa ise",
-          "5",
           "Gumanyani mitima",
           "yithu.",
           "Muponoski withu Yesu."
@@ -5659,7 +5651,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "8",
           "Tabeya ŵadada",
           "m'tumbike,",
           "Mpingo ŵose ŵongana",
@@ -5751,7 +5742,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "100  NKHASEKERERANGA PARA ŴAKUTI",
+          "100 NKHASEKERERANGA PARA ŴAKUTI",
           "Nkhasekereranga para",
           "ŵakuti, tirute",
           "Tose kwa Chiuta withu",
@@ -5847,10 +5838,8 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "5",
           "Miryango tiyijurenge ndi",
           "mitima yithu.",
-          "6",
           "Mwa Bentu mose",
           "M’cintenge muli vita vyake."
         ]
@@ -5858,7 +5847,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "7",
           "Zani m’wongenge Chiuta,",
           "ngwa uchizi nadi.",
           "8.",
@@ -5929,11 +5917,9 @@ export const tumbukaHymns = [
         "stanzer": 1,
         "lines": [
           "103 SONO TIZA PA UNGANO",
-          "1",
           "Sono tiza pa ungano,",
           "Zani, zaninge, fumu",
           "mutitumbike.",
-          "2",
           "Dada withu Wa kuchanya",
           "Khani, khaninge themba",
           "mutovwirenge"
@@ -5942,7 +5928,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "3",
           "Tampukwani imwe pera,",
           "Dada, Dada wa wezi",
           "mutipotore.",
@@ -6406,7 +6391,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "114  CHIUTA WA MDENGWENDE",
+          "114 CHIUTA WA MDENGWENDE",
           "Chiuta wa mdengwende",
           "wakujivumbula",
           "Muno mu tempele lake",
@@ -6826,7 +6811,7 @@ export const tumbukaHymns = [
         "stanzer": 1,
         "lines": [
           "122 MWE FUMU YITHU MWENECHO",
-          "Mwe fumu yithu mwenecho wa tose ta ŵanthu tikumpyorerani msoro ndimwe mweso  withu"
+          "Mwe fumu yithu mwenecho wa tose ta ŵanthu tikumpyorerani msoro ndimwe mweso withu"
         ]
       },
       {
@@ -6969,7 +6954,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "124  LIZGANI MBATA",
+          "124 LIZGANI MBATA",
           "Lizgani mbata, mrwani",
           "wafika;",
           "Mwiminge pamo na",
@@ -7312,7 +7297,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "130  KU MULIMO WA FUMU",
+          "130 KU MULIMO WA FUMU",
           "Ku mulimo wa Fumu,",
           "tiri balimi!",
           "Tirondezge umo wali",
@@ -7378,7 +7363,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "131  ŴATHASKA ŴAKUFWA",
+          "131 ŴATHASKA ŴAKUFWA",
           "ŵathaska ŵakufwa,",
           "Ŵapwererera;",
           "Ubapoke ku uheni wabo,",
@@ -7613,7 +7598,7 @@ export const tumbukaHymns = [
           "Kuli ŵanthu ŵa vitima",
           "ŵakwenera ku sangwa:",
           "Mauzima ghakumara,",
-          "mazuŵa gha kuruta; nga  yumoza warute kuŵachizga mitima; emwe mwe! Murutenge; mazuŵa ghakuruta"
+          "mazuŵa gha kuruta; nga yumoza warute kuŵachizga mitima; emwe mwe! Murutenge; mazuŵa ghakuruta"
         ]
       },
       {
@@ -7791,7 +7776,7 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 140,
-    "title": "CHEMA CHOMENE NGA  NDI LIPENGA",
+    "title": "CHEMA CHOMENE NGA NDI LIPENGA",
     "creator": "Unknown",
     "chorus": [
       "Chema chomene Chema chomene ungarekanga reka nakopa, fumu yiripo, yiko vwirenge"
@@ -7800,8 +7785,8 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "140 CHEMA CHOMENE NGA  NDI LIPENGA",
-          "Chema chomene nga  ndi lipenga ungarekanga, rongora ŵanthu  kwananga kwabo aŵo ŵakufwa"
+          "140 CHEMA CHOMENE NGA NDI LIPENGA",
+          "Chema chomene nga ndi lipenga ungarekanga, rongora ŵanthu kwananga kwabo aŵo ŵakufwa"
         ]
       },
       {
@@ -7900,7 +7885,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "142  WUKA IWE, MKHRISTU",
+          "142 WUKA IWE, MKHRISTU",
           "Wuka iwe, mKhristu",
           "kozga njasko yako.",
           "Lika m'nyumba yako, na",
@@ -8078,7 +8063,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mujintirani Yesu!   Mbata",
+          "Mujintirani Yesu! Mbata",
           "mupulike",
           "Wukani mukomane mu",
           "zuva la lero;",
@@ -8494,71 +8479,6 @@ export const tumbukaHymns = [
     ]
   },
   {
-    "hymnNo": 152,
-    "title": "CHIUTA NDI LINGA LITHU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "152 CHIUTA NDI LINGA LITHU",
-          "Chiuta ndi linga lithu,",
-          "Movwiri mu suzgo.",
-          "Nanga charu chisezgeke,",
-          "ise ntha titope."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mapiri ghangawa",
-          "M’nyanja, maji",
-          "ghangapoma,",
-          "inya, ghangasunkunika",
-          "na jigha likuru."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Muronga ukusangwiska",
-          "msumba wa Chiuta",
-          "Malo uko mukukhara,",
-          "Fumu yikuru mwe"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Chiuta wali mwa uwo,",
-          "nta tiusezgeke;",
-          "Sekuru tiwawovwire",
-          "lubiro-lubiro."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Mafuko ghakacheruka,",
-          "na maufumuso;",
-          "Chiuta wakayowoya",
-          "charu chatentema"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Fumu ya vita yichali",
-          "kukhara nase.",
-          "Leza wa Yakobe",
-          "ngwithu, ndiyo mpanji",
-          "yithu."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 153,
     "title": "CHIUTA WITHU NDI LINGA",
     "creator": "Unknown",
@@ -8642,7 +8562,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "tiza nato sono  fumu,",
+          "tiza nato sono fumu,",
           "Tikugomezga",
           "Pangano, ilo nda",
           "Chimanyikwiro cha maji",
@@ -8966,7 +8886,7 @@ export const tumbukaHymns = [
           "wakawuska, na",
           "kuwerezga kuwonga,",
           "Wakapereka kwa",
-          "iŵo, wakati,  Mu",
+          "iŵo, wakati, Mu",
           "mwerengemo."
         ]
       },
@@ -9303,7 +9223,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "166  Para nkujipima ndiri",
+          "166 Para nkujipima ndiri",
           "Para nkujipima ndiri",
           "wakwananga",
           "ine, na nkhongono zane",
@@ -9413,21 +9333,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 168,
-      "title": "TIKUMBUKE IMWE YESU",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Vitikhozge ise tose,",
-            "tipulikanenge namwe",
-            "Tikulira, m'tipulike"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 168,
+    "title": "TIKUMBUKE IMWE YESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Vitikhozge ise tose,",
+          "tipulikanenge namwe",
+          "Tikulira, m'tipulike"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 169,
@@ -9588,54 +9508,6 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 172,
-    "title": "AŴO ŴAKWANANGA (2)",
-    "creator": "Unknown",
-    "chorus": [
-      "Pulika! pulika!",
-      "Chawanangwa cha Leza",
-      "mbumoyo",
-      "Pulika! pulika!",
-      "Chawanangwa cha Leza",
-      "mbumoyo mwa Yesu"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "172 AŴO ŴAKWANANGA",
-          "Aŵo ŵakwananga, abo",
-          "ŵakwananga",
-          "ŵamkufwa (2X)"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Iwe dada, pulika; nawe",
-          "mama, pulika",
-          "Zaninge"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Iwe, pungwe, zgoka,",
-          "nawe, mwali, zgoka",
-          "zgokani."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Aŵo ŵakugomezga, aŵo",
-          "ŵakugomezga",
-          "ŵampona."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 172,
     "title": "AŴO ŴAKWANANGA",
     "creator": "Unknown",
     "chorus": [
@@ -9696,56 +9568,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "173  ZANINGE, ŴAKUSUZGIKA",
-          "Zaninge, ŵakusuzgika,",
-          "na uheni winu",
-          "Fumu yitu nja lusungu,",
-          "tiyimpumuzgani."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Wakatira ndopa zake pa",
-          "kufwira ŵanthu;",
-          "Ndopa izo zikatika",
-          "zikumtoweskani."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Yesu nadi ndi nenesko",
-          "na chimango chinu;",
-          "Pulikanani na lyo,",
-          "musangurukenge."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Njirani mose mu mpingo",
-          "wake wa kutowa,",
-          "Tirute tose kuchanya",
-          "kukhara na Yesu."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 173,
-    "title": "ZANINGE, ŴAKUSUZGIKA",
-    "creator": "Unknown",
-    "chorus": [
-      "Gomezgani, gomezgani,",
-      "mwa Yesu Khristu:",
-      "Wati waponoske mose;",
-      "wakumtemwani"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
           "173 ZANINGE, ŴAKUSUZGIKA",
           "Zaninge, ŵakusuzgika,",
           "na uheni winu",
@@ -9759,7 +9581,7 @@ export const tumbukaHymns = [
           "Wakatira ndopa zake pa",
           "kufwira ŵanthu;",
           "Ndopa izo zikatika",
-          "Zikumtoweskani."
+          "zikumtoweskani."
         ]
       },
       {
@@ -9963,56 +9785,6 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 177,
-    "title": "WERERA KUKAYA (2)",
-    "creator": "Unknown",
-    "chorus": [
-      "Mwana wakusova, wera,",
-      "wera, wera, wera, wera,",
-      "sono."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "177 WERERA KUKAYA",
-          "Werera kukaya.",
-          "vyalema",
-          "Mu mtima,",
-          "Nthowa nja mudima,",
-          "ndipo nja mayiyi"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Werera ku kaya",
-          "wakulindirira",
-          "Pa muryango mu mdima",
-          "Yesu wa kwimirira."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Werako, zgokako ku",
-          "viheni vyako,",
-          "Vyakusuzga vyako na",
-          "vitima vyose."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Werera, werera,",
-          "wakukhumba iwe,",
-          "Wakugowokera na",
-          "kukupokerera."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 177,
     "title": "WERERA KUKAYA",
     "creator": "Unknown",
     "chorus": [
@@ -10128,51 +9900,6 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 179,
-    "title": "PALIVE NTHOWA YINYAKE (2)",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "179 PALIVE NTHOWA YINYAKE",
-          "Palive nthowa yinyake",
-          "yakupokweramo,",
-          "Yakupika ku ta ŵanthu;",
-          "nthowa nda Yesu mwe."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Palive nthowa yinyake",
-          "yakupokweramo",
-          "Ndi Yesu nthowa ya",
-          "ŵanthu: ndiyo wakuthaska."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Yesu ndiyo ndi muryango",
-          "wa kuchanya kura;",
-          "Yesu wakatijulira",
-          "nthowa ya umoyo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Lusungu lwane ndwakuti",
-          "Yesu wa ndifwira;",
-          "Chigomezgo chana nyiyo",
-          "wakatonda nyifwa"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 179,
     "title": "PALIVE NTHOWA YINYAKE",
     "creator": "Unknown",
     "chorus": null,
@@ -10276,7 +10003,7 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 181,
-    "title": "YESU WAKIZA MU CHARU (2)",
+    "title": "YESU WAKIZA MU CHARU",
     "creator": "Unknown",
     "chorus": [
       "Wakuti, Zgokanga",
@@ -10290,72 +10017,6 @@ export const tumbukaHymns = [
         "lines": [
           "181 YESU WAKIZA MU CHARU",
           "Yesu wakiza mu charu,",
-          "mu charu cha ku",
-          "Galileya;",
-          "Wakasambizganga",
-          "Banthu kutibazgokenge",
-          "Ku mtima."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Banji vakumurondezga,",
-          "para vakapulika mazgu;",
-          "Wakavachema na kuti,",
-          "Banthu vazgokenge ku",
-          "mtima.\""
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wachali kuchema nadi,",
-          "kuti ŵanthu ŵazgoke",
-          "M’mtima,",
-          "mazgu ghake",
-          "ghakuchema, lusi-lusi",
-          "M’nyumba na m'thondo."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "yesu wakutemwa",
-          "bose, ruta-ruta waku",
-          "ŵachema.",
-          "Mazgu ghakupulikikwa,",
-          "agho waka yowoya kale."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Sono wali pa muryango,",
-          "na kuyowoya mazgu",
-          "agho,",
-          "Wakujirizga mitima, kuti",
-          "ŵajureko wanjire"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 181,
-    "title": "YESU WAKIZA MU CHARU",
-    "creator": "Unknown",
-    "chorus": [
-      "Wakuti, Zgokanga",
-      "M’mtima.",
-      "Yesu wati, Zgokanga",
-      "M’mtima.(2X)"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "181 YESU WAKIZA MU CHARU",
-          "Yesu wakiza mu charu ,",
           "mu charu cha ku",
           "Galileya;",
           "Wakasambizganga",
@@ -10462,7 +10123,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "183  Ha wonani",
+          "183 Ha wonani",
           "Ha wonani mwa",
           "ŵanyane, mupulike",
           "mazgu.",
@@ -10911,23 +10572,23 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 191,
-      "title": "YESU WALIKWIZA",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Zaninge imwe mose;",
-            "mujipulikire",
-            "Mupokerere wumi;",
-            "mujipulikire.",
-            "Haleluya! Ujipulikire"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 191,
+    "title": "YESU WALIKWIZA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Zaninge imwe mose;",
+          "mujipulikire",
+          "Mupokerere wumi;",
+          "mujipulikire.",
+          "Haleluya! Ujipulikire"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 192,
@@ -11657,21 +11318,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 204,
-      "title": "PULIKANI MWA ŴAYANE",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "nkuruta mwe nkuruta mwe nka mwone mtaski",
-            "wane.",
-            "Yesu wakutichena."
-          ]
-        }
-      ]
+  {
+    "hymnNo": 204,
+    "title": "PULIKANI MWA ŴAYANE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "nkuruta mwe nkuruta mwe nka mwone mtaski",
+          "wane.",
+          "Yesu wakutichena."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 205,
@@ -11815,7 +11476,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Imwe  ŵanthu",
+          "Imwe ŵanthu",
           "muzgokenge mose,",
           "Wakuchema Mponoski",
           "wa charu"
@@ -11961,7 +11622,7 @@ export const tumbukaHymns = [
           "210 KASI VYALEMA",
           "Kasi vyalema? wavuka",
           "ka wasuzgika?",
-          "Yesu  wati, \"Kuno kwane",
+          "Yesu wati, \"Kuno kwane",
           "pumula.\""
         ]
       },
@@ -12316,7 +11977,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "215  WOKO LA YEHOVA",
+          "215 WOKO LA YEHOVA",
           "Woko la Yehova",
           "likukutumbikira",
           "iwe,",
@@ -12568,22 +12229,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 219,
-      "title": "ISRAEL WERERA",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Zaninge Zaninge,",
-            "Werera kwa Yehova,",
-            "Mkuru Mlengi wako",
-            "Werera ka Yehova"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 219,
+    "title": "ISRAEL WERERA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Zaninge Zaninge,",
+          "Werera kwa Yehova,",
+          "Mkuru Mlengi wako",
+          "Werera ka Yehova"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 220,
@@ -12839,12 +12500,10 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "3",
           "Dada, mukutemwa",
           "unenesko,",
           "Mundimanyiske",
           "unenesiko.",
-          "4",
           "Mundisuke Dada,ku",
           "Uheni,",
           "Mundisukiske, ndibe",
@@ -12854,12 +12513,10 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "5",
           "Rekani kusanda",
           "zakwananga,",
           "Mundiphotole ku",
           "Kwananga",
-          "6",
           "rekani kupata nda",
           "muheni,",
           "Mungandinoranga",
@@ -12936,7 +12593,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "226  NDANANGA",
+          "226 NDANANGA",
           "Ndananga, inya",
           "ndananga, ndazomera",
           "uheni",
@@ -13024,7 +12681,7 @@ export const tumbukaHymns = [
           "Muhanya uno tawera,",
           "Muhanya uno awera,",
           "tikulaŵiska kwa Imwe,",
-          "Tikugomezga  kwa imwe,",
+          "Tikugomezga kwa imwe,",
           "kuti muchizge ta ŵinu."
         ]
       }
@@ -13513,7 +13170,7 @@ export const tumbukaHymns = [
         "lines": [
           "236 YASU FUMU WAJISASKA",
           "Yasu Fumu wajisaska",
-          "kuŵa  Mthaski wane",
+          "kuŵa Mthaski wane",
           "lero",
           "Nane ndimzomere"
         ]
@@ -13893,21 +13550,21 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 243,
-      "title": "CHIUTA, MUKUMANYA",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Chiuta mundovwire",
-            "ndiŵenge mwana winu",
-            "Pulikani, nkumubeyani."
-          ]
-        }
-      ]
+  {
+    "hymnNo": 243,
+    "title": "CHIUTA, MUKUMANYA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Chiuta mundovwire",
+          "ndiŵenge mwana winu",
+          "Pulikani, nkumubeyani."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 244,
@@ -14063,7 +13720,7 @@ export const tumbukaHymns = [
         "stanzer": 4,
         "lines": [
           "Wakatuma Yesu",
-          "kutifwira  ise,",
+          "kutifwira ise,",
           "Kugowokera kwananga",
           "kwithu."
         ]
@@ -14145,22 +13802,22 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 248,
-      "title": "NKHAMUPENJA YESU",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Mponoski msuke, ndiŵe",
-            "mutuŵa.",
-            "Mponoski wane, Yesu",
-            "wapulika."
-          ]
-        }
-      ]
+  {
+    "hymnNo": 248,
+    "title": "NKHAMUPENJA YESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mponoski msuke, ndiŵe",
+          "mutuŵa.",
+          "Mponoski wane, Yesu",
+          "wapulika."
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 249,
@@ -14205,7 +13862,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Nanga  nthowa yende m'mdima , nanga chize chitima",
+          "Nanga nthowa yende m'mdima , nanga chize chitima",
           "Yesu ruta wali nane, iyo wakundikhozga"
         ]
       },
@@ -15127,51 +14784,6 @@ export const tumbukaHymns = [
     ]
   },
   {
-    "hymnNo": 267,
-    "title": "UYU YESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "267 UYU YESU",
-          "uyu Yesu, uyu Yesu wiza",
-          "mu mutima wane",
-          "Viheni vyose vifume,",
-          "Yesu yekha wakharemo;",
-          "Mtima wane ndapereka",
-          "kwa Yesu Mponoski",
-          "wane."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Uyu Yesu, uyu Yesu wiza",
-          "mu mutima wane",
-          "Sono wafumye Satana",
-          "muno mu mutima wane.",
-          "Sono vyose ndapereka",
-          "kwa yesu Mponoski",
-          "wane."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wakimirira,",
-          "wakakung'uska ku mutima wane.",
-          "Na mawoko agho ghakakhomeka",
-          "pa champhinjika.",
-          "Nkhiza, nkamjurira",
-          "nkati, NJiraninge, Fumu",
-          "yane."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 268,
     "title": "PA ULENDO WA NYIFWA",
     "creator": "Unknown",
@@ -15776,7 +15388,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "279  NKHUMANYA M'KHUNDICHINTISKA",
+          "279 NKHUMANYA M'KHUNDICHINTISKA",
           "Nkhumanya m'khundichintiska",
           "Muponoski wane,",
           "Mose umo mwakanda",
@@ -15944,15 +15556,15 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 282,
-    "title": "MWE YEBEVA WA  LUSUNGU",
+    "title": "MWE YEBEVA WA LUSUNGU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "282 MWE YEBEVA WA  LUSUNGU",
-          "Mwe Yebeva wa  lusungu, m’ndilongore",
+          "282 MWE YEBEVA WA LUSUNGU",
+          "Mwe Yebeva wa lusungu, m’ndilongore",
           "wezi;",
           "Mufumye uheni wane,",
           "nkhumurombani mwe"
@@ -16020,7 +15632,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "283  MUNGARAZGANGA",
+          "283 MUNGARAZGANGA",
           "Mungarazganga",
           "nkhonyoro ku ŵanthu ŵa",
           "soni.",
@@ -16297,15 +15909,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 299,
-    "title": ".......................",
+    "title": "Chiuta wapangana kale,",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "299",
-          "5",
           "Chiuta wapangana kale,",
           "Warekaso uli kovwira ?",
           "Ndi njani uyo",
@@ -16317,7 +15927,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "6",
           "Yumo ndiyo",
           "wakanangiska",
           "Ba Ku msasa wa ŵa",
@@ -16912,10 +16521,8 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "3",
           "Msungi wa lsrael,",
           "Msungirire ŵanthu ŵinu",
-          "4",
           "M'batozge na moto,",
           "Viheni vyose muvyoce,"
         ]
@@ -16923,7 +16530,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "5 .",
+          "5 .",
           "Muliska wa wanthu",
           "Liskani ŵa mpingo winu.",
           "6.",
@@ -17022,7 +16629,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "312  A CHIUTA MU UCHIZI WINE",
+          "312 A CHIUTA MU UCHIZI WINE",
           "A Chiuta mu uchizi wine",
           "Ndiza sono panthazi",
           "pinu;",
@@ -17120,14 +16727,14 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 314,
-    "title": "ŴATUŴA  AŴO",
+    "title": "ŴATUŴA AŴO",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "314 ŴATUŴA  AŴO",
+          "314 ŴATUŴA AŴO",
           "ŵatuŵa aŵo",
           "ŵakazomera Fumu yaŵo",
           "pantazi pa ŵantu",
@@ -17579,7 +17186,7 @@ export const tumbukaHymns = [
         "stanzer": 3,
         "lines": [
           "Dango lipya nkumpani",
-          "kuti  m’temwane,",
+          "kuti m’temwane,",
           "Kuti ŵanthu ŵamanye",
           "muli ŵa ine",
           "Uvwe mundatemwane",
@@ -18096,7 +17703,6 @@ export const tumbukaHymns = [
           "2.",
           "Kulije ukazuzi na ntonto;",
           "Na kwananga kulije kuchanya.",
-          "3",
           "Nthenda nazo kulije",
           "kuchanya",
           "Na urwari kulije kuchanya"
@@ -18195,13 +17801,13 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Kweni mujivikire usambazi kuchanya uko  wali kuruta chirongozgi winu"
+          "Kweni mujivikire usambazi kuchanya uko wali kuruta chirongozgi winu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ŵaliposo Ŵarwani pawaro na mukati yesu  mutijarire tamkumwimbirani"
+          "Ŵaliposo Ŵarwani pawaro na mukati yesu mutijarire tamkumwimbirani"
         ]
       }
     ]
@@ -18258,7 +17864,7 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 334,
-    "title": "Para milimo yane  yamara para",
+    "title": "Para milimo yane yamara para",
     "creator": "Unknown",
     "chorus": [
       "Nadi uwo mbuchindami, ucindami, uchindami; apo ndiwonenge chisko chake, uchindami tiuŴenge wane"
@@ -18267,8 +17873,8 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "334 PARA MILIMO YANE  YAMARA PARA",
-          "Para milimo yane  yamara para ndafika kusirya kura, kuba pafupi na fumu yane ndiko mbuchindami uchindami"
+          "334 PARA MILIMO YANE YAMARA PARA",
+          "Para milimo yane yamara para ndafika kusirya kura, kuba pafupi na fumu yane ndiko mbuchindami uchindami"
         ]
       },
       {
@@ -18356,7 +17962,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Pa mronga  wakung’azima,",
+          "Pa mronga wakung’azima,",
           "kayilole wa mponoski Ŵatuba bamkwimba wezi nyifwa ntha tiyibapatule"
         ]
       },
@@ -18424,7 +18030,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndizamfika, ndizamfika kura kuchanya, na yesu tizamkukondwa  pa kumwona kuchanya ‘ko"
+          "Ndizamfika, ndizamfika kura kuchanya, na yesu tizamkukondwa pa kumwona kuchanya ‘ko"
         ]
       }
     ]
@@ -18477,7 +18083,7 @@ export const tumbukaHymns = [
         "lines": [
           "340 MAZGU AGHO CHIUTA WAKANENA",
           "Mazgu agho chiuta wakanena kale mu munda wa edeni nagho lero;",
-          "chiuta wakawuzga nthengwa  yakudanga, wakatumbika Ŵanthu, wakumbike lero"
+          "chiuta wakawuzga nthengwa yakudanga, wakatumbika Ŵanthu, wakumbike lero"
         ]
       },
       {
@@ -18717,7 +18323,7 @@ export const tumbukaHymns = [
           "mphepo na mayigha;",
           "Wakulera tuyuni,",
           "watozga maluŵa,",
-          "Kwakuruska  kwa ise",
+          "Kwakuruska kwa ise",
           "wakupa vyakurya."
         ]
       },
@@ -18787,20 +18393,20 @@ export const tumbukaHymns = [
       }
     ]
   },
-    {
-      "hymnNo": 346,
-      "title": "TIMWIMBIRE CHIUTA SUMU",
-      "creator": "Unknown",
-      "chorus": null,
-      "stanzers": [
-        {
-          "stanzer": 1,
-          "lines": [
-            "Uchindami kwa Dada,mafuko ghose ghimbe",
-            "chorus.Lusungu lwake ndwa ndanda,Ndwa magomezgeko swi"
-          ]
-        }
-      ]
+  {
+    "hymnNo": 346,
+    "title": "TIMWIMBIRE CHIUTA SUMU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Uchindami kwa Dada,mafuko ghose ghimbe",
+          "chorus.Lusungu lwake ndwa ndanda,Ndwa magomezgeko swi"
+        ]
+      }
+    ]
   },
   {
     "hymnNo": 347,
@@ -18922,7 +18528,7 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 354,
-    "title": "Hymn 354",
+    "title": "dozgu ngatuwa",
     "creator": "Unknown",
     "chorus": [
       "dozgu ngatuwa",
@@ -18935,8 +18541,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "353",
-          "353",
           "dazgu taghapulika",
           "Fumu mughatumbike,",
           "haticonthe mu mtima,",
@@ -18974,14 +18578,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 356,
-    "title": "Hymn 356",
+    "title": "Dazi la Mzimu, Mtaaki",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "356",
           "1 Dazi la Mzimu, Mtaaki",
           "awe",
           "Mulipo, mdima palive,",
@@ -19119,7 +18722,7 @@ export const tumbukaHymns = [
           "358 A YESU FUMU LATEZUKA",
           "A yesu fumu latezuka",
           "Dazi ilo mwangutipa,",
-          "na  mlenji",
+          "na mlenji",
           "tangumchindikani, sono",
           "tikumwimbirani"
         ]
@@ -19169,15 +18772,14 @@ export const tumbukaHymns = [
     ]
   },
   {
-    "hymnNo": 358,
-    "title": ",,",
+    "hymnNo": "358B",
+    "title": "A Yesi titumbike",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "358",
           "1 A Yesi titumbike",
           "njizgani mazgu",
           "m nitima",
@@ -19245,7 +18847,7 @@ export const tumbukaHymns = [
         "lines": [
           "359 FUMU M'TIPATUSKE",
           "Fumu m'tipatuske",
-          "wengu,  m’tizugze na",
+          "wengu, m’tizugze na",
           "kukondwa;",
           "Tibe na kutemwa kwinu",
           "titondere mu wezi;",
@@ -19309,7 +18911,6 @@ export const tumbukaHymns = [
           "Dazi likunjira kukufipa,",
           "We wa mtima wane,",
           "Pereke Chisopo,",
-          "2",
           "Umo Kristu m’nyifwa ya",
           "mphinjika",
           "Wakarombera Wiske",
@@ -19358,7 +18959,7 @@ export const tumbukaHymns = [
           "362 ŴADADA MUTUMBIKE",
           "1.",
           "ŵadada mutumbike mulimo uwo tachita",
-          "Mulaŵiske ŵose aŵo ŵapulika  mazgu ghinu",
+          "Mulaŵiske ŵose aŵo ŵapulika mazgu ghinu",
           "2.",
           "Mutumbike mazgu ghina, ghapambike",
           "Visoro ndiawe mweka",
@@ -19496,12 +19097,10 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "3",
           "Mlengi wa dazi, mwezi",
           "na nyenyezi,",
           "Fumu ya maŵingu,",
           "Wanditemwa.",
-          "4",
           "Mlengi wa vyose vya pasi",
           "na mdera,",
           "Chihanya, chifuko",
@@ -19549,7 +19148,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "366 YESU WAKAŴA MJEDU",
+          "366 YESU WAKAŴA MJEDU",
           "Yesu wakaŵa mjedu mu",
           "Betelehem;",
           "ŵangelo ŵakaphara",
@@ -19840,7 +19439,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Muwongani  mose mwe mwa twana, chiuta nkutemwa."
+          "Muwongani mose mwe mwa twana, chiuta nkutemwa."
         ]
       },
       {
@@ -19921,7 +19520,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "376  MUKUTIPA ISE DAZI",
+          "376 MUKUTIPA ISE DAZI",
           "mukutipa ise dazi, tikumwongani dada; mwezi na nyenyezi zose,",
           "tikumwongani dada;",
           "maluŵa ghose ghaweme agho ghakumera m’munda na tuyuni twa mudera, tikumwongani dada"
@@ -19940,7 +19539,7 @@ export const tumbukaHymns = [
         "lines": [
           "Mukatipa yesu khristu, tikumwo ngani dada;",
           "wakiza muno mu charu, tikumwongani dada",
-          "wakatifwira ta banthu ndiyo  muponoski withu.",
+          "wakatifwira ta banthu ndiyo muponoski withu.",
           "Uyo wakutitemwa swi, tikumwongani dada"
         ]
       }
@@ -20030,21 +19629,20 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 380,
-    "title": "Hymn 380",
+    "title": "Ka iwe ukumanya kubereuga maluba? Agho ghakumera m’tondo na...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "380",
           "Ka iwe ukumanya kubereuga maluba? Agho ghakumera m’tondo na ghakutoweska charu leza wakaghalenga"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ka we ukumanya kuberenga  tuyuni? Tukupururuka muchanya tukwimba mose m’makuni, leza wakatulenga"
+          "Ka we ukumanya kuberenga tuyuni? Tukupururuka muchanya tukwimba mose m’makuni, leza wakatulenga"
         ]
       },
       {
@@ -20064,14 +19662,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 381,
-    "title": "Hymn 381",
+    "title": "Wona tuyuni tose tukwimba mu makuni. Ndiri mwana wa yesu,...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "381",
           "Wona tuyuni tose tukwimba mu makuni. Ndiri mwana wa yesu, naneso nkhumwimbira"
         ]
       },
@@ -20084,7 +19681,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mwe tuyuni tukwimba nanga tube  na njara ndiri mwana wa yesu, mu suzgo nditimrumbe"
+          "Mwe tuyuni tukwimba nanga tube na njara ndiri mwana wa yesu, mu suzgo nditimrumbe"
         ]
       },
       {
@@ -20109,14 +19706,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 382,
-    "title": "Hymn 382",
+    "title": "Ka chiuta wakupulika kuromba kwa mwana? Inya nadi, mwana...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "382",
           "Ka chiuta wakupulika kuromba kwa mwana? Inya nadi, mwana wane, wakupulikizga"
         ]
       },
@@ -20136,14 +19732,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 383,
-    "title": "Hymn 383",
+    "title": "A yesu mukukhara pa chizumbi ku chanya ; m’tilabiske na...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "383",
           "A yesu mukukhara pa chizumbi ku chanya ; m’tilabiske na wezi; m’tipulike yesu"
         ]
       },
@@ -20187,14 +19782,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 384,
-    "title": "Hymn 384",
+    "title": "Mponoski nga ndi muliska m’tiro ngozge makora; m’luhari...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "384",
           "Mponoski nga ndi muliska m’tiro ngozge makora; m’luhari lwinu luweme; tibe m’lukutu lwinu. Fumu yesu, fumu yesu, tiriwinu mwagula"
         ]
       },
@@ -20207,7 +19801,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mwalayizga kutitora, nanga tiwa waheni; mu na wezi kupotora, Fumu yesu,  Fumu yesu mwatitemwa, m’temwenge"
+          "Mwalayizga kutitora, nanga tiwa waheni; mu na wezi kupotora, Fumu yesu, Fumu yesu mwatitemwa, m’temwenge"
         ]
       },
       {
@@ -20220,14 +19814,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 385,
-    "title": "Hymn 385",
+    "title": "Mwa wana wa kuchanya uku m’kwenda mwimbenge; mwimbirenge...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "385",
           "Mwa wana wa kuchanya uku m’kwenda mwimbenge; mwimbirenge mponoski, wakuruska m’tuwa, lwendo kuya kuchanya wakendamo wadada; mbakucha sono iwo, tamwona kucha kwawo"
         ]
       },
@@ -20247,14 +19840,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 386,
-    "title": "Hymn 386",
+    "title": "Yesu wa kuchanya mutipulike, para tikulamba kumchindikani",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "386",
           "Yesu wa kuchanya mutipulike, para tikulamba kumchindikani"
         ]
       },
@@ -20286,7 +19878,7 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 387,
-    "title": "Hymn 387",
+    "title": "Yesu wakunditemwa ine inya ine, inya ine, nkusekera,...",
     "creator": "Unknown",
     "chorus": [
       "Yesu wakunditemwa ine inya ine, inya ine, nkusekera, wakunditemwa, yesu wakutemwa"
@@ -20295,7 +19887,6 @@ export const tumbukaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "387",
           "Nkukondwe kuti chiuta, dada, wandinenera wakunditemwa; mazgu ghaweme; mazgu ghaweme, ghakuzizwiska ghakuti yesu wakunditemwa"
         ]
       },
@@ -20321,14 +19912,13 @@ export const tumbukaHymns = [
   },
   {
     "hymnNo": 388,
-    "title": "Hymn 388",
+    "title": "ŵanyina na twana ŵakamwizira yesu, ndipo basambiri...",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "388",
           "ŵanyina na twana ŵakamwizira yesu, ndipo basambiri ŵakabakanizganga; kweni yesu wakawona wakaŵaso na lusungu; rekani twana twize kwa ine"
         ]
       },
@@ -20518,7 +20108,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mungopanga, mulabiske dada, wakovwira  bakuvuka lubiro, wakovwira lubiro"
+          "Mungopanga, mulabiske dada, wakovwira bakuvuka lubiro, wakovwira lubiro"
         ]
       },
       {
@@ -20631,7 +20221,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Maso ku charu cho ghakuzota; mwenecho watemwa ŵana bake; tiyeni, tendenge ku chindami wa  kura, uko nkwakuzirwa m’ruta-ruta"
+          "Maso ku charu cho ghakuzota; mwenecho watemwa ŵana bake; tiyeni, tendenge ku chindami wa kura, uko nkwakuzirwa m’ruta-ruta"
         ]
       }
     ]
@@ -20646,7 +20236,7 @@ export const tumbukaHymns = [
         "stanzer": 1,
         "lines": [
           "398 MAWOKO GHATEBETERE ULI FUMU YESU",
-          "Mawoko ghatebetere uli fumu yesu? Ghalimenge  tumilimo twakovwirira ŵakavu, ndimo ghachitire"
+          "Mawoko ghatebetere uli fumu yesu? Ghalimenge tumilimo twakovwirira ŵakavu, ndimo ghachitire"
         ]
       },
       {
@@ -20693,7 +20283,7 @@ export const tumbukaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Twana tose tukumtemwa,  tukutemwa yesu, ndivyo nyuma vyakuzirwa, vyakutemweka"
+          "Twana tose tukumtemwa, tukutemwa yesu, ndivyo nyuma vyakuzirwa, vyakutemweka"
         ]
       }
     ]
@@ -20770,4 +20360,4 @@ export const tumbukaHymns = [
       }
     ]
   }
-]
+];

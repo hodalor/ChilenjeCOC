@@ -1,4 +1,4 @@
-// Auto-generated Chewa hymns data
+// Chewa hymns
 export const chewaHymns = [
   {
     "hymnNo": 1,
@@ -11,9 +11,9 @@ export const chewaHymns = [
         "lines": [
           "Ndinu wakuyera",
           "E, wamphamvu zonse.",
-          "Nthawi ya m’mamawayi ",
+          "Nthawi ya m’mamawayi",
           "Tiimba nyimboyi.",
-          "Mlengi wachifundo, ",
+          "Mlengi wachifundo,",
           "Tikuyamikani,",
           "E! Mlungu Mmodzi",
           "Mwa Atatuwo."
@@ -22,12 +22,12 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndinu wakuyera! ",
-          "Anthu ochuluka ",
-          "Akuimbirani, ",
+          "Ndinu wakuyera!",
+          "Anthu ochuluka",
+          "Akuimbirani,",
           "Nakupempheranibe;",
-          "Akumwamba omwe, ",
-          "Nagwadira Inu, ",
+          "Akumwamba omwe,",
+          "Nagwadira Inu,",
           "Wachikhalire",
           "Ndi wosafa ‘yi."
         ]
@@ -36,7 +36,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Ndinu wakuyera!",
-          "Ife akuchimwa ",
+          "Ife akuchimwa",
           "Zaulemerero zanu",
           "Sitiona ‘yi;",
           "Mwayeradi nokha,",
@@ -49,7 +49,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Ndinu wakuyera!",
-          "Zakumwamba zonse ",
+          "Zakumwamba zonse",
           "Ndi zapansi zitamabe",
           "Dzina lanulo",
           "Mlengi wachifundo.",
@@ -71,15 +71,15 @@ export const chewaHymns = [
         "lines": [
           "Inu Mulungu, tikuyamikani;",
           "Tibvomereza ndinu Ambuyathu;",
-          "Ponse, Atate, akugwadirani, ",
+          "Ponse, Atate, akugwadirani,",
           "Ndinu wamuyaya!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nanu akukuzani  amithenga,",
-          "Nanu zam’mwamba ndi zamphamvu  zake,",
+          "Nanu akukuzani amithenga,",
+          "Nanu zam’mwamba ndi zamphamvu zake,",
           "Nanu angelo a mitundu yonse",
           "Akuimbirani!"
         ]
@@ -96,9 +96,9 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Nanu Atumwi akumveka  aja,",
+          "Nanu Atumwi akumveka aja,",
           "Ndi Aneneri oyanjana omwe,",
-          "Ndi aunyinji anakuferani ",
+          "Ndi aunyinji anakuferani",
           "Akuyamikani."
         ]
       },
@@ -106,14 +106,14 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Mpingo woyera wa kwa anthu onse",
-          "Ukumverani, Mfumu ndi Atate, ",
+          "Ukumverani, Mfumu ndi Atate,",
           "Mwana woona wa ulemu wonse, Mzimu Nkhoswe yemwe."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Kristu Mfumuyo  yaulemerero! ",
+          "Kristu Mfumuyo yaulemerero!",
           "Mwana wosatha wa Atate ndinu!",
           "Simunanyoza mimba ya Namwali",
           "Potipulumutsa."
@@ -122,8 +122,8 @@ export const chewaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "Imfa mutagonjetsa ndi zowawa, ",
-          "Njira munatsegula tikalowe ",
+          "Imfa mutagonjetsa ndi zowawa,",
+          "Njira munatsegula tikalowe",
           "Momwe mukhala Inu ndi Atate Mwaulemerero."
         ]
       },
@@ -140,7 +140,7 @@ export const chewaHymns = [
         "lines": [
           "Mtiwerengere m'Mwamba ndi oyera;",
           "Mutidalitse, ndife anthu anu;",
-          "Moyo wosatha mutipatse tonse, ",
+          "Moyo wosatha mutipatse tonse,",
           "Mutilamulire."
         ]
       },
@@ -156,7 +156,7 @@ export const chewaHymns = [
       {
         "stanzer": 11,
         "lines": [
-          "Mbuye, chifundo chanu chitigwere ",
+          "Mbuye, chifundo chanu chitigwere",
           "Monga tikhulupira Inu nokha;",
           "Ndakhulupira zedi mwanu, Mbuye,",
           "Ndisagome konse!"
@@ -185,7 +185,7 @@ export const chewaHymns = [
           "Ambuye Yesu, Inutu",
           "Munabadwira anthu 'fe;",
           "Munatifera tonsefe;",
-          "Tiyamikira Inutu. "
+          "Tiyamikira Inutu."
         ]
       },
       {
@@ -236,9 +236,9 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Mlemekeze, anakonda Natitsuka m'mtima mwathu; Anatiombola ife",
-          "Tikakhale ndi chifumu. ",
-          "Lemekeza, lemekeza, Yesu Mbuye Nsembeyo.Mlemekeze, anakonda",
-          "Natitsuka m'mtima mwathu; Anatiombola ifeTikakhale ndi chifumu. Lemekeza, lemekeza,",
+          "Tikakhale ndi chifumu.",
+          "Lemekeza, lemekeza, Yesu Mbuye Nsembeyo. Mlemekeze, anakonda",
+          "Natitsuka m'mtima mwathu; Anatiombola ife Tikakhale ndi chifumu. Lemekeza, lemekeza,",
           "Yesu Mbuye Nsembeyo."
         ]
       }
@@ -272,7 +272,7 @@ export const chewaHymns = [
         "lines": [
           "Ndi Aleluya imbirani",
           "Mzimu wake Wakuyera,",
-          "Amakhala nafe. ",
+          "Amakhala nafe.",
           "Atilangiza za Mulungu,",
           "Nayeretsanso mitima",
           "Ya akhristu ife."
@@ -359,7 +359,7 @@ export const chewaHymns = [
         "stanzer": 9,
         "lines": [
           "Akulu nonse ndi mafumu 'nu,",
-          "Magulu nonse apadzikopa, Mulemekeze  Mbuye yemweyo: Aleluya."
+          "Magulu nonse apadzikopa, Mulemekeze Mbuye yemweyo: Aleluya."
         ]
       },
       {
@@ -380,12 +380,12 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Tamani Ambuye, ",
+          "Tamani Ambuye,",
           "Wamphamvu ndi Iye,",
-          "Akhala m'ulemu ",
-          "Kumwamba komweko; Chikopa cholimba'",
-          "Ndi kothawiranso ",
-          "Kwa anthu akewo, ",
+          "Akhala m'ulemu",
+          "Kumwamba komweko; Chikopa cholimba",
+          "Ndi kothawiranso",
+          "Kwa anthu akewo,",
           "Kotero ndi Mlungu."
         ]
       },
@@ -394,11 +394,11 @@ export const chewaHymns = [
         "lines": [
           "Uzani zamphamvu,",
           "Imbani chisomo,",
-          "Za Mwini ulemu, ",
-          "Ambuye wathuyo; ",
+          "Za Mwini ulemu,",
+          "Ambuye wathuyo;",
           "Powomba chimphepo",
           "Mvulanso ndi bingu",
-          "Padziko, pathambo, ",
+          "Padziko, pathambo,",
           "Akhala ponsepo."
         ]
       },
@@ -406,11 +406,11 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Zozizwa za m'dziko,",
-          "Za m'mwamba zonsezi. ",
+          "Za m'mwamba zonsezi.",
           "Mulungu wamphamvu, Munalenga zonse;",
-          "Muyendetsa mwezi ",
+          "Muyendetsa mwezi",
           "Nyenyezi ndi dzuwa;",
-          "Zolengedwa zonse ",
+          "Zolengedwa zonse",
           "Zimvera Ambuye."
         ]
       },
@@ -419,8 +419,8 @@ export const chewaHymns = [
         "lines": [
           "Sititha ifedi",
           "Kukamba zokoma",
-          "Za Inu Mulungu ",
-          "Wolera anthuwa; ",
+          "Za Inu Mulungu",
+          "Wolera anthuwa;",
           "Zifika ndi mphepo",
           "Ndi mvula ndi dzuwa,",
           "Zigwera ponsepo",
@@ -432,10 +432,10 @@ export const chewaHymns = [
         "lines": [
           "Wamphamvu yosatha,",
           "Chikondi changwiro,",
-          "Angelo akonda ",
+          "Angelo akonda",
           "Kutama Mulungu;",
           "Ndiponso ifetu",
-          "Ananu tonsefe ",
+          "Ananu tonsefe",
           "Tiimba nyimboyi",
           "Yotama Ambuye."
         ]
@@ -465,7 +465,7 @@ export const chewaHymns = [
           "Mtendere wakewo",
           "Ukhale m'mtima mwathu; Timtsate Iyedi",
           "Ndi nsoni zakezo,",
-          "Panjira yakeyi ",
+          "Panjira yakeyi",
           "Masiku onsewo"
         ]
       },
@@ -473,10 +473,10 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Tilemekezetu",
-          "Atate Wakumwamba, ",
-          "Ndi Yesu Mbuyathu, ",
-          "Ndi Mzimu Wakuyera; ",
-          "Mulungu Mmodziyu ",
+          "Atate Wakumwamba,",
+          "Ndi Yesu Mbuyathu,",
+          "Ndi Mzimu Wakuyera;",
+          "Mulungu Mmodziyu",
           "Wanthawi zonsezo, Timlemekezetu",
           "Masiku onsewo."
         ]
@@ -485,7 +485,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 9,
-    "title": "Ndi mitima yokondwera",
+    "title": "NDI MITIMA YOKONDWERA",
     "creator": "Unknown",
     "chorus": [
       "E, chifundo chake chonse",
@@ -517,7 +517,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Anatsogorera kale",
-          "M'chipululu anthu ake."
+          "M’chipululu anthu ake."
         ]
       },
       {
@@ -552,7 +552,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 10,
-    "title": "NDITAMATU AMBUYANGAYU",
+    "title": "nditamatu ambuyangayu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -560,8 +560,7 @@ export const chewaHymns = [
         "stanzer": 1,
         "lines": [
           "Nditamatu Ambuyangayu,",
-          "Moyo wanga wonse ndidzamtamatu, Ndiponso",
-          "m'dziko lakumwambako; Masiku anga onse ndidzamlemekeza",
+          "Moyo wanga wonse ndidzamtamatu, Ndiponso m'dziko lakumwambako; Masiku anga onse ndidzamlemekeza",
           "Iye; Sindidzaleka konsekonse m'mene ndili m'moyotu,",
           "Padziko pano pena m'Mwambamo."
         ]
@@ -569,10 +568,9 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndiye wokondwa, e, munthuyo",
-          "Wokhulupirira Mlungu yekhadi, wolenga dziko, nyanja, zonsezi;",
-          "Choona chake chonse chingokhalatu chosatha;",
-          "Apulumutsa onse namadyetsa anthu akewo,",
+          "Ndiye wokondwa, E, munthuyo",
+          "Wokhulupirira Mlungu yekhadi, Wolenga dziko, nyanja, zonsezi; Choona chake chonse chingokhalatu chosatha; Apulumutsa onse namadyetsa anthu..",
+          "akewo,",
           "Wokonda ndiye Mbuye wathuyo."
         ]
       },
@@ -581,7 +579,7 @@ export const chewaHymns = [
         "lines": [
           "Mlungu kuona athiratu",
           "Inde m'maso awo osapenyawo.",
-          "Natuma akumvera mpumulo; amathandiza inde aulendo ofokatu,",
+          "Natuma akumvera mpumulo; Amathandiza inde aulendo ofokatu,",
           "Akazi amasiye maka ndi anawo onsewo,",
           "Olira atonthoza mtimadi."
         ]
@@ -590,7 +588,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Nditamatu Ambuyangayu,",
-          "Moyo wanga wonse ndidzamtamatu ndiponso m'dziko lakumwamba;",
+          "Moyo wanga wonse ndidzamtamatu Ndiponso m'dziko lakumwamba;",
           "Masiku anga onse ndidzamlemekeza Iye;",
           "Sindidzaleka konsekonse m'mene ndili m'moyotu,",
           "Padziko pano pena m'Mwambamo."
@@ -609,48 +607,48 @@ export const chewaHymns = [
         "lines": [
           "paphiri ndi padambo,",
           "Ponsepo pali Mlungu,",
-          "Poyenda ife m’njira, ",
+          "Poyenda ife m’njira,",
           "Mpoima pali Mlungu;",
-          "Kokwera maganizo, ",
+          "Kokwera maganizo,",
           "Komweko kuli Mlungu,",
           "Kumwamba ndi pansipo,",
-          "Ponsepo pali Mlungu  "
+          "Ponsepo pali Mlungu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Ndi maso Ambuyathu,",
-          "Apenyetsetsa ife; ",
-          "Amadalitsa onse, ",
+          "Apenyetsetsa ife;",
+          "Amadalitsa onse,",
           "Okhulupira Iye;",
           "Amamva timbalame,",
           "Nabveka dziko lonse;",
-          "Sataya tizirombo, ",
+          "Sataya tizirombo,",
           "Asunga zina zonse"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Okwawa pansi inu, ",
+          "Okwawa pansi inu,",
           "Oyenda m’madzi inu,",
-          "Oyesa dziko nkwanu, ",
+          "Oyesa dziko nkwanu,",
           "Am’mlengalenga inu,",
           "Nonsenu ntchito zake,",
           "Muona tsiku n’tsiku,",
-          "Saleka kusamala, ",
+          "Saleka kusamala,",
           "Ndi kudalitsa inu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Nditama mphamvu yake, ",
+          "Nditama mphamvu yake,",
           "Ya Mlungu yondizinga;",
-          "N’kafoka an’limbitsa, ",
+          "N’kafoka an’limbitsa,",
           "N’kadwala andichiza.",
-          "Pakundisiya bwenzi, ",
+          "Pakundisiya bwenzi,",
           "Mulungu ali paja;",
           "N’Kalowa imfa ine",
           "Alipo Mlungu wanga"
@@ -682,7 +680,7 @@ export const chewaHymns = [
           "Tiyamike Mlungu wathu",
           "Kaamba ka chifundocho;",
           "Nthawi zonse sasanduka",
-          " Mlungu wathu yemweyo."
+          "Mlungu wathu yemweyo."
         ]
       },
       {
@@ -707,7 +705,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 13,
-    "title": "YEHOVA NDIYE MBUSA",
+    "title": "Yehova ndiye mbusa wanga",
     "creator": "Unknown",
     "chorus": [
       "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
@@ -752,106 +750,22 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 13,
-    "title": ".Yehova ndiye mbusa wanga",
-    "creator": "Unknown",
-    "chorus": [
-      "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "13 Yehova ndiye mbusa wanga",
-          "Yehova ndiye mbusa wanga, sin’ngasowe konse; andigonetsa pali busa la misipu yonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Kumadzi kuli njiratu andiyendetse bwino, nalimbikitsa moyo wanga ndi chifundo chino."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Pebande lolunjika andilondolera njika; chifukwacho cha dzina lake anandisungira."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Chigwa choopsacho cha imfa ndikachilowera, ndilibe mantha, muli ndine, ndodo ndiigwira"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "Pamaso pa ananiwo mwayala gome langa; E, mutu mwaudzoza, chisefuka chikho changa"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Zabwino ndi zokoma zinditsata chitsatire; e m’nyumba ya yehova ndidzakhala chikhalie"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Ndiye mbusa wanga, ndiye mbusa wanga! Yehova ndiye mbusa wanga, sin’ngasosowe konse"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 14,
-    "title": "MTIMA WANGA LEMEKEZA",
+    "title": "Mtima wanga lemekeza mlungu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "14 Mtima wanga lemekeza mlungu",
-          "Mtima wanga lemekeza mlungu wako ndi chimwemwe. Nthawi zonse ndimtamanda; ndimwimbira nyimbo zanga. Moyo,mphamvu, nzeru zones, zidzamlemekeza konse."
+          "Mtima wanga lemekeza mlungu wako ndi chimwemwe. Nthawi zonse ndimtamanda;",
+          "ndimwimbira nyimbo zanga. Moyo,mphamvu, nzeru zones, zidzamlemekeza konse."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Namthandiza mbuye wake, akachita mantha iye amchotsera nkhawa yake ndipo likamgwera tsoka amakhulupira kokha",
-          "di wamwayi munthu uja"
+          "Namthandiza mbuye wake, akachita mantha iye amchotsera nkhawa yake ndipo likamgwera tsoka amakhulupira kokha di wamwayi munthu uja"
         ]
       },
       {
@@ -863,152 +777,48 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndiye mbuye wa ambuye; mphamvu yake ndi yokwana, adzakhala chikhalire, mfumu yathu yopambana, aleuya! Kondwerani! Mlungu wathu yamikani!"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 14,
-    "title": ".Mtima wanga lemekeza mlungu",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "14 Mtima wanga lemekeza mlungu",
-          "Mtima wanga lemekeza mlungu wako ndi chimwemwe. Nthawi zonse ndimtamanda; ndimwimbira nyimbo zanga. Moyo,mphamvu, nzeru zones, zidzamlemekeza konse."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Namthandiza mbuye wake, akachita mantha iye amchotsera nkhawa yake ndipo likamgwera tsoka amakhulupira kokha",
-          "di wamwayi munthu uja"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Mbuye ndiye wachifundo, achiritsa akudwala anayamula akufoka nawadyetsatu anjala.wakusunga mlendo ndiye nathandiza amasiye."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ndiye mbuye wa ambuye; mphamvu yake ndi yokwana, adzakhala chikhalire, mfumu yathu yopambana, aleuya! Kondwerani! Mlungu wathu yamikani!"
+          "Ndiye mbuye wa ambuye; mphamvu yake ndi yokwana,",
+          "adzakhala chikhalire, mfumu yathu yopambana, aleuya! Kondwerani! Mlungu wathu yamikani!"
         ]
       }
     ]
   },
   {
     "hymnNo": 15,
-    "title": "MULUNGU NDIYE MBUSA WANGA",
+    "title": "Munlugu ndiye mbusa wanga",
     "creator": "Unknown",
     "chorus": [
-      "Ndiye mbusa wanga, Ndiye mbusa wanga!",
-      "Mulungu ndiye mbusa wanga sindisowa konse."
+      "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "15.Munlugu ndiye mbusa wanga",
-          "Mulungu ndiye mbusa wanga, sindisowa konse; amandiweta nandidyesa nandipatsa zonse"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "M'mitsinje yamtendere mtima wanga aumwetsa; mapazi omwe m'njira yolungama nayendetsa"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Za m'dima imfa, nkhondo ndi zoipa sindiopa; Ndikakhumudwa ndi kutopa, andimpulumutsa."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Pondwala ine povutidwa andisamalira; pondisauts'andani anga nandithangatira."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Chisomo ndi zokoma zake sizileka konse; Ndi m'nyumba ya mulungu ndidzakhala nsiku zonse"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 15,
-    "title": ".Munlugu ndiye mbusa wanga",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "15.Munlugu ndiye mbusa wanga",
           "Mulungu ndiye mbusa wanga , sindisowa konse; amandiweta nandidyesa nandipatsa zonse"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
+          "M’mitsinje yamtendere mtima wanga aumwetsa; mapazi omwe m’njira yolungama nayendetsa"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "M’mitsinje yamtendere mtima wanga aumwetsa; mapazi omwe m’njira  yolungama nayendetsa"
+          "Za m’mdima imfa , nkhondo ndi zoipa sindiopa ; Ndikakhumudwa ndi kutopa, andimpulumutsa."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
+          "Pondwala ine povutidwa andisamalira; pondisauts’andani anga nandithangatira."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Za m’mdima imfa , nkhondo ndi zoipa sindiopa ; Ndikakhumudwa ndi kutopa, andimpulumutsa."
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "Pondwala ine povutidwa andisamalira; pondisauts’andani anga nandithangatira."
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
           "Chisomo ndi zokoma zake sizileka konse; Ndi m’nyumba ya mulungu ndidzakhala nsiku zonse"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Ndiye mbusa wanga , Ndiye mbusa wanga! Mulungu ndiye mbusa wanga sindisowa konse ."
         ]
       }
     ]
@@ -1180,7 +990,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Kalelo anthu onse ",
+          "Kalelo anthu onse",
           "Nachimwa kwa Mulungu, Mulungu anaona,",
           "Naona tchimo lawo,",
           "Nafuna kwaononga",
@@ -1192,9 +1002,9 @@ export const chewaHymns = [
         "lines": [
           "Mulungu anatuma,",
           "Natuma Nowa uja,",
-          "Wamanga chombo chake, ",
+          "Wamanga chombo chake,",
           "Ndi chachitalitali,",
-          "Nowayo nayendamo, ",
+          "Nowayo nayendamo,",
           "Nowayo nayendamo."
         ]
       },
@@ -1225,7 +1035,7 @@ export const chewaHymns = [
         "lines": [
           "Kutuma wabwereza,",
           "Natuma nkhunda ija",
-          "Yatsika pamadzipo, ",
+          "Yatsika pamadzipo,",
           "Yathyolatu mayani,",
           "Yampatsa Nowa yemwe,",
           "Yampatsa Nowa yemwe."
@@ -1235,7 +1045,7 @@ export const chewaHymns = [
         "stanzer": 6,
         "lines": [
           "Kalelo Mbuye Yesu",
-          "Nafera anthu onse, ",
+          "Nafera anthu onse,",
           "Ndiyeyo chombo chathu,",
           "Tikabisala mommo,",
           "Tipulumuka mommo, Tipulumuka mommo"
@@ -1265,7 +1075,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Ndikhulupira mwa Ambuye",
-          "Mlungu namukitsa, ",
+          "Mlungu namukitsa,",
           "Imfayo indipulumutsa,",
           "Mwazi undiyeretsa."
         ]
@@ -1274,7 +1084,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Chikondi chake chindidzera",
-          "M'mtima mwanga muno, Chipulumutsa nditalema ",
+          "M'mtima mwanga muno, Chipulumutsa nditalema",
           "Ndi machimo anga."
         ]
       },
@@ -1308,7 +1118,7 @@ export const chewaHymns = [
         "stanzer": 1,
         "lines": [
           "Tiimbe nyimbo zotamanda Mulungu wathu wabwino,",
-          "Pakuti akondana nawo ",
+          "Pakuti akondana nawo",
           "Anthu okhala padziko;",
           "Tero natuma Mwana wake, Wakukondedwa kalelo,",
           "Kutiphunzitsa ife tonse",
@@ -1321,7 +1131,7 @@ export const chewaHymns = [
           "Mulungu ndiye wachifundo,",
           "Nadzalandira onsewa",
           "Akuulula mphulupulu",
-          "Ndi kukondana ndi Yesu, Tilondelonde njira yake, ",
+          "Ndi kukondana ndi Yesu, Tilondelonde njira yake,",
           "Yopapatiza yaing'ono; Adzatilondolera ndiye Kutifikitsa m'Mwambamo."
         ]
       },
@@ -1331,14 +1141,14 @@ export const chewaHymns = [
           "Pakuwoloka mtsinje wa imfa",
           "Dzanja Mbuyathu agwira; Tikadagwira ntchito zake Atipatsatu korona;",
           "Komwe kulibe masauko,",
-          "Pena misozi maliro; ",
+          "Pena misozi maliro;",
           "Mulungu tidzamtamandira,",
           "Inde kosalekezanso."
         ]
       }
     ]
   },
-    {
+  {
     "hymnNo": 22,
     "title": "NDIKONDA MLUNGU POMVA MBUYE",
     "creator": "Unknown",
@@ -1347,28 +1157,26 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndikonda Mlungu pomva Mbuye wanga,",
+          "Ndikonda Mlungu pomva Mbuye wanga",
           "Amva pemphero ndi kulira kwanga,",
-          "Namatchera khutu nditapfuula,",
-          "Andithandiza, nandipulumutsa."
+          "Namatchereza khutu nditapfuula,",
+          "Andithandiza, nandipulumutsa"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mulungu wanga ndiye wachifundo,",
-          "Ndi wolungama, mtima ndi wabwino;",
-          "Apulumutsa anthu akufoka,",
-          "Akathandiza nkhawa imachoka."
+          "Mulungu wanga ndiye wachifundo",
+          "Ndiwolungama mtima ndi wabwino;",
+          "Apulumutsa anthu akufoka, Akathandiza nkhawa imachoka."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mtima wanga, bwera kuti upumule,",
+          "Mtimanga, bwera kuti upumule,",
           "Wakuchitiranso zokoma Mbuye,",
-          "Wakuchotsera imfa ndi misozi,",
-          "Ndingakhumudwe asungira phazi."
+          "Wakuchotsera imfa ndi misozi, Ndingakhumudwe asungira phazi."
         ]
       },
       {
@@ -1385,8 +1193,8 @@ export const chewaHymns = [
         "lines": [
           "Imfa ya anthu ake imkomera,",
           "Awalandira m'nyumba zokonzeka,",
-          "Mbuye, kapolo wanu ndipereka",
-          "Nsembeyi yonga yanu, ndine ndekha."
+          "Mbuye, kapolo wanu ndipereka Nsembeyi yonga yanu,",
+          "ndine ndekha."
         ]
       }
     ]
@@ -1397,7 +1205,7 @@ export const chewaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Timwimbire nyimbo,",
-      "Timwimbire nyimbo! ",
+      "Timwimbire nyimbo!",
       "Kukoma kwake kwatipatsa Zonse tili nazo."
     ],
     "stanzers": [
@@ -1413,7 +1221,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Poyamba paja analenga",
-          "Zonse m'dziko muno, ",
+          "Zonse m'dziko muno,",
           "Tsopano lomwe azisunga",
           "Zonse zili moyo."
         ]
@@ -1422,7 +1230,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Tinasokera ngati nkhosa,",
-          "Moyo tinataya, ",
+          "Moyo tinataya,",
           "Tinakondwera ndi zoipa",
           "Zonse tinatsata."
         ]
@@ -1431,7 +1239,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Komweko titasaukira,",
-          "Titafuna kufa, ",
+          "Titafuna kufa,",
           "Atate anatilondola",
           "Naitana ife."
         ]
@@ -1459,7 +1267,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Oonadi mtima",
+          "Oonadi mtima",
           "Dzani mokondwera,",
           "Tiyeni, tiyeni ku Betelehemu; Modyera ng'ombe",
           "Muli Mfumu yathu."
@@ -1479,7 +1287,7 @@ export const chewaHymns = [
         "lines": [
           "Angelo kwezani",
           "Nyimbo zanu zonse,",
-          "M'mwambamo mumveke zoyamikazo; ",
+          "M'mwambamo mumveke zoyamikazo;",
           "Lemekezani",
           "Mlungu Wakumwamba."
         ]
@@ -1504,78 +1312,62 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Ndilikulemekeza",
-          "Ambuye Mpulumutsi wanga; Moyo ndi mtima wanga",
-          "ndilikukondwa mwa Mulungu."
+          "Ndilikulemekeza",
+          "Ambuye Mpulumutsi wanga; Moyo ndi mtima wanga ndilikukondwa mwa Mulungu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndiye anayang'ana",
-          "umphawi wa mdzakazi wake; Onse adzandiyesa",
-          "ine wodala nsiku zonse."
+          "Ndiye anayang'ana umphawi wa mdzakazi wake; Onse adzandiyesa ine wodala nsiku zonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "MNdiye wamphamvu zonse",
-          "andichitira zazikulu; ",
-          "Dzina la Ambuyanga",
-          "lili loyera kopambana."
+          "MNdiye wamphamvu zonse andichitira zazikulu;",
+          "Dzina la Ambuyanga lili loyera kopambana."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndiye amachitira",
-          "chifundo anthu a mibadwo, ",
+          "Ndiye amachitira chifundo anthu a mibadwo,",
           "E! a mibadwo yonse yakumuopa ndi kumvera."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Iye amazichita",
-          "zamphamvu nawo mkono wake; Iye nabalalitsa",
-          "omwe anyada nadzitama."
+          "Iye amazichita zamphamvu nawo mkono wake; Iye nabalalitsa omwe anyada nadzitama."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Iye natsitsa kunsi",
-          "mafumu ku mipando yawo,",
-          "Iye nakweza konko",
-          "omwe afatsa nasauka."
+          "Iye natsitsa kunsi mafumu ku mipando yawo,",
+          "Iye nakweza konko omwe afatsa nasauka."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Iye amakhutitsa",
-          "anjala ndi zabwino zake,",
-          "Ndi olemera onse",
-          "nawaingitsa opanda kanthu."
+          "Iye amakhutitsa anjala ndi zabwino zake,",
+          "Ndi olemera onse nawaingitsa opanda kanthu."
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Monga anapangana",
-          "ponena kwa makolo athu, ",
-          "Ali kithandizadi",
-          "lero anake a Yakobo."
+          "Monga anapangana ponena kwa makolo athu,",
+          "Ali kithandizadi lero anake a Yakobo."
         ]
       },
       {
         "stanzer": 9,
         "lines": [
-          "Poti akumbukira",
-          "atate wathu Abrahamu; ",
-          "Inde chifundo chokha",
-          "akuchitira ana ake."
+          "Poti akumbukira atate wathu Abrahamu;",
+          "Inde chifundo chokha akuchitira ana ake."
         ]
       }
     ]
@@ -1589,12 +1381,12 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Amithenga a Mulungu ",
-          "Anaimba nyimbo yomwe, ",
-          "Posonkhana m'mlengalenga, ",
+          "Amithenga a Mulungu",
+          "Anaimba nyimbo yomwe,",
+          "Posonkhana m'mlengalenga,",
           "Natitu usiku womwe;",
           "Onse azilemekeza",
-          "Mlungu Wakumwambamwamba; ",
+          "Mlungu Wakumwambamwamba;",
           "Akhalebe ndi mtendere",
           "Anthu ali ponseponse",
           "Amithenga anaimba",
@@ -1605,9 +1397,9 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Anamva abusa omwe",
-          "Anaweta nkhosa zawo, ",
-          "Mthenga nati: Musaope; ",
-          "Mumve ndikufotokoza: ",
+          "Anaweta nkhosa zawo,",
+          "Mthenga nati: Musaope;",
+          "Mumve ndikufotokoza:",
           "Wabadwa usiku uno",
           "Yesu Kristu Ambuyathu",
           "Ndiye Mpulumutsi wathu;",
@@ -1622,12 +1414,12 @@ export const chewaHymns = [
           "Yesu ndinu Mbuye wathu,",
           "Munasiya za Kumwamba!",
           "Munakhala mwana kuno;",
-          "Mnatifera mwaufulu. ",
-          "Inu nonse amithenga, ",
-          "Inu mumtamande Iye; ",
-          "Anthu onse ali pansi ",
+          "Mnatifera mwaufulu.",
+          "Inu nonse amithenga,",
+          "Inu mumtamande Iye;",
+          "Anthu onse ali pansi",
           "Adze akondane naye.",
-          " Zoonazi amithenga",
+          "Zoonazi amithenga",
           "Anaimba m'mlengalenga."
         ]
       }
@@ -1642,76 +1434,61 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Mbuye ngwodalitsika, Mulungu wa Israyeli ndiye, Poti anayang'ana Nawawombola anthu ake,"
+          "Mbuye ngwodalitsika, Mulungu wa Israyeli ndiye, Poti anayang'ana Nawawombola anthu ake,"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Napulumutsa tonse",
-          "mwapfuko la Davide mwana wake; Monga analankhula",
-          "mwa aneneri ake, kuti"
+          "Napulumutsa tonse mwapfuko la Davide mwana wake; Monga analankhula mwa aneneri ake, kuti"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Adzatipulumutsa",
-          "kudzanja la onse akutida, ",
-          "Ndipo adzachitira",
-          "akulu chifundo ndi chisoni."
+          "Adzatipulumutsa kudzanja la onse akutida,",
+          "Ndipo adzachitira akulu chifundo ndi chisoni."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndiye akumbukira",
-          "pangano loyera lake lija, ",
-          "Ndi chilumbiro chake",
-          "cha kwa atate Abrahamu."
+          "Ndiye akumbukira pangano loyera lake lija,",
+          "Ndi chilumbiro chake cha kwa atate Abrahamu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Choti timtumikire",
-          "osawaopa 'dani athu, ",
-          "Ndi kuyeranso mtima",
-          "mwa chilungamo nsiku zonse."
+          "Choti timtumikire osawaopa 'dani athu,",
+          "Ndi kuyeranso mtima mwa chilungamo nsiku zonse."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Mwana, adzakuyesa",
-          "mnneneritu wa Wamkulukulu; Ndiwe udzakonzera",
-          "njira ya Mbuye Wakumwamba"
+          "Mwana, adzakuyesa mnneneritu wa Wamkulukulu; Ndiwe udzakonzera njira ya Mbuye Wakumwamba"
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Udzadziwitsa anthu",
-          "za Mpulumutsi wawo yemwe",
-          "Awakhululukira nafafaniza    tchimo lawo."
+          "Udzadziwitsa anthu za Mpulumutsi wawo yemwe",
+          "Awakhululukira nafafaniza tchimo lawo."
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Poti Mulungu wathu",
-          "ali ndi mtima wachifundo, ",
-          "Ndiye kumwamba komwe ",
-          "ationetsa mbandakucha."
+          "Poti Mulungu wathu ali ndi mtima wachifundo,",
+          "Ndiye kumwamba komwe ationetsa mbandakucha."
         ]
       },
       {
         "stanzer": 9,
         "lines": [
-          "Powalitsira omwe",
-          "ali mumdima ndi muimfa",
-          "Ndi potilunjikitsa",
-          "tonse munjira yamtendere."
+          "Powalitsira omwe ali mumdima ndi muimfa",
+          "Ndi potilunjikitsa tonse munjira yamtendere."
         ]
       }
     ]
@@ -1726,24 +1503,20 @@ export const chewaHymns = [
         "stanzer": 1,
         "lines": [
           "Ambuye tsopano lino,",
-          "monga mwa mawu anu aja, Lolani kapolo wanu",
-          "ndikachokere mumtendere;"
+          "monga mwa mawu anu aja, Lolani kapolo wanu ndikachokere mumtendere;"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "AChifukwa chipulumutso",
-          "chanu mwandionetsa zedi,",
+          "AChifukwa chipulumutso chanu mwandionetsa zedi,",
           "Chimene munachikonza akachione anthu onse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndi nyali yakuwalitsa",
-          "omwe sadziwa mawu anu; Ndiwo ulemerero",
-          "wa Israyeli mpingo wanu."
+          "Ndi nyali yakuwalitsa omwe sadziwa mawu anu; Ndiwo ulemerero wa Israyeli mpingo wanu."
         ]
       }
     ]
@@ -1760,7 +1533,7 @@ export const chewaHymns = [
           "M'kati mwa zobvuta zathu",
           "Yesu aitana ife,",
           "Tsiku lonse amanena:",
-          "\"Tsata Ine mkristu iwe.\""
+          "Tsata Ine mkristu iwe."
         ]
       },
       {
@@ -1775,7 +1548,7 @@ export const chewaHymns = [
         "lines": [
           "Yesu aitana ife:",
           "Tikakonda chuma chokha,",
-          "Ati yesu: \"Mwana wanga, undikondetu koposa.\""
+          "Ati yesu: \"Mwana wanga, undikondetu koposa."
         ]
       },
       {
@@ -1878,7 +1651,7 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Senzani mtanda wanuwu.",
+          "\"Senzani mtanda wanuwu.",
           "Nawo muyende chetetu,",
           "Mutsogoledwe nawonso",
           "Kwanu Kumwamba komweko."
@@ -1919,7 +1692,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Sife tinachimwadi,",
+          "SIfe tinachimwadi,",
           "Iye sanachimwa 'yi,",
           "Anachotsa tchimoli,",
           "Aleluya, ndiye Yesu."
@@ -2104,7 +1877,7 @@ export const chewaHymns = [
           "Kwa munthu wasokerayo",
           "Kudziko lakutaliko,",
           "Atero Yesu: \"Bweratu",
-          "Ukhale nawo moyowo.\""
+          "Ukhale nawo moyowo."
         ]
       },
       {
@@ -2283,25 +2056,37 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Lero Kristu anauka, \t\tAleluya"
+          "Lero Kristu anauka, Aleluya",
+          "Ndilo tsiku lokondwera, Aleluya",
+          "Iye kale anafera, Aleluya",
+          "Nawombola otaika. Aleluya"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          " Timwimbire zomtamanda   Aleluya"
+          "Timwimbire zomtamanda Aleluya",
+          "Ndiye Kristu wa Kumwamba, Aleluya",
+          "Natsikirako kumanda Aleluya",
+          "Nalanditsa akuipa, Aleluya"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Koma masauko ake\t  Aleluya"
+          "Koma masauko ake Aleluya",
+          "Anatiwombola ife, Aleluya",
+          "Ndiye Mfumu ya mafumu, Aleluya",
+          "Mwana ndithu wa Mulungu Aleluya"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Timwimbire Mlungu wathu, Aleluya"
+          "Timwimbire Mlungu wathu, Aleluya",
+          "Kuti atikonda ndithu; Aleluya",
+          "Mtamenso angelo inu, Aleluya",
+          "Ndiye 'Tate, Mwana, Mzimu. Aleluya"
         ]
       }
     ]
@@ -2394,25 +2179,37 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Kondwerani dzuwa lino                Aleluya"
+          "Kondwerani dzuwa lino Aleluya",
+          "Yesu wanka m'Mwamba momwe Aleluya",
+          "Wachokera mdzik'o lino, Aleluya",
+          "Wabwerera kwawo komwe. Aleluya"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          " Zomkweza zili m'Mwamba,  Aleluya,"
+          "Zomkweza zili m'Mwamba, Aleluya,",
+          "Zodikira Mbuye wathu; Aleluya,",
+          "Mlowetseni n'kumlambira, Aleluya",
+          "Mfumu yathu yaulemu. Aleluya"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Yesu nkana saoneka,                  Aleluya"
+          "Yesu nkana saoneka, Aleluya",
+          "Atipempherera komwe; Aleluya",
+          "M'nyumba yake yokonzeka Aleluya",
+          "Atilinda ife tomwe, Aleluya"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Tiyamike Dzina lake,            Aleluya"
+          "Tiyamike Dzina lake, Aleluya",
+          "Mfumu ya ulemu wonse, Aleluya",
+          "Tibukitse mbiri yake Aleluya",
+          "Pansipa padziko lonse. Aleluya"
         ]
       }
     ]
@@ -2426,25 +2223,51 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          " Lambira Mfumuyo,"
+          "Lambira Mfumuyo,",
+          "Ndi Yesu Mbuyathu,",
+          "Tamvani nyimbo za 'mithenga a",
+          "... Kumwambako;",
+          "Nafenso pansipa",
+          "Timyamike 'Yo,",
+          "Ndi Mpulumutsi wathu wotifera",
+          "...kalelo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          " Lambira Yesuyo"
+          "Lambira Yesuyo",
+          "Wokonda tonsefe;",
+          "Mabala ake achikondi aonekabe; Tisaiwale 'yi",
+          "Zowawa zakezo,",
+          "Tileke kumchimwira, kumsautsa",
+          "... Yesuyo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          " Lambira Yesuyo,"
+          "Lambira Yesuyo,",
+          "Uthenga wakewu",
+          "Uyanjanitsa anthu onse m'dziko",
+          "...munomu;",
+          "Amaiwala za",
+          "Kudana kwawoko,",
+          "Nayamikira Mfumu yamtendere",
+          "...monsemo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Lambira Mfumuyo"
+          "Lambira Mfumuyo",
+          "Wolenga zonsezi:",
+          "Nyenyezi, dziko, dzuwa, mwezi ndi",
+          "...mitamboyi;",
+          "Tikweze dzinalo",
+          "La Mbuye Yesuyo,",
+          "Timyamikire pansi pano ndi",
+          "... Kumwambako."
         ]
       }
     ]
@@ -2458,26 +2281,24 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Yesu wakukoma mtima, akondadi!",
-          "Wakuposa mbale ndiye, akondadi!",
-          "Wina asautsa iwe, pena adzasiya iwe,",
-          "Yesu sadzanyenga iwe, akondadi!"
+          "Yesu wakukoma mtima, akondadi! Wakuposa mbale ndiye,",
+          "akondadi! Wina asautsa iwe, pena adzasiya iwe,",
+          "yesu sadzanyenga iwe, akondadi!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kumdziwitsa ndiko moyo, akondadi!",
-          "Akhumbira mtima wako akondadi mwazi wake ngwowombola,",
-          "M’chipululu wakufuna, m’khola mwake akusunga, akondadi!"
+          "Kumdziwitsa ndiko moyo,",
+          "akondadi! Akhumbira mtima wako akondadi mwazi wake ngwowombola,",
+          "m’chipululu wakufuna, m’khola mwake akusunga, akondadi!"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ukafuna kumdziwitsa akondadi!",
-          "Uzimpatsa moyo wako, akondadi!",
-          "Kodi umachita mantha? Pena umadera nkhawa?",
+          "Ukafuna kumdziwitsa akondadi! Uzimpatsa moyo wako,",
+          "akondadi! Kodi umachita mantha? Pena umadera nkhawa?",
           "Yesu amasangalatsa, akondadi!"
         ]
       },
@@ -2486,17 +2307,16 @@ export const chewaHymns = [
         "lines": [
           "Bwenzi ndiye wakufera, akondadi!",
           "Nthawi zonse sakusiya, akondadi!",
-          "Anthu ena akunyenga, Yesu sadzanyenga iwe,",
-          "Zakuvuta adzachotsa akondadi!"
+          "Anthu ena akunyenga, yesu sadzanyenga iwe,",
+          "zakuvuta adzachotsa akondadi!"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Akhululukira iwe, akondadi!",
-          "Nadzainga mdani wako akondadi!",
-          "Adzakudalitsa iwe, nadzaletsa tsoka lonse,",
-          "Nadzakutsogoza kwawo, akondadi!"
+          "Akhululukira iwe, Akondadi! nadzainga mdani wako akondadi! Adzakudalitsa iwe,",
+          "nadzaletsa tsoka lonse,",
+          "nadzakutsogoza kwawo, akondadi!"
         ]
       }
     ]
@@ -2617,29 +2437,25 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mbuye, mutsaganetu nane ndingachimwenso;",
-          "Nanu ndisungidwedi, mwachikondi chanucho."
+          "Mbuye, mutsaganetu nane ndingachimwenso; nanu ndisungidwedi, mwachikondi chanucho."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mbuye Yesu mundiperekeze inetu;",
-          "Ndine mlendo, Mbuye’nu mutsagane nanetu."
+          "Mbuye yesu mundiperekeze inetu;ndine mlendo, mbuye’nu mutsagane nanetu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Inu mudibisadi m’mene ndavutidwamo",
-          "Ngati muli ndinedi bwino ndidzakhalamo."
+          "Inu mudibisadi m’mene ndavutidwamo ngati muli ndinedi bwino ndidzakhalamo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mbuye, mutsaganebe mpaka moyo watha zi!",
-          "Kwanu mundifitseko, komwe nsoni zathadi"
+          "Mbuye, mutsaganebe mpaka moyo watha zi! Kwanu mundifitseko, komwe nsoni zathadi"
         ]
       }
     ]
@@ -2741,6 +2557,34 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 51,
+    "title": "ALINKUDZA WANSONI MUNTHU",
+    "creator": "Unknown",
+    "chorus": [
+      "Aleluya, aleluya, alinkudza kwa ife; ndi chimwemwe tidzamkomana pakufika ambuye."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Alinkudza wansoni munthu wakukhala kumwamba, alinkudza m’ulemerero ndi mwamuna wa mtanda."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Alinkudza ambuye yesu wakuphedwa padziko alinkudza kukhala mfumu yoweruza mayiko."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Pakufika asonkhanitsa anthu ake oyera; adzafuna m’mitundu yonse omwe lye ‘nafera."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 52,
     "title": "Pakwitana Mbuye wanga",
     "creator": "Unknown",
@@ -2787,8 +2631,78 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 53,
+    "title": "MBUYE YESU ADZABWERA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mbuye yesu adzabwera, asekere anthu onse; mawu awa achimwemwe adzamveka m’dziko lonse.",
+          "Adzabwera, adzabwera; E! bwerani mbuye wathu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Dziko lino linaona masauko a mbuyathu, lidzaonanso ulemu, m’mene adzabwera lye.",
+          "Adzabwera adzabwera; tivomera, E! mubwere."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Anthu anu amafoka, pa ulendo nasokera; Ha! Adzaonana nanu atavalanso zoyera.",
+          "Mudzabwera,mudzabwera; inde, mbuyetu mubwere."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndi chiyembekezo ichi sitikhala chete ife; tiimbitsa nyimbo zathu zakulemekeza mlungu.",
+          "Adzabwera, adzabwera; E! mubwere msanga yesu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 54,
+    "title": "YANG'ANANI",
+    "creator": "Unknown",
+    "chorus": [
+      "Anthu onse amlambire yesu mwana wa mulungu alinkudza ndi ulemu wopambana, indetu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yang’anani, anthu onse yesu mbuye wathuyo; alinkudza ndi ulemu kuoneka m’mwambamo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Adzatenga anthu ake akummvera pansipo, iwo adzakhala naye m’dziko la kumwambako."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Koma anthu onse omwe anamnyoza pansipo, nthawi yesu alinkudza adzaopa m’mtimamo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ife tonse tikumbuke mawu ake onsewo timuyang’anire lye, yesu mbuye wathuyo."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 55,
-    "title": "A Mulungu",
+    "title": "A Mulungu,",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -2835,21 +2749,13 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Anadzuka,",
-          "Anadzuka m’mandamo,",
-          "Anatenga moyowo."
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
           "Adzabwera,",
           "Adzabwera Iyeyo,",
           "Tsiku lomalizalo."
         ]
       },
       {
-        "stanzer": 8,
+        "stanzer": 7,
         "lines": [
           "Aleluya,",
           "Aleluya Yesuyo,",
@@ -2859,8 +2765,118 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 56,
+    "title": "IDZANI NONSE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Idzani nonse nu okonda yesuyo;",
+          "libuke dzinali,timtame konseko.",
+          "Uzani onse m’mwambamo, uzani onse pansipa, wafera iye anthuwo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Waleka koronayo, nasiya tatewo, natsika m’mwambamo, nalira, nafatu.",
+          "Zowawa zake zonsezo nazimva, zinaposatu kuti tipulumukedi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nadzuka m’mndamo moopsa m’mndamo, nigonja imfayo ndi mdani waketu;",
+          "nakweradi kumwambako, nakhala mfumu monsemo,ambuye wathu mlunguyo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Adzadza indetu kudziko linoli;",
+          "tidzanka nayeyu m’ufumu wakedi, momwemo tidzampenya ye, momwemo tidzakhala’fe m’kuwala kwake koti mbee!"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 57,
+    "title": "YESU DZINA LAKUKONDA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yesu , dzina lakukonda, lopambana onse ena, tonse tidzaligwadira ndi mitima yochepetsa."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Yesu, dzina lokondwetsa; akuipa a padziko, kale linatidziwitsa mpulumutsi ndiye yesu"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yesu, dzina lakufatsa, anamutcha kali mwana,m’mene analowa kale m’dziko lino lakudana."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yesu, dzina ndi lomweli la pa dziko lino lonse, ndi lamphamvu yolanditsa anthu mu masoka onse."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Yesu, dzina lakukonda la mwanayo wa mulungu, ife anthu osauka tithawira nalo kwanu"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 58,
+    "title": "INDE, NDIFUNA KUMVATU",
+    "creator": "Unknown",
+    "chorus": [
+      "E! zina za yesu, E! zina za yesu",
+      "Inde,ndilira m’mtimamo chipulumutso chakecho"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Inde, ndifuna kumvatu za chakondano chakecho cha yesu mbuye wangayo, zomwe anamva kalelo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Zina za yesu ndimvetu, kuti ndichite zakezo; mzimu woyera, mudzetu, ndiphunzitseni zonsezo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "M’mawu a yesu mbuyeyo, inde,acheza nanemo; liwu ndimamva m’bukumo ndilo la yesu mbuyeyo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Zina za yesu m’mwambamo, ali pampando,pakepo; udze ufumu wakewo, ndiyetu mfumu ponsepo."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 59,
-    "title": "Wina atikonda ife",
+    "title": "WINA ATIKONDA IFE",
     "creator": "Unknown",
     "chorus": [
       "Chikondano chakechi",
@@ -2915,6 +2931,46 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 60,
+    "title": "NDITAME MLUNGU M'MTIMAMO",
+    "creator": "Unknown",
+    "chorus": [
+      "Wandiwombola inetu pokhetsa mwazi wakewo; timlemekeza lyetu wotilipira dipole."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Nditame mlungu m’mtimamo, wakundifera pansipo, nafafaniza tchimolo, nanditengera dipolo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndinasokera kalelo, ndamkana lye yesuyo, koma ndiimba leroli; wandiwombola inedi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "M’mtima ndimakondweramo popenyetsetse yesuyo pamtanda pake pomwepo, pakundifera inenso."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Sizitha ntchito zangazo kundiyeretsa m’mtimamo; anandiyesa inetu wakulungama yesuyo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Tsono mubwere inunso; mtetezi wanu ndiyedi. Apulumutsa onsewo akumkhulupiriradi."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 61,
     "title": "Konda dzinalo la Yesu",
     "creator": "Unknown",
@@ -2955,7 +3011,7 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Mbuye Yesu timtamanda",
+          "Mbuye yesu timtamanda",
           "Ndi zinyimbo zathuzo;",
           "Mfumu ya mafumu onse",
           "Yesu timayesadi."
@@ -2964,10 +3020,491 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 74,
-    "title": "Cholimbitsa mtima ndi",
+    "hymnNo": 62,
+    "title": "KHAMULO LILIKO KUMWAMBAKO",
     "creator": "Unknown",
     "chorus": [
+      "Kwa lye atikonda natsuka fe mbuu! E! kukhale ulemu kwa mbuyathuyu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Onsewa nachimwa nadetsedwa bii, nthawi yino ayera naimbiradi"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Akhala mafumu kwa mbuyathuyo, anawombola onse ndi mwaziwo psu!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Akadakhalabe osaukako ngati yesu sakanawombolatuwo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndi nyimbo yabwino tidzamtamako, kuti ena pakumva amwimbirenso"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 63,
+    "title": "TAMANI MPHAMVU YA YESU",
+    "creator": "Unknown",
+    "chorus": [
+      "Mumveke, mveke, mveke mbuyeyo!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tamani mphamvu ya yesu, angelo agwade; tulutsanitu korona."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "KInu osankhidwa ake, owomboledwa nu, tamani mpulumutsiyo,"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Anthu onse ndi mitundu pa dziko linotu. Amlemeke mfumuyo,"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tifuna kuti komweko tikamgwadire ye; tidzaimba kosaleka"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 64,
+    "title": "MUMBERE MZIMU WAKUYERA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mumbere mzimu wakuyera, kuyatsa moto m’mtima mwathu; ntchito ndi yanu kudzozera ndi kutininkha mphatsozo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kudzoza kwanu kutipatsa chimwemwe, moyo ndi mtendere; kuwala kwanu kupenyetsa a m’mdima ndi a m’ndendemo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mtima wodetsa mukonzere, chisomo chanu: adani athu muthaitse ndi mphamvu yaikuluyo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mutidziwitse tate wathu, ndi mwana wake ndinu mmodzi. Mnafuma kwa awiri onse koma mulungu mmodziyo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 65,
+    "title": "MZIMU WOYERA MUDZE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mzimu woyera mudze mumitima mwathumo, mufike nazo mphamvu zanu zazikuluzo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mufike monga nyali younika m’mtimamo, mutidziwitse zakuipa zakukhalamo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mufike monga moto wakuotcha zomwezo, mutiyeretse ifetu m’mitima mwathumo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mufike monga ngati njiwa yamtenderewo, kutitu anthu anu onse akondanetu."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mufike monga ngati mphepo yokokomayo, tikhale tonse nazo mphamvu zanu zonsezo"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 66,
+    "title": "MZIMU WOYERA MUDZETU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mzimu woyera mudzetu kwa ine E, ngati mvula m’dziko lakuuma, ndikhale munda wanu wakupatsa zipatso zoyenera mbuyeyo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mphunzitsi, ndinu mudziwitse ine chikondi chanu chija chachikulu;",
+          "lembani mawu anu pamtimanga, kuti ndikumbukire zanuzo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wosangalatsa, ine ndikalira muchotse nsoni, m’timamo mudikhe;",
+          "mundigoneke pachifuwa chake cha yesu kuti ndikakondwepo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Wotsogolera, munditsogolere kuti n’kafike kwawo kwa atate, nditsate yesu ndikuyendayenda m’njira yomweyo anapondamo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mthandizi ndinu, mndithangate ine kupempha bwino izo zindisowa, kupempha monga mlungu amafuna kulingalira zake zokhazo."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Mzimu woyera, n’dzipereka ndense, mundichitire ntchito yaikulu;",
+          "mtima woyera ndi womvera mpatse wodzala ndi chikondi chanucho."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 67,
+    "title": "MPUME PA INETU MPWEYA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mpume pa inetu mpweya wa mulungu, ndi kundidzaza moyo wanuwo, kuti ndikonde zomwe mukondanso, ndichite chomwe mumachitanso."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mpume pa inetu mpweya wa mulungu, mpaka mtimanga ukayeretu, ndipo zokhumba zanga zilingane nazo zanuzo zakuyera mbuu!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mpume pa inetu mpweya wa mulungu mpaka ndikhale wanu nokhatu;",
+          "ayeretsedwe makhalidwe anga ndi mphamvu yanu yondisunga nji!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mpume pa inetu mpweya wa mulungu, kuti inedi ndisafe iyitu, koma ndikhale nanu m’moyo womwe wangwiro ndi wa nthawi zonsetu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 68,
+    "title": "Mubwere mzimu inu woyera wakufatsa muchotse mdima m’mtima...",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mubwere mzimu inu woyera wakufatsa muchotse mdima m’mtima mwathu tikapenye m’maso."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mtisangalatse m’zones, ndi wachifundo inu, tiyembekeze kumapazi a mbuyathu yesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mtitsitsimutse ife kuchotsa nkhawa zathu, muyatse moto wachikondi mu mitima yathu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mtitsutse titachimwa kutilapitsa m’mtima, mwonetsenso chikondi chokhulukira tchimo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Kutiyeretsa m’mtima ndi ntchito yanu yokha, kupatsa moyo watsopano m’mene timafoka."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Mukhale m’kati mwathu, mutichotsere mantha, tidzayamika tate wathu, mwana wawo ndi nu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 69,
+    "title": "IDZANI MZIMU INU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Idzani mzimu inu, mundidalitse kuno; ndafoka mtima ine polendo wanga uno;",
+          "kwambiri ndakhumudwa panjirayo ya moyo; m’kaleka kutsogola ndiwonongeka pompo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Wakunga mwana ine, sindidziwitsa konse; mundilangize mzimu panjira yanga yonse;",
+          "mundiyendetse bwino ndifike ine ndemwe panjira yolungama,kudziko lachimwemwe."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mundilimbitse m’mtima pogwira ntchito izi; ndikapumula pena mukhale ndithu ndine;",
+          "zolingirira zanga m’mtima; zoipa muzichotse sindidzazichitanso"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 70,
+    "title": "MZIMU WOYERA MUDZETU",
+    "creator": "Unknown",
+    "chorus": [
+      "Titamire nthawi zones tate , mwena, mzimu, nonse. Amen."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mzimu woyera mudzetu, tiyeretsedwe m’mtimamu; mupatse anthu anuwa mitulo yanu yonseyo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kudzoza kwa kumwambako kutitonthoza m’mtimamo, ndi kutidzutsa m’moyomu, tikhale okondanatu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Pankhope pathu mthirepo chisomo chanu chijacho; mtendere mutininkhebe, mutiyendetse ponse phee!"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tionetseni tonsetu umodzi wanu monsemo, atate, mwana, mzimu nu tiimbe nthawi zonsezo;"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 71,
+    "title": "MUBWERE KUNO MZIMU NU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mubwere kuno mzimu nu, chitsime cha chikondicho; mudziwa ndimaliratu,",
+          "mukhale m’mtima mwangamo; ndipatsa inu mtimawu, masiku onse m’khalemu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mukonze mtima wangawu, muyere ndithu m’katimo; ndilinda tere,",
+          "mzimu nu, mupatsetu chikondicho; lichepa dontho lokhali, ndipempha mundidzazedi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndilira mzimu leroli, mutsimikize mawuwo; ya mbuye yesu mphamvuyi,",
+          "ikhale yathu, yanganso; mulowe m’mtima, mdzazetu ndi mphamvu, nzeru moyowu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 72,
+    "title": "MBUYE WONDIPULUMUTSA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mbuye Wondipulumutsa",
+          "Mulandire Mtima Wanga,",
+          "Mwandipatsa Mzima Wanga,",
+          "Mwandipatsa Mzimu Wanu Womeretsa Zipatsomo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndiye Mzimu Wakuyera",
+          "Atipatsa Ife Makhalidwe",
+          "Ofanana Naye Yesu,",
+          "Anatsika",
+          "Kumwamhako"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Naye Mzimu M’ndiphunzitse",
+          "Kukondwera Nsiku Zones,",
+          "Ndi Kukhala Ndi Mtendere",
+          "Osaderatu Nkhawa ‘Yi"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "M’ndithandize Kukondana",
+          "Ndi Kuthangatira Onse,",
+          "Ndi Kukhululukirabe",
+          "Akundichimwirawo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "M’ndilimbitse Ndipirire",
+          "Osadandaula Konse,",
+          "Ndi Kulamulira Thupi",
+          "Ndi Zofuna Zakezo."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Kudzirala Ndi Kufatsa,",
+          "Inde,zones Muzikonda,",
+          "M’ndiphunxitse Pondipatsa",
+          "Mzimu Wanu Woyerawo"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 73,
+    "title": "MBUYE MAWU ANU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mbuye, Mawu Anu",
+          "Atikondweretsa,",
+          "Atitsogolera,",
+          "Salephera Konse."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Poyesedwa Ife",
+          "Atipambanitsa,",
+          "Natonthoza Mtima",
+          "Natipulumutsa."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tikaona Vuto,",
+          "Tikalowa M,mdima,",
+          "Kuunika Kwake",
+          "Kusonyeza Njira."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Atisangalatsa,",
+          "Atisangalatsa",
+          "Powerenga Mommo",
+          "Nawo Mtima Wonse."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Ndiwo Alimbitsa",
+          "Omwe Akufooka,",
+          "Nawapatsa Moyo",
+          "Akafuna Kufa."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Mbuye M’tiphunzitse",
+          "Nzeru Zake Zones,",
+          "Tikayenderane",
+          "N’tiyanjane Nanu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 74,
+    "title": "CHOLIMBITSA MTIMA NDI",
+    "creator": "Unknown",
+    "chorus": [
+      "M’Bukuli ine ndi",
+      "Onse owerenga",
       "Mawu a Mulunguwo,",
       "Timapeza moyo."
     ],
@@ -3038,6 +3575,42 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 75,
+    "title": "MUNDINYEMERE'NE MKATE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mundinyemere’ne mkate wamoyo monga kunyanja kuja kalelo;",
+          "ndipyola mawuwo, ndifuna inu, ndikhumba inu mwini moyowo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mkate wamoyowo ndinu ambuye; mawu oyera anu n’khumbanso,",
+          "mun’dyetse omwewo ndikhale moyo, ndikonde zakuona zanuzo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mtume tsopanoli mzimu woyera, kuti andikonzere m’masomo;",
+          "avumbulutse zinsinsi za m’mawu, kuti ndionemo ambuyeyo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mndidalitsire ’ne mawu amoyo, monga munadalitsa mkatewo;",
+          "ndikhale mfuludi, wosamangika, mukhale moyo wanga wonsewo."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 76,
     "title": "Mbiri yakalelomwe",
     "creator": "Unknown",
@@ -3082,6 +3655,183 @@ export const chewaHymns = [
           "Kuti pakuyesedwa, Ndipulumukepo.",
           "Inde, pakufa panga, M’maso mukhale mbee!",
           "Mbiri ya Mbuye wanga, Mundisimbirebe."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 77,
+    "title": "KODI ULIKULEMEDWA NDI ZOIPAZO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kodi ulikulemedwa ndi zoipazo? Idza kuno ,ati yesu, pumako"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndikamzindikira ninji mbuye wangayo? Ali ndi mabala m’manja mwakemo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kodi ali ndi chilemba m’mphumi mwakemo? E, chilembacho chaminga chilimo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndikampeza, ndikamtsata ninji pansipa? Masauko ndi misozi zilipo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Ndikamfunafuna lye, ndipezenjiko? Kumaliza kwa chisoni chonsecho."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Ndikampempha anditenge, akataniko? Ati yesu, idza msanga, idzatu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 78,
+    "title": "MUSAWALOLE MAMUWO APITE",
+    "creator": "Unknown",
+    "chorus": [
+      "Idzanitu, idzanitu,idazni kwa ambuyeyo. Idzanitu, idzanitu apulumutse inunso."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Musawalole mawuwo apite ngati mphepozi, musaumitse mtimatu, polira yesu mbuyendi"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Musachitenso nthantha ‘yi, mufulumire inutu; tsiku labwino n’leroli, mulandirenso moyowu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Zokondweretsa m’dzikomu nzosakhutitsa m’mtimamu, koma za yesu zonsezo zikwaniritsa inudi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "TSakukanani yesudi, E, mukalapa m’mtimamo; lolani kuti mzimuyo agwire ntchito zakezo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 79,
+    "title": "PAKUPEMPHA IFE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Pakupempha Ife",
+          "Pano Pakwitana Tatewo,",
+          "Pakudziwa Tsoka Lako,",
+          "Bweratu Kwa",
+          "Mbuyeyo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Idzatu, Idzatu",
+          "Kwa Mbuyathu",
+          "Yesudi",
+          "Idzatu, Idzatu,",
+          "Lwe Bwera Leroli."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Unachimwachimwa Ndithu,",
+          "Wasokera M’talimo;",
+          "Unachedweranji",
+          "Kudza",
+          "Pakulinda Yesuyo?"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "M’dziko Lino Pansi Pano",
+          "Sungapeze",
+          "Kanthumo",
+          "Kokwanitsa Mtima Wako;",
+          "Bweratu Kwa",
+          "Mbuyeyo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Vumbulutsa Zones Zako",
+          "Zobisika M’mtimamo;",
+          "Ayeretse Moyo Wako",
+          "Nawo Mwazi Wakewo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 80,
+    "title": "MIPINGO IYO IDZATU",
+    "creator": "Unknown",
+    "chorus": [
+      "Anena anthu onsewo yesu sing’anga apitapo. Anena anthu onsewo yesu sing’anga apitapo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mipingo iyo idzatu, yoyenda mangu pajapo, afuma kuti anthuwo? Afika bwanji komweko?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Azizwa anthu ajawo, nafunsa, ndani mlendoyo? Wanzeru monga lyeyo kulibe wina konseko."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndi yesu yemwe kalelo nakhala munthu pansipa; anthenda onse nthawiyo nachira yake mphamvuyo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Afika yesu leroli, chifundo m’mtima mwakemo, timfitse msanga kwathuko akhale nafe ponsepo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Timsankhe yesu mbuyeyo, timyese mfumu yathuyo, chifukwa tikamkanatu tikhala otayikawo.",
+          "Topapano inu dzanitu, asanapitirirepo. Topapano inu dzanitu, asanapitirirepo."
         ]
       }
     ]
@@ -3136,8 +3886,8 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 83,
-    "title": "Sing'anga Mkulu",
+    "hymnNo": 82,
+    "title": "SING'ANGA MKULU NDIYE YESU",
     "creator": "Unknown",
     "chorus": [
       "Dzina la Yesu ndi lokoma,",
@@ -3179,7 +3929,182 @@ export const chewaHymns = [
           "Akulu inu mbwere nonse,",
           "Ana inu nomwe,",
           "Ambuye akuitanani,",
-          "Bvomerani nonse."
+          "Bvomerani nonse.."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 84,
+    "title": "UTHENGA WA MULUNGU",
+    "creator": "Unknown",
+    "chorus": [
+      "Pakuti anthu akumvera yesu awapulumutsa inde, awapulumutsa, indetu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Uthenga wa mulungu walowa m’mtimamu, wochotsa zakuipa zakundidetsazo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndidziwa kuti yesu anafa kalelo, nafafaniza zonse tinazichimwazo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Satana ndi unyolo anandimanga nji! Ambuye yesu yekha nandimasuladi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ambuye mulowetse mtendere m’mtimamo, ndimvetse mawu anu masiku onsewo"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Akuti anthu akumvera yesu awapulumutsa, indetu, awapulumutsa, indetu, awapulumutsa, indetu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 85,
+    "title": "Inu akutopawo, yesu aitana ‘nu; mudze kwawo ambuyeyo, mudze...",
+    "creator": "Unknown",
+    "chorus": [
+      "Inu akutopawo, yesu aitana ‘nu; mudze kwawo ambuyeyo, mudze msangatu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Okoma ndiwo mawu a yesu mbuyeyo, wopatsa ife anthu mtendere wakewo.",
+          "Kwa ife akumvera kulibe mantha ‘yi; timamva liwu lake lingoti, mudze ‘nu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mukana lye bwanji, wokoma bwenzilo? Mutsate yesu yekha, E, mpaka imfayo.",
+          "Mwafoka osokera, mwadetswa nazozi zoipa mwazichita; mumvere mbuyedi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ambuye, musendeze pafupi nafedi, timvetse inu msanga poyends m’dzikoli.",
+          "M’ulendo m’moyo uno titsate inutu;",
+          "kumwamba mutifitse, tidzamve: dzani."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 86,
+    "title": "Yesu ngwachifundodi , E!",
+    "creator": "Unknown",
+    "chorus": [
+      "Yesu ngwachifundodi , E!",
+      "wafera inutu inutu, E!",
+      "wafera inutu inut.",
+      "Yesu ngwachifundodi , E!",
+      "wafera inutu inutu, E!",
+      "wafera inutu inutu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Inu nonse ovutidwa, mbuye ali panopa; m’maso mwanu muli msozi; dzani kwa mbuyathuyo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Yesu ndiye bwenzi lanu, ali wa chikondicho; kodi inu mumkanabe? Mlape msanga m’mtimamo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Pena imfa idza mawa, mand ali m’fupimo; nthawi yino ndi yabwino, mlole yesu m’mtimamo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "TNdi angelo akumwamba anke ndi uthengawo kuti wina wadza lero kwa mbuyathu yesuyo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 87,
+    "title": "OCHIMWA IWE BWERATU",
+    "creator": "Unknown",
+    "chorus": [
+      "Khulupira mawu onse a mbuyathuyo; uli nawo pakumvera inde, moyowo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ochimwa iwe bweratu kwa yesu mbuyeyo; atero lye; pumatu, umvere mawuwo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ambuye yesu anatsira mwazi wake psu! Ubire m’mwazi womwewo, uyereyere mbuu!"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Wamoyo ndiye yesudi, nzoona zakezo; akhala lye njiratu yofika m’mwambamo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tiyeni tonse, tinkeko ulendo wakewo kudziko lake m’mwambamo, tikhale nayeko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 88,
+    "title": "Yesu akukonda, idza msanga ‘we, adikira iwenso; wachedwatu.",
+    "creator": "Unknown",
+    "chorus": [
+      "Yesu akukonda, idza msanga ‘we, adikira iwenso; wachedwatu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yesu ndi wokonda; ati: idzatu yense wakufuna, bwera msangatu.",
+          "Ali wachifundo ndi wamphamvunso nthawi zonse yesuyo alindatu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Iwetu afuna, inde, lalelo; leronso adika mbuye wathuyo.",
+          "Uza lye zonse za uchimowo; yesu ati leroli; wachedwa ‘we,"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yesu alindira, inde, iwetu; idza ndi kukhala ndi chimwemwenso ku mikono yake yachikondiyo; sankha lye msangatu; wachedwatu."
         ]
       }
     ]
@@ -3247,11 +4172,403 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 90,
+    "title": "PENYETSETSE YESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Penyetsetse yesu, mtima wosauka; anafera iwe, idza, nupumule.",
+          "Iye anachotsa nsoni ndi zoipa; penyetsetse ndi kukhulupira."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Penyetsetsa yesu likatentha dzuwa; yachuluka ntchito, mphamvu idzakula.",
+          "Akonzera kwawo nyumba kwawo nyumba zokhalamo; penyetsetsa yesu, mtsatetu tsopano."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Penyetsetsa yesu pogwirana nawo; nkhondo ikavuta tamva mbuye wako.",
+          "Achuluka dani, lwe ungofoka; penyetsetsa yesu mantha adzachoka."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndipo pakulowa m’dziko la kumwamba, udzapeza komwe onse adzatama.",
+          "Mwa zowala zija za kumwamba kwawo, udzapenya maso yesu mbuye wako."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 91,
+    "title": "MALO ANACHEPA",
+    "creator": "Unknown",
+    "chorus": [
+      "Apempha malo ambuye; E, mlandiretu mlimamo, ungamvetu kumwambako, akusowanso malo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Malo anachepa, nyumba anammana, agona m’modyera, mutu paudzuwo.",
+          "Anthu sanamtama, nyimbo panalibe, m’nyumba ya alendo malo munalibe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Wina panalibe kumlandira lye, wakumsangalatsa, womkonda nasowa.",
+          "Anthu sanafuna chumacho chosatha, sanamkondweretsa, malo munalibe."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 92,
+    "title": "ATATE NU",
+    "creator": "Unknown",
+    "chorus": [
+      "Khulupirani kuti mukalowe m’mwambamo, khulupirani kuti mukalowe m’mwambamo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Atate ‘nu, atate ‘nu, mverani ambuye"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Amayi ‘nu, amayi ‘nu, tsatani ambuye."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Abale ‘nu, abale ‘nu, kondani ambuye."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Alongo ‘nu, alongo ‘nu, kondani ambuye"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Abwenzi ‘nu, abwenzi ‘nu, tamani ambuye"
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Oipa inu nonsetu, mverani ambuye"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 93,
+    "title": "NDICHITENJI KUKAPEZA MOYO",
+    "creator": "Unknown",
+    "chorus": [
+      "Zonse zinathedwadi; yesu watha zonsezo; sutha ntchito, ungowvera mawu ake omwewo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Ndichitenji kukapeza moyo? Thandizeni! Ndili wakutopa; mzimu, muthandize ine."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Iye anatsika m’mwamba,anachoka kwawo, anafera anthu, nati; ndathu zonse zawo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mbuye wanga ndilikumva ndikondana nanu; umapuma mzimu wanga, kwathu ndiko kwanu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 94,
+    "title": "KODI MWALANDIRA YESU",
+    "creator": "Unknown",
+    "chorus": [
+      "Kodi mufunatu yesu? Vomerani msangatu: inde, yesu ndifunadi. Ndinu mbuye wangatu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Kodi mwalandira yesu? Lye anakuferani. Afunitsa inu nonse; kodi mumufunanso?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Nthawi zonse mufunabe zinthuzo za pansi pano; koma munyozabe yesu wopachikwa kalelo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yesu akuitanani kwanja kwake kwakukulu; mvani mawu ake lero, musachite nthantha ‘yi."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Imfa idzafika msanga; ndipo mdzaikidwa m’manda; nthawi yomwe simudzamva kuitana kwakeko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 95,
+    "title": "MVANI LIWU LOMWE",
+    "creator": "Unknown",
+    "chorus": [
+      "Undipatsetu mtima wakowo; ndinakuferatu kalekalelo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mvani liwu lomwe m’khutu mwakomo, alikuitana mpulumutsiyo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ati undiuze nsoni zakozo; ine ndidzachotsa zonse zomwezo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kodi ukafuna kupumulatu? Yesu aitana; udze kunoku"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tula mtolo wako pali mtandapo, akaunyamula mphulumutsiyo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 96,
+    "title": "YESU PONONG'ONEZA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yesu ponong’oneza, idzanitu;",
+          "mupempherera ife, idzanitu;",
+          "njabwino nthawi yino, idzanitu.",
+          "Yom’dziwa mpulumutsi idzanitu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tulani zoipazo, idzanitu;",
+          "yesu adzatha zonse, idzanitu;",
+          "olema ndi ochimwa, idzanitu;",
+          "sakumbukira izo, idzanitu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Imvani mawu ake, idzanitu;",
+          "mudzalandira dalo, idzanitu;",
+          "nacho chisomo chake, idzanitu yesu alinda inu, idzanitu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mverani lye ati; idzanitu; tiyeni mudzamwone, idzanitu; E! akuitanani, idzanitu; ife tivomereza, tibweratu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 97,
+    "title": "IWE TIYE",
+    "creator": "Unknown",
+    "chorus": [
+      "Ndaima pano Ndaima pakhomo! Lowa, lowa,lowa, lowa! Ndaima pano, ndaima pakhomo!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Iwe tiye, iwe tiye, tiye tsopanoli; pano tiye luli yesu, tiye tsopanoli"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Akukonda akukonda, tiye tsopanoli; pano akukonda iwe, tiye tsopanoli."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Akupeza, akupeza tiye tsopanoli; pano akupeza iwe, tiye tsopanoli"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Salephera, salephera, tiye tsopanoli; pano salephera lye, tiye tsopanoli."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mvera yesu, mvera yesu, tiye tsopanoli; pano mvera yesu iwe tiye tsopanoli."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Aleluya,aleluya aleluye amen; Aleluya,aleluya aleluye amen"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 98,
+    "title": "TADZA KUKUDYAKU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Tadza kukudyaku.",
+          "Kwakonzedwatu;",
+          "mkate wamoyodi, idyatu ‘we;",
+          "bwera wochimwanso, yesu adikatu, akuitanaku;",
+          "mvetsatu ‘we."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tadza kumtsinjeku wa moyo weni, chiza zowawazo za m’mtimamo; mtsinje wodzalawo, wokwaniratuwo yesu sakana ‘yi; idzatu ‘we"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "M’dzina la yesuyo pemphatu iwe, lye adzamvatu mlunguyo, ndiye apatsatu, dalo labwinolo; idzatu ‘we"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yamba ulendowo wonka kumwamba; pano mpoipatu padzikoli; komwe tikondwako, tidzasekeranso; tinke kumwambako; idzatu ‘we"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 99,
+    "title": "MWAMVA MAWU A MULUNGU",
+    "creator": "Unknown",
+    "chorus": [
+      "Vomerani, Vomerani, Vomerani",
+      "Msangatu, mutsazengereze ayi, landirani yesuyo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwamva mawu a mulungu; mukavomeranjiko? Kodi musandula mtima ndi kumvera yesuyo?"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Munachita nthantha kale, musazengereze ‘yi; yesu musazengereze ‘yi; yesu akulindirani, sadzakana inu ‘yi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Musaope pokumbuka zakuipa zanuzo; khulupirirani yesu, adzachotsa zonsezo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Perekani mtima wanu kwa mulungu wathuyo; khulupirirani yesu, wotifera kalelo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 100,
+    "title": "YESU WATHU MBUYEYO",
+    "creator": "Unknown",
+    "chorus": [
+      "Imba kawiri ndi kawirinso yesu ambuye sakanatu, mvera uthenga wabwinowo, wakuchimwa adzetu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yesu wathu mbuyeyo alandira onsewo akuipa omwewo, osokera m’talimo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Idzatu kwa yesuyo, apumitsa inunso, inde m’mtima mwanuwo ndi mtendere wakewo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Walandira inetu tsiku lija kalelo, wanditsuka ine mbuu m’mtima mwanga momwemo."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Wandifera yesuyo pansi pano kalelo, sindiopa mlanduwo pakubwera lyeyo"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 101,
     "title": "A! mbusa wathu amvatu",
     "creator": "Unknown",
     "chorus": [
-      "Etu, zilira konseko zili m’phiri moopsamo. Imva, anena mwiniyo: kweye upeze nkhosazo.",
       "Bwezatu,bwezatu, bweza zonse m’moopsamo bwezatu,bwezatu, bweza zakezo kwa yesu."
     ],
     "stanzers": [
@@ -3292,26 +4609,32 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "102 Thanthwe long’ambikatu",
-          "Thanthwe long’ambikatu, ndibisale momwemu! Madzi ndipo mwaziwo zotuluka m’nthitimo zinditsuke m’mtima mbuu! Zindilimbikitsetu."
+          "Thanthwe long’ambikatu, ndibisale momwemu!",
+          "Madzi ndipo mwaziwo zotuluka m’nthitimo zinditsuke m’mtima mbuu!",
+          "Zindilimbikitsetu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ntchito zanga zonsezo sizikondweretsa ‘nu; ndikazigwiritsadi, ndikalira nsonizi, zonse sizikwanazi, koma yesu yekhayo."
+          "Ntchito zanga zonsezo sizikondweretsa ‘nu;",
+          "ndikazigwiritsadi, ndikalira nsonizi, zonse sizikwanazi, koma yesu yekhayo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "M’manja mopanda kanthu, mtanda ndingogwiradi; maliseche mbveke ‘ne; ndili ndekha, msunge ‘ne; ndithawire munditsuke m’mtimamo."
+          "M’manja mopanda kanthu, mtanda ndingogwiradi;",
+          "maliseche mbveke ‘ne;",
+          "ndili ndekha, msunge ‘ne;",
+          "ndithawire munditsuke m’mtimamo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "M’moyo uno kunsiku pena ndimwaliratu, m’mene ndidzakwerako tionane masowo; thanthwe long’ambikatu, ndibisale momwemu."
+          "M’moyo uno kunsiku pena ndimwaliratu, m’mene ndidzakwerako tionane masowo;",
+          "thanthwe long’ambikatu, ndibisale momwemu."
         ]
       }
     ]
@@ -3325,7 +4648,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "103 Ambuye naitana ‘ne",
           "Ambuye naitana ‘ne; dzapumulire kuno, tsamira mutu, mwana ‘we, m’chifuwa mwanga muno"
         ]
       },
@@ -3373,26 +4695,41 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "104 YESU WONDIKONDADI",
-          "Yesu wondikondadi, ndithawire mwanumo pakugunda mvulazi. Pakuvuta madziwo, yesu mundibise ‘ne! ikaleka mphepoyo tsidya ilo chete phee! Mndilandire momwemo."
+          "Yesu wondikondadi, ndithawire mwanumo pakugunda mvulazi.",
+          "Pakuvuta madziwo, yesu mundibise ‘ne!",
+          "ikaleka mphepoyo tsidya ilo chete phee!",
+          "Mndilandire momwemo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Pothawira pena ‘yi, ndikhulupirira nu; musasiye inedi. Mundigwiriziretu. Ndinu wothandiza ‘ne, wolimbitsa mtimawu; pansi pamapiko phee! Mundifungatiretu."
+          "Pothawira pena ‘yi, ndikhulupirira nu;",
+          "musasiye inedi.",
+          "Mundigwiriziretu.",
+          "Ndinu wothandiza ‘ne, wolimbitsa mtimawu;",
+          "pansi pamapiko phee!",
+          "Mundifungatiretu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wina  sindifuna ‘yi, zokhutitsa nzanuzo; m’utsetu akugwawo, mchizetu odwalawo. Ndine wakuipa bii. Ndinu wakuyera mbuu! Ndimadzala tchimoli, wolungama ndinutu."
+          "Wina sindifuna ‘yi, zokhutitsa nzanuzo;",
+          "m’utsetu akugwawo, mchizetu odwalawo.",
+          "Ndine wakuipa bii.",
+          "Ndinu wakuyera mbuu!",
+          "Ndimadzala tchimoli, wolungama ndinutu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Zindichulukirazi nsoni zanu m’mtimamu; zindichiza nthendazo. Zindiyeretsetsa mbuu! Pachitsime panupo moyo ndimwe ndimwebe; mubukatu m’mtimamo mundidalitsetu ‘ne."
+          "Zindichulukirazi nsoni zanu m’mtimamu;",
+          "zindichiza nthendazo.",
+          "Zindiyeretsetsa mbuu!",
+          "Pachitsime panupo moyo ndimwe ndimwebe;",
+          "mubukatu m’mtimamo mundidalitsetu ‘ne."
         ]
       }
     ]
@@ -3408,7 +4745,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "105 Ndi inetu sinditha ‘yi kunenako",
           "Ndi inetu sinditha ‘yi kunenako milanduyi, kupempha zachisonizi; ndagonjatu mbuyanga ‘nu."
         ]
       },
@@ -3459,8 +4795,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "106 NDIKHULUPIRA ‘NU, MWANA",
-          "Ndikhulupira ‘nu, mwana wa mlungutu, mbuyangayo; mumve popempha ‘ne tchimo muchotsebe, lero ndikhale ‘ne wa mlunguyo."
+          "Ndikhulupira ‘nu, mwana wa mlungutu, mbuyangayo;",
+          "mumve popempha ‘ne tchimo muchotsebe, lero ndikhale ‘ne wa mlunguyo."
         ]
       },
       {
@@ -3472,13 +4808,15 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Poyenda m’mdima bii, m’mtimamo nsonizi mndigwirepo; mdima uchoke zi, msozi ulekedi, ndisasokere ‘yi kwa lnuko."
+          "Poyenda m’mdima bii, m’mtimamo nsonizi mndigwirepo;",
+          "mdima uchoke zi, msozi ulekedi, ndisasokere ‘yi kwa lnuko."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Moyo ukatha zi, pofika imfadi, mndisungepo; yesu mbuyanga ‘nu, mantha mthawitsetu ndifike m’mwambamo, E, wanuyu."
+          "Moyo ukatha zi, pofika imfadi, mndisungepo;",
+          "yesu mbuyanga ‘nu, mantha mthawitsetu ndifike m’mwambamo, E, wanuyu."
         ]
       }
     ]
@@ -3492,7 +4830,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "107 CHITSIMECHO CHA MWAZIWO",
           "Chitsimecho cha mwaziwo udzera mwa mbuyanga; wochimwa ndikasambamo, nditaya tchimo langa."
         ]
       },
@@ -3533,7 +4870,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "108 YESU MUNDIMVE",
           "Yesu mundimve, ndikuliratu. Dzani kwa inetu; mtimangawu ufuna inudi, bwerani, yesudi"
         ]
       },
@@ -3568,7 +4904,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "109 Ndilinkudza kwa ambuye",
           "Ndilinkudza kwa ambuye, ndisauka, ndinachimwa; zonse zanga ndizisiya, kudzapeza moyo wina"
         ]
       },
@@ -3607,7 +4942,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "110 Ndikhulupirira yesu",
           "Ndikhulupirira yesu inu nokhadi mundipulumutsa konse leroli."
         ]
       },
@@ -3652,8 +4986,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "111 NDASYA ZONSE NDI YESU.",
-          "Ndasya zonse ndi yesu kalelo, lnde, zakuipa zangazo; anafera ine m’phirimo; pomva mawu ake n’phirimo;"
+          "Ndasya zonse ndi yesu kalelo, lnde, zakuipa zangazo;",
+          "anafera ine m’phirimo; pomva mawu ake n’phirimo;"
         ]
       },
       {
@@ -3665,20 +4999,24 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Chisoni andichotsera mbuyeyu, an’thandiza ine teretu; ndikhulupirira lyeyu, andisunga m’manja mwakemu; alimbitsa mtima wangawu teretu, alimbitsa mtima wangawu teretu."
+          "Chisoni andichotsera mbuyeyu, an’thandiza ine teretu;",
+          "ndikhulupirira lyeyu, andisunga m’manja mwakemu;",
+          "alimbitsa mtima wangawu teretu, alimbitsa mtima wangawu teretu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mtima ‘we siya ndi yesu nsonizi, usabisa tchimo lakoli; zichuluka mphamvu zakezi, likusunga dzanja lakeli; bwera kwa mbuyathu leroli mwana ‘we bwera kwa mbuyathu leroli mwana ‘we"
+          "Mtima ‘we siya ndi yesu nsonizi, usabisa tchimo lakoli;",
+          "zichuluka mphamvu zakezi, likusunga dzanja lakeli;",
+          "bwera kwa mbuyathu leroli mwana ‘we bwera kwa mbuyathu leroli mwana ‘we"
         ]
       }
     ]
   },
   {
     "hymnNo": 112,
-    "title": "Kwa Inu Yesu ndilira",
+    "title": "KWA INU YESU NDILIRA",
     "creator": "Unknown",
     "chorus": [
       "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
@@ -3687,105 +5025,31 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Kwa inu Yesu ndilira, wopanda inu ndidzafa;",
-          "Mupulumutse inedi, mundilandiretu"
+          "Kwa inu yesu ndilira, wopanda inu ndidzafa; mupulumutse inedi, mundilandiretu"
         ]
       },
       {
         "stanzer": 2,
-        "lines": [
-          "Ndifoka ndi zoipazo, ndidzalatu ndi machimo,",
-          "Sinditha kuzitayazo; mundilandiretu."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndayesa kudzikonzadi, ndapeza mphamvu ndilibe,",
-          "Zoipa zakanikadi; mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Onani Mbuye ndigonja, kuyesa kwanga ndaleka;",
-          "Chitani inu mumtima; mundilandiretu."
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "Muyambe ntchito yanuyi musalekenso, chitani;",
-          "Ndidzipereka leroli; mundilandiretu"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 112,
-    "title": ". KWA INU  YESU NDILIRA",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "112. KWA INU  YESU NDILIRA",
-          "Kwa inu  yesu ndilira, wopanda inu ndidzafa; mupulumutse inedi, mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 3,
         "lines": [
           "Ndifoka ndi zoipazo, ndidzalatu ndi machimo, sinditha kuzitayazo; mundilandiandiretu."
         ]
       },
       {
-        "stanzer": 4,
-        "lines": [
-          "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 5,
+        "stanzer": 3,
         "lines": [
           "Ndayesa kudzikonzadi, ndapeza mphamvu ndilibe, zoipa zakanikadi; mundilandiretu"
         ]
       },
       {
-        "stanzer": 6,
-        "lines": [
-          "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 7,
+        "stanzer": 4,
         "lines": [
           "Onani mbuye ndigonja, kuyesa kwanga ndaleka; chitani inu mumtima; mundilandiretu."
         ]
       },
       {
-        "stanzer": 8,
-        "lines": [
-          "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 9,
+        "stanzer": 5,
         "lines": [
           "Muyambe ntchito yanuyi musalekenso, chitani; ndidzipereka leroli; mundilandiretu"
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "Mundilandiretu, ndiipa m’mtimamo; kotero mnandiferatu, mundilandiretu"
         ]
       }
     ]
@@ -3799,9 +5063,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "113.Yesu mulikundipempha, Munaterodi.",
           "Yesu mulikundipempha Munaterodi:",
-          "‘’Mwana, gonja, ndikupatsa ,Chimwemwe’’."
+          "‘’Mwana, gonja, ndikupatsa , Chimwemwe’’."
         ]
       },
       {
@@ -3838,21 +5101,20 @@ export const chewaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "E, Chimwemwe chachikulu , N’taperekadi Mtima  wanga ndimapeza Mtendere."
+          "E, Chimwemwe chachikulu , N’taperekadi Mtima wanga ndimapeza Mtendere."
         ]
       }
     ]
   },
   {
     "hymnNo": 114,
-    "title": ".Chitha nchiani kund’yeretsa",
+    "title": "Chitha nchiani kund’yeretsa",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "114.Chitha nchiani kund’yeretsa",
           "Chitha nchiani kund’yeretsa Mwazi wa ambuye yesu; Nchiani chindipulumutsa ? Mwazi wa ambuye yesu."
         ]
       },
@@ -3877,34 +5139,33 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Ndikhulupirira bwino  Mwazi wa ambuye yesu;  chilungamo changa ndicho Mwazi wa ambuye yesu"
+          "Ndikhulupirira bwino Mwazi wa ambuye yesu; chilungamo changa ndicho Mwazi wa ambuye yesu"
         ]
       }
     ]
   },
   {
     "hymnNo": 115,
-    "title": ".Mndilandire ine Mbuye yesu",
+    "title": "Mndilandire ine Mbuye yesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "115.MNDILANDIRE INE MBUYE YESU",
-          "Mndilandire ine mbuye yesu wondifera ‘ne; M’mtima mwanga muzikhala mawu anu okhawa ."
+          "MNDILANDIRE INE MBUYE YESU wondifera ‘ne; M’mtima mwanga muzikhala mawu anu okhawa ."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndasokera m’tali  ndithu M’njira zopwetekazo; Wolemendwa ndingopempha, mndilandire inetu ."
+          "Ndasokera m’tali ndithu M’njira zopwetekazo; Wolemendwa ndingopempha, mndilandire inetu ."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Pakukumbukira  zanga Ndili ndi manyazitu ; Ndingogwera pansi , ‘Tate, Mlapo wandigwiratu."
+          "Pakukumbukira zanga Ndili ndi manyazitu ; Ndingogwera pansi , ‘Tate, Mlapo wandigwiratu."
         ]
       },
       {
@@ -3930,15 +5191,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "116.A CHIKONDI  CHOPAMBANA",
-          "A chikondi  chopambana, E, chinadza ndi Mbuye;  Chinasangalatsa m'Mwamba, Chinaloŵanso mwa ‘fe.",
-          "Yesu ndinu wachifundo, wa chikondi changwiro. Ee, muloŵetu m'mtimanga,Mumuyese mwanutu."
+          "A CHIKONDI CHOPAMBANA",
+          "E, chinadza ndi Mbuye; Chinasangalatsa m'Mwamba, Chinaloŵanso mwa ‘fe.",
+          "Yesu ndinu wachifundo, wa chikondi changwiro. Ee, muloŵetu m'mtimanga, Mumuyese mwanutu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Dzanitu Wamphamvu yonse,Mtilanditse konseko; Musachedwe, thandizeni, musachoke mwangamu;",
+          "Dzanitu Wamphamvu yonse, Mtilanditse konseko; Musachedwe, thandizeni, musachoke mwangamu;",
           "Inu nokha timakuza Ndititumikirabe; Tinyadira chikondicho, Tichitame konseko."
         ]
       },
@@ -3954,21 +5215,21 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 117,
-    "title": ". NDILIKUMVA M'MTIMA MWANGA",
+    "title": "NDILIKUMVA M'MTIMA MWANGA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "117. NDILIKUMVA M'MTIMA MWANGA",
-          "Ndilikumva m'mtima mwanga Mawu ake a Mbuyanga, Ati, \"Ndakukonda Iwe, Kodi undikonda ine?"
+          "NDILIKUMVA M'MTIMA MWANGA",
+          "Mawu ake a Mbuyanga, Ati, Ndakukonda Iwe, Kodi undikonda ine?"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "At: \"Mwana, kumbukira Zonse ndinakuchitira; Ndakukonda, ndakufera,Ndakufuna posokera."
+          "Mwana, kumbukira Zonse ndinakuchitira; Ndakukonda, ndakufera, Ndakufuna posokera."
         ]
       },
       {
@@ -3995,7 +5256,7 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Ine ndidzakuonetsa Zonse zakukondweretsa Za Kumwamba zanga izo,Mwana, sundikonda lne?\""
+          "Ine ndidzakuonetsa Zonse zakukondweretsa Za Kumwamba zanga izo, Mwana, sundikonda lne?\""
         ]
       },
       {
@@ -4008,20 +5269,19 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 118,
-    "title": ". Ati Yesu Mbuyeyo",
+    "title": "Ati Yesu Mbuyeyo",
     "creator": "Unknown",
     "chorus": [
       "Yesu wathadi Za mangaŵatu,",
       "Inde, ndinaipa bii!",
-      "Watsuka ine mbuu!",
-      "͞"
+      "Watsuka ine mbuu!"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "118. Ati Yesu Mbuyeyo\"JESUS PAID IT ALL\"",
-          "Ati Yesu mbuyeyo, Ofoka ndinutu,",
+          "Ati Yesu Mbuyeyo",
+          "Ofoka ndinutu,",
           "Mudikire, m’pemphedi, Ndidzapatsa mphamvutu"
         ]
       },
@@ -4062,27 +5322,25 @@ export const chewaHymns = [
       "Dzinalo La Yesu,",
       "Dzinalo la Yesu!",
       "Lindikomera dzina la Ambuye",
-      "Yesu wanga.",
-      "͞"
+      "Yesu wanga."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "119 LINDIKOMERA DZINA",
-          "lindikomera dzina la Ambuye Yesu wanga,Lisangalatsa, lichiritsa, lin'chotsera mantha"
+          "lindikomera dzina la Ambuye Yesu wanga, Lisangalatsa, lichiritsa, lin'chotsera mantha"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Lichiza mzimu Wopwetekwa ukakhale bata,Lidyetsa mtima wonse, lipumitsa thupi langa."
+          "Lichiza mzimu Wopwetekwa ukakhale bata, Lidyetsa mtima wonse, lipumitsa thupi langa."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Nlokoma dzinalo la Yesu, ndilo thanthwe langa,Chikopa changa,linga langa m'mene ndibisala."
+          "Nlokoma dzinalo la Yesu, ndilo thanthwe langa, Chikopa changa,linga langa m'mene ndibisala."
         ]
       },
       {
@@ -4095,47 +5353,7 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Tsopano ndibukitsabe chikondi chanu chija,Pakufa ine Dzina lanu lindilimbikitsa."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 120,
-    "title": "Ndidzaimba za Mulungu",
-    "creator": "Unknown",
-    "chorus": [
-      "Inde ndidzaimba nyimbo Za kukonda kwakeko, Ndidzaimba ndi angelo Akukhala m 'Mwanmbamo."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "NDIDZAIMBA za Mulungu, Za kukonda kwakeko;",
-          "Anatuma Mwana wake Kundifera kalelo."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndinachita mphulupulu,",
-          "Waiŵala zonsezo!",
-          "Ndinakhala ndi zoipa,",
-          "Wazichotsa zonsezo!"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Wandipatsa moyo wake, Moyo wakuyera mbuu!",
-          "Ine ndili mwana wake, Wandilera inetu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ndiyamika buye nga Ndidzamlemekezabe,",
-          "Ndipititsa mbiri yake Ya kukonda kwakeko"
+          "Tsopano ndibukitsabe chikondi chanu chija, Pakufa ine Dzina lanu lindilimbikitsa."
         ]
       }
     ]
@@ -4151,8 +5369,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "120 NDIDZAIMBA ZA MULUNGU",
-          "NDIDZAIMBA za Mulungu, Za kukonda kwakeko; Anatuma Mwana wake Kundifera kalelo."
+          "NDIDZAIMBA ZA MULUNGU",
+          "Za kukonda kwakeko; Anatuma Mwana wake Kundifera kalelo."
         ]
       },
       {
@@ -4188,27 +5406,34 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "121 BWENZI NDINAMKOMANAYO",
-          "BWENZI ndinamkomanayo Anandikonda kale;Kukonda kwandigwirako, M'kukondamo nditsale, Kumtima kundimangako Kosamasuka konse Ambuye ndine wanutu Kunthaŵi nthaŵi Zonse."
+          "BWENZI ndinamkomanayo Anandikonda kale; Kukonda kwandigwirako,",
+          "M'kukondamo nditsale, Kumtima kundimangako",
+          "Kosamasuka konse Ambuye ndine wanutu Kunthaŵi nthaŵi Zonse."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Bwenzi Ndinamkomanayo Anandifera yekha. Anandipatsa moyowo, Ndatenga ine ndekha. Zimene ndili nazozi Nza Yesu mwini Zonse, Ndi moyo wanga wonse ndi Wakenso nthaŵi Zonse."
+          "Bwenzi Ndinamkomanayo Anandifera yekha. Anandipatsa moyowo,",
+          "Ndatenga ine ndekha. Zimene ndili nazozi Nza Yesu mwini Zonse,",
+          "Ndi moyo wanga wonse ndi Wakenso nthaŵi Zonse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Bwenzi ndinamkomanayo, Ndapeza mphamvu zanga, zakundisunga inemo, Ndiyende m'njira mwanga. zolemerera zoti mbee!",
+          "Bwenzi ndinamkomanayo, Ndapeza mphamvu zanga, zakundisunga inemo,",
+          "Ndiyende m'njira mwanga. zolemerera zoti mbee!",
           "zindiimbitsa monse; Ndalema kuno, komweko N’kupuma nthaŵi Zonse"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Bwenzi ndinamkomanayo Wokoma mtima wake, Wotsogolera nzeruzo Zisunga m’njira mwake. Palibe wondichotsa ‘ne Kwa lye wondikonda; Pamoyo, imfa, nayeyo Ndilipo nthaŵi zonse."
+          "Bwenzi ndinamkomanayo Wokoma mtima wake,",
+          "Wotsogolera nzeruzo Zisunga m’njira mwake.",
+          "Palibe wondichotsa ‘ne Kwa lye wondikonda; Pamoyo,",
+          "imfa, nayeyo Ndilipo nthaŵi zonse."
         ]
       }
     ]
@@ -4222,8 +5447,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "122 NDIMKONDE KHRISTUYO",
-          "NDIMKONDE Khristuyo,Ndimkondebe, Pemphero langali Mlandiretu; Ndipempha lnutu, Ndimkonde Khristuyo.",
+          "NDIMKONDE Khristuyo, Ndimkondebe, Pemphero langali Mlandiretu; Ndipempha lnutu, Ndimkonde Khristuyo.",
           "Ndimkondebe.",
           "Ndimkondebe."
         ]
@@ -4231,14 +5455,16 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndatsatatsatabe, Za pansipa,Ndisiye Zonsezi,Nditsate ‘Nu.",
+          "Ndatsatatsatabe, Za pansipa, Ndisiye Zonsezi, Nditsate ‘Nu.",
           "M’mtimanga wonsewu Ndimkonde Khristuyo, Ndimkondebe, Ndimkondebe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Chisoni chonsecho Chidzatha phe! Angelo anuwo Afiketu; Nawo ndiimbetu, Ndimkonde Khristuyo, Ndimkondebe,Ndimkondebe."
+          "Chisoni chonsecho Chidzatha phe!",
+          "Angelo anuwo Afiketu;",
+          "Nawo ndiimbetu, Ndimkonde Khristuyo, Ndimkondebe, Ndimkondebe."
         ]
       },
       {
@@ -4246,8 +5472,8 @@ export const chewaHymns = [
         "lines": [
           "Pakufa pangapo Ndinenebe;",
           "Myamiko wangawu Ndikwezebe.",
-          "Ndidzapempheradi,Ndimkone Khristuyo.",
-          "Ndimkondebe,Ndimkondebe."
+          "Ndidzapempheradi, Ndimkone Khristuyo.",
+          "Ndimkondebe, Ndimkondebe."
         ]
       }
     ]
@@ -4263,22 +5489,25 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "123 MWAKHULUPIRIRADI YESU",
-          "MWAKHULUPIRIRADI Yesu Ambuyathu; Muli nazo zakezo, Zidzatu zinanso.Mlungu wachisomocho Mbuye wathu ndiye,",
+          "MWAKHULUPIRIRADI YESU",
+          "Ambuyathu; Muli nazo zakezo, Zidzatu zinanso. Mlungu wachisomocho Mbuye wathu ndiye,",
           "Ati zinthu zonsezo Nzathu mwa lyeyo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mwamva Yesu m'mtimamo,Adzanso kaŵiri.",
-          "M’mene ali nanutu Muli ndi Chimwemwe.Ntchito zachifundozi lye watha izi.Kuti mwawo m’Mwambamo,Naye tikhalebe."
+          "Mwamva Yesu m'mtimamo, Adzanso kaŵiri.",
+          "M’mene ali nanutu Muli ndi Chimwemwe.",
+          "Ntchito zachifundozi lye watha izi.",
+          "Kuti mwawo m’Mwambamo, Naye tikhalebe."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mwamva Mzimu wakewo, zake zimvekanso Kugwa ngati mvulayo Yachisomo chake. Mzimu ndiye mphamvudi m'moyo mwathu muno, Mpaka tidzafikako Komwe kuli Yesu."
+          "Mwamva Mzimu wakewo, zake zimvekanso Kugwa ngati mvulayo Yachisomo chake.",
+          "Mzimu ndiye mphamvudi m'moyo mwathu muno, Mpaka tidzafikako Komwe kuli Yesu."
         ]
       }
     ]
@@ -4288,15 +5517,15 @@ export const chewaHymns = [
     "title": "POYAMBAPO NDAKONDWADI",
     "creator": "Unknown",
     "chorus": [
-      "Kalelo! Kalelo! Wandisambitsa m'mtimamo,Wandiŵeruza lomwelo, Kupempha ndi kukondwako.",
+      "Kalelo! Kalelo! Wandisambitsa m'mtimamo, Wandiŵeruza lomwelo, Kupempha ndi kukondwako.",
       "Kalelo! Kalelo! Wandisambitsa m'mtimamo."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "124 POYAMBAPO NDAKONDWADI",
-          "POYAMBAPO ndakondwadi N’tapeza lnu Mbuyetu, Ndiimba nyimbo yomweyi,",
+          "POYAMBAPO NDAKONDWADI",
+          "N’tapeza lnu Mbuyetu, Ndiimba nyimbo yomweyi,",
           "Kukondwa sindikhala duu!"
         ]
       },
@@ -4310,22 +5539,22 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Kumwamba ndidzanenadi Za chipangano chathucho. Wamoyo sindim'siya ‘yi,Nditafa ndinka kwawoko."
+          "Kumwamba ndidzanenadi Za chipangano chathucho. Wamoyo sindim'siya ‘yi, Nditafa ndinka kwawoko."
         ]
       }
     ]
   },
   {
     "hymnNo": 125,
-    "title": ". Ambuyanga Yesu, Ndikonda Inu",
+    "title": "Ambuyanga Yesu, Ndikonda Inu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "125. Ambuyanga Yesu, Ndikonda Inu\"My Jesus, I Love Thee\"",
-          "Ambuyanga Yesu, n’kukondani Inu,Ndisiya zoipa chifukwa cha inu;",
+          "Ambuyanga Yesu, Ndikonda Inu",
+          "Ndisiya zoipa chifukwa cha inu;",
           "Ambuye wabwino mndipulumutse;",
           "Ndikonda tsopano koposa kale lonse."
         ]
@@ -4340,50 +5569,55 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndidzakukondani mwa moyo ndi m’imfa; ndidzakutamani; chikondi n’dzaimba. Mpakatu ndidzafa, n’dzanena nthaŵi zonse: ndikonda tsopapo koposa kale lonse."
+          "Ndidzakukondani mwa moyo ndi m’imfa;",
+          "ndidzakutamani;",
+          "chikondi n’dzaimba.",
+          "Mpakatu ndidzafa, n’dzanena nthaŵi zonse: ndikonda tsopapo koposa kale lonse."
         ]
       }
     ]
   },
   {
     "hymnNo": 126,
-    "title": "AMBUYE, M'IMFAMOMUNAKONDA",
+    "title": "AMBUYE, M'IMFAMO MUNAKONDA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "126 AMBUYE, M'IMFAMOMUNAKONDA",
-          "AMBUYE, m'imfamo Munakonda ine:",
+          "AMBUYE, M'IMFAMO MUNAKONDA ine",
           "Sindikaniza Nu Kanthu konse yi.",
-          "Ndimagwadira Nu,Ndikonda m’mtimamu,",
+          "Ndimagwadira Nu, Ndikonda m’mtimamu,",
           "Ndidzaperekatu Nsembe yangayi."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kumwamba Kwanuko Mundipempherere; Ndikhulupirako, N'dzalandiradi; Ndisenze mtandawo, Ndikhale mboniyo, Ndikaperekeko Mitoloyi."
+          "Kumwamba Kwanuko Mundipempherere;",
+          "Ndikhulupirako, N'dzalandiradi;",
+          "Ndisenze mtandawo, Ndikhale mboniyo, Ndikaperekeko Mitoloyi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndikhumba Mtimawo Wofatsa ndithu,Kuti ndiyambe ‘ne Ntchito zanuzi, AKusokerawo, Ofuna zawowo Abwere kwawoko, Inde, kwanutu"
+          "Ndikhumba Mtimawo Wofatsa ndithu, Kuti ndiyambe ‘ne Ntchito zanuzi, AKusokerawo, Ofuna zawowo Abwere kwawoko, Inde, kwanutu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Zambiri zangazo Mnandipatsa kale, Ndibweza zonsezi Kwa Mbuyanga Nu; Ndikadzaona ‘Nu, Mbuye wabwinotu, Nsembe yokomatu Ndidzakhalabe."
+          "Zambiri zangazo Mnandipatsa kale, Ndibweza zonsezi Kwa Mbuyanga Nu;",
+          "Ndikadzaona ‘Nu, Mbuye wabwinotu, Nsembe yokomatu Ndidzakhalabe."
         ]
       }
     ]
   },
   {
     "hymnNo": 127,
-    "title": ".WAFUNAFUNA INE",
+    "title": "WAFUNAFUNA INE",
     "creator": "Unknown",
     "chorus": [
       "E! chikondi ndithu,",
@@ -4396,9 +5630,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "127.WAFUNAFUNA INE",
           "WAFUNAFUNA ine",
-          "Ambuye Yesuyo;Wapeza ine ndithu",
+          "Ambuye Yesuyo; Wapeza ine ndithu",
           "Wodwala m’mtimamo;",
           "Zochimwa zanga ZOnsezo",
           "Wachotsa izo Zomwezo,"
@@ -4407,7 +5640,9 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndafoka ine kale, Ndafuna kufaku; Anadza kundichiza Zinthenda zangazo Ndi mwazi wake woti pyu! Ndayera nawo m’mtimamu."
+          "Ndafoka ine kale, Ndafuna kufaku;",
+          "Anadza kundichiza Zinthenda zangazo Ndi mwazi wake woti pyu!",
+          "Ndayera nawo m’mtimamu."
         ]
       },
       {
@@ -4420,7 +5655,9 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndikhumba ine ndithu Madalo akewo; Ndifuna kumyamika Masiku onsewo; Ndikafa ine pansipa,Kumwamba ndidzamtamanso."
+          "Ndikhumba ine ndithu Madalo akewo;",
+          "Ndifuna kumyamika Masiku onsewo;",
+          "Ndikafa ine pansipa, Kumwamba ndidzamtamanso."
         ]
       }
     ]
@@ -4436,7 +5673,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "128 AMBUYE MULUNGU.",
           "AMBUYE Mulungu, Ndikondwera maka, Ndapeza Chimwemwe Ndi moyo wosatha."
         ]
       },
@@ -4476,10 +5712,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "129 IMFA NDI MFUMU YA MDIMAWO",
           "IMFA ndi mfumu ya mdimawo, Anthu oipa IMangawo, Akhristu amapulumuka.",
-          "Omwe aimbira moyo, Moyo ndi moyo ndi",
-          "moyo,",
+          "Omwe aimbira moyo, Moyo ndi moyo ndi moyo,",
           "Wosalekana ndi Moyo Wosamaiza",
           "Mulunguyo."
         ]
@@ -4498,7 +5732,7 @@ export const chewaHymns = [
         "lines": [
           "M’mitima mwathu mwakhala mbee! Mtambo wamdima wang’ambwa ke! Panyanjapo pagaŵaika.",
           "Ndife tipita ku moyo, Mtima wabwino ndi moyo,",
-          "Kumbanda kucha Kwa moyo Kumatiuza za dZuŵalo"
+          "Kumbanda kucha Kwa moyo Kumatiuza za d Zuŵalo"
         ]
       },
       {
@@ -4513,15 +5747,15 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 130,
-    "title": ". ADALITSIKA MUNTHUVO",
+    "title": "ADALITSIKA MUNTHUVO",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "130. ADALITSIKA MUNTHUVO",
-          "ADALITSIKA Munthuyo Wapeza dalo lomwelo, Chisomocho cha Mlunguyo",
+          "ADALITSIKA MUNTHUy O",
+          "Wapeza dalo lomwelo, Chisomocho cha Mlunguyo",
           "Chogwera m'Mpingo wakewo"
         ]
       },
@@ -4540,78 +5774,14 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Akondwerera nthaŵiyi pomvera mwini Mlungudi: Mtendere ngwake panotu,Nakhala nawo m’Mwambanso."
+          "Akondwerera nthaŵiyi pomvera mwini Mlungudi: Mtendere ngwake panotu, Nakhala nawo m’Mwambanso."
         ]
       }
     ]
   },
   {
     "hymnNo": 131,
-    "title": "Ndidziwitsitsa Yesu ndi wanga [Autosaved]",
-    "creator": "Unknown",
-    "chorus": [
-      "Mawu omwewo, Nyimbo yomweyi, Yesu ndimtama tsiku lonseli;",
-      "Mawu omwewo, Nyimbo yomweyi, Yesu ndimtama tsiku lonseli"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndidziŵitsitsa Yesu ndi wanga; Tsiku ndi tsiku ndimakondwera.",
-          "Anandigula ndi mwazi wake, Anandipatsa Mzimu woyera."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "N’kamvera Yesu ndikakondwera. Ndiyang’anitsa nkhopeyo yake;",
-          "Ndipo angelo anditengera Ine chisomo ndi chuma chake"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndine kapolo Mbuya wanga; Andigwiritsa zintchito zake",
-          "Ndimyembekeza adzabweranso, Adzanditenga kwawo ndikhale"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 131,
-    "title": "Ndidziwitsitsa Yesu ndi wanga",
-    "creator": "Unknown",
-    "chorus": [
-      "Mawu omwewo, Nyimbo yomweyi, Yesu ndimtama tsiku lonseli;",
-      "Mawu omwewo, Nyimbo yomweyi, Yesu ndimtama tsiku lonseli"
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndidziŵitsitsa Yesu ndi wanga; Tsiku ndi tsiku ndimakondwera.",
-          "Anandigula ndi mwazi wake, Anandipatsa Mzimu woyera."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "N’kamvera Yesu ndikakondwera. Ndiyang’anitsa nkhopeyo yake;",
-          "Ndipo angelo anditengera Ine chisomo ndi chuma chake"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndine kapolo Mbuya wanga; Andigwiritsa zintchito zake",
-          "Ndimyembekeza adzabweranso, Adzanditenga kwawo ndikhale"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 131,
-    "title": ". Ndidziwitsitsa Yesu Ndi wanga",
+    "title": "Ndidziwitsitsa Yesu Ndi wanga",
     "creator": "Unknown",
     "chorus": [
       "Mawu omwewo, Nyimbo yomweyi, Yesu ndimtama tsiku lonseli;",
@@ -4622,8 +5792,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "131. Ndidziwitsitsa Yesu Ndi wanga\"Blessed Assurance\"",
-          "Ndidziŵitsitsa yesu ndi wanga; Tsiku ndi tsiku ndimakondwera.",
+          "Ndidziwitsitsa Yesu Ndi wanga",
+          "Tsiku ndi tsiku ndimakondwera.",
           "Anandigula ndi mwazi wake, Anandipatsa Mzimu woyera."
         ]
       },
@@ -4652,8 +5822,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "132 Sindinanyengedwa konse",
-          "Sindinanyengedwa konse Pakutsata Yesuyo Yesu apambana",
+          "Sindinanyengedwa konse",
+          "Pakutsata Yesuyo Yesu apambana",
           "Zonse Ndinalingalirazo Pakuyenderana naye Ndimamdziŵa ndi",
           "Woona Ndifunitsa anthu Onse Adziŵenso Yesuyo!",
           "Ndifunitsa anthu onse Adziŵenso Yesuyo!"
@@ -4664,21 +5834,26 @@ export const chewaHymns = [
         "lines": [
           "Sindinanyengedwa konse, Yesu wachotsera phe! Zakuchimwa zanga Zonse",
           "Zakupsinja mtimazo Yesu potsagana nane Wandidzaza ndi mtendere;",
-          "Kundisunga,  Kundikonda Sadzaleka konse 'yi! Kundisunga, Kundikonda Sadzaleka konse 'yi!"
+          "Kundisunga, Kundikonda Sadzaleka konse 'yi! Kundisunga, Kundikonda Sadzaleka konse 'yi!"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Sindinayengedwa konse, Yesu adzabwerabe;",
-          "Mtima wanga undiuza Akuyandikiradi Omwe Sangamzindikire Andinyoza nandijeda. Koma Yesu ati zedi: Ine ndidzabweradi.",
+          "Mtima wanga undiuza Akuyandikiradi Omwe Sangamzindikire Andinyoza nandijeda.",
+          "Koma Yesu ati zedi: Ine ndidzabweradi.",
           "Koma Yesu ati zedi: Ine ndidzabweradi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Sandinyenga, salephera; Yesu wadalitsa ne, Mpulumutsi ndi Myeretsi Ndi Mchiritsi yemweyo. Wandiyanjanitsa naye. Mtima wanga nakhutitsa; Sindinanyengedwa konse, Yesu akwaniradi!",
+          "Sandinyenga, salephera;",
+          "Yesu wadalitsa ne, Mpulumutsi ndi Myeretsi Ndi Mchiritsi yemweyo.",
+          "Wandiyanjanitsa naye.",
+          "Mtima wanga nakhutitsa;",
+          "Sindinanyengedwa konse, Yesu akwaniradi!",
           "Sindinanyengedwa konse, Yesu akwaniradi!"
         ]
       }
@@ -4686,7 +5861,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 133,
-    "title": ". MULUNGU WANGA",
+    "title": "MULUNGU WANGA",
     "creator": "Unknown",
     "chorus": [
       "Aleluya, muyenera! Aleluya, Amen. Aleluya, ndidzamtama Mulungu wanga."
@@ -4695,46 +5870,34 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "214 MULUNGU WANGA",
-          "MULUNGU wanga,",
-          "Dzuŵatu",
-          "La mtima wanga",
-          "ndinudi Palibe mdima",
-          "ngatitu",
-          "Mukaŵalira inedi."
+          "MULUNGU WANGA",
+          "Ndapeza moyo",
+          "Ndili okondwera",
+          "Masiku onse."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Muchotse Zonse zoti bii",
-          "Zobisa nkhope",
-          "yanuyo,",
-          "Mudzazetu",
-          "mtimangawo",
-          "Ndi kuunika",
-          "kwanuko."
+          "Mwazi wa Yesu Unditsukatu, Ndiye Mbuye wanga Ndi Mpulumutsi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Madzulo ana",
-          "mkhaletu",
-          "Patupi ndine, Yesudi,",
-          "Ndisanagone tuloto,",
-          "Ndilingalira Inudi."
+          "Pamtanda wake Nafera ine, Ndi zoipa zanga Nazichotsadi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Kapena wina leroli",
-          "Wasokerera m’njirayi",
-          "Ya lnu Mbuye,",
-          "mbwezetu,",
-          "Mumpulumutse",
-          "iyedi."
+          "Mulungu wanga Andilandira, Chifukwa cha Yesu Mwana wakeyo."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Adzabweranso Kundilandira Ndikhale ndi lye Masiku onse."
         ]
       }
     ]
@@ -4750,7 +5913,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "134 TILI NDI MTENDERE",
           "TILI ndi mtendere Wopambanatu.",
           "Monga ngati mtsinje",
           "Mumitimamo; Koma mtsinje uno",
@@ -4761,13 +5923,15 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Dzanja la Mulungu Litisunga nji! Nkhondo ya Satana Sitiopa ‘yi Zaphokoso zonse Ndi zoopsazo Sizivuta mtima, Siziloŵamo."
+          "Dzanja la Mulungu Litisunga nji!",
+          "Nkhondo ya Satana Sitiopa ‘yi Zaphokoso zonse Ndi zoopsazo Sizivuta mtima, Siziloŵamo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Masauko athu ndi zokondwazo, Azilola zonse Ndi Atatewo. Pomkhulupirira Tidzapezabe Kuti mtima wake Utikonda 'fe."
+          "Masauko athu ndi zokondwazo, Azilola zonse Ndi Atatewo.",
+          "Pomkhulupirira Tidzapezabe Kuti mtima wake Utikonda 'fe."
         ]
       }
     ]
@@ -4783,7 +5947,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "135  YESU NDIYE MBUYEWANGA",
           "YESU ndiye Mbuye wanga, Ndamva Mawu Anandilandira ine, Nandipulumutsatu."
         ]
       },
@@ -4816,7 +5979,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "136 MTENDERE ULI MMTIMA",
           "MTENDERE uli m’mtima mwathumu, Chifukwa mwazi watitsuka mbuu!"
         ]
       },
@@ -4841,7 +6003,7 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Mtendere wopambana  m’Mwambamo Pakufa ife Tidzaonanso."
+          "Mtendere wopambana m’Mwambamo Pakufa ife Tidzaonanso."
         ]
       }
     ]
@@ -4904,8 +6066,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "138 KHALANI DUU! AMBUYE",
-          "KHALANI duu! Ambuye adzatu Senzani chete mtanda wanuwu Mulungu adzakonza zanuzo, Sangasinthike mtima lyeyu. Khalani duu! Bwenzilo Yesuyo Atsogolera m'njira mwathumu."
+          "KHALANI duu!",
+          "Ambuye adzatu Senzani chete mtanda wanuwu Mulungu adzakonza zanuzo, Sangasinthike mtima lyeyu.",
+          "Khalani duu!",
+          "Bwenzilo Yesuyo Atsogolera m'njira mwathumu."
         ]
       },
       {
@@ -4917,13 +6081,18 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Khalani duu! Pakufa mnzathuyo, Pakum'lirira ndi Misoziyo Panthaŵizo abwera Yesutu, Mitima yathu natonthozadi. Khalani duu! Ambuye athadi Kutibwezera zochotsedwazi"
+          "Khalani duu!",
+          "Pakufa mnzathuyo, Pakum'lirira ndi Misoziyo Panthaŵizo abwera Yesutu, Mitima yathu natonthozadi.",
+          "Khalani duu!",
+          "Ambuye athadi Kutibwezera zochotsedwazi"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Khalani duu! Pakufa ifetu, Ndi Yesu tidzakhala indetu Popanda mantha ndi Zowawazi Chikondi chokha koma m'mtimamo Khalani duu! pakutha zonse phe Tidzasonkhana tonse kuli Ye."
+          "Khalani duu!",
+          "Pakufa ifetu, Ndi Yesu tidzakhala indetu Popanda mantha ndi Zowawazi Chikondi chokha koma m'mtimamo Khalani duu!",
+          "pakutha zonse phe Tidzasonkhana tonse kuli Ye."
         ]
       }
     ]
@@ -4937,7 +6106,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "139 NAMONDWE AKAWOMBABE",
           "NAMONDWE akawombabe, Mafunde akakulanso, Palipo pobisala ‘fe. Ndi popemphera Yesuyo."
         ]
       },
@@ -4978,7 +6146,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "140 MULUNGU ANDITSOGOLERA",
           "MULUNGU anditsogolera, Ndapumula m'mtimamo Ayang'anira njira zanga Nsiku zanga zonsezo."
         ]
       },
@@ -4991,7 +6158,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Masiku onse m’mtima mwanga Ndili ndi mtenderewo, Chifukwa  ndimakhulupira Mtsogoleri wangayo."
+          "Masiku onse m’mtima mwanga Ndili ndi mtenderewo, Chifukwa ndimakhulupira Mtsogoleri wangayo."
         ]
       }
     ]
@@ -5007,7 +6174,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "141 M'MENE INE NDISAUKA",
           "M'MENE ine Ndisauka Ndi zoipa zangazo, Ndidzapita kwa Mulungu, Adzandilandiratu."
         ]
       },
@@ -5020,7 +6186,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Pansi pano ndili mlendo,Kwathu ndi Kumwambako; M’mene ndimwalira ine Ndidzapita komweko."
+          "Pansi pano ndili mlendo, Kwathu ndi Kumwambako; M’mene ndimwalira ine Ndidzapita komweko."
         ]
       }
     ]
@@ -5034,8 +6200,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "142 MBUYANGA YESU",
-          "MBUYANGA Yesu, mundigwire dzanja; Kuyenda ndekha Sindikwana ‘yi; Mukandigwira dzanja langa, Mbuye Sindikaopa kanthu kena yi."
+          "MBUYANGA YESU mundigwire dzanja; Kuyenda ndekha Sindikwana ‘yi; Mukandigwira dzanja langa, Mbuye Sindikaopa kanthu kena yi."
         ]
       },
       {
@@ -5048,42 +6213,45 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          ".Mbuyanga Yesu, ndikapanda Inu Ukadza mdima",
-          "m' mtima mwangamu, Koma ndinutu dzuŵa langa ndithu Lakuŵalitsa m'mtima momwemu."
+          ". Mbuyanga Yesu, ndikapanda Inu Ukadza mdima m' mtima mwangamu, Koma ndinutu dzuŵa langa ndithu Lakuŵalitsa m'mtima momwemu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mbuyanga Yesu, mundigwire dzanja Pamene ine ndimwalirapo. Mkhaletu m'fupi nthaŵi yomwe Mbuye, Mundiloŵetse ine m’Mwambamo."
+          "Mbuyanga Yesu, mundigwire dzanja Pamene ine ndimwalirapo.",
+          "Mkhaletu m'fupi nthaŵi yomwe Mbuye, Mundiloŵetse ine m’Mwambamo."
         ]
       }
     ]
   },
   {
     "hymnNo": 143,
-    "title": ". NDIFUNA INU, YESU",
+    "title": "NDIFUNA INU, YESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "143. NDIFUNA INU, YESU",
-          "NDIFUNA Inu, Yesu, Ndadzala ndi machimo, Mumzimu muli mdima. Ndikufatu m'katimo.",
+          "NDIFUNA INU, YESU",
+          "Ndadzala ndi machimo, Mumzimu muli mdima. Ndikufatu m'katimo.",
           "Ndifuna kutsukika M’chitsimecho cha mwazi Wa Inu wokondedwa, Munandifera kale."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndifuna Inu, Yesu, Lisoŵa bwenzi lina Losungiritsa ine, Londithandiza mwina.Ndifuna mtima wanu Wodziŵa nkhaŵa zanga, Wondisenzera mtolo Wa tchimo lonse langa"
+          "Ndifuna Inu, Yesu, Lisoŵa bwenzi lina Losungiritsa ine, Londithandiza mwina.",
+          "Ndifuna mtima wanu Wodziŵa nkhaŵa zanga, Wondisenzera mtolo Wa tchimo lonse langa"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndifuna Inu, Yesu, Ndimasauka ndithu, M'ulendo andisoŵa; Kambayo wa padziko. Ndifunanso chikondi Cha Inu chondisunga, Chakundisangalatsa Panjira ponse panga."
+          "Ndifuna Inu, Yesu, Ndimasauka ndithu, M'ulendo andisoŵa;",
+          "Kambayo wa padziko.",
+          "Ndifunanso chikondi Cha Inu chondisunga, Chakundisangalatsa Panjira ponse panga."
         ]
       },
       {
@@ -5105,8 +6273,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "144 NDIFUNA YESUYO AMBUYANGA",
-          "NDIFUNA Yesuyo Ambuyanga, M'mtendere ndinkemo Mwa lyeyu."
+          "NDIFUNA YESUYO AMBUYANGA",
+          "M'mtendere ndinkemo Mwa lyeyu."
         ]
       },
       {
@@ -5144,8 +6312,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "145 MTIMA WA MBUYAKO",
-          "MTIMA wa Mbuyako Ukukonda ‘we; Ndiye wakuona Wopirirabe Ukasoŵa bwenzi, Usaope 'yi; Chikondano chake Chikwaniradi"
+          "MTIMA WA MBUYAKO",
+          "Ukukonda ‘we; Ndiye wakuona Wopirirabe Ukasoŵa bwenzi, Usaope 'yi; Chikondano chake Chikwaniradi"
         ]
       },
       {
@@ -5175,24 +6343,19 @@ export const chewaHymns = [
     "title": "PAMENE NDISAUKA",
     "creator": "Unknown",
     "chorus": [
-      "Masiku anga onse Mulungu mundisunge; Pamene ndimwalira, Ndi tsiku lomaliza.",
-      "Mulungu wanga, Mwini mphamuu, Mkandikumbukire 'ne"
+      "Mulungu wanga, Mwini mphamvu, Mkandikumbukire 'ne"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Pamene ndisauka",
-          "Ndisauka m'mtimamo,",
-          "Ndiye mwini Yesu",
-          "Angathe kundichiza,"
+          "PAMENE ndisauka, Pamene ndivutidwa. Mizimu yakuipa ikadza nindiyesa,"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Pamene ndilemedwa Ndi zakuipa zanga,",
-          "Poloŵa mdima m'mtima, Pochita ine mantha,"
+          "Pamene ndilemedwa Ndi zakuipa zanga, Poloŵa mdima m'mtima, Pochita ine mantha,"
         ]
       },
       {
@@ -5214,7 +6377,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "147 KHALA CHETE MTIMA",
           "KHALA chete mtima wanga Mlungu wako ndiye Mfumu; Zinthu zonse zisinthika, Mlungu ndi wachikhalire."
         ]
       },
@@ -5234,14 +6396,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 148,
-    "title": ". NGATI MTIMA SUMAKONDA YESU",
+    "title": "NGATI MTIMA SUMAKONDA YESU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "148. NGATI MTIMA SUMAKONDA YESU",
           "NGATI mtima sumakonda Yesu, supumula bwino, Mbuye, suwu mtima wanga, Ndiwo wanu, mulandire."
         ]
       },
@@ -5274,7 +6435,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "149 NJIRA YANGA SINDIDZAWA",
           "NJIRA yanga sindidziŵa, Tate muikonza: Komatu ndizindikira Kuti mundikonda."
         ]
       },
@@ -5307,8 +6467,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "150 ODALA NDI ONSEWO",
-          "ODALA ndi onsewo Oyera m’mtima Mwawo; Adzaonana ndi Mulungu, Yesu ndiye wawo"
+          "ODALA NDI ONSEWO",
+          "Oyera m’mtima Mwawo; Adzaonana ndi Mulungu, Yesu ndiye wawo"
         ]
       },
       {
@@ -5320,7 +6480,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mumtima wakutatsa Akonda kukhalabe; Asankha mtima wakuyera,Ndiwo nyumba yake."
+          "Mumtima wakutatsa Akonda kukhalabe; Asankha mtima wakuyera, Ndiwo nyumba yake."
         ]
       },
       {
@@ -5340,8 +6500,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "151 MNDIYANDIKITSE NANU YESU",
-          "MNDIYANDIKITSE nanu Yesu, Ndiyenderane nanu, E, nditsamire panu, Yesu, Panjira yonseyi"
+          "MNDIYANDIKITSE NANU YESU",
+          "Ndiyenderane nanu, E, nditsamire panu, Yesu, Panjira yonseyi"
         ]
       },
       {
@@ -5366,7 +6526,7 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Ndimamva njala kuno, Yesu,Yakufunitsa Inu, Kumwamba kwanu ndikukhumba Kukondwa nanuko"
+          "Ndimamva njala kuno, Yesu, Yakufunitsa Inu, Kumwamba kwanu ndikukhumba Kukondwa nanuko"
         ]
       }
     ]
@@ -5380,7 +6540,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "152 KHALA MWA INE YESU",
           "KHALA mwa ine Yesu anatero: Mawu abwino, Koma Mbuye wanga Sin'gathe ndekha, Mukhalitse ine Mwa Nu ndikhale nawo moyotu"
         ]
       },
@@ -5393,19 +6552,24 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Khala mwa Ine, mwani mphamvu Mundithandize ine ndikafoka; Mzimu Woyera andiululire Zoona zanu m'mtama mwangamu"
+          "Khala mwa Ine, mwani mphamvu Mundithandize ine ndikafoka;",
+          "Mzimu Woyera andiululire Zoona zanu m'mtama mwangamu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Khala mwa Ine. Ndinu mwini moyo Nthambi zouma zidulidwa m'mtengo; ine wopanda inu ndifokanso, Zipatso zikasoŵa Msadze 'ne"
+          "Khala mwa Ine.",
+          "Ndinu mwini moyo Nthambi zouma zidulidwa m'mtengo;",
+          "ine wopanda inu ndifokanso, Zipatso zikasoŵa Msadze 'ne"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Khala nwa Ine, Mbuye, ndifunitsa; Mzimu Woyera mlonge m’mtima mwanga, Akagonjetsetu machimo anga. Mtima woyera andipatsenso."
+          "Khala nwa Ine, Mbuye, ndifunitsa;",
+          "Mzimu Woyera mlonge m’mtima mwanga, Akagonjetsetu machimo anga.",
+          "Mtima woyera andipatsenso."
         ]
       }
     ]
@@ -5419,21 +6583,25 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "153 AMBUYE MUNDISUNGE",
-          "AMBUYE mundisunge Pafupi ndinutu; Palibe malo pena Popuma pansipa, Adani andizinga,",
+          "AMBUYE MUNDISUNGE",
+          "Pafupi ndinutu; Palibe malo pena Popuma pansipa, Adani andizinga,",
           "Zoipa m'katimo; Chifundo chanu Yesu Chikonze m'mtimamo"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndikabisale mwanu Ndilibe mantha 'yi, Ndikasungidwe kwanu; Mumtima muti phee! Ndi mphamvu yanu Yokha Ndiposa 'daniwo; Chifundo chanu Mbuye Chitchinjirize 'ne"
+          "Ndikabisale mwanu Ndilibe mantha 'yi, Ndikasungidwe kwanu;",
+          "Mumtima muti phee!",
+          "Ndi mphamvu yanu Yokha Ndiposa 'daniwo;",
+          "Chifundo chanu Mbuye Chitchinjirize 'ne"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndidzaonana nanu Mokondwakondwadi Oyera mtima onse Apenya Mbuyeyo. Kumwamba n'dzaimbira Kukoma kwanuku N' dzatama nthaŵi zonse Chikondi chanucho."
+          "Ndidzaonana nanu Mokondwakondwadi Oyera mtima onse Apenya Mbuyeyo.",
+          "Kumwamba n'dzaimbira Kukoma kwanuku N' dzatama nthaŵi zonse Chikondi chanucho."
         ]
       }
     ]
@@ -5447,26 +6615,35 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "154 KHALATU WOYERA",
-          "KHALATU woyera, pempheratu m'tseri; ŵerengani Mawu masiku onsewo. Uthangate omwe ali akufoka.Madalitso ake ufunefunebe."
+          "KHALATU woyera, pempheratu m'tseri;",
+          "ŵerengani Mawu masiku onsewo.",
+          "Uthangate omwe ali akufoka.",
+          "Madalitso ake ufunefunebe."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Khalatu woyera, dziko laipadi; Pemphera kolimba kwa Yesu Mbuyathu Yang'anitsa Yesu ndi kumutsatira. Kuti anthu ena aonenso lye."
+          "Khalatu woyera, dziko laipadi;",
+          "Pemphera kolimba kwa Yesu Mbuyathu Yang'anitsa Yesu ndi kumutsatira.",
+          "Kuti anthu ena aonenso lye."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Khalatu woyera, akutsogozetu; Usamtsogolere munjira zakozo. Pokondwa ndi m'nsoni tsata Ambuyako,. Khulupira Yesu ndi Mawu akewo."
+          "Khalatu woyera, akutsogozetu;",
+          "Usamtsogolere munjira zakozo.",
+          "Pokondwa ndi m'nsoni tsata Ambuyako,.",
+          "Khulupira Yesu ndi Mawu akewo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Khalatu woyera, khalatu wofatsa; Alilamulire ganizo lakolo. Utatsogozedwa ndi Mzimu wakeyo, Msanga udzagwira m'Mwamba ntchito yake."
+          "Khalatu woyera, khalatu wofatsa;",
+          "Alilamulire ganizo lakolo.",
+          "Utatsogozedwa ndi Mzimu wakeyo, Msanga udzagwira m'Mwamba ntchito yake."
         ]
       }
     ]
@@ -5480,8 +6657,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "155 MUDZAZE YESU MTIMA WANGA",
-          "MUDZAZE Yesu mtima wanga ndi chikondicho, Ukhazikike pa Mulungu wosachokapo"
+          "MUDZAZE YESU MTIMA WANGA ndi chikondicho, Ukhazikike pa Mulungu wosachokapo"
         ]
       },
       {
@@ -5506,7 +6682,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 156,
-    "title": "Mbuye ndamva mwawazira",
+    "title": "MBUYE, NDAMVA MWAWAZIRA",
     "creator": "Unknown",
     "chorus": [
       "Etu ine, etu ine,",
@@ -5578,8 +6754,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "157 AMBUYE THANDIZENITU",
-          "AMBUYE Thandizenitu Ndi mphamvu zanuzo; Pantchito zathu zonsezi Mthandize Mbuyathu."
+          "AMBUYE THANDIZENITU",
+          "Ndi mphamvu zanuzo; Pantchito zathu zonsezi Mthandize Mbuyathu."
         ]
       },
       {
@@ -5614,19 +6790,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "158 POKHALA MTENDERE",
           "POKHALA mtendere mu mtimangamu,",
           "Pamene ndisaukanso,",
-          "Pamene mavuto ndi akuludi,Moyo wangawu",
-          "ngwabWinotu"
+          "Pamene mavuto ndi akuludi, Moyo wangawu ngwab Winotu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ngakhale Satana",
-          "andizunza 'ne,Chilipo",
-          "chitonthozacho;  Chifundo cha",
+          "Ngakhale Satana andizunza 'ne, Chilipo chitonthozacho; Chifundo cha",
           "Khristu anatera ne,",
           "Kundipatsa ‘ne moyo",
           "Wake."
@@ -5637,8 +6809,7 @@ export const chewaHymns = [
         "lines": [
           "Uchimo Unapachikidwa pomwe",
           "Pamtanda wa Yesu",
-          "Mbuye;Machimo angawo",
-          "anatherapo: Mbuye wanga,",
+          "Mbuye; Machimo angawo anatherapo: Mbuye wanga,",
           "ndiyamika 'Nu."
         ]
       },
@@ -5664,11 +6835,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "159 NDILIRA INE KUKAYEMDA",
-          "NDILIRA ine kukayemda",
+          "NDILIRA INE KUKAYEMDA",
           "M'njira ndi Mulungu;",
-          "Ndilira nyali",
-          "ndikaone",
+          "Ndilira nyali ndikaone",
           "Njira ya kwa Yesu."
         ]
       },
@@ -5683,16 +6852,14 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Kalelo m' mtima",
-          "ndinakondwa, Tere ndingolira",
+          "Kalelo m' mtima ndinakondwa, Tere ndingolira",
           "Zokoma zonse Zapadziko Sizindikwanira."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mubwere, Mzimu wa",
-          "mpumulo. Mundileze m'kati;",
+          "Mubwere, Mzimu wa mpumulo. Mundileze m'kati;",
           "Ndidana nazo",
           "Zoipazo Zinakuchotsani."
         ]
@@ -5724,8 +6891,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "160 NDILIRA MTIMA",
-          "NDILIRA mtima wotamanda",
+          "NDILIRA MTIMA wotamanda",
           "Mlungu, ndi woyera,",
           "E, mtima woyamika mwazi",
           "Munandikhetsera."
@@ -5734,8 +6900,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mtimatu wopirira Ndi Wofatsa m'kati",
-          "mwake. Mumveka Mbuye Yesu yekha,",
+          "Mtimatu wopirira Ndi Wofatsa m'kati mwake. Mumveka Mbuye Yesu yekha,",
           "Ndiye Mfumu yake"
         ]
       },
@@ -5744,8 +6909,7 @@ export const chewaHymns = [
         "lines": [
           "Ndilira mtima wakulapa",
           "Ndi womvera Yesu, Wosasiyana ndi",
-          "Ambuye Wakukhala",
-          "m'mwemo."
+          "Ambuye Wakukhala m'mwemo."
         ]
       },
       {
@@ -5753,8 +6917,7 @@ export const chewaHymns = [
         "lines": [
           "E, mtima watsopano ndi",
           "Wodzala ndi chikondi,",
-          "Wangwiro ndi",
-          "wokoma, Mbuye,",
+          "Wangwiro ndi wokoma, Mbuye,",
           "Wonga wanu wonse."
         ]
       },
@@ -5762,8 +6925,7 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Mkhalidwe ŵanu mundipatse,",
-          "Ndifanane nanu, Mulembe m'mtima",
-          "mwanga Dzina La chikondi chanu"
+          "Ndifanane nanu, Mulembe m'mtima mwanga Dzina La chikondi chanu"
         ]
       }
     ]
@@ -5777,7 +6939,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Zoipa zangazi",
+          "Zaopa zangazi",
           "Zidetsa m’mtimamu;",
           "Mnditsuke, Yesutu,",
           "Kutsuka koti mbuu!"
@@ -5818,19 +6980,16 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "162 AMBUYE, NDIFUNA",
           "AMBUYE, ndifuna nditsukenitu;",
           "Mukhalire ndine mumtimangamu;",
-          "Muthyole zonsezo",
-          "zodetsa netu; Musambitse ine,",
+          "Muthyole zonsezo zodetsa netu; Musambitse ine,",
           "ndiyeretu mbuu!"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ambuye, chotsani zonse zomwezo",
-          "zakundisautsa mumtimangamu,",
+          "Ambuye, chotsani zonse zomwezo zakundisautsa mumtimangamu,",
           "Ndileke zangazo zoipsa netu;",
           "Musambitse ine, ndiyeretu mbuu!"
         ]
@@ -5839,16 +6998,14 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Kumwamba ndiona Ambuyangayo,",
-          "Mudzandithandiza, nditsate nemo; Mudzandichotsera zoletsa",
-          "netu; Musambitse ine, ndiyeretu mbuu!"
+          "Mudzandithandiza, nditsate nemo; Mudzandichotsera zoletsa netu; Musambitse ine, ndiyeretu mbuu!"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Chifukwa cha ichi ndipempheratu,",
-          "Ndidikira Inu Ambuyangayu, Ndikhulupirira pa",
-          "mwaziwo psu! Musambitse ine, ndiyeretu mbuu!"
+          "Ndidikira Inu Ambuyangayu, Ndikhulupirira pa mwaziwo psu! Musambitse ine, ndiyeretu mbuu!"
         ]
       }
     ]
@@ -5862,7 +7019,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "163 USAFUNE CHUMA",
           "Usafune chuma chokha,",
           "Pena maseŵera okha,",
           "Koma za Mulungu zokha",
@@ -5884,14 +7040,13 @@ export const chewaHymns = [
           "Zosauka uvomere,",
           "Ndipo Yesu chaulere",
           "Chikondano ndi",
-          "Mtendere Aloŵetsa",
-          "m'mtimamo."
+          "Mtendere Aloŵetsa m'mtimamo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Zonse umazinyadira  Udzaleka kusirira;",
+          "Zonse umazinyadira Udzaleka kusirira;",
           "Uli nazo zokwanira Pakupeza Yesuyo."
         ]
       },
@@ -5924,7 +7079,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "164 MKHRISTU",
           "MKHRISTU,",
           "ulimbike",
           "M'ntchito yakeyo;",
@@ -5980,8 +7134,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "165 GWIRA ZINTCHITO ZAKO",
-          "GWIRA zintchito zako,",
+          "GWIRA ZINTCHITO ZAKO",
           "Pomva Usiku udza; Yamba mamaŵa Ndithu Potuluka dzuŵa",
           "Gwiranso m’msana monse Dzuŵalo likatentha;",
           "Gwira tsopano ntchito, Msanga udzaleka."
@@ -6011,19 +7164,17 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 166,
-    "title": ". TITHAWIRANJI",
+    "title": "TITHAWIRANJI",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "166. TITHAWIRANJI",
-          "TITHAŵIRANJI ifetu?",
+          "TITHAWIRANJI ifetu?",
           "mphamvu za Yesu nzathunso.",
           "Khristu atithangatatu",
-          "M'nkhondo ya moyo",
-          "wathuyo."
+          "M'nkhondo ya moyo wathuyo."
         ]
       },
       {
@@ -6033,16 +7184,14 @@ export const chewaHymns = [
           "Ya kwa mulungu",
           "Wathuyo;",
           "kwezani maso kuli",
-          "‘Ye; Khristu ndi njira",
-          "yomweyo."
+          "‘Ye; Khristu ndi njira yomweyo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Nkhaŵa tilibe; Yesuyo Atsogolera m’njiramo,",
-          "Tikhulupire lyeyo, Khristu ndi moyo",
-          "wathuwo."
+          "Tikhulupire lyeyo, Khristu ndi moyo wathuwo."
         ]
       },
       {
@@ -6065,12 +7214,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "167 MBUYE, NDITSATE",
-          "MBUYE, nditsate",
-          "bwanjiko? Ine ndikonde",
+          "MBUYE, nditsate bwanjiko? Ine ndikonde",
           "Bwanjinso? Bwanji kuyenda",
-          "M’njiramo Yonka Kumwamba",
-          "kwawoko?"
+          "M’njiramo Yonka Kumwamba kwawoko?"
         ]
       },
       {
@@ -6094,13 +7240,10 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndikamayenda",
-          "m'mdimamo,",
+          "Ndikamayenda m'mdimamo,",
           "Mletse zodandaulazo;",
-          "Mundikumbutse",
-          "mtandawo,",
-          "Zanga zichepa",
-          "zonsezo"
+          "Mundikumbutse mtandawo,",
+          "Zanga zichepa zonsezo"
         ]
       },
       {
@@ -6110,15 +7253,14 @@ export const chewaHymns = [
           "Ndikondweretse",
           "Mbuyeyo,",
           "Thupi liopa mingayo,",
-          "Koma mlimbitse",
-          "mtimawo."
+          "Koma mlimbitse mtimawo."
         ]
       }
     ]
   },
   {
     "hymnNo": 168,
-    "title": ".  YESU ATUNA IWE UNKE",
+    "title": "YESU ATUNA IWE UNKE",
     "creator": "Unknown",
     "chorus": [
       "Tsata, tsata, nditsatadi Yesu; lwetu, iwetu,",
@@ -6130,12 +7272,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "168.  YESU ATUNA IWE UNKE",
           "YESU afuna iwe unke kwawoko,",
           "Loŵa m’njira yake yakuyerayeratu",
-          "Anadzera m’Mwamba",
-          "kutiperekezako; Yamba msanga iwe",
-          "kunka kwanuko."
+          "Anadzera m’Mwamba kutiperekezako; Yamba msanga iwe kunka kwanuko."
         ]
       },
       {
@@ -6144,17 +7283,14 @@ export const chewaHymns = [
           "Ngati umtsata",
           "Mpulumutsi wakoyo.",
           "Udzakhaliranso kuli Mbuye wakoyo,",
-          "Adzapulumutsa thupi",
-          "mzimu wakonso, M’mphamvu ndi",
-          "chilango cha zoipazo."
+          "Adzapulumutsa thupi mzimu wakonso, M’mphamvu ndi chilango cha zoipazo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Kunsi kudambo, pena m’mwamba",
-          "M’phirimo. Pomwe pali Yesu",
-          "ndidzayendayendapo;",
+          "M’phirimo. Pomwe pali Yesu ndidzayendayendapo;",
           "Andiperekeza bwino m'njira yakeyo,",
           "Kuli Mzinda wa Mulungu wangayo."
         ]
@@ -6163,14 +7299,14 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 169,
-    "title": ".MBUYE, MWATIUZA",
+    "title": "MBUYE, MWATIUZA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "169.MBUYE, MWATIUZA",
+          "MBUYE, MWATIUZA",
           "MBUYE, mwatiuza 'fe Tizikhala mchere",
           "Wokometsa onsewo Akumanga kwathu.",
           "Mcherewu ndi ifetu; Mtifanize nanu",
@@ -6183,7 +7319,7 @@ export const chewaHymns = [
         "lines": [
           "Mbuye, mwatiuza ‘fe Tizikhala nyali",
           "Yoonetsa onsewo",
-          "NJira yonka kwanu.Nyaliyi ndi ifetu",
+          "NJira yonka kwanu. Nyaliyi ndi ifetu",
           "Kuunika kwanu",
           "Mutipatse tiŵalire",
           "Osokera onse."
@@ -6251,8 +7387,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "171 M'MENE UMAUKA",
-          "M'MENE umauka m’maŵa, Sunagwire ntchitozo,",
+          "M'MENE UMAUKA",
+          "Sunagwire ntchitozo,",
           "Sunayambe kukayenda, Ugwadire Mlunguyo.",
           "Pena ulikusekera, Pena nkhaŵa",
           "M’mtimamo, Wachimwemwe,wachisoni,",
@@ -6266,8 +7402,7 @@ export const chewaHymns = [
           "Naye Ukagwira ntchitozo;",
           "Pakukumbukira Yesu,",
           "Nkhaŵa Zidzachokanso.",
-          "Ndi zapansi zikafuna Kukudzaza",
-          "m'mtimamo, Utsogole kopemphera,",
+          "Ndi zapansi zikafuna Kukudzaza m'mtimamo, Utsogole kopemphera,",
           "Uza Yesu zonsezo"
         ]
       },
@@ -6298,10 +7433,9 @@ export const chewaHymns = [
     "title": "HAYA! NZANGA",
     "creator": "Unknown",
     "chorus": [
-      "Kanganani",
-      "nkhondo yanu",
+      "Kanganani nkhondo yanu",
       "Ndi mbendera mbuu!",
-      "Tivomere: \"inde",
+      "Tivomere: inde",
       "Mbuye",
       "Mtithangatetu"
     ],
@@ -6309,8 +7443,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "172 HAYA! NZANGA",
-          "HAYA! Nzanga taonani",
+          "HAYA! NZANGA taonani",
           "Yoonekayo",
           "Yakumwamba iti: \"Yesu",
           "Alinkudzako”"
@@ -6328,19 +7461,16 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mdani adza nazo",
-          "mphamvu,",
+          "Mdani adza nazo mphamvu,",
           "Koma ifetu",
-          "Tidzamthetsa",
-          "nkhondo yake",
+          "Tidzamthetsa nkhondo yake",
           "Timwingitsetu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Yesu ati, \"Ndidza",
-          "msanga!",
+          "Yesu ati, \"Ndidza msanga!",
           "Thangateni phee!",
           "Mbweze mawu",
           "Akulimba:",
@@ -6358,12 +7488,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "173 ANATILEMBA YESU",
-          "ANATILEMBA Yesu",
-          "tikagwire nkhondo",
-          "yake, Natilimbitsa tipirire",
-          "Osaopa kanthu. Kwa Satana",
-          "n'ziwembu zake",
+          "ANATILEMBA YESU tikagwire nkhondo yake, Natilimbitsa tipirire",
+          "Osaopa kanthu. Kwa Satana n'ziwembu zake",
           "Sitigonja konse; Tiyenderana naye",
           "Mfumu yathu yopambana."
         ]
@@ -6371,13 +7497,8 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Amaliwongo ochuluka",
-          "amaloŵa m'mtima Nafuna kuipitsamo",
-          "usana ndi usiku, Tikatsatabe Mfumu",
-          "yathu sitidzagwa Konse,",
-          "Pakuti atipatsa",
-          "mphamvu tipambane",
-          "nazo."
+          "Amaliwongo ochuluka amaloŵa m'mtima Nafuna kuipitsamo usana ndi usiku, Tikatsatabe Mfumu yathu sitidzagwa Konse,",
+          "Pakuti atipatsa mphamvu tipambane nazo."
         ]
       },
       {
@@ -6385,22 +7506,15 @@ export const chewaHymns = [
         "lines": [
           "Amatininkha zida",
           "Zoteteza mtima, ndizo:",
-          "Kupempherabe, kukhulupirira ndi",
-          "kufatsa; Mtheradi, ndi",
-          "lupanga ndilo Mawu a Mulungu;",
-          "Pogwira zida zakezi",
-          "sitilephera konse."
+          "Kupempherabe, kukhulupirira ndi kufatsa; Mtheradi, ndi lupanga ndilo Mawu a Mulungu;",
+          "Pogwira zida zakezi sitilephera konse."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mafumu atiuza",
-          "tikaletse ukapolo, Ndi kumasula goli la",
-          "anzathu akuopa. Tiyeni, tiwauze",
-          "za Mbuyathu Mpulumutsi,",
-          "Nitiwanditse mbiri",
-          "yake mudziko lonse",
+          "Mafumu atiuza tikaletse ukapolo, Ndi kumasula goli la anzathu akuopa. Tiyeni, tiwauze za Mbuyathu Mpulumutsi,",
+          "Nitiwanditse mbiri yake mudziko lonse",
           "Lathu."
         ]
       }
@@ -6478,8 +7592,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "175 POYESEDWA INE",
-          "POYESEDWA ine",
+          "POYESEDWA INE",
           "Yesu mudzetu, Mundipempherere",
           "Ndisachimwetu.",
           "Mukaona kuti Ndilefukatu,",
@@ -6492,8 +7605,7 @@ export const chewaHymns = [
           "Ndi zapansi pano",
           "Ndikokedwadi, Koma ndi chisoni",
           "Mndiphunzitsedi Ndisaiŵalire",
-          "Za Getsemane, Pena",
-          "mtanda wanu",
+          "Za Getsemane, Pena mtanda wanu",
           "Yesu Mbuye Nu."
         ]
       },
@@ -6529,7 +7641,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "176 AMBUYE",
           "AMBUYE wa",
           "Kumwamba, Mundithangatetu",
           "Kuyenda bwino lomwe",
@@ -6554,8 +7665,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Yochita ndi yodikha Mupatse",
-          "mphamvuyo, Ndikhale",
+          "Yochita ndi yodikha Mupatse mphamvuyo, Ndikhale",
           "Wochenjera, wogwira ntchitozo.",
           "Zoipa zanga zonse",
           "Mufafanizezo, Ndiyende nanu",
@@ -6643,18 +7753,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "178 TIYENI, AKHRISTU INU",
-          "TIYENI, Akhristu inu,",
-          "Mumenyane nkhondo",
-          "iyl, Mukafoka nonse, koma",
+          "TIYENI, AKHRISTU INU",
+          "Mumenyane nkhondo iyl, Mukafoka nonse, koma",
           "Yesu akulimbitsani."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Muyendenso kunka",
-          "komwe,",
+          "Muyendenso kunka komwe,",
           "Mugonjetse mdani wanu;,",
           "Musafoke, musaleme,",
           "Musagone konse inu."
@@ -6665,9 +7772,7 @@ export const chewaHymns = [
         "lines": [
           "Musagonje, anthu inu,",
           "Mtamiretu Yekha Mbuye,",
-          "Ipambana mphamvu",
-          "yake, Ya Mtsogoli wanu",
-          "yemwe."
+          "Ipambana mphamvu yake, Ya Mtsogoli wanu yemwe."
         ]
       },
       {
@@ -6676,17 +7781,14 @@ export const chewaHymns = [
           "Mtima wanu wonse ndithu",
           "Udzakhala ndi chimwemwe.",
           "Zida zanu mbvale bwino",
-          "Zakudzera m'Mwamba",
-          "momwe."
+          "Zakudzera m'Mwamba momwe."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Limbikani inu nonse,",
-          "Msangalalo ngwanu",
-          "nokha; Musaope kanthu",
-          "kena, Mumtamire Mbuye",
+          "Msangalalo ngwanu nokha; Musaope kanthu kena, Mumtamire Mbuye",
           "Yekha."
         ]
       },
@@ -6695,10 +7797,8 @@ export const chewaHymns = [
         "lines": [
           "Tiyeni ku nkhondo Iyi,",
           "Mugonjetse zonse konko;",
-          "Muingitse mdani",
-          "uja,",
-          "Muyendetse m'njira",
-          "momwe."
+          "Muingitse mdani uja,",
+          "Muyendetse m'njira momwe."
         ]
       }
     ]
@@ -6737,27 +7837,14 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Tivale zida zonse",
-          "Za Mbuye wathuyo;",
-          "Tipemphere kosatha",
-          "Kugonjetsa mdaniyo.",
-          "Mawu a Mulunguwo",
-          "Ndiwo lupanga lathu;",
-          "Tiyende nawo konse",
-          "Tikhale amphamvutu."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Tikatha nkhondo ino",
-          "Tidzalandira phe!",
-          "Korona wa ulemero",
-          "Kwa Yesu Mbuyeyo.",
-          "Mokondwa tidzaimba",
-          "Ndi angelo kumwamba;",
-          "Wagonja mdani yense,",
-          "Wapambana Mbuyathu."
+          "Tsopano timenyana",
+          "Ndi zakuipazi;",
+          "Pamene nkhondo yatha",
+          "Tidzanka kwathuko.",
+          "Yesu adzalandira",
+          "Ankhondo ake onse;",
+          "Adzakhalika naye",
+          "Kumwamba komweko."
         ]
       }
     ]
@@ -6771,8 +7858,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "180 MBUYE ndapangana",
-          "MBUYE ndapangana M'njira yanuyi,",
+          "MBUYE ndapangana",
+          "M'njira yanuyi,",
           "Kuti ndidzayenda Osaleka 'yi.",
           "Mundipatse mtima Wopiriramo,",
           "Wakukana zonse",
@@ -6806,7 +7893,7 @@ export const chewaHymns = [
         "lines": [
           "Pena kumwa nawo,",
           "Ndisateroko,",
-          "Pena kUkaona Gule woipa,",
+          "Pena k Ukaona Gule woipa,",
           "Pena kuwombeza Sindifuna ‘yi;",
           "Yesu mndithandize",
           "Kuzikanazi."
@@ -6815,8 +7902,7 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Ndinu Mbusa",
-          "wanga; Mndithandizetu;",
+          "Ndinu Mbusa wanga; Mndithandizetu;",
           "Ndisaipse nazo Mtima wangawu.",
           "Osaopa konse, Usachimwa 'yi.",
           "Mndiyendetse Yesu",
@@ -6834,13 +7920,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "181 AULENDO, MUNKA KUTI",
           "AULENDO, munka kuti",
           "Ndi zindodo m'manja mwanu? Paulendo tizipita; Aitana Mbuye wathu; Pamapiri,",
-          "pamadambo, Tizipita komwe",
-          "kwawo. Tizinpita komwe kwawo",
-          "Kuli dzikolo labwino, Tizipita komwe",
-          "kwawo Kuli dzikolo",
+          "pamadambo, Tizipita komwe kwawo. Tizinpita komwe kwawo",
+          "Kuli dzikolo labwino, Tizipita komwe kwawo Kuli dzikolo",
           "Labwino."
         ]
       },
@@ -6850,8 +7933,7 @@ export const chewaHymns = [
           "Kodi simuopa njira,",
           "Inu anthu akufoka? Ayi, atiperekeza",
           "Mbuye wathu wotikonda. lye amakhala nafe, Natitsogolera ife.",
-          "Atitsogolera ife Kuli dzikolo",
-          "labwino. Atitsogolera ife Kuli dzikolo labwino."
+          "Atitsogolera ife Kuli dzikolo labwino. Atitsogolera ife Kuli dzikolo labwino."
         ]
       },
       {
@@ -6859,12 +7941,7 @@ export const chewaHymns = [
         "lines": [
           "Mundiuze, aulendo,",
           "Muli chiyani m'Mwamba muja?",
-          "Ativekako zoyera, Akorona",
-          "natininkha, Moyo, moyo",
-          "atipatsa, Kwa Mulungu",
-          "tidzakhala. Kwa Mulungu",
-          "tidzakhala Kuli dzikolo",
-          "labwino, Kwa Mulungu tidzakhala",
+          "Ativekako zoyera, Akorona natininkha, Moyo, moyo atipatsa, Kwa Mulungu tidzakhala. Kwa Mulungu tidzakhala Kuli dzikolo labwino, Kwa Mulungu tidzakhala",
           "Kuli dzikolo labwino"
         ]
       },
@@ -6872,11 +7949,9 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Kodi inu, aulendo, lfe titsagane nanu?",
-          "Inde, mudze inu nonse,Mudze nafe",
-          "paulendo. inde, mutiperekeze",
+          "Inde, mudze inu nonse, Mudze nafe paulendo. inde, mutiperekeze",
           "Yesu atilinda ife.",
-          "Yesu atilinda ife Kuli dzikolo",
-          "labwino, Yesu atilinda ife",
+          "Yesu atilinda ife Kuli dzikolo labwino, Yesu atilinda ife",
           "Kuli dzikolo labwino."
         ]
       }
@@ -6888,17 +7963,13 @@ export const chewaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Tilikupita kwathu",
-      "Kuja Munjira ya alate",
-      "athu, Amakondwera lero",
-      "lomwe Tinka kuonana nawo"
+      "Kuja Munjira ya alate athu, Amakondwera lero lomwe Tinka kuonana nawo"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "182 ANA AKUMWAMBA",
-          "ANA akumwamba",
-          "ndife,Paulendo timaimba,",
+          "ANA akumwamba ndife, Paulendo timaimba,",
           "Timatama mbuye wathu",
           "Wa ulemerero wonse."
         ]
@@ -6907,8 +7978,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Mbuye anatiitana",
-          "Kukagwira ntchito",
-          "yake, Kuitana anthu onse",
+          "Kukagwira ntchito yake, Kuitana anthu onse",
           "Atsatenso njira yino."
         ]
       },
@@ -6932,10 +8002,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "183 MBUYE",
           "MBUYE munditsogolere",
-          "Ndine mlendo m'dziko muno, Ndikafoka",
-          "mundikweze, Mundisunge m’manja mwanu,",
+          "Ndine mlendo m'dziko muno, Ndikafoka mundikweze, Mundisunge m’manja mwanu,",
           "Mundidyetse, mundidyetse,",
           "Sindingamve njalayo."
         ]
@@ -6943,11 +8011,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mundimwetse madzi",
-          "anu, Andichize nthenda",
-          "zanga; Utsogole mtambo",
-          "wanu, Ndikadziŵe njira",
-          "yanga, Mpulumutsi,",
+          "Mundimwetse madzi anu, Andichize nthenda zanga; Utsogole mtambo wanu, Ndikadziŵe njira yanga, Mpulumutsi,",
           "Mpulumutsi,",
           "Munditchinjirizetu."
         ]
@@ -6958,8 +8022,7 @@ export const chewaHymns = [
           "Ndikalowa m’mtsinje muja,",
           "Mndichotsere mantha onse;",
           "Mndiwolotse tsidya",
-          "Lija, Ndikondwere nthawi",
-          "zonse; Nyimbo zanga,",
+          "Lija, Ndikondwere nthawi zonse; Nyimbo zanga,",
           "yimbo zanga",
           "Zidzalemekeza nu."
         ]
@@ -7035,15 +8098,12 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "185 MUNDIWALIRE",
-          "MUNDIŵALIRE",
+          "MUNDIŵ ALIRE",
           "M’njira mwangamo,",
           "Mbuyanga 'Nu. Kwada usiku,",
           "ndasokerako, Mtsogoletu",
-          "Phazi langali",
-          "mndisungirenso,",
-          "Ndilonde Inu m'njira",
-          "monsenmo."
+          "Phazi langali mndisungirenso,",
+          "Ndilonde Inu m'njira monsenmo."
         ]
       },
       {
@@ -7085,7 +8145,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "186 TIYENI NONSENU",
           "TIYENI nonsenu okonda Yesuyo,",
           "Tiimbe nyimbo yabwino,",
           "Tiimbe nyimbo yabwino,",
@@ -7096,8 +8155,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ngakhale enawo",
-          "aleke kwimbako,",
+          "Ngakhale enawo aleke kwimbako,",
           "Akhristu ‘fe tidzaimba,",
           "Akhristu ‘fe tidzaimba,",
           "Kumlemekeza ‘Ye,",
@@ -7109,8 +8167,7 @@ export const chewaHymns = [
         "lines": [
           "Akhristu tonsefe,",
           "tikondwe m'Dzikoli",
-          "Koposa anthu enawo,Koposa anthu",
-          "enawo, Tisanafikeko,",
+          "Koposa anthu enawo, Koposa anthu enawo, Tisanafikeko,",
           "Tisanafikeko."
         ]
       },
@@ -7119,11 +8176,7 @@ export const chewaHymns = [
         "lines": [
           "Tiimbe mokondwa,",
           "misozi iume,",
-          "Poyenda kunka",
-          "kwathuko,Poyenda kunka",
-          "kwathuko,Kwa Mlungu",
-          "wathuyo,Kwa Mlungu",
-          "wathuyo."
+          "Poyenda kunka kwathuko, Poyenda kunka kwathuko, Kwa Mlungu wathuyo, Kwa Mlungu wathuyo."
         ]
       }
     ]
@@ -7133,24 +8186,19 @@ export const chewaHymns = [
     "title": "NDAMVATU KUTI",
     "creator": "Unknown",
     "chorus": [
-      "Ndi Mbuyeyo",
-      "tikhalamo,",
+      "Ndi Mbuyeyo tikhalamo,",
       "Kupenyanso wokondatu;",
       "Tidzakondwera",
       "E, nthaŵi zonsezo",
-      "Ndicho chimwemwe ndi",
-      "ulemulu"
+      "Ndicho chimwemwe ndi ulemulu"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "187 NDAMVATU KUTI",
-          "NDAMVATU kuti",
-          "tifika komweko Kuli Ambuye,",
+          "NDAMVATU kuti tifika komweko Kuli Ambuye,",
           "Mtetezi wathuyo",
-          "Inde, pakutha zovuta zathuzo",
-          "lye tidzamwona maso ndi maso."
+          "Inde, pakutha zovuta zathuzo lye tidzamwona maso ndi maso."
         ]
       },
       {
@@ -7159,22 +8207,18 @@ export const chewaHymns = [
           "Kaamba chisomo cha",
           "Mbuyathu uyu,",
           "Malo okoma tipeza",
-          "M’mwambamo; Kumva Mtetezi",
-          "amene ndi Yesu,",
-          "Ndicho chimwemwe",
-          "ndi chachikulutu."
+          "M’mwambamo; Kumva Mtetezi amene ndi Yesu,",
+          "Ndicho chimwemwe ndi chachikulutu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Onse aliko takonda",
-          "kalelo, Kale napita kwa",
+          "Onse aliko takonda kalelo, Kale napita kwa",
           "Yesu Mbuyawo;",
           "Koma kum'wona",
           "Mtetezi wathuyo",
-          "Ndicho chimwemwe",
-          "choposa, nchathucho."
+          "Ndicho chimwemwe choposa, nchathucho."
         ]
       }
     ]
@@ -7188,12 +8232,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "188 UKATHA MOYO WANGA",
           "UKATHA moyo wanga",
           "Kumwamba kundichera;",
           "Dzuŵalo ndimalira Lafika lokomera.",
-          "Usiku m'nali mdima, Tsopano mbanda",
-          "kucha;Kudzaŵalitsa ndithu",
+          "Usiku m'nali mdima, Tsopano mbanda kucha; Kudzaŵalitsa ndithu",
           "Ku Dziko la",
           "Mulungu."
         ]
@@ -7232,8 +8274,7 @@ export const chewaHymns = [
           "M’chifundo Chachikulu;",
           "Zisoni zisanduka",
           "Chimwemwe cha Mulungu",
-          "Dzanjalo ndilitama Ndi mtima",
-          "wachifundo, Mpakatu kwaŵalitsa",
+          "Dzanjalo ndilitama Ndi mtima wachifundo, Mpakatu kwaŵalitsa",
           "Ku Dziko la Mulungu."
         ]
       }
@@ -7248,7 +8289,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "189 TIKAGWIDWA NDI CHISONI",
           "TIKAGWIDWA ndi chisoni,",
           "Ikayendanso misozi,",
           "Poliriratu abale,",
@@ -7258,32 +8298,25 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Munavala thupi",
-          "lathu, Munadziŵa",
+          "Munavala thupi lathu, Munadziŵa",
           "Masauko.",
-          "Mnalirira bwenzi",
-          "lanu; Yesu mutimveretu"
+          "Mnalirira bwenzi lanu; Yesu mutimveretu"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "M'mene imfa yathu Idza,",
-          "Mpweya wathu",
-          "ukaleka,",
-          "M’mene ife",
-          "timwalira,",
+          "Mpweya wathu ukaleka,",
+          "M’mene ife timwalira,",
           "Yesu mutimveretu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "MnamWalira Inu",
-          "paja, Mwazi wanu",
-          "munakhetsa,",
-          "Koma Inu",
-          "munadzuka;",
+          "Mnam Walira Inu paja, Mwazi wanu munakhetsa,",
+          "Koma Inu munadzuka;",
           "Yesu mutimveretu."
         ]
       },
@@ -7292,22 +8325,20 @@ export const chewaHymns = [
         "lines": [
           "Mtima ukachita",
           "Nkhaŵa Ndi zoipa zotimanga,",
-          "M’mene tikachita",
-          "mantha, Yesu mutimveretu."
+          "M’mene tikachita mantha, Yesu mutimveretu."
         ]
       }
     ]
   },
   {
     "hymnNo": 190,
-    "title": ". KODI ULI NDI CHISONI",
+    "title": "KODI ULI NDI CHISONI",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "190. KODI ULI NDI CHISONI",
           "KODI uli ndi chisoni",
           "Choliritsa mtima wako?",
           "Kweza maso, ndi",
@@ -7326,12 +8357,9 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mbale wako",
-          "unamkonda,",
-          "Koma Yesu",
-          "amkondetsa,",
-          "Anamfuna",
-          "nangomtenga;",
+          "Mbale wako unamkonda,",
+          "Koma Yesu amkondetsa,",
+          "Anamfuna nangomtenga;",
           "Usammane Yesu 'yi"
         ]
       },
@@ -7366,8 +8394,7 @@ export const chewaHymns = [
         "stanzer": 7,
         "lines": [
           "Leroli chisoni chokha,",
-          "Tsiku lija",
-          "kungokondwa,",
+          "Tsiku lija kungokondwa,",
           "Kweza maso osalira,",
           "Yesu akukondadi."
         ]
@@ -7380,17 +8407,13 @@ export const chewaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Tate, mwa kusunga kwanu",
-      "Timusiya mwana wanu. Tate, mwa",
-      "kusunga kwanu Timusiya mwana",
-      "wanu."
+      "Timusiya mwana wanu. Tate, mwa kusunga kwanu Timusiya mwana wanu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "191 NTCHITO YONSE",
-          "NTCHITO yonse",
-          "yakeyo",
+          "NTCHITO yonse yakeyo",
           "Yatha m'dziko linoli;",
           "Mlendo wafikatuko",
           "Pokocheza leroli."
@@ -7408,33 +8431,27 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Komwe Mbusa",
-          "kwawoko",
+          "Komwe Mbusa kwawoko",
           "Atengera nkhosa",
           "Zonse,",
           "Zake asungiramo",
-          "Zosaopa kanthu",
-          "konse."
+          "Zosaopa kanthu konse."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Onse akulapawo",
-          "Ayang'ana mtanda",
-          "wake; Aphunzira komweko",
-          "Zonse za kukonda",
-          "kwake."
+          "Ayang'ana mtanda wake; Aphunzira komweko",
+          "Zonse za kukonda kwake."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Dothili kudothilo,",
-          "Fumbili kufumbi",
-          "tere; Mpaka adzadzukanso",
-          "Timusiya",
-          "mumtendere."
+          "Fumbili kufumbi tere; Mpaka adzadzukanso",
+          "Timusiya mumtendere."
         ]
       }
     ]
@@ -7448,7 +8465,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "192 MUMZINDA WA MLUNGU",
           "MUMZINDA wa",
           "Mulungu Moyera mulimo,",
           "Ndiye amathu omwe Olera ifewo;",
@@ -7465,8 +8481,7 @@ export const chewaHymns = [
           "Za midzi ya padziko Lapansi lonseli,",
           "Mtendere wake koma",
           "Wa Mzinda wathuwo",
-          "Upambanitsa zonse",
-          "zapansi pomwepo."
+          "Upambanitsa zonse zapansi pomwepo."
         ]
       },
       {
@@ -7561,19 +8576,16 @@ export const chewaHymns = [
     "title": "NDIKONDWA",
     "creator": "Unknown",
     "chorus": [
-      "iwo salekana, iwo",
-      "salekana, Ayi salekana",
+      "iwo salekana, iwo salekana, Ayi salekana",
       "Abwenzi omwewo"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "194 NDIKONDWA",
           "NDIKONDWA",
           "Kuganizirabe Za Dziko la",
-          "Mulungu, Momwemo muli",
-          "abwenzitu",
+          "Mulungu, Momwemo muli abwenzitu",
           "Okhala mumtendere."
         ]
       },
@@ -7582,8 +8594,7 @@ export const chewaHymns = [
         "lines": [
           "Komweko akhala Yesuyo",
           "Mtetezi wa inedi Pakati pa",
-          "Womboledwawo, Sadzamva",
-          "kuŵaŵanso,",
+          "Womboledwawo, Sadzamva kuŵaŵanso,",
           "Iwo asekera, iwo asekera,",
           "lnde asekera kum'wona yesuyo."
         ]
@@ -7604,11 +8615,9 @@ export const chewaHymns = [
         "lines": [
           "Ndikonda",
           "Kuganizirabe Za Dziko la",
-          "Mulungu, Za zonse",
-          "zotikondwetsamo,",
+          "Mulungu, Za zonse zotikondwetsamo,",
           "Nzosathanso chikondi.",
-          "Ife tikondwera, ife",
-          "tikondwera, M'mene tidzampenya",
+          "Ife tikondwera, ife tikondwera, M'mene tidzampenya",
           "Ambuye wathuyo"
         ]
       }
@@ -7623,8 +8632,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "195 TATE WA KUMWAMBAKO",
-          ".",
           "TATE wa Kumwambako, Likayere Dzinalo,",
           "Udzetu Ufumu wanu,",
           "Chifuniro chanucho Chichitike pansipa",
@@ -7638,16 +8645,14 @@ export const chewaHymns = [
           "E, chakudya chathuchi",
           "Tsiku n'tsiku tichitira.",
           "Mukhululukiredi",
-          "Tchimo lathu, monga",
-          "'Fe Iwo adatichimwira."
+          "Tchimo lathu, monga 'Fe Iwo adatichimwira."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Musatifikitsemo",
-          "Muli mayeserowo Koma",
-          "mutipulumutse",
+          "Muli mayeserowo Koma mutipulumutse",
           "Wanu ndi ufumuwo,",
           "mphamvu ndi ulemunso kufikira nthaŵi zonse"
         ]
@@ -7663,7 +8668,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "196 MTIMA WANGA",
           "MTIMA wanga ndikonzera,",
           "Mbuye Yesu aitana;",
           "Ati: \"Mwana,",
@@ -7674,20 +8678,16 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mbuye, ndinu Mfumu",
-          "yanga",
-          "Yolemera ndi",
-          "yamphamvu;",
-          "Ndikapemphatu",
-          "zambiri,",
+          "Mbuye, ndinu Mfumu yanga",
+          "Yolemera ndi yamphamvu;",
+          "Ndikapemphatu zambiri,",
           "Simundimanira kanthu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndikabwera ndi",
-          "katundu",
+          "Ndikabwera ndi katundu",
           "Wa zoipa zanga zonse,",
           "Mwazi wake wa",
           "Ambuye,",
@@ -7699,17 +8699,14 @@ export const chewaHymns = [
         "lines": [
           "Mbuye, ndinalema ine,",
           "Mloŵe lnu m’mtima Mwanga;",
-          "Mkhale m'mwemo",
-          "mwini wake, Mantha",
-          "mWandichotsera ‘ne."
+          "Mkhale m'mwemo mwini wake, Mantha m Wandichotsera ‘ne."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Ndine mlendo pansi pano,",
-          "M'ndilimbitse ndi",
-          "chikondi; Bwenzi,",
+          "M'ndilimbitse ndi chikondi; Bwenzi,",
           "mundilondolere",
           "Njira pa ulendo wonse"
         ]
@@ -7717,11 +8714,8 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "M'ndidziŵitse ntchito",
-          "yonga, Mphamvu yake",
-          "mundipatse;",
-          "Mundilimbikitse",
-          "m'mtima",
+          "M'ndidziŵitse ntchito yonga, Mphamvu yake mundipatse;",
+          "Mundilimbikitse m'mtima",
           "Ndikakhale kwa",
           "Atate."
         ]
@@ -7737,7 +8731,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "197 PEMPHER M'MBANDA KUCHA",
           "PEMPHERA m'mbanda kucha,",
           "Pempheranso usana;",
           "Pemphera m'dzulo momwe,",
@@ -7778,7 +8771,7 @@ export const chewaHymns = [
           "Tilibe madalitso",
           "Akulingana n’limo Atate atapatsa,",
           "Kupempherabe bwino.",
-          "uKamvatu chisoni",
+          "u Kamvatu chisoni",
           "Kwa Mbuye Kapemphera,",
           "Adzakusangalatsa, Pemphero adzamvera."
         ]
@@ -7794,7 +8787,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "198 POKUPEMPHERANI",
           "POKUPEMPHERANI",
           "Mndiphunzitse’ ne",
           "Ndi Mzimu wanu Woyera,",
@@ -7808,8 +8800,7 @@ export const chewaHymns = [
           "Mndikumbutse zomwe",
           "Munandichitira",
           "Ndikakuyamikireni",
-          "Ndikweze Dzina",
-          "lomwe angelo Aliimbira",
+          "Ndikweze Dzina lomwe angelo Aliimbira",
           "Kumwanmbako."
         ]
       },
@@ -7819,16 +8810,14 @@ export const chewaHymns = [
           "Mndimvetse chisoni",
           "Pakuululira",
           "Zochimwa zanga zambiri;",
-          "Mumtima ndi kupatsa",
-          "mtendere",
+          "Mumtima ndi kupatsa mtendere",
           "Mutachotsera zoipazo"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Chikondi",
-          "chimwemwe, Chifatso,chiletso,",
+          "Chikondi chimwemwe, Chifatso,chiletso,",
           "Zipatso zonse za Mzimu",
           "Mundibalitse, ndikafanane",
           "Ndi Mbuyathu popempherapo."
@@ -7839,12 +8828,10 @@ export const chewaHymns = [
         "lines": [
           "Pakupempherera",
           "Anzanga ndi onse",
-          "Akusokera",
-          "mumdima,",
+          "Akusokera mumdima,",
           "M’ ŵapulumutse ndi",
           "K’ ŵachitira",
-          "Zomwe mufuna",
-          "k'ŵapatsawo."
+          "Zomwe mufuna k'ŵapatsawo."
         ]
       },
       {
@@ -7862,14 +8849,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 199,
-    "title": ". Bwenzi Lathu Ndiye Yesu",
+    "title": "Bwenzi Lathu Ndiye Yesu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "199. Bwenzi Lathu Ndiye Yesu\"What A Friend We Have In Jesus\"",
           "Bwenzi lathu ndiye Yesu, Atikonda ifetu,",
           "Zifunsiro zathu zonse, Tipemphere Mbuyathu;",
           "Mtima phee tisoŵa tonse, Zitivuta chabeko,",
@@ -7898,16 +8884,17 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 200,
-    "title": ". ZOKOMA NDITHU",
+    "title": "ZOKOMA NDITHU",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "200. ZOKOMA NDITHU",
-          "ZOKOMA ndithu nthaŵizi Kwa Mlungu",
-          "zondifitsadi; Kumpando Wachifumuwo Ndiuza zanga zonsezo. Povuta ine Mtimamo Nditulapo pa Yesuyo; Pakuyesedwa ndinkatu",
+          "ZOKOMA ndithu nthaŵizi Kwa Mlungu zondifitsadi;",
+          "Kumpando Wachifumuwo Ndiuza zanga zonsezo.",
+          "Povuta ine Mtimamo Nditulapo pa Yesuyo;",
+          "Pakuyesedwa ndinkatu",
           "Kwa Mbuye, sindikhala duu. Pakuyetsedwa",
           "Ndinkatu Kwa Mbuye,",
           "sindikhala duu."
@@ -7919,18 +8906,15 @@ export const chewaHymns = [
           "Zokoma inde Nthaŵizi Zotama Dzina",
           "Lomweli La Yesu, ndi woonayo",
           "Wopatsa dalo lonseli. Ndilakalaka lyeyu",
-          "Wofera ine pansitu, Pakuda nkhaŵa ine Bii Nditchula Dzina",
-          "lomweli"
+          "Wofera ine pansitu, Pakuda nkhaŵa ine Bii Nditchula Dzina lomweli"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Zokoma etu nthaŵizi NdicheZa naye Mlungudi; Komatu kwathu m’Mwambamo Kumuwona ndi koposako",
+          "Zokoma etu nthaŵizi Ndiche Za naye Mlungudi; Komatu kwathu m’Mwambamo Kumuwona ndi koposako",
           "Povula ine thupili,",
-          "Ndiloŵa Dziko Lakedi Ndidzati nthaŵi Yomweyo Tsalani bwino",
-          "pansipo. Ndidzati nthaŵi",
-          "yomweyo: Tsalani bwino pansipo."
+          "Ndiloŵa Dziko Lakedi Ndidzati nthaŵi Yomweyo Tsalani bwino pansipo. Ndidzati nthaŵi yomweyo: Tsalani bwino pansipo."
         ]
       }
     ]
@@ -7950,12 +8934,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "201 MTIDZUTSE",
           "MTIDZUTSE,",
           "Mbuyetu,",
           "Mtionekeremu;",
-          "Munene",
-          "zakumvekazı,",
+          "Munene zakumvekazı,",
           "Timvere itetu."
         ]
       },
@@ -7982,8 +8964,7 @@ export const chewaHymns = [
         "lines": [
           "Mtidzutse, Mbuyetu,",
           "Mthirenso moyowo;",
-          "Ulemu ngwanu",
-          "nokha 'Nu,",
+          "Ulemu ngwanu nokha 'Nu,",
           "Daliso nlathulo."
         ]
       }
@@ -7991,14 +8972,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 202,
-    "title": ". AKHRISTU NDI ABALE, TIZIYENDERANA",
+    "title": "AKHRISTU NDI ABALE, TIZIYENDERANA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "202. AKHRISTU NDI ABALE, TIZIYENDERANA",
           "AKHRISTU ndi abale, tiziyenderana tonse,",
           "Mulangu mmodzi tili naye, ndi Ambuye yemwe,",
           "Chitsime chomwe, njira yomwe yokhulupirira, Tiyeni tonse,",
@@ -8009,9 +8989,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Atate yemwe anatuma",
-          "Mpulumutsi m'modzi Kudzatifera kuti",
-          "atiyanjanitse tonse, Ndi Mzimu yemwe",
-          "ayeretsa akumvera onse, Tiyeni tonse,",
+          "Mpulumutsi m'modzi Kudzatifera kuti atiyanjanitse tonse, Ndi Mzimu yemwe ayeretsa akumvera onse, Tiyeni tonse,",
           "m’Mpingo modzi tiziyenderana."
         ]
       },
@@ -8019,11 +8997,9 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Anatipatsa Mawu",
-          "Omwe olimbitsa mtima, Kumwamba komwe",
-          "tinka ndi Kulonda njira yomwe.",
+          "Omwe olimbitsa mtima, Kumwamba komwe tinka ndi Kulonda njira yomwe.",
           "Tibalalikiranji ife akutsata Yesu?",
-          "Tiyeni tonse, m'Mpimgo",
-          "modzi tiziyenderana."
+          "Tiyeni tonse, m'Mpimgo modzi tiziyenderana."
         ]
       },
       {
@@ -8031,8 +9007,7 @@ export const chewaHymns = [
         "lines": [
           "satana apambana",
           "Tikayamba kusiyana Tikayanjana, yemwe",
-          "Adzagonja ndi Kuthaŵa Mbuyathu",
-          "adzamthyola konse ndi kumlamulira.",
+          "Adzagonja ndi Kuthaŵa Mbuyathu adzamthyola konse ndi kumlamulira.",
           "Tiyeni tonse, M’Mpingo modzi tiziyenderana."
         ]
       },
@@ -8041,9 +9016,7 @@ export const chewaHymns = [
         "lines": [
           "Tiphatikane tonsefe okonda Yesu Khristu,",
           "Tisalekane pakugwira ntchito za Mbuyathu,",
-          "Tilimbitsane pakuyenda m’njira",
-          "yonka kwathu. Tiyeni tonse, m’Mpingo",
-          "modzi tiziyenderana"
+          "Tilimbitsane pakuyenda m’njira yonka kwathu. Tiyeni tonse, m’Mpingo modzi tiziyenderana"
         ]
       }
     ]
@@ -8057,9 +9030,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "203 MBUYE, MPINGO",
-          "MBUYE, Mpingo wanu usauka",
-          "kwakukuludi, Kale lija munatsitsa",
+          "MBUYE, Mpingo wanu usauka kwakukuludi, Kale lija munatsitsa",
           "Mzimu wanu Wakuyera,",
           "Lero linonso muchite,",
           "ulimbike mpingo wanu."
@@ -8068,32 +9039,23 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Tidza kwa Mulungu Inu, ndinu",
-          "wachifundodi;",
-          "Mutipatse Mzimu wanu tsopanoli, tere",
-          "lino; Tikakhale ndi chimwemwe kuti",
-          "tilimbike ndithu."
+          "Tidza kwa Mulungu Inu, ndinu wachifundodi;",
+          "Mutipatse Mzimu wanu tsopanoli, tere lino; Tikakhale ndi chimwemwe kuti tilimbike ndithu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "A! maliro m'Mpingo",
-          "mwanu kulirira balewo",
-          "Adasokerera kale ndi",
-          "zoipa zapadziko.",
-          "Muŵabwezerenso",
-          "kwanu kuti akakhale",
-          "mommo."
+          "A! maliro m'Mpingo mwanu kulirira balewo",
+          "Adasokerera kale ndi zoipa zapadziko.",
+          "Muŵabwezerenso kwanu kuti akakhale mommo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndi chikondi mtithandize",
-          "kuigwira nkhondoyi;",
-          "Mwa kulema ndi kulimba",
-          "mutipempherere ife,",
+          "Ndi chikondi mtithandize kuigwira nkhondoyi;",
+          "Mwa kulema ndi kulimba mutipempherere ife,",
           "Kuti tilimbane naye Satanayo,",
           "Osamuwopa"
         ]
@@ -8101,24 +9063,17 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Pakubweradi Woyesa",
-          "tidzamlaka ifetu;",
-          "Angelonso adzabwera",
-          "kutithandizira ife",
-          "Kuti tilimbike ife ndi",
-          "kumchotsa m'mtima",
-          "mwathu."
+          "Pakubweradi Woyesa tidzamlaka ifetu;",
+          "Angelonso adzabwera kutithandizira ife",
+          "Kuti tilimbike ife ndi kumchotsa m'mtima mwathu."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Pa Lamulungu",
-          "tibwera kulandira zidazo,",
-          "Mphamvu yanu ndi",
-          "chikondi zititsogolere ife;",
-          "Machitidwe ndi mkhalidwe zikokere",
-          "ena kwanu."
+          "Pa Lamulungu tibwera kulandira zidazo,",
+          "Mphamvu yanu ndi chikondi zititsogolere ife;",
+          "Machitidwe ndi mkhalidwe zikokere ena kwanu."
         ]
       }
     ]
@@ -8132,12 +9087,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "204  AULENDO AMAYENDA",
           "AULENDO amayenda",
           "Muusiku wo’psawo,",
           "Namaimba nyimbo Zawo",
-          "Kunka kwawo",
-          "m'Mwambamo."
+          "Kunka kwawo m'Mwambamo."
         ]
       },
       {
@@ -8145,8 +9098,7 @@ export const chewaHymns = [
         "lines": [
           "Kuunika kuoneka",
           "Koingitsa mdimawu;",
-          "Mbale",
-          "amakondwerera,",
+          "Mbale amakondwerera,",
           "Osaopa konse’ yi."
         ]
       },
@@ -8155,9 +9107,7 @@ export const chewaHymns = [
         "lines": [
           "Mlungu amaunikira",
           "Anthu ake onsewo,",
-          "Namachotsa mantha",
-          "omwe, Nayeretsa mnjira",
-          "mbee!"
+          "Namachotsa mantha omwe, Nayeretsa mnjira mbee!"
         ]
       },
       {
@@ -8174,8 +9124,7 @@ export const chewaHymns = [
         "lines": [
           "Pakufika tsidya lija,",
           "Zotivuta zonse phe!",
-          "Mfumu yathu",
-          "yopambana",
+          "Mfumu yathu yopambana",
           "Idzatikondwetsadi."
         ]
       },
@@ -8185,14 +9134,13 @@ export const chewaHymns = [
           "Nthaŵi yina adzadzuka",
           "Ogonera",
           "M’mandamo,",
-          "Kuthaŵatu",
-          "mphamvu zonse",
+          "Kuthaŵatu mphamvu zonse",
           "Zotivuta pansipa."
         ]
       }
     ]
   },
-    {
+  {
     "hymnNo": 205,
     "title": "Tadzuka mzimu wanga 'we",
     "creator": "Unknown",
@@ -8206,7 +9154,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Tadzuka mzimu wanga 'we,",
+          "Tadzuka mzimu wanga ‘we",
           "Ugwire ntchito zakozi;",
           "Kukondwa ukutengedi,",
           "Pemphero ulikwezedi."
@@ -8215,18 +9163,18 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "E, nthawi ya mamawayi,",
+          "E, nthawi ya mamawayi",
           "Umtamandire Mbuyeyo,",
-          "Nuyese lero ngatitu,",
+          "Nuyese lero ngatitu",
           "Tsiku lakumalizalo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Munkhani zako zonsetu,",
+          "Munkhani zako zonsetu",
           "Unene molungamadi,",
-          "Nudziwe kuti Mbuyako,",
+          "Nudziwe kuti Mbuyako",
           "Adziwa zachinsinsizi."
         ]
       },
@@ -8234,15 +9182,15 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Pa tsikuli, Mbuyanga nu,",
-          "Munditsogoze m'njiramo;",
-          "Ulemerero wanuwo,",
+          "Munditsogoze m’njiramo;",
+          "Ulemerero wanuwo",
           "Undilimbitse monsetu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Timlemekeze Mlunguyu,",
+          "Timlemekeze Mlunguyu",
           "Wa madalitso onsewo;",
           "Timlemekeze tonsefe,",
           "Atate, Mwana, Mzimunso."
@@ -8259,7 +9207,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "206 KHRISTU wakuyeratu",
           "KHRISTU wakuyeratu,",
           "Khristu wakuŵalayo,",
           "Wolungama mdzuketu,",
@@ -8274,17 +9221,13 @@ export const chewaHymns = [
         "lines": [
           "Konse kuli mdima bii Kosakhala Inutu:",
           "Nlosakondwa tsikuli Mosaŵala Inu 'mu.",
-          "Ndionetu mkatimo Mwakuŵala",
-          "kwanuko."
+          "Ndionetu mkatimo Mwakuŵala kwanuko."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mudze, mloŵe",
-          "m'mtimamu, Mchotse monse",
-          "mdima bii; Mdzaze ndi",
-          "kuyeraku, Mchotse zosamverazı,",
+          "Mudze, mloŵe m'mtimamu, Mchotse monse mdima bii; Mdzaze ndi kuyeraku, Mchotse zosamverazı,",
           "Ndi kuyera kwanuku",
           "Ndikaone bwinotu."
         ]
@@ -8305,12 +9248,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "207 AMBUYE MUNAPATSA",
           "AMBUYE munapatsa",
           "Tsiku Limene langopitali,",
-          "M’mamaŵa nyimbo",
-          "zathu zomwe Mukhale nafe",
-          "nthaŵiyi."
+          "M’mamaŵa nyimbo zathu zomwe Mukhale nafe nthaŵiyi."
         ]
       },
       {
@@ -8319,20 +9259,16 @@ export const chewaHymns = [
           "Tipempha kuti",
           "Mpingo wanu",
           "Ukhale ponse m'dzikoli",
-          "Mumdima monse",
-          "muŵaletu,",
-          "Kuŵala kwanu",
-          "kudzedi."
+          "Mumdima monse muŵaletu,",
+          "Kuŵala kwanu kudzedi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "M’maiko monse, Zisi",
-          "zomwe,",
+          "M’maiko monse, Zisi zomwe,",
           "Kuŵala kumafikamo,",
-          "Kupempha sikuleka",
-          "konse",
+          "Kupempha sikuleka konse",
           "Kuyamikira Yesuyo."
         ]
       },
@@ -8342,8 +9278,7 @@ export const chewaHymns = [
           "Pogona ife,",
           "amadzuka",
           "Abale akutaliwo;",
-          "Panthaŵi yonse",
-          "anthu ena",
+          "Panthaŵi yonse anthu ena",
           "Alemekeza Mbuyeyo."
         ]
       },
@@ -8351,26 +9286,22 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Ufumu wanu, Mbuye",
-          "Yesu, Ukhala nthaŵi",
-          "zonsedi;",
-          "Magulu onse",
-          "adzagonje,",
-          "Naloŵe m’njira",
-          "mwanumu."
+          "Yesu, Ukhala nthaŵi zonsedi;",
+          "Magulu onse adzagonje,",
+          "Naloŵe m’njira mwanumu."
         ]
       }
     ]
   },
   {
     "hymnNo": 208,
-    "title": ". Mukhale Ndine",
+    "title": "Mukhale Ndine",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "208. Mukhale Ndine\"Abide With Me\"",
           "Mukhale ndine dzuŵalo laloŵa, Wagwa usiku bwenzi lindisoŵa, Ndilibe wina wakundithandiza, Wamphamvu ndinu, mkhale ndinetu.",
           "."
         ]
@@ -8415,12 +9346,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "209  ATATE NDIYAMIKA",
-          "ATATE ndiyamika",
-          "mwandisamalira",
-          "leroli; Mulungu wondikonda,",
-          "mndisungenso",
-          "m'mdima muno bii."
+          "ATATE ndiyamika mwandisamalira leroli; Mulungu wondikonda,",
+          "mndisungenso m'mdima muno bii."
         ]
       },
       {
@@ -8430,39 +9357,29 @@ export const chewaHymns = [
           "ndikapanda tulo, za",
           "Kumwambako;",
           "Zoganizira",
-          "Zoipitsa m’mtima",
-          "muchotseremo."
+          "Zoipitsa m’mtima muchotseremo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Zochimwa za usana",
-          "uno mndikhululukire ne;",
-          "Mtendere wanu",
-          "muloŵetse m'mtima",
-          "ndikagone phee."
+          "Zochimwa za usana uno mndikhululukire ne;",
+          "Mtendere wanu muloŵetse m'mtima ndikagone phee."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mundilimbitse",
-          "ndikayese manda",
-          "ngati mphasayi",
-          "Nditagonamo",
-          "ndikadzuke tsiku lomalizalo."
+          "Mundilimbitse ndikayese manda ngati mphasayi",
+          "Nditagonamo ndikadzuke tsiku lomalizalo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "tiyamikire",
-          "MIungu wotipatsa",
-          "zachifundozi,",
-          "Amyamikire onse",
-          "a Kumwamba ndi",
-          "apansipa."
+          "MIungu wotipatsa zachifundozi,",
+          "Amyamikire onse a Kumwamba ndi apansipa."
         ]
       }
     ]
@@ -8476,8 +9393,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "210 DZUWA LAPITIRA",
-          "DZUŵA lapitira,",
+          "DZUŵ A lapitira,",
           "Wadza mdimawo,",
           "Mthunzi wamadzulo Wagwa",
           "M’mwambamo."
@@ -8486,8 +9402,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "M’mwambamo",
-          "nyenyezi",
+          "M’mwambamo nyenyezi",
           "Zithwanima mbee;",
           "Zonse zili m’tulo,",
           "Pansi pali duu"
@@ -8532,8 +9447,7 @@ export const chewaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "Ndidzukanso",
-          "m'maŵa,",
+          "Ndidzukanso m'maŵa,",
           "Kucha koti mbuu",
           "Ndiyeretu mtima",
           "M'maso mwanumo,"
@@ -8552,18 +9466,16 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 211,
-    "title": ".DZUWA lapita",
+    "title": "DZUWA lapita",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "211 .DZUWA LAPITA",
-          "DZUŵA lapita,",
+          "DZUŵ A lapita,",
           "Dzuŵa lapita,",
-          "MIungu mutigonetse",
-          "phee."
+          "MIungu mutigonetse phee."
         ]
       },
       {
@@ -8571,8 +9483,7 @@ export const chewaHymns = [
         "lines": [
           "Mdima Wafika,",
           "Mdima wafika,",
-          "Mutisunge tonse",
-          "bwino."
+          "Mutisunge tonse bwino."
         ]
       },
       {
@@ -8580,8 +9491,7 @@ export const chewaHymns = [
         "lines": [
           "Tivomereze,",
           "Tivomereze",
-          "Zakuchimwa zathu",
-          "zonse"
+          "Zakuchimwa zathu zonse"
         ]
       },
       {
@@ -8597,8 +9507,7 @@ export const chewaHymns = [
         "lines": [
           "Lero tigone,",
           "Lero tigone,",
-          "Tigonemo",
-          "mumtendere."
+          "Tigonemo mumtendere."
         ]
       },
       {
@@ -8606,8 +9515,7 @@ export const chewaHymns = [
         "lines": [
           "Ndife ananu,",
           "Ndife ananu,",
-          "Tate Mlungu",
-          "wotikonda."
+          "Tate Mlungu wotikonda."
         ]
       },
       {
@@ -8629,20 +9537,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "212  MADZULO AJA",
-          "MADZULO aja",
-          "kalelo",
-          "Odwala anagona",
-          "duu; Opwetekedwa",
-          "nthendazo",
+          "MADZULO aja kalelo",
+          "Odwala anagona duu; Opwetekedwa nthendazo",
           "Munachiritsa Inutu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Tsopano lino kwada",
-          "bii,",
+          "Tsopano lino kwada bii,",
           "Nafenso timva",
           "M’mtimamo,",
           "Simuoneka, komatu",
@@ -8652,10 +9555,8 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Wopulumutsa",
-          "mudzetu,",
-          "Adwala ena m’mtima",
-          "bii, Ena sakukondani",
+          "Wopulumutsa mudzetu,",
+          "Adwala ena m’mtima bii, Ena sakukondani",
           "Nu, Ena sasamalira yi"
         ]
       },
@@ -8665,8 +9566,7 @@ export const chewaHymns = [
           "Ndi ena sanamvera yi,",
           "Enanso alemedwatu,",
           "Zoopsya nazo tifadi",
-          "Mukadza",
-          "tidzaposatu"
+          "Mukadza tidzaposatu"
         ]
       },
       {
@@ -8677,18 +9577,14 @@ export const chewaHymns = [
           "Munasauka kalelo,",
           "Muona zoda",
           "M’mtimamu",
-          "Tibisa ndi",
-          "manyaziwo"
+          "Tibisa ndi manyaziwo"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
           "Mutichiritse ifenso,",
-          "Mutiphunzitse",
-          "zanuzi, Timve tsopano",
-          "mawuwo Ochiza nthenda",
-          "yathuyi"
+          "Mutiphunzitse zanuzi, Timve tsopano mawuwo Ochiza nthenda yathuyi"
         ]
       }
     ]
@@ -8702,14 +9598,12 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "213 MPULUMUTSI, TIKAGONA",
           "MPULUMUTSI, tikagona",
           "Mtidalitse m’mtimamo",
           "Tingolapa zakuipa, Muzichotse zonsezo.",
           "Kukadetsa bii usiku,",
           "Inu mutipenya fe; Simulema, simugona,",
-          "Anthu anu",
-          "msungabe."
+          "Anthu anu msungabe."
         ]
       },
       {
@@ -8719,8 +9613,7 @@ export const chewaHymns = [
           "Mivi iponyekatu; Atisungadi angelo,",
           "Moyo mutipatsa \"Nu.",
           "Ngatitu usiku uno Ikabwera imfayo,",
-          "Mtiukitse m'maŵa",
-          "kwanu, Mpatsenso zoyerazo"
+          "Mtiukitse m'maŵa kwanu, Mpatsenso zoyerazo"
         ]
       }
     ]
@@ -8734,12 +9627,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "214 MULUNGU WANGA",
           "MULUNGU wanga,",
           "Dzuŵatu",
-          "La mtima wanga",
-          "ndinudi Palibe mdima",
-          "ngatitu",
+          "La mtima wanga ndinudi Palibe mdima ngatitu",
           "Mukaŵalira inedi."
         ]
       },
@@ -8747,19 +9637,15 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Muchotse Zonse zoti bii",
-          "Zobisa nkhope",
-          "yanuyo,",
-          "Mudzazetu",
-          "mtimangawo",
-          "Ndi kuunika",
-          "kwanuko."
+          "Zobisa nkhope yanuyo,",
+          "Mudzazetu mtimangawo",
+          "Ndi kuunika kwanuko."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Madzulo ana",
-          "mkhaletu",
+          "Madzulo ana mkhaletu",
           "Patupi ndine, Yesudi,",
           "Ndisanagone tuloto,",
           "Ndilingalira Inudi."
@@ -8772,8 +9658,7 @@ export const chewaHymns = [
           "Wasokerera m’njirayi",
           "Ya lnu Mbuye,",
           "mbwezetu,",
-          "Mumpulumutse",
-          "iyedi."
+          "Mumpulumutse iyedi."
         ]
       }
     ]
@@ -8787,7 +9672,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "215 LERO MWATIPATSA MOYO",
           "LERO mwatipatsa moyo, Wadza mdima, kwada bii; Mugonetsetu usiku,",
           "Mchotse zakuipazi. Yesu mutisunga ife;",
           "Tidzakhulupirabe. Yesu mutisunga ife",
@@ -8817,17 +9701,14 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "216 KWACHA LERO KWATI",
-          "KWACHA lero kwati",
-          "mbee, Tsiku la Mulunguli;",
-          "Dzuŵa liŵaliradi Thambo ndi",
-          "zapansipa; upumira mpweyawu wa mulungu konseku"
+          "KWACHA lero kwati mbee, Tsiku la Mulunguli;",
+          "Dzuŵa liŵaliradi Thambo ndi zapansipa; upumira mpweyawu wa mulungu konseku"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "m’nyumba yanu, mlungu. Yi tisonkhana teretu, ndi mitundu yonseyi tikulambireni  nu wathuyo ndiye mfumu ponsepo"
+          "m’nyumba yanu, mlungu. Yi tisonkhana teretu, ndi mitundu yonseyi tikulambireni nu wathuyo ndiye mfumu ponsepo"
         ]
       },
       {
@@ -8839,7 +9720,8 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "yesu munadzukanso m’manda lero lomwetu; ntchito munayambayo yakudzutsa anthu ‘fe kuti ndi mitimayi tigwirebe nchitozi"
+          "yesu munadzukanso m’manda lero lomwetu;",
+          "ntchito munayambayo yakudzutsa anthu ‘fe kuti ndi mitimayi tigwirebe nchitozi"
         ]
       }
     ]
@@ -8853,7 +9735,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "217 AMBUYE TASONKHANA",
           "AMBUYe tasonkhana",
           "Tsiku lino lopatula; Tidzapembedza lnu",
           "Tsiku lino lopatula. Bwenzilo lakufatsa,",
@@ -8892,8 +9773,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "218 DZUWA LA MULUNGU",
-          "DZUŵA la Mulungu Lazatu labwino;",
+          "DZUŵ A la Mulungu Lazatu labwino;",
           "Ndi chimwemwe Ife Tiliona lero.",
           "Lithaŵitsa nkhaŵa.",
           "Lichotsanso mantha, Ndimo m’mtima",
@@ -8922,12 +9802,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "219 NDI LOKOMA",
-          "NDI lokoma M'Mwambamo, Mbuye, Bwalo",
-          "lanulo;  Ndi mwabwino muli Nu Dziko losachimwali",
-          "Mtima wanga Wonsewu Umakhumba",
-          "m'Mwambamo Nkhope ya Mbuyathuyu, Mlungu Wa",
-          "chisomoyo."
+          "NDI lokoma M'Mwambamo, Mbuye, Bwalo lanulo; Ndi mwabwino muli Nu Dziko losachimwali",
+          "Mtima wanga Wonsewu Umakhumba m'Mwambamo Nkhope ya Mbuyathuyu, Mlungu Wa chisomoyo."
         ]
       },
       {
@@ -8936,8 +9812,7 @@ export const chewaHymns = [
           "Zimbalame zonsezi Zimayamikira 'Nu;",
           "Anthu amakondwanso",
           "Okhumbira m'Mwambamo,",
-          "NJiwa yosapumayo Inafika",
-          "m'chombocho, Okhulupirira Nu",
+          "NJiwa yosapumayo Inafika m'chombocho, Okhulupirira Nu",
           "Amapuma kwanuko."
         ]
       },
@@ -8950,8 +9825,7 @@ export const chewaHymns = [
           "Munagwetsa manawo,",
           "Mumakoma mtimatu",
           "Tidzayamikiratu, Pa chimpando",
-          "Chanucho Mkhale Mfumu",
-          "yathudi."
+          "Chanucho Mkhale Mfumu yathudi."
         ]
       }
     ]
@@ -8965,7 +9839,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "220 YESU MKHALE NATE",
           "YESU mkhale nafe",
           "Nthaŵi yomweyi,",
           "Kuti mphamvu zanu",
@@ -8986,8 +9859,7 @@ export const chewaHymns = [
         "lines": [
           "Moyo watsopano",
           "Ulimbitse fe,",
-          "Mlungu wathu",
-          "yemwe",
+          "Mlungu wathu yemwe",
           "Timdikirabe"
         ]
       }
@@ -9002,10 +9874,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "221 ANTCHITO A MULUNGU",
           "ANTCHITO a",
-          "Mulungu ‘nu Olinda m'nyumba",
-          "mwakemo. Myamike, muimbiretu",
+          "Mulungu ‘nu Olinda m'nyumba mwakemo. Myamike, muimbiretu",
           "Mulungu Mbuye wathuyo."
         ]
       },
@@ -9017,8 +9887,7 @@ export const chewaHymns = [
           "Mlungutu;",
           "Mugadamire",
           "M’mwambamo.",
-          "Mtamande Mbuye",
-          "wanutu."
+          "Mtamande Mbuye wanutu."
         ]
       },
       {
@@ -9029,8 +9898,7 @@ export const chewaHymns = [
           "Wachifundocho,",
           "Asunge moyo",
           "Wanuwu;",
-          "Amtame anthu",
-          "onsewo."
+          "Amtame anthu onsewo."
         ]
       }
     ]
@@ -9049,13 +9917,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "222  KWEZANI MITU",
           "KWEZANI mitu yanuyo.",
           "Zipata zamuyaya, Ikaloŵemo Mfumu",
-          "Ya Ulemereroyo! Amfumu aŵa",
-          "ndaniko? Ambuye ndiyeyo,",
-          "Mulungu wogonjetsa",
-          "onse, Wolimba mphamvu njo!",
+          "Ya Ulemereroyo! Amfumu aŵa ndaniko? Ambuye ndiyeyo,",
+          "Mulungu wogonjetsa onse, Wolimba mphamvu njo!",
           "Mulungu wogonjetsa Wolimba mphamvu njo!"
         ]
       },
@@ -9065,8 +9930,7 @@ export const chewaHymns = [
           "Tatsegukani inutu,",
           "Zitseko zosathera, Amfumu a Kumwambako",
           "Aloŵe mwanumo Amfumu awa ndaniko",
-          "Wolemererayo? mulungu wa",
-          "makamu ndiye, Wolemererayo.",
+          "Wolemererayo? mulungu wa makamu ndiye, Wolemererayo.",
           "Mulungu Wa makamu ndiye,",
           "Wolemererayo"
         ]
@@ -9082,7 +9946,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "223 MLUNGU ALI MUNO",
           "MLUNGU ali muno, Tonse timgwadire, Mantha omwe Timchitire Ali mukachisi,",
           "Tonse tili chete, Ndi ulemu timpembedze,",
           "Ndiye yekha Mlungu wathu",
@@ -9118,8 +9981,7 @@ export const chewaHymns = [
     "title": "MTSINJE WOYERAWO",
     "creator": "Unknown",
     "chorus": [
-      "Ife tifikeko",
-      "tibatizidweko,",
+      "Ife tifikeko tibatizidweko,",
       "tiyeretsedwedi",
       "Ndi Ambuye leroli."
     ],
@@ -9127,7 +9989,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "224 MTSINJE WOYERAWO",
           "MTSINJE woyerawo",
           "Wotuluka m’nyumbayo",
           "Ya Mlungu wathuyo",
@@ -9138,8 +9999,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Mwa anthu onsewo",
-          "Umayenda",
-          "mtsinjewu",
+          "Umayenda mtsinjewu",
           "Nuŵachiritsadi",
           "Okhulupirirawo"
         ]
@@ -9150,8 +10010,7 @@ export const chewaHymns = [
           "Tikondwereratu",
           "Pakumvera Yesuyo",
           "Abwere onsewo",
-          "Ndi kuloŵa",
-          "m'mtsinjewu."
+          "Ndi kuloŵa m'mtsinjewu."
         ]
       }
     ]
@@ -9165,7 +10024,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "225 ATATE, MUWAPENYE",
           "ATATE, muŵapenye",
           "Anzathu ali pano, Avomereza inu",
           "Ambuye Mfumu yawo, Alonjezetsa lero",
@@ -9190,8 +10048,7 @@ export const chewaHymns = [
           "Akhale chikhalire Oyera ndi olimba;",
           "Mutithandize tonse",
           "A Mpingo wa Mulungu Tikhale oyenera",
-          "Ndi okondana",
-          "ndithu"
+          "Ndi okondana ndithu"
         ]
       }
     ]
@@ -9205,12 +10062,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "226 MONGA ZOMERA",
-          "MONGA zomera",
-          "zonsezo",
+          "MONGA zomera zonsezo",
           "Zikula ponsepo,",
-          "Mulungu",
-          "mumeretsazo,",
+          "Mulungu mumeretsazo,",
           "Momwemo anawo."
         ]
       },
@@ -9219,19 +10073,16 @@ export const chewaHymns = [
         "lines": [
           "Munali mwana, Yesu",
           "Nu Wamng’ono kalelo,",
-          "Ndi munakula",
-          "m'msinkhu ndi",
+          "Ndi munakula m'msinkhu ndi",
           "Kutama Tatewo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndi ife tinga",
-          "mbewuzo",
+          "Ndi ife tinga mbewuzo",
           "Zomera m’mundawo,",
-          "Mumtima",
-          "mutidyetsedi,",
+          "Mumtima mutidyetsedi,",
           "Tikule bwinomo,"
         ]
       },
@@ -9240,8 +10091,7 @@ export const chewaHymns = [
         "lines": [
           "Ndi kutsukidwa",
           "M’mwazimo",
-          "Mumtima mwathu",
-          "mbee.",
+          "Mumtima mwathu mbee.",
           "Tionetsedwe konseko",
           "A Mlungu ana ke"
         ]
@@ -9257,37 +10107,55 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Usiku uja kalelo"
+          "Usiku uja kalelo",
+          "Anampereka Yesuyo,",
+          "Usiku womwe m’manja mbuu",
+          "Natenga mkate Iyeyo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Natamandira Mlunguyo"
+          "Natamandira Mlunguyo",
+          "Wolamulira pansipa",
+          "Natema mkate, natitu",
+          "Kwa omwe anatsatawo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndi thupi lopatsidwali"
+          "Ndi thupi lopatsidwali",
+          "La Ine, mtenge, mudye, ndi",
+          "Muchite ichi nonsenu,",
+          "Ndi chikumbutso changatu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndiponso m’manja chikhocho"
+          "Ndiponso m’manja chikhocho",
+          "Nakweza, natamandamo",
+          "Mulungu, mtima wake mya,",
+          "Nanena mawu omwewa."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Chikho cha mwazi wangachi"
+          "Chikho cha mwazi wangachi",
+          "Chitsuka mtima woda bii,",
+          "Cha mapangano omwewo",
+          "Chisomo cha Kumwambako."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Chikondi chili m’chikhomu"
+          "Chikondi chili m’chikhomu",
+          "Chodzala; mwani nonsenu,",
+          "Chipitirire konseko,",
+          "Ndi chikumbutso changacho."
         ]
       }
     ]
@@ -9301,25 +10169,37 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Sindili woyenera ‘ne,"
+          "Sindili woyenera ‘ne,",
+          "Ambuye, kudzamo;",
+          "Munene mawu, ndimvebe",
+          "Okondweretsawo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Sindili woyenera ‘ne"
+          "Sindili woyenera ‘ne",
+          "M’mtima mwanga zi;",
+          "Munene, ndikachiradi,",
+          "Ndilibe moyo ‘yi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Sindili woyenera ‘ne"
+          "Sindili woyenera ‘ne",
+          "Pamtanda panupo",
+          "Munamaliza mlandu phe",
+          "Ndi mwazi wanuwo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndilawako tsopanoli"
+          "Ndilawako tsopanoli",
+          "Zakudya zanuzo;",
+          "Mudzaze mtima wanga ndi",
+          "Kukonda kwanuko."
         ]
       }
     ]
@@ -9333,7 +10213,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "229  MONGATU MAWU",
           "MONGATU mawu anuwo,",
           "Ndi mtima chete phee,",
           "Mbuyanga kufa kwanuko",
@@ -9343,21 +10222,17 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Chakudya",
-          "chakumwambachi",
+          "Chakudya chakumwambachi",
           "Ndi thupi lanudi,",
-          "Chikho cha",
-          "chipanganochi",
-          "Ncha mwazi",
-          "wanuwo"
+          "Chikho cha chipanganochi",
+          "Ncha mwazi wanuwo"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Getsemane ndionako",
-          "Ndi nkhope yanu",
-          "dwii, Thukuta la",
+          "Ndi nkhope yanu dwii, Thukuta la",
           "Pamphumilo La myazi yanuyi."
         ]
       },
@@ -9367,16 +10242,14 @@ export const chewaHymns = [
           "Ndi mtanda uli",
           "M’maso mbuu,",
           "Ndiona m’menemo,",
-          "A Yesu kufa",
-          "kwanuko,",
+          "A Yesu kufa kwanuko,",
           "Kuthetsa imfazo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Pamene",
-          "padzakhalapo",
+          "Pamene padzakhalapo",
           "Milomo yanga phee,",
           "Mukadza ndi",
           "Ufumunso,",
@@ -9394,29 +10267,23 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "230  MUDZE, ANTHUNI",
           "MUDZE, anthuni,",
           "talaŵani 'nu",
-          "Mkate ndi chikhocho",
-          "cha Mbuyathu."
+          "Mkate ndi chikhocho cha Mbuyathu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Khristu ndi mwini",
-          "moyo wathuwu,",
-          "Pamtanda anatera",
-          "ifetu."
+          "Khristu ndi mwini moyo wathuwu,",
+          "Pamtanda anatera ifetu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Anatifera nsembe",
-          "lyeyo,",
-          "Ndiye Wansembe",
-          "wake lyenso."
+          "Anatifera nsembe lyeyo,",
+          "Ndiye Wansembe wake lyenso."
         ]
       },
       {
@@ -9424,8 +10291,7 @@ export const chewaHymns = [
         "lines": [
           "Imfa ndi mdima",
           "Zinathaŵa zii!",
-          "Ndipo chisomo",
-          "chikuŵala mbuu."
+          "Ndipo chisomo chikuŵala mbuu."
         ]
       },
       {
@@ -9433,8 +10299,7 @@ export const chewaHymns = [
         "lines": [
           "Tadzanitu,",
           "okhulupiradi,",
-          "Talandirani",
-          "zachinsinsizi."
+          "Talandirani zachinsinsizi."
         ]
       },
       {
@@ -9442,26 +10307,21 @@ export const chewaHymns = [
         "lines": [
           "Ndiye wa moyo",
           "Wonse Mwiniyo,",
-          "Moyo wosatha",
-          "atipatsa fe."
+          "Moyo wosatha atipatsa fe."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Ndiye wodyetsa",
-          "anthu omwewo,",
-          "Napatsa mwazi",
-          "moyo wakewo."
+          "Ndiye wodyetsa anthu omwewo,",
+          "Napatsa mwazi moyo wakewo."
         ]
       },
       {
         "stanzer": 8,
         "lines": [
-          "Yesu Mbuyathu, Inu",
-          "nomwe Nu,",
-          "Tsopano mkhalebe ndi",
-          "ifetu."
+          "Yesu Mbuyathu, Inu nomwe Nu,",
+          "Tsopano mkhalebe ndi ifetu."
         ]
       }
     ]
@@ -9475,12 +10335,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "231 MOM’MUNO, MBUYE",
           "MOM’MUNO, Mbuye,",
-          "tionanetu, Mom'muno",
-          "ndizikhudza zanu phee, Mom'muno",
-          "zachinsinsi zanu mbuu, Mwa Inu mtima",
-          "ndipumirabe."
+          "tionanetu, Mom'muno ndizikhudza zanu phee, Mom'muno zachinsinsi zanu mbuu, Mwa Inu mtima ndipumirabe."
         ]
       },
       {
@@ -9488,20 +10344,14 @@ export const chewaHymns = [
         "lines": [
           "Mom'muno, mbuye,",
           "mkate wanuwu,",
-          "Mom'muno vinyo",
-          "wakumwambako,",
-          "Mom'muno zolemera",
-          "zanga du, Chisomo chanu",
-          "ndidzalaŵanso."
+          "Mom'muno vinyo wakumwambako,",
+          "Mom'muno zolemera zanga du, Chisomo chanu ndidzalaŵanso."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndilibe",
-          "wondithangata ne ‘yi, Ndilibe wina",
-          "wondisunga ‘ne; Zikwaniratu",
-          "mphamvu zanuzi, Inde, Ambuye,",
+          "Ndilibe wondithangata ne ‘yi, Ndilibe wina wondisunga ‘ne; Zikwaniratu mphamvu zanuzi, Inde, Ambuye,",
           "mphamvu nzanudi."
         ]
       },
@@ -9518,11 +10368,8 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Chakudya ichi",
-          "chidzapita du Chizindikitsa",
-          "Za Kumwambazo, Zosapitazo",
-          "tidzalaŵatu, Za Yesu mwini",
-          "wakukondako."
+          "Chakudya ichi chidzapita du Chizindikitsa",
+          "Za Kumwambazo, Zosapitazo tidzalaŵatu, Za Yesu mwini wakukondako."
         ]
       },
       {
@@ -9546,7 +10393,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "232 NDIMAMVA NJALA",
           "NDIMAMVA njala, Yesu,",
           "Ya mtima wakusoŵa;",
           "Mndidyetse ngati",
@@ -9558,10 +10404,8 @@ export const chewaHymns = [
         "lines": [
           "Ndimamva ludzu,",
           "Yesu,",
-          "Muloŵe mwanga",
-          "lero,",
-          "Mndimwetse ngati",
-          "madzi",
+          "Muloŵe mwanga lero,",
+          "Mndimwetse ngati madzi",
           "Anatuluka m’mwala."
         ]
       },
@@ -9573,29 +10417,23 @@ export const chewaHymns = [
           "Ndi thupi lovulala,",
           "Mndilimbikitse,",
           "Mbuye,",
-          "Mundikhutitse",
-          "mtima."
+          "Mundikhutitse mtima."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mwa chikho",
-          "chokumbutsa",
-          "Chikondi",
-          "chopambana,",
-          "Mndipatse moyo",
-          "wanu,",
+          "Mwa chikho chokumbutsa",
+          "Chikondi chopambana,",
+          "Mndipatse moyo wanu,",
           "Ndikayanjane nanu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Mndidyetse",
-          "m‘chipulu",
-          "M’ulendo wanga",
-          "wonse",
+          "Mndidyetse m‘chipulu",
+          "M’ulendo wanga wonse",
           "Mndimwetse,",
           "ndapirire",
           "Osalefuka konse"
@@ -9612,7 +10450,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "233 A! YESU, ndapangana",
           "A! YESU, ndapangana",
           "Kutumikira Nu Ndi moyo wanga Wonse,",
           "Mbuyanga ndinutu ukhaletu pafupi",
@@ -9648,7 +10485,7 @@ export const chewaHymns = [
           "Mundionetse, Yesu,",
           "Mapazi anuwo, Ndidzapondera aŵa",
           "Munjira monsemo; Ndithangateni ine",
-          "Ndisalefuke yi;Mundilandire",
+          "Ndisalefuke yi; Mundilandire",
           "M’Mwamba Ndikamwaliradi."
         ]
       }
@@ -9663,7 +10500,46 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Mundimvere Mbuye wanga"
+          "Mundimvere Mbuye wanga",
+          "Nkana ine ndimalakwa,",
+          "Koma ndinu moyo wanga;",
+          "Mbuye, mkhale ndine."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndine mlendo pansi pano,",
+          "Msanditaye m’dzanja lanu,",
+          "Mundisunge mwana wanu;",
+          "Mbuye, mkhale ndine."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Munafera ine kale",
+          "Kuti mukandimasule,",
+          "Lero lino mndinyamule;",
+          "Mbuye, mkhale ndine."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mundidzaze ndi chikondi,",
+          "Mndiyeretse m’mtima monse,",
+          "Chifuniro changa mthyole;",
+          "Mbuye, mkhale ndine."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Imfa ikandifikira,",
+          "Inu ndidzakangamira;",
+          "Ndikalowa ine m’mdima,",
+          "Mbuye, mkhale ndine."
         ]
       }
     ]
@@ -9677,7 +10553,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "235 ANU MBUYE NDIFETU",
           "ANU Mbuye ndifetu!",
           "Mutimvere kwanuko;",
           "Anu tikhalirebe",
@@ -9688,17 +10563,15 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Anu Mbuye ndifetu",
-          "mwanu tipumiredi,",
-          "Ndinu Mbale wathu",
-          "'Fe. Mutisunge nthaŵizi"
+          "Anu Mbuye ndifetu mwanu tipumiredi,",
+          "Ndinu Mbale wathu 'Fe. Mutisunge nthaŵizi"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Anu Mbuye ndifetu!",
-          "Dikireni  tonsefe;Moyo ndinu,",
+          "Dikireni tonsefe; Moyo ndinu,",
           "n'choona,",
           "M’njiramo tiyendebe"
         ]
@@ -9734,23 +10607,17 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "236 AMBUYE, MWINI",
-          "AMBUYE, Mwini",
-          "zonsezi,",
-          "Ulemu tiperekadi",
-          "chikondi tionetsanji?",
+          "AMBUYE, Mwini zonsezi,",
+          "Ulemu tiperekadi chikondi tionetsanji?",
           "Mwapatsatu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Dzuŵa ndi mvula",
-          "yonseyo",
-          "Ndi mame",
-          "mwatipatsanso",
-          "Masika 'dzera",
-          "kwanuko",
+          "Dzuŵa ndi mvula yonseyo",
+          "Ndi mame mwatipatsanso",
+          "Masika 'dzera kwanuko",
           "Mwapatsatu."
         ]
       },
@@ -9759,8 +10626,7 @@ export const chewaHymns = [
         "lines": [
           "Mwapatsa Mwana",
           "Wanu, ndi",
-          "Mwapulumutsa",
-          "dzikoli;",
+          "Mwapulumutsa dzikoli;",
           "E, zaulere zonsezi",
           "Mwapatsatu"
         ]
@@ -9768,8 +10634,7 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Tibwezeretu",
-          "bwanjiko?",
+          "Tibwezeretu bwanjiko?",
           "Zipereŵera zathuzi;",
           "Ndi moyo tili nawowo",
           "Mwapatsatu"
@@ -9819,19 +10684,19 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Anakonda zake ndalama,",
-          "Nafuna kusunga zake;",
-          "Koma iye anayesa",
-          "Kunamiza Mzimuwo."
+          "Ife tonse tichenjere",
+          "Tingadzachite zomwezo;",
+          "Tisaname ndikunena:",
+          "“Zopereka ndinapereka.”"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Munthu asapusitsidwe,",
-          "Asabise njira zake;",
-          "Mlungu aona zonsezi,",
-          "Aweruza moonadi."
+          "Mulungu akondadi leroli",
+          "Wopereka mokondwera;",
+          "Tikapereka motero",
+          "Tidzalandira dalitso."
         ]
       }
     ]
@@ -9845,7 +10710,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "238 MBUYE WATHU",
           "MBUYE wathu,",
           "Mutipatsa Zomwe tili nazozo,",
           "Mutikomeratu mtima",
@@ -9872,16 +10736,14 @@ export const chewaHymns = [
           "Monga tilandira,",
           "Mbuye, Mtiphunzitse tonsefe",
           "Tipereke chuma chathu",
-          "Ndi kusangalalatu Zakukhala m'manja",
-          "mwathu Tiziyese nzanudi."
+          "Ndi kusangalalatu Zakukhala m'manja mwathu Tiziyese nzanudi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Tikhaletu nawo,Mbuye,",
-          "Mtima wosauma yi Ndi wofatsa ndi",
-          "wabwino Ndi woyerayeradi,",
+          "Tikhaletu nawo, Mbuye,",
+          "Mtima wosauma yi Ndi wofatsa ndi wabwino Ndi woyerayeradi,",
           "Kuti tiyenere Dzina",
           "La Mbuyathu",
           "Yesuyo"
@@ -9891,9 +10753,18 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Tisaiŵalire bale",
-          "Athu osadziŵa 'Nu,Akulira ndi odwala",
+          "Athu osadziŵa 'Nu, Akulira ndi odwala",
           "Tiŵapemphereratu; Titsanzenso Mbuye",
           "Yesu Ndi k'ŵathangatira Wo."
+        ]
+      },
+      {
+        "stanzer": 6,
+        "lines": [
+          "Dalitseni, Mbuye, zonse",
+          "Zomwe taperekazi,",
+          "Mzilandire, nsambe yathu yonse",
+          "Tikuyamikirani."
         ]
       }
     ]
@@ -9907,7 +10778,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "239 POLENGA DZIKOLI",
           "POLENGA dzikoli, Pakumva lnudi Kwayeratu,",
           "Mumve pempheroli, Ndipo pamenepo",
           "Palibe mawuwo,",
@@ -9956,7 +10826,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "240 ADZAPAMBANA YESU PONSE",
           "ADZAPAMBANA Yesu ponse",
           "Pakuyenda dzuŵalo;",
           "Adzamverabe namgwadira",
@@ -9975,10 +10844,8 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Pomveka konsekonse",
-          "mbiri Yake ya Wokondayo.",
-          "Ang’ono akwezanso",
-          "mawu poimba nyimbo zawozo"
+          "Pomveka konsekonse mbiri Yake ya Wokondayo.",
+          "Ang’ono akwezanso mawu poimba nyimbo zawozo"
         ]
       },
       {
@@ -9986,8 +10853,7 @@ export const chewaHymns = [
         "lines": [
           "Ufumu wake udalitsa",
           "Osauka onsewo",
-          "Otopa amapuma",
-          "chete.Magoli amathyo",
+          "Otopa amapuma chete. Magoli amathyo",
           "Thyo!"
         ]
       },
@@ -10003,55 +10869,6 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 240,
-    "title": "NDIZIBISYE ZYA-JESU",
-    "creator": "Unknown",
-    "chorus": [
-      "Luzyalo lwa-Jesu,",
-      "Nguzu zifutusya",
-      "Aluyandisyo nkazimvwe;",
-      "Nzizyakwe uwandifwida."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Ndizibisye luyandisyo,",
-          "Anguzu zya-Jesu Mwami,",
-          "Ndaambile bamwi luzyalo",
-          "Lwakwe uwakandifwida."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Ndizibisye izya-Jesu,",
-          "Ambeta zyakwe zibotu;",
-          "Mugwasyi Jesu ngwatuma",
-          "Undibede Mufundisi."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Ndizibisye Ibbaibbele,",
-          "Lyandiswaanya a-Mwami wangu,",
-          "Ndateelela ijwi lyakwe,",
-          "Ndatambula zyandaambila."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Ndizibisye zyakujulu,",
-          "Bulemu bwakwe alikke,",
-          "Akukula kwabulelo,",
-          "Akuboola kwakwe Mwami."
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 241,
     "title": "ANTHU AKUM'MAWA NANKA MSANGAKO",
     "creator": "Unknown",
@@ -10060,7 +10877,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "241 ANTHU AKUM'MAWA NANKA MSANGAKO",
           "ANTHU akum'maŵa Nanka msangako,",
           "Nzeru nali nazo, Nafatsansowo;",
           "Nanka kuli Mwana",
@@ -10113,14 +10929,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 242,
-    "title": ".Tamva Mawu Omwewo",
+    "title": "Tamva Mawu Omwewo",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "242.Tamva Mawu Omwewo",
           "Tamva mawu omwewo, Atitu: Yesuyo",
           "Mpulumutsi ndiyedi, Yesuyo, Yesuyo;",
           "Pita m’midzi monsemo, Dziko lonse limvetu,",
@@ -10140,7 +10955,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Bukitsani mawunso, Konseko, Konseko.",
-          "kAitane anthuwo, Ponsepo, Ponsepo.",
+          "k Aitane anthuwo, Ponsepo, Ponsepo.",
           "Kodi wina samvatu? Pitako, pitako ’we;",
           "Angofuna onsewo, Yesuyo, Yesuyo."
         ]
@@ -10156,20 +10971,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "243 ZIPATA ZACHITSULO",
           "ZIPATA zachitsulo zitseguke zonse mbee!",
-          "Ambuye wa Kumwambako aloŵe",
-          "momwemo"
+          "Ambuye wa Kumwambako aloŵe momwemo"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mbendera",
-          "yake ikupiza",
-          "m’mlengalengamo,",
-          "Kufana ndi nyenyezi",
-          "younika m'mdimamo."
+          "Mbendera yake ikupiza m’mlengalengamo,",
+          "Kufana ndi nyenyezi younika m'mdimamo."
         ]
       },
       {
@@ -10185,26 +10995,21 @@ export const chewaHymns = [
         "lines": [
           "Tsatani Mbuye",
           "Yesuyo ndi mtanda wakewo",
-          "Mlaliketu Uthengawo",
-          "kwa anthu onsewo."
+          "Mlaliketu Uthengawo kwa anthu onsewo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Musamaopa kanthu",
-          "yi, tamani Yesuyo,",
-          "kaimbireni nyimboyi",
-          "ndi mphamvu",
+          "Musamaopa kanthu yi, tamani Yesuyo,",
+          "kaimbireni nyimboyi ndi mphamvu",
           "Zonsezo."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "zipata zatsegudwa mbee!. za m’dziko",
-          "monsemo, Ambuye wapambanatu ndi",
-          "mtanda wakewo."
+          "zipata zatsegudwa mbee!. za m’dziko monsemo, Ambuye wapambanatu ndi mtanda wakewo."
         ]
       }
     ]
@@ -10218,10 +11023,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "244 PAMAIKO PALI",
-          "PAMAIKO pali",
-          "mdima, Penya mtima",
-          "chetetu; Leroli malonjezano",
+          "PAMAIKO pali mdima, Penya mtima chetetu; Leroli malonjezano",
           "Angokwaniridwatu.",
           "Kondwerani, kondwerani,",
           "Yesu muwalitsetu"
@@ -10230,31 +11032,25 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Adze amitundu",
-          "yonse, Adze akutaliwo;",
-          "Ayang'ane mtanda",
-          "uja",
+          "Adze amitundu yonse, Adze akutaliwo;",
+          "Ayang'ane mtanda uja",
           "Woti nji paphiripo.",
-          "Mbiri yanu, mbiri yanu",
-          "lbukike ponsepo."
+          "Mbiri yanu, mbiri yanu lbukike ponsepo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ponse padakhala",
-          "mdima Pakaŵale dzuŵali;",
-          "Kumalire konsekonse",
-          "muthaŵitse mdima bii! Mpulumutsi,Mpulumutsi,",
+          "Ponse padakhala mdima Pakaŵale dzuŵali;",
+          "Kumalire konsekonse muthaŵitse mdima bii! Mpulumutsi, Mpulumutsi,",
           "Muyeretse zonsezi."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "lbukike mbiri yanu,Ifikire konseko,",
-          "Iŵagwire anthu",
-          "mtima, Iŵathyole m'katimo.",
+          "lbukike mbiri yanu, Ifikire konseko,",
+          "Iŵagwire anthu mtima, Iŵathyole m'katimo.",
           "Mphamvu yanu,",
           "mphamvu yanu, ldziŵike konseko"
         ]
@@ -10270,9 +11066,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "245  MBWERE MLUNGU",
           "MBWERE Mlungu Mbuye wathu",
-          "Msunge zakuonaZo,",
+          "Msunge zakuona Zo,",
           "Mudalitse anthu onse Ndi chitumu",
           "Chanucho"
         ]
@@ -10280,17 +11075,15 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mbwere Yesu Mwini",
-          "moyo, Ukuletu lemuwo",
-          "Gonjetsani anthu onse,Mpatsenso mtenderewo."
+          "Mbwere Yesu Mwini moyo, Ukuletu lemuwo",
+          "Gonjetsani anthu onse, Mpatsenso mtenderewo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Mbwere Mzimu Wakuyera, Mutitsitsimutseko;",
-          "Mthaŵitse mdima",
-          "wonse, Muŵalitse m’mtimamo."
+          "Mthaŵitse mdima wonse, Muŵalitse m’mtimamo."
         ]
       },
       {
@@ -10313,7 +11106,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "246 ANYAMATA",
           "ANYAMATA a Mulungu,",
           "Muzigwra Nkhondoyo",
           "Mumenyane ndi satana",
@@ -10323,8 +11115,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "komwe asauka",
-          "anthu Akukhala m'mdimamo",
+          "komwe asauka anthu Akukhala m'mdimamo",
           "Osamdziŵa Mpulumutsi,",
           "Phunzitsani konseko."
         ]
@@ -10332,17 +11123,14 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Pomangidwa anthu",
-          "nayo M’yambo yoipitsayo,",
-          "Pomwe amaopa",
-          "chabe, Masulani golilo."
+          "Pomangidwa anthu nayo M’yambo yoipitsayo,",
+          "Pomwe amaopa chabe, Masulani golilo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "ŵalitsani nyali yanu",
-          "ikachotse mdima bii!",
+          "ŵalitsani nyali yanu ikachotse mdima bii!",
           "Mpaka ikainga zonse zosautsa m’dzikoli"
         ]
       },
@@ -10350,8 +11138,7 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Akutopa ndi ofoka",
-          "M’ŵatonthoze mtima",
-          "phee! Osokera, onyozeka",
+          "M’ŵatonthoze mtima phee! Osokera, onyozeka",
           "Muŵafunefunebe"
         ]
       },
@@ -10359,8 +11146,7 @@ export const chewaHymns = [
         "stanzer": 6,
         "lines": [
           "Achisoni, obvutidwa,",
-          "M’ ŵathandize msangatu",
-          "zosautsa zawo zonse",
+          "M’ ŵathandize msangatu zosautsa zawo zonse",
           "Yesu azichotsadi"
         ]
       },
@@ -10368,9 +11154,7 @@ export const chewaHymns = [
         "stanzer": 7,
         "lines": [
           "Anyamata",
-          "Limbikani,Gwiranitu",
-          "nkhondoyi; Yesu salephera",
-          "mwini, Satiŵalira 'yi."
+          "Limbikani, Gwiranitu nkhondoyi; Yesu salephera mwini, Satiŵalira 'yi."
         ]
       },
       {
@@ -10389,20 +11173,15 @@ export const chewaHymns = [
     "title": "ANTHU ALI M'MDIMA",
     "creator": "Unknown",
     "chorus": [
-      "Tumizani Kuunikako, Kuoneketu kwa",
-      "onsewo, Tumizani kuunikako.",
-      "NThawi zonsedi",
-      "kuwaletu."
+      "Tumizani Kuunikako, Kuoneketu kwa onsewo, Tumizani kuunikako.",
+      "NThawi zonsedi kuwaletu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "247 ANTHU ALI M'MDIMA",
-          "ANTHU ali m'mdima",
-          "akuitanitsa Unikani! Unikani!",
-          "Alikumwazika",
-          "mungaŵalanditse.",
+          "ANTHU ali m'mdima akuitanitsa Unikani! Unikani!",
+          "Alikumwazika mungaŵalanditse.",
           "Unikani! Umkani!"
         ]
       },
@@ -10412,19 +11191,16 @@ export const chewaHymns = [
           "Tamva aku",
           "Makedonyako atero,",
           "Unikani! Unikani!",
-          "Tititu, Ambuye",
-          "tizinka komweko,",
+          "Tititu, Ambuye tizinka komweko,",
           "Unikani Unikani!"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tisaleme pakuchita",
-          "zabwinozi,",
+          "Tisaleme pakuchita zabwinozi,",
           "Unikanil Unikanil",
-          "Tidziunjikire ngale",
-          "zakumwamba,",
+          "Tidziunjikire ngale zakumwamba,",
           "Unikani! Unikani"
         ]
       }
@@ -10439,7 +11215,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "248 MUNENE MBUYE",
           "MUNENE Mbuye,",
           "nenetu, Nditsanze mawu anuwo, Munandifuna inetu,",
           "Ine ndifune zanuzo."
@@ -10449,8 +11224,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Nditsogolere",
-          "M’ njirayi Nkhosazo",
-          "zisokeraZo, Ndidyetse, Mbuye,",
+          "M’ njirayi Nkhosazo zisokera Zo, Ndidyetse, Mbuye,",
           "Zanuzi Zimene zita njalayo."
         ]
       },
@@ -10467,8 +11241,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Ndiphunzitseni,",
-          "Mbuyetu, Ndidziŵe nzeru",
-          "zanuzo;",
+          "Mbuyetu, Ndidziŵe nzeru zanuzo;",
           "Munole mivi yangayi,",
           "Ipyole yonse m'mtimamo."
         ]
@@ -10476,19 +11249,15 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Ndipumulire",
-          "panupo,",
-          "Ndinene motonthoza",
-          "phe! Ndi mawu opumitsawo",
+          "Ndipumulire panupo,",
+          "Ndinene motonthoza phe! Ndi mawu opumitsawo",
           "Olema ndikanenebe"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Ambuye, ndi",
-          "chikondi tho! Mudzaze mtima",
-          "wangawu Ndinene zachikondicho,",
+          "Ambuye, ndi chikondi tho! Mudzaze mtima wangawu Ndinene zachikondicho,",
           "Ndiyamikire monsemu."
         ]
       },
@@ -10496,10 +11265,8 @@ export const chewaHymns = [
         "stanzer": 7,
         "lines": [
           "Ndichitireni Mbuye",
-          "‘ne, Monse mufuna",
-          "mwanumo",
-          "Kumwamba tionane",
-          "mbee,",
+          "‘ne, Monse mufuna mwanumo",
+          "Kumwamba tionane mbee,",
           "Maso ndi maso",
           "Kwanuko."
         ]
@@ -10521,12 +11288,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "249 MULUNGU WA KUMWAMBA",
-          "MULUNGU wa Kumwamba, tabwera kunoku Ndi mtima",
-          "wokondwera kuloŵa m’nyumbayi,",
+          "MULUNGU wa Kumwamba, tabwera kunoku Ndi mtima wokondwera kuloŵa m’nyumbayi,",
           "Chifukwa cha zabwino",
-          "Mwatichitirazi Tikukuyamikirani",
-          "leroli."
+          "Mwatichitirazi Tikukuyamikirani leroli."
         ]
       },
       {
@@ -10541,12 +11305,8 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ikhale ngati nyali",
-          "yoŵala nyumbayi,",
-          "Yakutsogoza onse",
-          "ophunthwa m'mdima",
-          "bii, Akunja ndi Akhristu",
-          "m'ŵapulumutse ndi",
+          "Ikhale ngati nyali yoŵala nyumbayi,",
+          "Yakutsogoza onse ophunthwa m'mdima bii, Akunja ndi Akhristu m'ŵapulumutse ndi",
           "Kuunika kotuluka munomu."
         ]
       }
@@ -10561,13 +11321,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "250 KHRISTU NDIYE MWALA WATHU",
           "KHRISTU ndiye mwala wathu,",
           "Khristu timangirapo,",
           "Wosankhidwa ndi",
-          "Mulungu, Atimange tonsefe",
-          "lye ndi Mthandizi",
-          "wathu, Timkhulupirira \"Ye."
+          "Mulungu, Atimange tonsefe lye ndi Mthandizi wathu, Timkhulupirira \"Ye."
         ]
       },
       {
@@ -10575,21 +11332,16 @@ export const chewaHymns = [
         "lines": [
           "Mudalitse nyumba yathu;",
           "Mbuye, nthaŵi zonsetu",
-          "Muthandize anthu",
-          "onse",
-          "Odza kuphunzira",
-          "mu, Ndi antchito anu",
-          "omwe",
+          "Muthandize anthu onse",
+          "Odza kuphunzira mu, Ndi antchito anu omwe",
           "Odza k'ŵaphunzitsa mu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Tiyamike Mlungu",
-          "\"Tate, Tiyamike Mwanayo,",
-          "Tiyamike Mzimu",
-          "wake; Onse omwe Mmodzitu,",
+          "Tiyamike Mlungu \"Tate, Tiyamike Mwanayo,",
+          "Tiyamike Mzimu wake; Onse omwe Mmodzitu,",
           "Waulemerero wonse",
           "Ndi wamphamvu ponsepo."
         ]
@@ -10605,7 +11357,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "251  ANAKWATIRA KALE",
           "ANAKWATIRA kale",
           "Pa Edeni pajapo;",
           "Ulipo lero lino",
@@ -10660,10 +11411,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "252 YEHOVA MLUNGU",
           "YEHOVA MLUNGU",
-          "WATHU,AMENE MUMAPATSA, ZIPATSO ZA CHIKONDI",
-          "POLENGA ANTHU ANU, MUPATSE AŵA ŵIRI MITIMA YOKONDWETSA, YOFANA M'MUNDA MUJA MUNAYENDAMO KALE."
+          "WATHU, AMENE MUMAPATSA, ZIPATSO ZA CHIKONDI",
+          "POLENGA ANTHU ANU, MUPATSE Aŵ A ŵ IRI MITIMA YOKONDWETSA, YOFANA M'MUNDA MUJA MUNAYENDAMO KALE."
         ]
       },
       {
@@ -10673,7 +11423,7 @@ export const chewaHymns = [
           "POKHALA M'DZIKO MUNO",
           "MUNADZA KU UKWATI,",
           "NAWADALITSA ONSE; UKWATIWU MUKONZE,",
-          "MUKHALE NAFE PANO; IWOŵA M'ŵADALITSE",
+          "MUKHALE NAFE PANO; IWOŵ A M'ŵ ADALITSE",
           "MCHIFUNDO CHANU CHONSE."
         ]
       },
@@ -10685,10 +11435,8 @@ export const chewaHymns = [
           "Mukatsagane nawo",
           "Akupangana omwe,",
           "Mupatse wo chisomo",
-          "Chokometsetsa",
-          "mtima, Chikuletu chikondi",
-          "Chitsanzo nchanu",
-          "chomwe."
+          "Chokometsetsa mtima, Chikuletu chikondi",
+          "Chitsanzo nchanu chomwe."
         ]
       },
       {
@@ -10698,9 +11446,7 @@ export const chewaHymns = [
           "Atate, Mwana, Mzimu, Tikhaletu wokondwa",
           "Ndi Inu m'chiyanjano;",
           "Titama lnu Mlungu, Wokonda ife ndinu",
-          "M’ulendo wathu",
-          "wonse Tiyende",
-          "m'chikondano."
+          "M’ulendo wathu wonse Tiyende m'chikondano."
         ]
       }
     ]
@@ -10714,19 +11460,15 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "253 MULUNGU",
-          "MULUNGU",
-          "wa Yakobo Inu,",
+          "MULUNGU wa Yakobo Inu,",
           "mudyetsa anthu anu,",
-          "Kalelo munatsogolera",
-          "makolo athuwo."
+          "Kalelo munatsogolera makolo athuwo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Tsopano tipereka",
-          "mapemphero athu ano,",
+          "Tsopano tipereka mapemphero athu ano,",
           "Mulungu wawo mukhalenso Mlungu",
           "Wa anawo."
         ]
@@ -10734,32 +11476,23 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Tikasokera m'njira",
-          "mutilondolere ndithu,",
-          "Chakudya ndi",
-          "chobvala mutipatse",
-          "tsiku n'tsiku."
+          "Tikasokera m'njira mutilondolere ndithu,",
+          "Chakudya ndi chobvala mutipatse tsiku n'tsiku."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mtifungatire ndi",
-          "mapiko paulendo",
-          "pathu, E, tikafike",
-          "okondwera kwa",
+          "Mtifungatire ndi mapiko paulendo pathu, E, tikafike okondwera kwa",
           "Atate wathu"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Tipempha madalitso",
-          "anu mpatse ife",
-          "tonse",
+          "Tipempha madalitso anu mpatse ife tonse",
           "Tisankha Inu ndinu",
-          "Mlungu wathu",
-          "nthaŵi zonse."
+          "Mlungu wathu nthaŵi zonse."
         ]
       }
     ]
@@ -10773,7 +11506,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "254 MLUNGU WATHU",
           "MLUNGU wathu",
           "Mwatifitsa Kufikira leroli;",
           "Moyo wathu munasunga M’njira yonse yathuyi;",
@@ -10825,7 +11557,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "255 MBUYE, TIKUTHOKOZANI",
           "MBUYE, tikuthokozani,",
           "Ndinu mwatitsogolera, Zaka zonse mwatisunga,",
           "Tiyamika mokondwera, Zotiveka, zotidyetsa,",
@@ -10837,10 +11568,8 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndinu",
-          "mwatithangatira Pakuona zosautsa,",
-          "Polefuka ndi podwala Ndinu",
-          "mwatitsitsimutsa. Munatiteteza bwino",
+          "Ndinu mwatithangatira Pakuona zosautsa,",
+          "Polefuka ndi podwala Ndinu mwatitsitsimutsa. Munatiteteza bwino",
           "Tili ana kalelo, Ndipo zomwe",
           "Mwazichita Chaka chotitheracho."
         ]
@@ -10851,8 +11580,7 @@ export const chewaHymns = [
           "Chaka chino mutipatse Mphamvu",
           "Zosachimwa konse, zoipitsa ndi zodetsa",
           "Mtima mtichotsere zonse.",
-          "Mtithandize",
-          "tizimvera Kuyambira leroli,",
+          "Mtithandize tizimvera Kuyambira leroli,",
           "Ndi kugwira ntchito",
           "Zanu Chaka chatsopanochi."
         ]
@@ -10863,8 +11591,7 @@ export const chewaHymns = [
           "Inde, \"Tate, mtiyendetse",
           "M’njira yolungama yanu, M’mtima mwathu",
           "Mtiyeretse Kuti tikondane nanu.",
-          "Zaka zonse muli",
-          "nafe, Sitiopa konse ‘yi. Tate tikuthokozani",
+          "Zaka zonse muli nafe, Sitiopa konse ‘yi. Tate tikuthokozani",
           "Chaka chatsopanochi."
         ]
       }
@@ -10877,17 +11604,14 @@ export const chewaHymns = [
     "chorus": [
       "Mphatso zonse zathu Zifuma kwa",
       "Mulungu,",
-      "Tilemekeze Mbuye",
-      "wathu,Atikondadi."
+      "Tilemekeze Mbuye wathu, Atikondadi."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "256 TILIMALIMA M'MINDA, TIBZALA MBEWU",
-          "TILIMALIMA m'minda, Tibzala mbewu",
-          "zathu, Komatu zivumbidwa",
-          "Ndi Mlunguyo wamphamvu.Dzuŵalo aŵalitsa",
+          "TILIMALIMA m'minda, Tibzala mbewu zathu, Komatu zivumbidwa",
+          "Ndi Mlunguyo wamphamvu. Dzuŵalo aŵalitsa",
           "Namatumiza mphepo,",
           "Mbewuzo nameretsa Mulunguyo wabwino."
         ]
@@ -10906,7 +11630,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Tiyamikira \"Tate, Zabwino zonse zino,",
+          "Tiyamikira Tate, Zabwino zonse zino,",
           "Kubzala ndi kukunkha",
           "Ndi moyo tili nawo.",
           "Kuninkha Inu Mbuye Tilibe mtulo wina,",
@@ -10924,9 +11648,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "257 YAMIKANI NONSE",
-          "YAMIKANI nonse 'nu, Pomwimbira",
-          "nyimbozi Za masika athuŵa Potumiza mvulayi,",
+          "YAMIKANI nonse 'nu, Pomwimbira nyimbozi Za masika athuŵa Potumiza mvulayi,",
           "Mlengi wathu yemwedi Atipatsa zonsezi,",
           "Timwimbire m'nyumbayi",
           "Za masika athuŵa."
@@ -10936,9 +11658,8 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Dziko lathu lonseli",
-          "Nla Mulungu yemweyu, Atumiza mphatsozi  Zakutilimbitsadi,",
-          "Mmera wathu wonsewu, Mbewu zathu",
-          "zonsezi Timtamande Mbuyeyu Wotipatsa zonsezi"
+          "Nla Mulungu yemweyu, Atumiza mphatsozi Zakutilimbitsadi,",
+          "Mmera wathu wonsewu, Mbewu zathu zonsezi Timtamande Mbuyeyu Wotipatsa zonsezi"
         ]
       },
       {
@@ -10947,17 +11668,13 @@ export const chewaHymns = [
           "Nthaŵi yina Mbuyeyu Adzafika pansipa,",
           "Nadzakonza zonsetu,",
           "Zosakondweretsazi",
-          "Naziponya m’motowo, Koma m’nkhokwe",
-          "mwakemo Mudzadzala mbewu",
-          "tho! Zomkomera bwinolu."
+          "Naziponya m’motowo, Koma m’nkhokwe mwakemo Mudzadzala mbewu tho! Zomkomera bwinolu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Dzani Mbuye",
-          "msangatu,Msonkhanitse zonse",
-          "phe; Anthu anu onseŵa",
+          "Dzani Mbuye msangatu, Msonkhanitse zonse phe; Anthu anu onseŵa",
           "Muŵapulumutse ‘wo;",
           "Zopweteka zawozo Ziwathere zonse phe",
           "Dzani mu Ufumu ndi K’ ŵasonkhetsa onsewo."
@@ -10974,35 +11691,26 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "258 OYAMIKA MLUNGU MBWERE",
-          "OYAMIKA Mlungu mbwere Za masika",
-          "mudzaimbe; Dzinthu zathu",
-          "takolola, Sizionongeka",
-          "m’minda. Mlungu Mlengi asamala,",
+          "OYAMIKA Mlungu mbwere Za masika mudzaimbe; Dzinthu zathu takolola, Sizionongeka m’minda. Mlungu Mlengi asamala,",
           "Zolisoŵa akonzera Mloŵe m’nyumba ya",
-          "Chauta, Mkweze nyimbo  zamasika.",
-          "2"
+          "Chauta, Mkweze nyimbo zamasika."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Dziko lonse nla",
-          "Mulungu Kuti limbalire",
-          "dzinthu; M’munda zonse",
+          "Mulungu Kuti limbalire dzinthu; M’munda zonse",
           "Zimamera Zakukoma ndi zoipa;",
-          "Mmera udza, bwino ngala, Maso omwe amakhwima; mutilole, Mwini",
-          "dzinthu, Tikakhale dzinthu Zanu."
+          "Mmera udza, bwino ngala, Maso omwe amakhwima; mutilole, Mwini dzinthu, Tikakhale dzinthu Zanu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Adzabwera Mbuye wathu Kukolola dzinthu",
-          "zawo, M’munda mwawo akachotse",
+          "Adzabwera Mbuye wathu Kukolola dzinthu zawo, M’munda mwawo akachotse",
           "Minga ndi zoipa zonse.",
-          "Adzatumanso angelo Minga akaponye",
-          "m'moto, Koma tirigu amsunge",
+          "Adzatumanso angelo Minga akaponye m'moto, Koma tirigu amsunge",
           "M’nkhokwe yake nthaŵi zonse"
         ]
       }
@@ -11010,26 +11718,23 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 259,
-    "title": ".CHIFUKWA CHA ZOKOMA MTIMA ZONSE",
+    "title": "CHIFUKWA CHA ZOKOMA MTIMA ZONSE",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "259.CHIFUKWA CHA ZOKOMA MTIMA ZONSE",
           "CHIFUKWA cha zokoma mtima zonse",
           "Za ulerezo, Timlambire Mbuye;",
-          "Tikweze nyimbo yathu",
-          "yakukondwa kuli ‘Ye,",
+          "Tikweze nyimbo yathu yakukondwa kuli ‘Ye,",
           "Timgwadiretu"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Dzinja lokondweretsa",
-          "lafikanso, litapumatu, Timlambire Mbuye;",
+          "Dzinja lokondweretsa lafikanso, litapumatu, Timlambire Mbuye;",
           "Mvula igundanso Mulungu wotikonda",
           "‘fe,",
           "Timgwadiretu."
@@ -11038,9 +11743,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Dziko lonse",
-          "lilikukondwa, mlengalenga",
-          "mpheponso, Timlambice Mbuye;",
+          "Dziko lonse lilikukondwa, mlengalenga mpheponso, Timlambice Mbuye;",
           "zapansi pano zonse zimtamandire",
           "Mulungu wathuyo,",
           "Timgwadiretu."
@@ -11049,12 +11752,9 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Maluwa abwino",
-          "aphuka m’mapri ndi",
-          "m’madambomo,",
+          "Maluwa abwino aphuka m’mapri ndi m’madambomo,",
           "Timlambire Mbuye,",
-          "Masamba",
-          "aŵisi ang'ono",
+          "Masamba aŵisi ang'ono",
           "Agwedezekanso",
           "Timgwadiretu."
         ]
@@ -11062,29 +11762,23 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Zanu zapansi",
-          "nzokoma Mbuye; tikondwera ‘fe,",
+          "Zanu zapansi nzokoma Mbuye; tikondwera ‘fe,",
           "Timlambire Mbuye Koma kwanu",
-          "Kumwamba komwe",
-          "kwapambanatu, Timgwadiretu."
+          "Kumwamba komwe kwapambanatu, Timgwadiretu."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Nafenso tidzadzuka",
-          "kwa kufa ngati maluwawo,",
-          "Timlambire Mbuye Oyera mtima",
-          "adzavala mbuu! pakudza Khristuyo, Timgwadiretu."
+          "Nafenso tidzadzuka kwa kufa ngati maluwawo,",
+          "Timlambire Mbuye Oyera mtima adzavala mbuu! pakudza Khristuyo, Timgwadiretu."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Tidzakhala naye nthaŵi zonse ndi",
-          "kuimbako, Timlambire Mbuye:",
-          "Kumene moyo wa",
-          "anthu okhululukidwa uli wokomatu,",
+          "Tidzakhala naye nthaŵi zonse ndi kuimbako, Timlambire Mbuye:",
+          "Kumene moyo wa anthu okhululukidwa uli wokomatu,",
           "Timgwadiretu,",
           "Aleluya, Amen!"
         ]
@@ -11100,7 +11794,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "260 MLENGL WATHU WAKUYERA",
           "MLENGl wathu Wakuyera,",
           "Mutimvere’fe, M’ŵasungire akutali, Bwinodi."
         ]
@@ -11123,9 +11816,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Mpulumutsi wakukoma.",
-          "Muŵagwirize Nsiku zonse",
-          "akulemekezeni",
-          "(Akule-mekeze.)"
+          "Muŵagwirize Nsiku zonse akulemekezeni (Akule-mekeze.)"
         ]
       },
       {
@@ -11158,7 +11849,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "261 YESU, MUNDITSOGOZA",
           "YESU, munditsogoza",
           "M’njira yanga yonseyo,",
           "Wakunditsogozatu Ndinu,mundisungetu;",
@@ -11193,7 +11883,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "262 MLUNGU AI NANE",
           "MLUNGU ai nane;",
           "Amadziŵazi Ndizinena. penanso",
           "Za mumtimamo."
@@ -11227,11 +11916,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "263 MLUNGU, INUTU",
           "MLUNGU, Inutu.",
           "Mwalenga dzuŵali,",
-          "Nyenyezi, mwezi",
-          "mbee, Ndi dzikoli."
+          "Nyenyezi, mwezi mbee, Ndi dzikoli."
         ]
       },
       {
@@ -11281,7 +11968,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "264 A! MULUNGU A! Mulunga",
           "A! MULUNGU A! Mulunga",
           "Anatuma Mwana",
           "Wake Uja, ndiye Yese"
@@ -11307,8 +11993,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Alanditsa",
-          "Alanditsa",
-          "lfe anthu muzoipa",
+          "Alanditsa lfe anthu muzoipa",
           "Zonse tazichita"
         ]
       },
@@ -11340,7 +12025,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "265 TAONANL, MKHOLANMO",
           "TAONANl, m’kholanmo",
           "Mwabadwira",
           "Mfumuyo Yakulonjezedwadi,",
@@ -11360,8 +12044,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Falitsani mbiriyi",
-          "inudi abusa ‘nu;",
+          "Falitsani mbiriyi inudi abusa ‘nu;",
           "nkhosa zanu zonsezo",
           "Mwasiy'ranji",
           "M’phirimo?"
@@ -11389,8 +12072,7 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Mtiphunzitse",
-          "bwinotu Mwana wakuyera",
+          "Mtiphunzitse bwinotu Mwana wakuyera",
           "‘Nu, Tifanane nanudi",
           "M’makhalidwe anuwo."
         ]
@@ -11409,18 +12091,13 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "266 TIIMBE NDI",
-          "TIIMBE ndi",
-          "kulalikira Mthenga wa",
-          "chikondicho Anamva mlungu",
-          "m’Mwambamo Kulira kwathu pansipa"
+          "TIIMBE ndi kulalikira Mthenga wa chikondicho Anamva mlungu m’Mwambamo Kulira kwathu pansipa"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Kwa ife lero",
-          "anabadwa",
+          "Kwa ife lero anabadwa",
           "Mwana wa Mariyayo",
           "Pamsinkhu, inde mng’ono koma",
           "Mwini dziko lonseli."
@@ -11440,8 +12117,7 @@ export const chewaHymns = [
           "Ambuye,",
           "tikutamandani",
           "Tsiku lakubadwali,",
-          "Mwa Inu tonse",
-          "tikondwera,",
+          "Mwa Inu tonse tikondwera,",
           "tisekera tonsefe,"
         ]
       },
@@ -11450,10 +12126,8 @@ export const chewaHymns = [
         "lines": [
           "A! Yesu Mbuye",
           "Wakuyera Munagona",
-          "M’kholamo Mudzikonzere",
-          "leronso",
-          "Mogona m’mtima",
-          "mwangamu."
+          "M’kholamo Mudzikonzere leronso",
+          "Mogona m’mtima mwangamu."
         ]
       },
       {
@@ -11461,8 +12135,7 @@ export const chewaHymns = [
         "lines": [
           "Ulemerero",
           "M’Mwambamwamba",
-          "Ndi mtendere",
-          "pansipa,",
+          "Ndi mtendere pansipa,",
           "Tiimbe nafe nyimboyi,",
           "Timyamikire",
           "Mbuyathu"
@@ -11479,13 +12152,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "267 ANA INU, ANA INU",
           "ANA inu, ana inu Taukani, ndi",
-          "Kumvera Amithenga",
-          "akumwamba, Anahka kalelo,",
+          "Kumvera Amithenga akumwamba, Anahka kalelo,",
           "Natiuza Mpulumutsi",
-          "Anabadwa pansipa Zaka zonse, tsiku",
-          "lomwe Umamveka mthengawu."
+          "Anabadwa pansipa Zaka zonse, tsiku lomwe Umamveka mthengawu."
         ]
       },
       {
@@ -11521,9 +12191,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "268 KALE M’MZINDA",
-          "KALE m’mzinda",
-          "wachifumu Munalimo m’kholano",
+          "KALE m’mzinda wachifumu Munalimo m’kholano",
           "Momwe mkazi anaika",
           "Mwana wake m’ndyeromo",
           "Ndiye mkaziyo Mariya,",
@@ -11534,10 +12202,8 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Uyu 'natsikira kuno",
-          "Mlungu Mbuye",
-          "wathuyo;",
-          "Anabadwa uyu",
-          "m'khola Anagona m’ndyeromo",
+          "Mlungu Mbuye wathuyo;",
+          "Anabadwa uyu m'khola Anagona m’ndyeromo",
           "Mwa osoŵa ndi oipa",
           "Yesu anakhalamo"
         ]
@@ -11545,8 +12211,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Mwa ubwana wake",
-          "wonse Anakula mtima",
+          "Mwa ubwana wake wonse Anakula mtima",
           "Phee",
           "Anakonda, anafatsa",
           "Amay’wake namvabe:",
@@ -11559,11 +12224,9 @@ export const chewaHymns = [
         "lines": [
           "Ndipo Mwana uyu",
           "Yesu Anakulakulabe:",
-          "Ndi wamng’ono ndi",
-          "wofoka, Anangonga enawo.",
+          "Ndi wamng’ono ndi wofoka, Anangonga enawo.",
           "Nsoni zathu anazimva",
-          "Ndi chimwemwe",
-          "chathunso."
+          "Ndi chimwemwe chathunso."
         ]
       },
       {
@@ -11579,9 +12242,7 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Koma sitimpenya M’khola Muli ngombe",
-          "momwemo, ayi. tidzamwona",
-          "m’Mwamnba Muli Mlungu",
+          "Koma sitimpenya M’khola Muli ngombe momwemo, ayi. tidzamwona m’Mwamnba Muli Mlungu",
           "Tatewo Ana akuyera mbuu Adzamzunguliratu."
         ]
       }
@@ -11596,7 +12257,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "269 USIKUWO WOYERAWO",
           "USIKUWo woyerawo!",
           "Mwana adamlerayo",
           "Akakhale Mfumuyo Anabadwa",
@@ -11611,8 +12271,7 @@ export const chewaHymns = [
           "Mwanayo wa Mulunguyo",
           "Andikonda inetu,",
           "Nan'tayira chumacho",
-          "Nadzagona",
-          "m'udzumo.",
+          "Nadzagona m'udzumo.",
           "Ndiyamika Mbuye",
           "Wanga Yesuyo."
         ]
@@ -11621,9 +12280,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Usikuwo woyerawo!",
-          "Wadzatu",
-          "mtenderewo",
-          "lfe tonse anthuwo",
+          "Wadzatu mtenderewo lfe tonse anthuwo",
           "Atitenga Mlunguyo",
           "Mlemekeze Tate",
           "Mwana Mzimunso"
@@ -11636,14 +12293,13 @@ export const chewaHymns = [
     "title": "KALE ANTHU",
     "creator": "Unknown",
     "chorus": [
-      "Ndiye Mbuye,Mfumu yanga,",
+      "Ndiye Mbuye, Mfumu yanga,",
       "Ndiye Mbuye wa Kumwamba, Amgwadire anthuwo, Timtamande Mfumuyo"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "270 KALE ANTHU",
           "KALE anthu",
           "M’kholamo",
           "‘Napembedza",
@@ -11662,8 +12318,7 @@ export const chewaHymns = [
         "lines": [
           "Ndani kodi",
           "Munthuyo",
-          "Woyesedwa",
-          "m'bwinjamo?"
+          "Woyesedwa m'bwinjamo?"
         ]
       },
       {
@@ -11708,19 +12363,14 @@ export const chewaHymns = [
     "title": "KULI KAPHIRI",
     "creator": "Unknown",
     "chorus": [
-      "Kuli kaphiri",
-      "M’Talimo Kunja kwa",
-      "mzindawo, Kwapachikidwa",
       "Yesuyo Nafera ifetu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "271 KULI KAPHIRI",
           "KULI kaphiri",
-          "M’talimo Kunja kwa mzindawo,Kwapachikidwa",
-          "Yesuyo Nafera ifetu."
+          "M’talimo Kunja kwa mzindawo, Kwapachikidwa"
         ]
       },
       {
@@ -11737,8 +12387,7 @@ export const chewaHymns = [
         "lines": [
           "Anatifera tonsefe",
           "Tiwomboledweko,",
-          "Tifike momwe",
-          "m'Mwambamo",
+          "Tifike momwe m'Mwambamo",
           "Ndi mwazi wakewo"
         ]
       },
@@ -11774,11 +12423,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "272 ANA inu, myamikeni",
           "ANA inu, myamikeni",
           "Mpulumutsi Yesuyo,",
-          "Kaamba ka chikondi",
-          "chake",
+          "Kaamba ka chikondi chake",
           "Ndi chipulumutsocho"
         ]
       },
@@ -11803,16 +12450,14 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Amithenga akumwamba",
-          "Amamyamikiratitu zikwei zosaŵerengeka",
-          "zimtamanda Mfumuye"
+          "Amamyamikiratitu zikwei zosaŵerengeka zimtamanda Mfumuye"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Ana inu,yamikani Bwenzi lanu lomweli:",
-          "M’mwamba momwe",
-          "mudzampenya",
+          "M’mwamba momwe mudzampenya",
           "Ndi kumtamandirabe"
         ]
       }
@@ -11827,7 +12472,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "273 ANANU ZIIMBANI",
           "ANANU ziimbani,",
           "Aleluya, Amen.",
           "Ambuye tamandani",
@@ -11851,8 +12495,7 @@ export const chewaHymns = [
           "Mbuye timlemekeze",
           "Aleluya. Amen",
           "Kwawo tikabwereze Aleluya,",
-          "Amen Kumwama timtamire, Tikamgwadire ife Tikhale",
-          "chikhalire, Aleluya, Amen."
+          "Amen Kumwama timtamire, Tikamgwadire ife Tikhale chikhalire, Aleluya, Amen."
         ]
       }
     ]
@@ -11862,14 +12505,15 @@ export const chewaHymns = [
     "title": "MNANDIDZERA",
     "creator": "Unknown",
     "chorus": [
-      "Ukondwere mtima wanga Pakumvera",
-      "Zokomazo"
+      "(\"Idzani mumtima mwanga,",
+      "Muli malo a Inu'mo.\")",
+      "(\"Ukondwere mtima wanga Pakumvera",
+      "Zokomazo\")"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "274 MNANDIDZERA",
           "MNANDIDZERA",
           "Ambuye, Kumwambako, Munasiya ukuluwo",
           "Koma m’mudziwotu munabadwamo",
@@ -11879,19 +12523,14 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Amithenga 'naimba",
-          "pamlengapo Nalalika ulemuwo",
-          "Koma lnu munadza",
-          "mofatsatu, Munabadwa Mukholamo"
+          "Amithenga 'naimba pamlengapo Nalalika ulemuwo",
+          "Koma lnu munadza mofatsatu, Munabadwa Mukholamo"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Zili nazotu",
-          "nkhwimba zirombozo, Ndi mbalamenso",
-          "zisatu; Koma Inu Ambuye",
-          "mwapandadi",
+          "Zili nazotu nkhwimba zirombozo, Ndi mbalamenso zisatu; Koma Inu Ambuye mwapandadi",
           "Potsamirapo mutu duu!"
         ]
       },
@@ -11899,8 +12538,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Munanenatu mawu a moyonso",
-          "Omasula ochimwawo Koma omwe ochimwa",
-          "nanyozatu, Nakuphani pamtandapo."
+          "Omasula ochimwawo Koma omwe ochimwa nanyozatu, Nakuphani pamtandapo."
         ]
       },
       {
@@ -11922,45 +12560,32 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "275 AKAZl ANADZA",
           "AKAZl anadza kwa Yesu ndi anawo,",
-          "Anaŵaletsa anyamata naŵakana",
-          "ndithu, Ambuye naŵapezadi",
+          "Anaŵaletsa anyamata naŵakana ndithu, Ambuye naŵapezadi",
           "Anati: \"Musatero ‘yi.",
-          "Lolani ana abwere",
-          "kwa Ine, Lolani ana abwere kwa Ine."
+          "Lolani ana abwere kwa Ine, Lolani ana abwere kwa Ine."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ndidzaŵalandira, k'wasunga m’manja",
-          "mwanga; Ndi Mbusa wao Inetu, msachotse ana",
-          "anga, Akandipatsa mtimawo, Adzanka ndine Kwathuko;",
+          "Ndidzaŵalandira, k'wasunga m’manja mwanga; Ndi Mbusa wao Inetu, msachotse ana anga, Akandipatsa mtimawo, Adzanka ndine Kwathuko;",
           "Lolani ana abwere kwa Ine,",
-          "Lolani ana abwere",
-          "kwa Ine"
+          "Lolani ana abwere kwa Ine"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Wokoma Mbuyathu",
-          "kwitana ana onse Atsalanso ambiri ena sanamvera zake; Sanamva mawu",
-          "akewo, Sadziŵa kuti",
-          "'natinso Lolani ana abwere",
-          "kwa Ine, Lolani ana abwere kwa Ine"
+          "Wokoma Mbuyathu kwitana ana onse Atsalanso ambiri ena sanamvera zake; Sanamva mawu akewo, Sadziŵa kuti 'natinso Lolani ana abwere kwa Ine, Lolani ana abwere kwa Ine"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Afike masiku akuti",
-          "anthu onse Adzamva mawu",
-          "anu ndi kutsata Inu nokha:",
+          "Afike masiku akuti anthu onse Adzamva mawu anu ndi kutsata Inu nokha:",
           "Muŵale m'mtima mwawomo",
-          "Adziŵe muŵakondanso Kopani anthu abwere",
-          "kwa Inu, Kopani anthu abwere kwa Inu."
+          "Adziŵe muŵakondanso Kopani anthu abwere kwa Inu, Kopani anthu abwere kwa Inu."
         ]
       }
     ]
@@ -11970,14 +12595,12 @@ export const chewaHymns = [
     "title": "ANA A YErusalemu ANATAME",
     "creator": "Unknown",
     "chorus": [
-      "Mverani, aimba anawo,Mverani, aimba",
-      "anawo Zakutama, zakutama, Zakutama Mbuyeyo."
+      "Mverani, aimba anawo, Mverani, aimba anawo Zakutama, zakutama, Zakutama Mbuyeyo."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "276 ANA A YERESALEmu ANATAME",
           "ANA a Yeresalemu Anatame Mbuye",
           "Wawo; Lero lomwe ife ana Timwimbira nyimbo yawo."
         ]
@@ -11985,17 +12608,14 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Tamva tikondane",
-          "naye Tiŵerenge Mawu ake,",
+          "Tamva tikondane naye Tiŵerenge Mawu ake,",
           "M'njira mwake tiyendemo, Tiziimba nyimbo zake."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Aphunzitsi, ana",
-          "omwe, Ndi akulu, t'imbe tonse; Nyimbo zathu",
-          "zidzakwera Zikamveke m’Mwamba monse."
+          "Aphunzitsi, ana omwe, Ndi akulu, t'imbe tonse; Nyimbo zathu zidzakwera Zikamveke m’Mwamba monse."
         ]
       }
     ]
@@ -12009,7 +12629,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "277 OSANATU, OSANA",
           "OSANATU, osana,",
           "Naimba anawo; M’kachisi wa",
           "Mulungu Mwamveka nyimboyo.",
@@ -12026,16 +12645,14 @@ export const chewaHymns = [
           "'Namkupizira mnjedza Naimba nyimboyo,",
           "Angelo akumwambako Napokerezanso:",
           "\"Osana Mwambamwamba",
-          "Kwa Mlungu",
-          "wathuyo.\""
+          "Kwa Mlungu wathuyo.\""
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Zitsamba zakuyera",
-          "Naponya pansipo; Kukondwa",
-          "kunamveka Paphiri ponsepo.",
+          "Naponya pansipo; Kukondwa kunamveka Paphiri ponsepo.",
           "Ambuye yemwe Mfumutu",
           "Nakwera cheteko",
           "Tiana toyamika",
@@ -12069,7 +12686,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "278 NGOLIZ0 ZILIRA ZA ‘MITHENGAWO",
           "NGOLIZ0 zilira Za ‘mithengawo,",
           "Ndi zipata zonse Zatsegudwa mbee!",
           "Khristu, Mfumu yathu Mbuye wathudi,",
@@ -12090,7 +12706,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Atipempherera M'malo dalawo,Tinke kwathu komwe",
+          "Atipempherera M'malo dalawo, Tinke kwathu komwe",
           "Ndi chisomocho; Akonzera malo Ana akewo; Yesu alipobe,",
           "Atikondamo."
         ]
@@ -12102,8 +12718,7 @@ export const chewaHymns = [
     "title": "NDIKONDWA KUTI ATATE",
     "creator": "Unknown",
     "chorus": [
-      "Ndikondwa kuti Yesu",
-      "akonda, Yesu akonda, andikondabe,",
+      "Ndikondwa kuti Yesu akonda, Yesu akonda, andikondabe,",
       "Ndikondwa kuti Yesu akonda,",
       "Amandikondabe"
     ],
@@ -12111,41 +12726,32 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "279 NDIKONDWA KUTI ATATE",
-          "NDIKONDWA kuti Atate wa m’Mwamba",
-          "Atidziŵitsa chikondicho chake; Ndinaŵerenga",
-          "m'Uthenga Wabwino Kuti Ambuye akonda",
-          "anake"
+          "NDIKONDWA KUTI ATATE wa m’Mwamba",
+          "Atidziŵitsa chikondicho chake; Ndinaŵerenga m'Uthenga Wabwino Kuti Ambuye akonda anake"
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Yesu ndimkonda akondanso ine,",
-          "Anandifera pamtanda woopsa. Wosayenera, woipa",
-          "ndi ine, Tsoka langalo Ambuye nachotsa"
+          "Anandifera pamtanda woopsa. Wosayenera, woipa ndi ine, Tsoka langalo Ambuye nachotsa"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mzimu Woyera",
-          "akhala mwa ine, Atsimikiza chikondi",
-          "cha Yesu",
+          "Mzimu Woyera akhala mwa ine, Atsimikiza chikondi cha Yesu",
           "Ine n'tachimwa amandikumbutsa",
-          "Lapa mwana ‘we",
-          "akukonda Yesu."
+          "Lapa mwana ‘we akukonda Yesu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Ndikadzaona",
-          "Ambuye Kumwamba Sindidzaopa pokhala",
-          "akonda,",
+          "Ambuye Kumwamba Sindidzaopa pokhala akonda,",
           "Anandikonzera kalelo nyumba,",
-          "Ndidzakhalamo",
-          "wokondwa, wokoma."
+          "Ndidzakhalamo wokondwa, wokoma."
         ]
       }
     ]
@@ -12159,7 +12765,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "280 NDIKONDA MBIRI",
           "NDIKONDA mbiri",
           "Yomwe Ya amithengawo",
           "Ya Mbuye, Mfumu yathu",
@@ -12206,38 +12811,30 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "281 YESU ANDIKONDA",
           "YESU andikonda",
           "Ine, Amatero m'Buku iye;",
-          "Akafoka mwana",
-          "wake Adzamlimbikitsa",
+          "Akafoka mwana wake Adzamlimbikitsa",
           "Mbuye."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nandifera Mbuye wanga Anditsegulire",
-          "m'Mwamba, Ndi machimo anga",
-          "onse Adzandichotsera konse"
+          "Nandifera Mbuye wanga Anditsegulire m'Mwamba, Ndi machimo anga onse Adzandichotsera konse"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mbuye Yesu",
-          "andisunga M’njira ya kumwamba kuja",
-          "Andigwira m'dzana",
-          "langa Ndingagweremo",
-          "m’makWaŵa."
+          "Mbuye Yesu andisunga M’njira ya kumwamba kuja",
+          "Andigwira m'dzana langa Ndingagweremo m’mak Waŵa."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Yesu andikonda ine:",
-          "Ndikadzata tsiku",
-          "lina Atengera ine kuno,",
+          "Ndikadzata tsiku lina Atengera ine kuno,",
           "Ndikakhale naye",
           "Kwawo."
         ]
@@ -12253,11 +12850,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "282 YESU Mbuye ‘Nu",
-          "YESU Mbuye ‘Nu",
-          "wofatsa",
-          "Muyang'anedi",
-          "kamwana, Mndichitiretu chifundo",
+          "YESU Mbuye ‘Nu wofatsa",
+          "Muyang'anedi kamwana, Mndichitiretu chifundo",
           "Mundilole kwa Inutu."
         ]
       },
@@ -12274,16 +12868,14 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Yesu, E ndikufunani,",
-          "Ndinu chuma changa",
-          "chonse; Mtima wanu ngwofatsadi",
+          "Ndinu chuma changa chonse; Mtima wanu ngwofatsadi",
           "Kale munali kamwana"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Wonga Inu",
-          "ndikhaledi, Mtima wanu mundipatse;",
+          "Wonga Inu ndikhaledi, Mtima wanu mundipatse;",
           "Yesu ndinu wokomatu,",
           "Mndiphunzitse kukona ‘Nu."
         ]
@@ -12291,10 +12883,7 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Yesu Mbuye ‘Nu",
-          "wabwino, M’manja mwanu",
-          "ndikhalemo; Mzimu wanu",
-          "mundipatse,",
+          "Yesu Mbuye ‘Nu wabwino, M’manja mwanu ndikhalemo; Mzimu wanu mundipatse,",
           "M’mtima mwangatu mukhale."
         ]
       }
@@ -12314,7 +12903,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "283 YESU, NDIKABWERA",
           "YESU, Ndikabwera",
           "Mundikondweretsa",
           "Nsoni zanga",
@@ -12333,8 +12921,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Yesu, ndikabwera",
-          "Dzanja",
-          "mdzandigwira;",
+          "Dzanja mdzandigwira;",
           "Nokha mdzandilondolera",
           "Njirayo."
         ]
@@ -12344,8 +12931,7 @@ export const chewaHymns = [
         "lines": [
           "N’takafika kwanu",
           "Ndidzakhala bwino,",
-          "N’dzaonana ndi",
-          "ananu,",
+          "N’dzaonana ndi ananu,",
           "Ndi Yesu"
         ]
       }
@@ -12356,15 +12942,14 @@ export const chewaHymns = [
     "title": "YESU WA KUMWAMBA",
     "creator": "Unknown",
     "chorus": [
-      "Yesu, Yesu, Tikugwadirant",
-      "Mwana wa",
-      "Mulungu!"
+      "Yesu, Yesu,",
+      "Tikugwadirani",
+      "Mwana wa Mulungu!"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "284 YESU WA KUMWAMBA",
           "YESU wa kumwamba",
           "Mutimvere ife;",
           "Tikugwadirani,",
@@ -12374,10 +12959,9 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ndife akuchoka,",
-          "Mwina tisokera;",
-          "M’njira ya Kumwamba",
-          "Mutitsogolere."
+          "Ndinu wakuyera, Mfumu yakumveka;",
+          "Ife sit'yenera,",
+          "Koma mutimvere"
         ]
       },
       {
@@ -12401,14 +12985,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 285,
-    "title": ".. Mpulumutsi, Mbusa Wathu",
+    "title": "Mpulumutsi, Mbusa Wathu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "285.. Mpulumutsi, Mbusa Wathu\"Saviour, Like A Shepherd\"",
           "Mpulumutsi, Mbusa wathu, Mutisogolere ’ife;",
           "Mutiŵete, mutisunge, M’khola mwanu mtilandire;",
           "Yesu wathu, Yesu wathu, Mnatigula ana anu,"
@@ -12449,7 +13032,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "286 MZINDA WOYERAWO",
           "MZINDA woyerawo!",
           "Konse nkotsekako;",
           "Kanthu koipa, Kanthu koipa,",
@@ -12461,7 +13043,7 @@ export const chewaHymns = [
         "lines": [
           "Yesu ndafikatu,",
           "Mbuyanga kwanuku",
-          "Mundiyeretse,Mundyeretse,",
+          "Mundiyeretse, Mundyeretse,",
           "Mnditsuke m’mtimamu."
         ]
       },
@@ -12470,8 +13052,7 @@ export const chewaHymns = [
         "lines": [
           "Mbuye, ndikhaletu Mwana wokonda Nu,",
           "Ndi wosungidwa,",
-          "Ndi wosungidwa",
-          "ndi mhamvu zanuzo."
+          "Ndi wosungidwa ndi mhamvu zanuzo."
         ]
       },
       {
@@ -12479,7 +13060,7 @@ export const chewaHymns = [
         "lines": [
           "Mpaka ndabvala mbuu!",
           "Wowomboledwatu,",
-          "Woyera mtima,Woyera mtima,",
+          "Woyera mtima, Woyera mtima,",
           "Kwanu",
           "Kumwambako"
         ]
@@ -12495,7 +13076,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "287 MBUYE, TILI ANA",
           "MBUYE, tili ana anu, Tiyamike Inutu",
           "Zinthu zonse zili zanu,",
           "Tingadike M’mtimamo.",
@@ -12525,7 +13105,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "288 YESU, ULI PA CHIMPANDO",
           "YESU, uli pa chimpando",
           "Chakuŵala mbee! Kumwamba; Mutipenye ife ana",
           "Mutimvere, Yesu."
@@ -12551,8 +13130,7 @@ export const chewaHymns = [
         "lines": [
           "Lero mkhale nafe ndithu,",
           "Poseŵera ndi pantehito,",
-          "Popemphera ndi",
-          "poimba;",
+          "Popemphera ndi poimba;",
           "Mutimvere, Yesu."
         ]
       },
@@ -12560,8 +13138,7 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Mutiletse tisaname",
-          "Ndi kunena zotukwana, Mtiphunzitse",
-          "kukondana: Mutimvere, Yesu"
+          "Ndi kunena zotukwana, Mtiphunzitse kukondana: Mutimvere, Yesu"
         ]
       }
     ]
@@ -12575,12 +13152,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "289  YESU ATIUZA TIWALE",
           "YESU atiuza tiŵale",
-          "‘Fe, Monga nyali m’mdima",
-          "tiunike mbee! Pansi pali mdima",
-          "ŵalanitu, Inu m’malo mwanu",
-          "ndi ine 'mu"
+          "‘Fe, Monga nyali m’mdima tiunike mbee! Pansi pali mdima ŵalanitu, Inu m’malo mwanu ndi ine 'mu"
         ]
       },
       {
@@ -12589,8 +13162,7 @@ export const chewaHymns = [
           "yesu atiuza tiyambemo,",
           "Ationa bwino ndi kuŵalako",
           "Ayang’ana pansi poŵala ‘fe,",
-          "Inu m’malo mwanu",
-          "ndi ine ‘mu."
+          "Inu m’malo mwanu ndi ine ‘mu."
         ]
       },
       {
@@ -12598,9 +13170,8 @@ export const chewaHymns = [
         "lines": [
           "Yesu atiuza tiŵale pa",
           "Anthu ali m’mdima",
-          "0saukaŵa;Tiŵalire onse,",
-          "tonsefetu, Inu m’malo mwanu",
-          "ndi ine ‘mu."
+          "0saukaŵa; Tiŵalire onse,",
+          "tonsefetu, Inu m’malo mwanu ndi ine ‘mu."
         ]
       }
     ]
@@ -12614,11 +13185,10 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "290  ANYAMATA INUTU",
           "ANYAMATA inutu",
           "Anamwali inunso,",
-          "Muti:\"Tingachitenji",
-          "Ang' ono ndifetu,",
+          "Muti, Tingachitenji",
+          "Ang'ono ndifetu,",
           "Kuthandiza Ufumu Wa Yesu?"
         ]
       },
@@ -12674,10 +13244,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "291 TIANA IFE TINGOFOKA",
           "TIANA ife tingofoka,",
-          "Sitikhala mphamvu ‘Yi; Tikhoza",
-          "kukachitiranji",
+          "Sitikhala mphamvu ‘Yi; Tikhoza kukachitiranji",
           "Yesu kumkondwetsadi?"
         ]
       },
@@ -12686,8 +13254,7 @@ export const chewaHymns = [
         "lines": [
           "Tiana ta Ambuye tili",
           "N'ntchito yaikuludi,",
-          "Kudzichepetsa, ndi",
-          "kusiya Tchimo lili lonseli"
+          "Kudzichepetsa, ndi kusiya Tchimo lili lonseli"
         ]
       },
       {
@@ -12713,16 +13280,14 @@ export const chewaHymns = [
         "lines": [
           "Tizikondana, tisekere",
           "Tsiku lonse kwathuko",
-          "Muyere m’mtimamo popeza",
-          "yesu ndi Woyerayo"
+          "Muyere m’mtimamo popeza yesu ndi Woyerayo"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
           "Palibe mwana wakuchepa",
-          "Kunyamula mtandawu; Ambuye Yesu",
-          "mutipatse",
+          "Kunyamula mtandawu; Ambuye Yesu mutipatse",
           "Mtima wokondanatu."
         ]
       }
@@ -12737,7 +13302,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "292  USACHIMWE KONSE",
           "USACHIMWE konse",
           "Lekatu kukwiya;",
           "Uli mwana wake,",
@@ -12768,8 +13332,7 @@ export const chewaHymns = [
         "lines": [
           "koma usalole",
           "Mawu a Satana",
-          "Bweza tchimo lake",
-          "chita zolungama."
+          "Bweza tchimo lake chita zolungama."
         ]
       },
       {
@@ -12796,13 +13359,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "293 TCHIMO NUSALOLE",
           "TCHIMO nusalole,",
           "musadziipitse, Myese kudzikana,",
-          "Muzilimbikadi; Mwamphamvu",
-          "mpirire, mgonjetse",
-          "zabiizi; Mpenye kuli Yesu",
-          "adzakusungani"
+          "Muzilimbikadi; Mwamphamvu mpirire, mgonjetse zabiizi; Mpenye kuli Yesu adzakusungani"
         ]
       },
       {
@@ -12811,8 +13370,7 @@ export const chewaHymns = [
           "Mlewe oipawo, ayi musatukwane,",
           "Dzina la Mbuyathu Muzilikwezadi;",
           "Khalani achangu Oona abwino",
-          "Mpenye kuli Yesu",
-          "adzakusungani"
+          "Mpenye kuli Yesu adzakusungani"
         ]
       },
       {
@@ -12836,18 +13394,14 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "294 NTHAWI YAUBWANA",
-          "NTHAŵI yaubwana",
-          "yatha, Sukulu yathu yathanso",
-          "Nkhaŵa ndi zoŵaŵa",
-          "zomwe zitibisaliranso."
+          "NTHAŵ I yaubwana yatha, Sukulu yathu yathanso",
+          "Nkhaŵa ndi zoŵaŵa zomwe zitibisaliranso."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Yesu wakufatsa",
-          "mtima",
+          "Yesu wakufatsa mtima",
           "Mlendo pansi pano",
           "Ye Natifera, natisunga,",
           "Atitsogolere ‘Ye."
@@ -12882,7 +13436,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "295 YESU NDIYE MBUSA",
           "YESU ndiye Mbusa",
           "Mbusa wakukoma",
           "Anyamula ana Ake akuopa: Tizitsata Yesu,",
@@ -12896,8 +13449,7 @@ export const chewaHymns = [
           "Yesu ndiye Mbusa Atipenyetsetsa.",
           "Mawu ake onse Atikondweretsa",
           "Mwina alangiza",
-          "Mwana wakulakwa Atsogola bwino",
-          "ife tizimtsata"
+          "Mwana wakulakwa Atsogola bwino ife tizimtsata"
         ]
       },
       {
@@ -12931,7 +13483,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "296 POMPAN0 pandikonda",
           "POMPAN0 pandikonda",
           "Poyendayenda 'ne Paŵala mosekera",
           "Ndi dzuŵa loti mbee!",
@@ -12955,8 +13506,7 @@ export const chewaHymns = [
         "lines": [
           "Zoipa ndi zabwino",
           "Zakundigwerazo,",
-          "Ndingonka nazo",
-          "zonse Ndimuze Yesuyo,",
+          "Ndingonka nazo zonse Ndimuze Yesuyo,",
           "Zoŵaŵa adzachotsa Zondiliritsazı;",
           "Ndikangomtsata Yesu m'njira",
           "Yonseyi."
@@ -12968,8 +13518,7 @@ export const chewaHymns = [
           "Zondipingitsa zonse Zolowa m’mtimamo",
           "Achotsa, nandisunga M’ulendo wonsewu.",
           "Sindidzaopa kanthu, Ngakhale imfayo,",
-          "Pomtsata Yesu yekha",
-          "kunka Kwathuko"
+          "Pomtsata Yesu yekha kunka Kwathuko"
         ]
       }
     ]
@@ -12987,14 +13536,11 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "297MPULUMUTSI",
           "MPULUMUTSi",
           "Yesu Mumve nyimbo Yathu",
           "Tikuyamikani",
-          "Mumitima mwathu",
-          "zonse tili nazo",
-          "Thupi, mzimu",
-          "womwe, Inde, moyo wonse,",
+          "Mumitima mwathu zonse tili nazo",
+          "Thupi, mzimu womwe, Inde, moyo wonse,",
           "Tipereka zonse."
         ]
       },
@@ -13014,7 +13560,7 @@ export const chewaHymns = [
         "lines": [
           "Haya! Tipitenso",
           "M’njira yomwe ija Ana a Mlulungu",
-          "Onse adaponda.Tizisiya zonse,Tiziyenda msanga,",
+          "Onse adaponda. Tizisiya zonse, Tiziyenda msanga,",
           "Tisamachewuka Mpaka tapambana."
         ]
       },
@@ -13023,10 +13569,7 @@ export const chewaHymns = [
         "lines": [
           "Tero tidzakwera",
           "Kwawo kwa Mulungu,",
-          "Tidzaziiŵala Zotivuta ife.",
-          "Komwe ndi chimwemwe",
-          "Tidzaimba tonse,",
-          "Tidzatama Mbuye Osalema konse"
+          "Tidzaziiŵala Zotivuta ife."
         ]
       }
     ]
@@ -13040,7 +13583,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "298 INE NDME MLENDO",
           "INE ndine mlendo Wa Kumwambako;",
           "Pansi pandikonda, Koma mpoipa."
         ]
@@ -13048,8 +13590,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Kwathu",
-          "nkopambana,",
+          "Kwathu nkopambana,",
           "Nkosachimwako;",
           "Zosautsa zonse Sizikhalamo."
         ]
@@ -13081,14 +13622,13 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 299,
-    "title": ". M’manja A Yesu Wanga",
+    "title": "M’manja A Yesu Wanga",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "299. M’manja A Yesu Wanga\"Safe In The Arms Of Jesus\"",
           "M’manja a Yesu wanga ndili kugonamo,",
           "Mommo aphimba ine nacho chikondicho.",
           "Mvera! Mudzera m’mwamba mawu a Yesu wanga,",
@@ -13101,7 +13641,7 @@ export const chewaHymns = [
           "M’manja a Yesu wanga nkhaŵa zonsezi zi!",
           "Momwe zoipa zanga sizindibvuta ‘yi.",
           "Mommo mulibe nsoni, mommo mokoma monse.",
-          "Sindiliramo msozi, ndikondwa  Mtima monse."
+          "Sindiliramo msozi, ndikondwa Mtima monse."
         ]
       },
       {
@@ -13122,9 +13662,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "300 YESU ndiye Bwenzi",
-          "YESU ndiye Bwenzi lathu, Kumwamba kuli",
-          "kwawo; Amatikonda tonse, Akulu ndi tiana;",
+          "YESU ndiye Bwenzi lathu, Kumwamba kuli kwawo; Amatikonda tonse, Akulu ndi tiana;",
           "Anzathu sapirira, Amalekana nafe,",
           "Komabe kutiyanja Saleka Yesuyo."
         ]
@@ -13132,10 +13670,8 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ana ake adzapuma Kumwamba",
-          "mokondwera, Amene anamkonda",
-          "Namtsata Yesu yekha: Sauko ndi zovuta",
-          "zotitopetsa kuno, Sitiziona konse",
+          "Ana ake adzapuma Kumwamba mokondwera, Amene anamkonda",
+          "Namtsata Yesu yekha: Sauko ndi zovuta zotitopetsa kuno, Sitiziona konse",
           "Kumwamba kwathuko."
         ]
       },
@@ -13153,11 +13689,8 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Woyenera ndani",
-          "kunka Kukhala ndi Atate,Kuimba nyimbo",
-          "zake, Za Mpulumutsi wathu?",
-          "Tidzanka ife tonse Tamtsata pansi",
-          "pano; Tiyeni ana onse,",
+          "Woyenera ndani kunka Kukhala ndi Atate, Kuimba nyimbo zake, Za Mpulumutsi wathu?",
+          "Tidzanka ife tonse Tamtsata pansi pano; Tiyeni ana onse,",
           "Yambani leroli"
         ]
       }
@@ -13165,7 +13698,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 301,
-    "title": ".Yesu Adza Kuwerenga",
+    "title": "Yesu Adza Kuwerenga",
     "creator": "Unknown",
     "chorus": [
       "Ana ake angonga Nyenyezi zam’mwamba,",
@@ -13176,8 +13709,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "301.. Yesu Adza Kuwerenga\"When He Cometh\"",
-          ".",
           "Yesu adza kuŵerenga Ana ake abwino,",
           "Ndi kuvala zachifumu zakuŵalazo zake"
         ]
@@ -13206,7 +13737,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "302 KWA YESU NDI KWABWINOKO",
           "KWA Yesu ndi kwabwinoko,",
           "Nkoti mbee! Nkoti mbee! Kulibe zoipitsako,",
           "Nkoti mbee! Nkoti mbee!",
@@ -13234,8 +13764,7 @@ export const chewaHymns = [
           "Mwaziwo! Mwaziwo!",
           "Tiyeretsedwa nawowo,",
           "Mtendere wa Mbuyathuyo",
-          "Ukhala nafe",
-          "komweko.",
+          "Ukhala nafe komweko.",
           "Mwaziwo! mwaziwo!"
         ]
       }
@@ -13250,7 +13779,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "303 DZIKO LILIPOLO",
           "DZIKO lilipolo Lokondwatu,",
           "Oyera khalamo, Abvala mbuu!",
           "Tamvani nyimboyo: Mfumu tiyamikeyo,",
@@ -13272,8 +13800,7 @@ export const chewaHymns = [
           "Maso a m'dzikomo",
           "Onse nga mbuu!",
           "Mkono wa Tatewo Ngwosungatu.",
-          "Tiye ku dzikolo, Mgwire ‘nu",
-          "ufumuwo. M’mwamba mwa dzuŵamo Tikhalebe."
+          "Tiye ku dzikolo, Mgwire ‘nu ufumuwo. M’mwamba mwa dzuŵamo Tikhalebe."
         ]
       }
     ]
@@ -13287,10 +13814,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "304 DZUWA LIWALA",
-          "DZUŵA liŵala, m’tulotu",
-          "Landidzukitsamo; Tate chikondi",
-          "chanucho",
+          "DZUŵ A liŵala, m’tulotu",
+          "Landidzukitsamo; Tate chikondi chanucho",
           "Chindidalitsapo."
         ]
       },
@@ -13306,8 +13831,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "M’mtima mwangamu",
-          "mloŵemo,Mwini chifundocho,",
+          "M’mtima mwangamu mloŵemo, Mwini chifundocho,",
           "Kuti ndikafananetu Ndinu Mbuyangayo."
         ]
       }
@@ -13322,7 +13846,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "305 YESU MBUSA",
           "YESU Mbusa,",
           "mutimvere, Dalitsani ifetu,",
           "Ndi usiku mutisunge,",
@@ -13344,8 +13867,7 @@ export const chewaHymns = [
         "lines": [
           "Tchimo lathu lonse,",
           "Yesu, Mukhululukire 'lo;",
-          "Mtitengere kwanu",
-          "komwe Kumpumulo wanuwo"
+          "Mtitengere kwanu komwe Kumpumulo wanuwo"
         ]
       }
     ]
@@ -13359,11 +13881,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "306 TILIKUIMBA NYIMBO",
-          "TILIKUIMBA nyimbo",
-          "yomweyi, Yakuyamika Mbuye",
-          "wathuyo,Mtendere wake",
-          "tiufunadi, Titapemphera tinke kwathuko."
+          "TILIKUIMBA nyimbo yomweyi, Yakuyamika Mbuye wathuyo, Mtendere wake tiufunadi, Titapemphera tinke kwathuko."
         ]
       },
       {
@@ -13379,12 +13897,9 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Usiku uno",
-          "mutisungedi, Khalani m’fupi",
+          "Usiku uno mutisungedi, Khalani m’fupi",
           "M’nyumba mwathumo;",
-          "Mamaŵanso",
-          "mudzatidzutse nji! Kuti tigwire ntchito",
-          "zathuzo."
+          "Mamaŵanso mudzatidzutse nji! Kuti tigwire ntchito zathuzo."
         ]
       },
       {
@@ -13403,8 +13918,7 @@ export const chewaHymns = [
     "title": "AMBUYE,MTIDALITSETU",
     "creator": "Unknown",
     "chorus": [
-      "Pokhala moyo",
-      "imfanso,",
+      "Pokhala moyo imfanso,",
       "Ambuye mtiŵalirepo",
       "͞"
     ],
@@ -13412,7 +13926,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "307 AMBUYE,MTIDALITSETU",
           "AMBUYE,mtidalitsetu,",
           "Musunge Mawu m'mtimamu,",
           "Muyatse moto wanuwo,",
@@ -13424,16 +13937,14 @@ export const chewaHymns = [
         "lines": [
           "Laloŵa dzuŵa,",
           "kwada bii!",
-          "Mwapenya ntchito",
-          "zathuzi; Taletsa mwina tchimolo,",
+          "Mwapenya ntchito zathuzi; Taletsa mwina tchimolo,",
           "Mwinanso tangolakwapo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mufafanize",
-          "m'bukumo Zolakwa zathu",
+          "Mufafanize m'bukumo Zolakwa zathu",
           "ZOnsezo,",
           "Ndi kutipatsa ifetu",
           "Mtendere wanu m'katimu."
@@ -13442,11 +13953,9 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Chimwemwe",
-          "chomwe mpatseko",
+          "Chimwemwe chomwe mpatseko",
           "Ndi kukondana ndinunso",
-          "Tifuna kufananadi Ndi Yesu Bwenzi",
-          "lathuli."
+          "Tifuna kufananadi Ndi Yesu Bwenzi lathuli."
         ]
       }
     ]
@@ -13460,23 +13969,18 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "308 TIKUTHA KUPEMPHERA",
           "TIKUTHA kupemphera,",
           "Tipita kwathu tonse;",
           "Mtiperekeze, Mbuye, Panjira zathu zonse;",
           "Titamva Mawu anu, Mawuwo ndi amoyo,",
-          "Aloŵe m'mtima",
-          "mwathu, Akhazikikemo."
+          "Aloŵe m'mtima mwathu, Akhazikikemo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Ambuye, Mzimu",
-          "wanu Atikumbutse tonse Atithandize lero",
-          "Kumvera Mawu onse Kumudzi mkhale",
-          "nafe, Musatisiye konse Machimo onse",
-          "mletse,Tiyere m’mtimamo.",
+          "Ambuye, Mzimu wanu Atikumbutse tonse Atithandize lero",
+          "Kumvera Mawu onse Kumudzi mkhale nafe, Musatisiye konse Machimo onse mletse, Tiyere m’mtimamo.",
           "͞"
         ]
       }
@@ -13491,7 +13995,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "309 TIMYAMITKIRE MLUNGUYO",
           "TIMYAMITKIRE",
           "Mlunguyo",
           "Anthu ndi zinthu zonsezi,",
@@ -13511,10 +14014,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "310 MULUNGU AKHALE",
-          "MULUNGU akhale nawo",
-          "ulemerero ndi",
-          "dalitso, Ndiye Atate, Mwana,",
+          "MULUNGU akhale nawo ulemerero ndi dalitso, Ndiye Atate, Mwana,",
           "Mzimu Woyera,",
           "Mlungu mmodzi."
         ]
@@ -13538,9 +14038,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "311 YEHOVA, MBUSA",
-          "YEHOVA, Mbusa",
-          "wangadi,",
+          "YEHOVA, Mbusa wangadi,",
           "Ndilibe kusoŵa;",
           "Andigonetsa bwinoli",
           "Mumsipu wokoma."
@@ -13551,8 +14049,7 @@ export const chewaHymns = [
         "lines": [
           "Ku madzi ake odikha",
           "Anditsogolera;",
-          "Ndi moyo wanga",
-          "wofoka Aulimbikitsa."
+          "Ndi moyo wanga wofoka Aulimbikitsa."
         ]
       },
       {
@@ -13568,17 +14065,14 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndipyola kodi",
-          "chikhwaŵa Cha thunzi wa imfa?",
-          "Ndilibe mantha",
-          "ngati 'nu Mundiperekeza."
+          "Ndipyola kodi chikhwaŵa Cha thunzi wa imfa?",
+          "Ndilibe mantha ngati 'nu Mundiperekeza."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Chakudya changa",
-          "chabwino",
+          "Chakudya changa chabwino",
           "Mwandikonzera pha!",
           "Pamaso pa adaniwo",
           "Mudyetsa mtimanga."
@@ -13587,19 +14081,15 @@ export const chewaHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Mwadzoza mutu",
-          "wanga ndi Mafuta okoma,",
-          "Mwadzaza chikho",
-          "changadi, Inde, chisefuka."
+          "Mwadzoza mutu wanga ndi Mafuta okoma,",
+          "Mwadzaza chikho changadi, Inde, chisefuka."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
-          "Zokoma ndi",
-          "zakuyanja Zidzanditsatako;",
-          "Ndikhala m’nyumba",
-          "ya Mlungu",
+          "Zokoma ndi zakuyanja Zidzanditsatako;",
+          "Ndikhala m’nyumba ya Mlungu",
           "Ku nthaŵi zonsezo."
         ]
       }
@@ -13614,35 +14104,29 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "312 MULUNGU, ANTHU ‘FE",
           "MULUNGU, anthu ‘fe",
           "Mutidalitsetu;",
-          "Chisomo chiwalire",
-          "fe Cha nkhope yanuyo."
+          "Chisomo chiwalire fe Cha nkhope yanuyo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Potero onsewo",
-          "Okhala pansipa Adzamva bwino",
-          "msangatu Za njira yanuyi."
+          "Okhala pansipa Adzamva bwino msangatu Za njira yanuyi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ayamikre 'Nu",
-          "padziko ponsepa, Mitundu onse",
-          "ifuule mokondweratu."
+          "Ayamikre 'Nu padziko ponsepa, Mitundu onse ifuule mokondweratu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
           "Pakuti Mfumuyo",
-          "Ndi Inu nokha 'Nu; Mudzalangiza",
-          "bwinotu",
+          "Ndi Inu nokha 'Nu; Mudzalangiza bwinotu",
           "Mafuko onsewo"
         ]
       },
@@ -13650,7 +14134,7 @@ export const chewaHymns = [
         "stanzer": 5,
         "lines": [
           "Adzadalitsa fe",
-          "Mulungu mwiniyo,Padziko ponse anthuwo Adzamuopatu"
+          "Mulungu mwiniyo, Padziko ponse anthuwo Adzamuopatu"
         ]
       }
     ]
@@ -13664,7 +14148,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "313 NONSE OKHALA PANSIPA",
           "NONSE okhala pansipa,",
           "Muyamikire Mlunguyo;",
           "Ndi nyimbo mtumikire 'Ye;",
@@ -13683,9 +14166,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Loŵani m'Nyumba",
-          "mwakemu Ndi nyimbo",
-          "zokondweratu;Mumyamikire",
+          "Loŵani m'Nyumba mwakemu Ndi nyimbo zokondweratu; Mumyamikire",
           "Mlunguyo, Mulemekeze Dzinal."
         ]
       },
@@ -13693,8 +14174,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Pakuti Mbuye",
-          "Mlunguyo Wokoma mtima",
-          "ndiyedi, Woona adzakhalabe",
+          "Mlunguyo Wokoma mtima ndiyedi, Woona adzakhalabe",
           "Kunthaŵi zonsetu"
         ]
       }
@@ -13709,18 +14189,14 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "314 MULI NDI LUDZU",
           "MULI ndi ludzu,",
-          "idzani Kumadzi amoyo; Imwani monse",
-          "kolere Kuchitsime konko."
+          "idzani Kumadzi amoyo; Imwani monse kolere Kuchitsime konko."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Munka kangati",
-          "kulaŵa Madzi onyengera? Musataye mphamvu",
-          "yanu, Musataye chuma."
+          "Munka kangati kulaŵa Madzi onyengera? Musataye mphamvu yanu, Musataye chuma."
         ]
       },
       {
@@ -13728,8 +14204,7 @@ export const chewaHymns = [
         "lines": [
           "lmvani, Yesu akuti:",
           "Chuma ndili nacho",
-          "Landirani, yemwe",
-          "amva Akhale ndi moyo"
+          "Landirani, yemwe amva Akhale ndi moyo"
         ]
       },
       {
@@ -13760,11 +14235,9 @@ export const chewaHymns = [
       {
         "stanzer": 7,
         "lines": [
-          "Anthu onse a",
-          "padziko",
+          "Anthu onse a padziko",
           "Adzamvera Mlungu;",
-          "Adzakhala ndi",
-          "chimwemwe,",
+          "Adzakhala ndi chimwemwe,",
           "Nadzamtama ndihu."
         ]
       }
@@ -13779,11 +14252,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "315  TIYAMIKE MLUNGUYO",
           "TIYAMIKE Mlunguyo,",
           "Tiyamike Mlunguyo,",
-          "Watidzera ndi mtendere",
-          "(Ndi mtendere)."
+          "Watidzera ndi mtendere (Ndi mtendere)."
         ]
       },
       {
@@ -13792,8 +14263,7 @@ export const chewaHymns = [
           "Anatuma, Mtetezi,",
           "Anatuma Mtetezi,",
           "Ndiye Mfumu Yesu",
-          "Khristu",
-          "(Yesu Khristu)."
+          "Khristu (Yesu Khristu)."
         ]
       },
       {
@@ -13801,8 +14271,7 @@ export const chewaHymns = [
         "lines": [
           "Tinafunafunatu,",
           "Tinafunafunatu,",
-          "Osapeza Mpulumutsi",
-          "(Mpulumutsi)."
+          "Osapeza Mpulumutsi (Mpulumutsi)."
         ]
       },
       {
@@ -13810,9 +14279,7 @@ export const chewaHymns = [
         "lines": [
           "Tinafuna m’phirimo,",
           "Tinafuna m’phirimo,",
-          "Koma osampeza",
-          "mommo",
-          "(Osampeza)."
+          "Koma osampeza mommo (Osampeza)."
         ]
       },
       {
@@ -13820,9 +14287,7 @@ export const chewaHymns = [
         "lines": [
           "Tinafuna m’nyanjamo,",
           "Tinafuna m’nyanjamo,",
-          "Koma osampeza",
-          "mommo",
-          "(Osampeza)."
+          "Koma osampeza mommo (Osampeza)."
         ]
       },
       {
@@ -13830,8 +14295,7 @@ export const chewaHymns = [
         "lines": [
           "Yesu ndiye Mtetezi,",
           "Yesu ndiye Mtetezi,",
-          "Wina saoneka ayi",
-          "(Saoneka)"
+          "Wina saoneka ayi (Saoneka)"
         ]
       },
       {
@@ -13839,8 +14303,7 @@ export const chewaHymns = [
         "lines": [
           "Dzina lake Yesuyo,",
           "Dzina lake Yesuyo,",
-          "Lidzakhala nthaŵi Zonse",
-          "(Nthawi zonse)"
+          "Lidzakhala nthaŵi Zonse (Nthawi zonse)"
         ]
       },
       {
@@ -13848,8 +14311,7 @@ export const chewaHymns = [
         "lines": [
           "Tonse timyamiketu",
           "Tonse timyamiketu,",
-          "Mpulumutsi wamuyaya",
-          "(Wamuyaya)."
+          "Mpulumutsi wamuyaya (Wamuyaya)."
         ]
       }
     ]
@@ -13863,9 +14325,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "316 AITANA, AITANA",
-          "AITANA, aitana",
-          "dziko lonse,",
+          "AITANA, aitana dziko lonse,",
           "Imvani. mukhaliranji chete?",
           "Aitana, Aitana, aitana dziko lonse."
         ]
@@ -13873,49 +14333,37 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mfumu iyi, Mfumu",
-          "iyi ya Kumwamba",
+          "Mfumu iyi, Mfumu iyi ya Kumwamba",
           "Ndi Yesu, ndi",
-          "Mpulumutsiyo wa",
-          "anthu onse, Anthu onse, anthu",
-          "onse, tinke kwawo."
+          "Mpulumutsiyo wa anthu onse, Anthu onse, anthu onse, tinke kwawo."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Aitana, aitana inu",
-          "mayi, Ndi Yesu, amene",
-          "anakhetsa mwazi",
-          "wake, Mwazi wake unagwera inu mayi"
+          "Aitana, aitana inu mayi, Ndi Yesu, amene anakhetsa mwazi wake, Mwazi wake unagwera inu mayi"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Aitana, altana inu",
-          "tate, Ndi Yesu, amene anakhetsa mwazi",
-          "wake Mwazi wake unagwera inu tate."
+          "Aitana, altana inu tate, Ndi Yesu, amene anakhetsa mwazi wake Mwazi wake unagwera inu tate."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Yesu ati, Yesu ati:",
-          "\"Muzisiye Zoipa zimene muzichita, muzisiye,",
-          "Muzisiye, muzisiye",
-          "inu nonse."
+          "Muzisiye Zoipa zimene muzichita, muzisiye,",
+          "Muzisiye, muzisiye inu nonse."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Titi bwanji? Titi",
-          "bwanji ife anthu?",
-          "Ndi Yesu anatifera",
-          "ife akuchimwa,",
-          "Akuchimwa, akuchimwa tinke",
-          "kwawo."
+          "Titi bwanji? Titi bwanji ife anthu?",
+          "Ndi Yesu anatifera ife akuchimwa,",
+          "Akuchimwa, akuchimwa tinke kwawo."
         ]
       }
     ]
@@ -13929,10 +14377,9 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "317 TATE 'NU",
-          "TATE 'NU. \"Tate ‘Nu, mtione ‘fe",
-          "Tadza kupemphera",
-          "kwa inu."
+          "TATE 'NU",
+          "Tate ‘Nu, mtione ‘fe",
+          "Tadza kupemphera kwa inu."
         ]
       },
       {
@@ -13976,8 +14423,7 @@ export const chewaHymns = [
         "stanzer": 8,
         "lines": [
           "Mŵatume,",
-          "Mŵatume",
-          "antehitowo",
+          "Mŵatume antehitowo",
           "Alalike Uthenga wanu."
         ]
       },
@@ -13993,12 +14439,11 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 318,
-    "title": "PEREKANI MTIMA",
+    "title": "PEREKANI MTIMA WANU",
     "creator": "Unknown",
     "chorus": [
       "Perekani, perekani",
-      "Mtima wanu",
-      "nonsenu;",
+      "Mtima wanu nonsenu;",
       "Yesu akulindirani,",
       "Perekani mtimawo."
     ],
@@ -14006,10 +14451,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "318 PEREKANI MTIMA",
-          "PEREKANI mtima",
-          "wanu, Yesu aitana",
-          "nonsenu; Osauka, amasiye,",
+          "PEREKANI mtima wanu, Yesu aitana nonsenu; Osauka, amasiye,",
           "Yesu anakuferani",
           "‘nu."
         ]
@@ -14017,31 +14459,24 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Tsegulani mtima",
-          "wanu Nonse, Yesu akaloŵemo,",
-          "Akuchimwa, Iye",
-          "adzaloŵa nazo zakukomatu."
+          "Tsegulani mtima wanu Nonse, Yesu akaloŵemo,",
+          "Akuchimwa, Iye adzaloŵa nazo zakukomatu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mtembenuke mtima",
-          "wanu, lnu osamvera Mlunguyo;",
+          "Mtembenuke mtima wanu, lnu osamvera Mlunguyo;",
           "Yesu aitana ife",
-          "Tikamtsate m'njira",
-          "yakeyo."
+          "Tikamtsate m'njira yakeyo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Perekani mtima",
-          "wanu Kwa Mbyathu",
+          "Perekani mtima wanu Kwa Mbyathu",
           "Mpulumutsiyo,",
-          "Ndiye wakudziŵa",
-          "kuchiritsa anthu",
-          "akuchimwatu."
+          "Ndiye wakudziŵa kuchiritsa anthu akuchimwatu."
         ]
       }
     ]
@@ -14050,12 +14485,7 @@ export const chewaHymns = [
     "hymnNo": 319,
     "title": "Yesu Bwenzi la ochimwa",
     "creator": "Unknown",
-    "chorus": [
-      "Aleluya Mpulumutsi!",
-      "Aleluya Bwenzilo!",
-      "Amakonda, amasunga:",
-      "Ndimufuna Yesuyo."
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
@@ -14063,7 +14493,11 @@ export const chewaHymns = [
           "Yesu, Bwenzi la ochimwa,",
           "Yesu wondikondabe,",
           "Ena samandikwanira,",
-          "Yesu salephera ‘yi."
+          "Yesu salephera ‘yi.",
+          "Aleluya Mpulumutsi!",
+          "Aleluya Bwenzilo!",
+          "Amakonda, amasunga:",
+          "Ndimufuna Yesuyo."
         ]
       },
       {
@@ -14100,28 +14534,22 @@ export const chewaHymns = [
     "title": "WALIRA YESU",
     "creator": "Unknown",
     "chorus": [
-      "Tiŵaliretu, tiŵaliretu Ambuye Yesu",
-      "wotikonda ‘fe, Mlemekeze ‘Ye",
-      "tsiku lonseli, Inde tiŵalire Yesu."
+      "Tiŵaliretu, tiŵaliretu Ambuye Yesu wotikonda ‘fe, Mlemekeze ‘Ye tsiku lonseli, Inde tiŵalire Yesu."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "320 WALIRA YESU",
-          "ŵALIRA Yesu",
-          "m'dziko linoli,",
-          "ŵalira Yesu",
-          "M’ntchito zakozi,",
-          "ŵalira Yesu pofanana ndi",
-          "Ambuyathu Yesu Khristu."
+          "Walira Yesu m'dziko linoli",
+          "Walira Yesu m'ntchito zakozi,",
+          "Walira Yesu pofanana ndi",
+          "Ambuyathu Yesu Kristu."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "ŵalira Yesu pazovutazo, ŵalira Yesu",
-          "pakukondwanso,",
+          "ŵalira Yesu pazovutazo, ŵalira Yesu pakukondwanso,",
           "ŵalira Yesu, imbirani nu Ambuyathu Yesu",
           "Khristu."
         ]
@@ -14130,8 +14558,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "ŵalira Yesu wolimbitsayo,",
-          "ŵalira Yesu m’moyo monsemo",
-          "ŵalira Yesu;  tidzaonatu",
+          "ŵalira Yesu m’moyo monsemo ŵalira Yesu; tidzaonatu",
           "Ambuyathu Yesu",
           "Khristu."
         ]
@@ -14140,17 +14567,15 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 321,
-    "title": "ZAMBIRI ZAGONA",
+    "title": "ZAMBIRI ZAGONA M'kholamo",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "321 ZAMBIRI ZAGONA",
-          "ZAMBIRI zagona",
-          "m'kholamo, Zosungika bwino",
-          "‘mo,Koma imodzi inasokeradi,",
+          "ZAMBIRI zagona m'kholamo, Zosungika bwino",
+          "‘mo, Koma imodzi inasokeradi,",
           "Nitayika m'thengomo",
           "Kutali kuphiri loopsalo,",
           "Kutali ndi mbusa wakeyo."
@@ -14159,8 +14584,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ambuye, muli nazo",
-          "zambirizi,Kodi sizifikirazi?",
+          "Ambuye, muli nazo zambirizi, Kodi sizifikirazi?",
           "Koma Mbusa nanena,\"Yangayo",
           "Yatayika naneyo Ngakhale njira njoopsadi",
           "Ndilinga kuphiri kuipezanso."
@@ -14170,37 +14594,27 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Koma zina",
-          "SiZinadziŵa ayi,",
+          "Si Zinadziŵa ayi,",
           "Makwawa napyola",
           "Ye, Ndi mdima woopsa wa usikuwo",
-          "Ambuye nailonda",
-          "yake.Anamva kulira",
-          "kutaliko. Naipeza yofoka,",
+          "Ambuye nailonda yake. Anamva kulira kutaliko. Naipeza yofoka,",
           "yakulayo."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ambuye wakuti ndi",
-          "mwaziwo Panjira ponsepo?",
-          "\"Ndaukhetsa potsata",
-          "iwetu, Kukubweza ku",
-          "kholalo.\" Ndi m’manja",
-          "mwalaswa bwanjimo",
-          "\"Ndalaswa ndi minga pofuna iwe."
+          "Ambuye wakuti ndi mwaziwo Panjira ponsepo?",
+          "Ndaukhetsa potsata iwetu, Kukubweza ku kholalo. Ndi m’manja mwalaswa bwanjimo",
+          "Ndalaswa ndi minga pofuna iwe."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Ndi ponse paphiri",
-          "ndi padambopo",
+          "Ndi ponse paphiri ndi padambopo",
           "Ndi makwaŵa,",
-          "indetu,Kunakwera",
-          "kufuula Kumwambako, \"Kondwani, ndaipeza",
-          "yanga!\" Nd' angelo a Mlungu",
-          "nabwezanso, \"Kondwani, Ambuye napeza yawo."
+          "indetu, Kunakwera kufuula Kumwambako, Kondwani, ndaipeza yanga! Nd' angelo a Mlungu nabwezanso, Kondwani, Ambuye napeza yawo."
         ]
       }
     ]
@@ -14214,10 +14628,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "322 MUTHIRE, YESU, M’MTIMANGA",
           "MUTHIRE, Yesu, m’mtimanga",
-          "Kukonda kwanuko, Mwa Mlungu",
-          "ndidzalimbika,",
+          "Kukonda kwanuko, Mwa Mlungu ndidzalimbika,",
           "Ndisasokerenso,",
           "Ndisasokerenso."
         ]
@@ -14227,8 +14639,7 @@ export const chewaHymns = [
         "lines": [
           "E, moto wanu woyera",
           "Uyake mwa ine,",
-          "Utenthe zonse zoti",
-          "bii,Undiyeretsedi,",
+          "Utenthe zonse zoti bii, Undiyeretsedi,",
           "Undiyeretsedl."
         ]
       },
@@ -14249,8 +14660,7 @@ export const chewaHymns = [
         "lines": [
           "Ndikhazikike inetu",
           "Mumtima muli mwai,",
-          "Ndi Yesu",
-          "ndikondanetu,",
+          "Ndi Yesu ndikondanetu,",
           "Si kanthu kena ‘yi,",
           "Si kanthu kena ‘yi,."
         ]
@@ -14266,9 +14676,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "323 ATATE Wamkulu",
-          "ATATE Wamkulu ndi",
-          "wamphamvu zonse,",
+          "ATATE Wamkulu ndi wamphamvu zonse,",
           "Atate Wamkulu ndi wamphamvu zonse,",
           "Khalani ndi chifundo ndi ife lero."
         ]
@@ -14276,22 +14684,17 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "ifetu kuchimwa",
-          "timachimwa, Mbuye,",
+          "ifetu kuchimwa timachimwa, Mbuye,",
           "Ifetu kuchimwa timachimwa, Mbuye",
-          "Mutume Mzimu wanu",
-          "atiphunzitse."
+          "Mutume Mzimu wanu atiphunzitse."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mwa Mzimu muloŵe",
-          "mumitima yathu",
-          "Mwa Mzimu muloŵe",
-          "mumitima yathu",
-          "Zoipa zathu zonse",
-          "mtiululire."
+          "Mwa Mzimu muloŵe mumitima yathu",
+          "Mwa Mzimu muloŵe mumitima yathu",
+          "Zoipa zathu zonse mtiululire."
         ]
       },
       {
@@ -14305,20 +14708,16 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Tifuna kuchita",
-          "chifuniro chanu, Tifuna kuchita",
-          "chifuniro chanu, Chifuno cha",
+          "Tifuna kuchita chifuniro chanu, Tifuna kuchita chifuniro chanu, Chifuno cha",
           "Mulungu nchabwino chokha"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Atate, mupatse",
-          "zomwe tapemphazi,",
           "Atate, mupatse zomwe tapemphazi,",
-          "Tapempha m'Dzina",
-          "lake la Mpulumutsi."
+          "Atate, mupatse zomwe tapemphazi,",
+          "Tapempha m'Dzina lake la Mpulumutsi."
         ]
       }
     ]
@@ -14334,27 +14733,22 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "324 ONA MWANA WA NKHOSA",
           "ONA Mwana wa nkhosa",
-          "Watisenzera zakuipa",
-          "zathu zonse."
+          "Watisenzera zakuipa zathu zonse."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Anasenza m’thupi",
-          "mwake",
-          "Pakukhomedwa",
-          "pamtanda anali duu."
+          "Anasenza m’thupi mwake",
+          "Pakukhomedwa pamtanda anali duu."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Ona pamtanda",
-          "Yesuyo Anavutika",
-          "chifukwa cha anthu",
+          "Yesuyo Anavutika chifukwa cha anthu",
           "‘fe."
         ]
       },
@@ -14362,8 +14756,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Imva kulira kwa",
-          "Yesu pamene anasiyidwa",
-          "muimfayo."
+          "Yesu pamene anasiyidwa muimfayo."
         ]
       },
       {
@@ -14391,7 +14784,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "325 YESU ANALI KHANDA",
           "YESU anali khanda",
           "M’Betlehemumo;",
           "Mngelo anasimba za",
@@ -14442,7 +14834,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "326 ATATE, TIFIKA PAMASO PANU",
           "ATATE, tifika pamaso panu;",
           "mukomane ndi ife,",
           "Mbuye wathu."
@@ -14451,16 +14842,14 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Mitima yathu iyi",
-          "nayo njanu, Muiyeretse,",
+          "Mitima yathu iyi nayo njanu, Muiyeretse,",
           "muikonze Mbuye."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Ndi maso athu aŵa",
-          "nawo nganu,",
+          "Ndi maso athu aŵa nawo nganu,",
           "Muŵapenyetse",
           "Zinthu zanu zokha."
         ]
@@ -14468,26 +14857,21 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Ndi manja athu aŵa",
-          "nawo nganu,",
-          "Agwiretu ntchito",
-          "yanu yokhayo."
+          "Ndi manja athu aŵa nawo nganu,",
+          "Agwiretu ntchito yanu yokhayo."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Ndi miyendo yathu",
-          "iyinso njanu,",
-          "Ithamange m’ntchito",
-          "yanu yokhayo."
+          "Ndi miyendo yathu iyinso njanu,",
+          "Ithamange m’ntchito yanu yokhayo."
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Ndi milomo yathu",
-          "iyinso njanu, Ilalike Mawu anu kwa onse."
+          "Ndi milomo yathu iyinso njanu, Ilalike Mawu anu kwa onse."
         ]
       },
       {
@@ -14514,16 +14898,14 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "327 ATATE, ndipempha T'sopano",
-          "ATATE, ndipempha T'sopano",
-          "mundimvere, Ndipempha kuti mundithandize."
+          "ATATE, ndipempha T'sopano mundimvere, Ndipempha kuti mundithandize."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
           "Ine ndili munthu",
-          "Wochimwa pansi pano,Munditsuke Mbuye, ndiyeretu."
+          "Wochimwa pansi pano, Munditsuke Mbuye, ndiyeretu."
         ]
       },
       {
@@ -14531,8 +14913,7 @@ export const chewaHymns = [
         "lines": [
           "Ndalema ndathodwa",
           "Ndi zinthu zapadziko,",
-          "Zakhalatu goli",
-          "londimanga."
+          "Zakhalatu goli londimanga."
         ]
       },
       {
@@ -14548,8 +14929,7 @@ export const chewaHymns = [
         "lines": [
           "Ndipempha,",
           "Ambuye, Mundidzaze n'chikondi,",
-          "Mtima wangawu",
-          "ukukondeni."
+          "Mtima wangawu ukukondeni."
         ]
       }
     ]
@@ -14563,19 +14943,14 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "328 DZIKO LONSE",
-          "DZIKO lonse",
-          "mlambire Yesu Mbuye",
-          "wathuyo",
-          "Muimbire ndi",
-          "chimwemwe Dzinalo."
+          "DZIKO lonse mlambire Yesu Mbuye wathuyo",
+          "Muimbire ndi chimwemwe Dzinalo."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Mbwere nonse",
-          "muone Zomwe achita Yesu:",
+          "Mbwere nonse muone Zomwe achita Yesu:",
           "Nzozizwitsa,",
           "nzodabwitsa",
           "Ntchitozo."
@@ -14585,8 +14960,7 @@ export const chewaHymns = [
         "stanzer": 3,
         "lines": [
           "Aŵeruza ndi mphamvu",
-          "Ku nthaŵi",
-          "yamuyaya;",
+          "Ku nthaŵi yamuyaya;",
           "Diso lake lisamala",
           "Am'dziko."
         ]
@@ -14594,8 +14968,7 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Mbwere mudzamve",
-          "nonse Zamphamvu za",
+          "Mbwere mudzamve nonse Zamphamvu za",
           "Yehova:",
           "Mumwimbire,",
           "mumyamike",
@@ -14627,7 +15000,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "329 MLUNGU AKUYANG’ANIREDI",
           "MLUNGU akuyang’aniredi",
           "Kufikira tionana;",
           "Adzasunga nkhosa",
@@ -14649,7 +15021,7 @@ export const chewaHymns = [
     "title": "POTULUKA M’MUDZIMO",
     "creator": "Unknown",
     "chorus": [
-      "Atate ‘nu, amayi nu, nonSenu, Onani Yesu wasenza mtanda",
+      "Atate ‘nu, amayi nu, non Senu, Onani Yesu wasenza mtanda",
       "Atate nu, amayi ‘nu, nonsenu,",
       "Onani Yesu wasenza mtanda."
     ],
@@ -14657,10 +15029,8 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "330 POTULUKA M’MUDZIMO",
           "POTULUKA M’mudzimo",
-          "Yesu anasenza",
-          "mtanda Pokwera ku Gologota",
+          "Yesu anasenza mtanda Pokwera ku Gologota",
           "Kukampachikatu",
           "Mbuye, Pilatoyo, mfumu yawo, Inampereka kwa",
           "Yuda Kuti ampachiketu Kufera zoipa zathu,"
@@ -14670,8 +15040,7 @@ export const chewaHymns = [
         "stanzer": 2,
         "lines": [
           "Zoopsa zopambana Zinachitika pamtanda Kuti mdima unadza,",
-          "Dzuŵa linabisikanso. Chinsalucho cha",
-          "m'kachisi Chinang’ambika pakati,Myala inaswekanso,",
+          "Dzuŵa linabisikanso. Chinsalucho cha m'kachisi Chinang’ambika pakati, Myala inaswekanso,",
           "Dziko linagwedezeka."
         ]
       },
@@ -14680,11 +15049,8 @@ export const chewaHymns = [
         "lines": [
           "Pomwalira Mbuyeyo",
           "Anafuula kokweza",
-          "Naitana Atate Kupereka mzimu",
-          "wake:\"Mlungu wanga,",
-          "Mlungu wanga Mwandisiy' ranjitu Ine, Mundikweze",
-          "m'Mwambamo, Landirani mzimu",
-          "wanga."
+          "Naitana Atate Kupereka mzimu wake: Mlungu wanga,",
+          "Mlungu wanga Mwandisiy' ranjitu Ine, Mundikweze m'Mwambamo, Landirani mzimu wanga."
         ]
       },
       {
@@ -14764,9 +15130,7 @@ export const chewaHymns = [
     "title": "PAKUONA imfayo",
     "creator": "Unknown",
     "chorus": [
-      "Ndilira, ndilira, Ndilira Mbuye Yesu",
-      "wangadi. Ndaimba ndi kulira",
-      "ndi kusiSima, Ndaimba ndi kulira ndi kusisima,",
+      "Ndilira, ndilira, Ndilira Mbuye Yesu wangadi. Ndaimba ndi kulira ndi kusi Sima, Ndaimba ndi kulira ndi kusisima,",
       "Ha! Ha! Aleluya! Ha! Ha! Aleluya!",
       "Mwasiyiranji Ambuye Yesu?"
     ],
@@ -14774,7 +15138,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "332 PAKUONA imfayo",
           "PAKUONA imfayo",
           "Chisonicho chikula,",
           "Ndilira misozi."
@@ -14820,9 +15183,6 @@ export const chewaHymns = [
     "title": "Lidze msanga dzuwa lanu",
     "creator": "Unknown",
     "chorus": [
-      "Kuli chimwemwe m’dzuwalo",
-      "Lakufika Ambuye.",
-      "Ha! Ambuye bwerani.",
       "Ha! Ha! Ambuye bwerani"
     ],
     "stanzers": [
@@ -14838,6 +15198,14 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
+          "Kuli chimwemwe m’dzuwalo",
+          "Lakufika Ambuye.",
+          "Ha! Ambuye bwerani."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
           "Adzakhala pampandopo",
           "Wakuweruza makamu;",
           "Amitundu adzaima",
@@ -14845,12 +15213,12 @@ export const chewaHymns = [
         ]
       },
       {
-        "stanzer": 3,
+        "stanzer": 4,
         "lines": [
           "Adzanena kwa anthuwo",
           "Akudzanjatu lamanja,",
-          "Lowani 'nu m'chikondwero",
-          "Cha Atate nthawi zonse."
+          "“Lowani ‘nu m’chikondwero",
+          "Cha Atate nthawi zonse.”"
         ]
       }
     ]
@@ -14864,7 +15232,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "334 AMEN",
           "Amen, amen, amen"
         ]
       }
@@ -14872,7 +15239,7 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 335,
-    "title": "Ndidze pafupi pa",
+    "title": "NDIDZE PAFUPI PA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
@@ -14886,7 +15253,7 @@ export const chewaHymns = [
           "Koma ndiimbabe,",
           "Mbuye mndikhalitse",
           "Mbuye mndikhalitse",
-          "M'fupi Ndinu."
+          "M’fupi Ndinu."
         ]
       },
       {
@@ -14894,12 +15261,12 @@ export const chewaHymns = [
         "lines": [
           "Ngakhale kuthengo",
           "Ndasokera,",
-          "M'mdima ndigonapa",
+          "M’mdima ndigonapa",
           "E, pamwala;",
-          "Koma m'kulotako",
+          "Koma m’kulotako",
           "Ndiyandikizanso,",
           "Ndiyandikizanso",
-          "M'fupi Ndinu."
+          "M’fupi Ndinu."
         ]
       },
       {
@@ -14912,7 +15279,7 @@ export const chewaHymns = [
           "Ndiwo akodola",
           "Kuti ndikabwere,",
           "Kuti ndikabwere",
-          "M'fupi Ndinu."
+          "M’fupi Ndinu."
         ]
       },
       {
@@ -14925,14 +15292,14 @@ export const chewaHymns = [
           "Ndipo masautso",
           "Andisendezanso",
           "Andisendezanso",
-          "M'fupi Ndinu."
+          "M’fupi Ndinu."
         ]
       },
       {
         "stanzer": 5,
         "lines": [
           "Pena pakufadi,",
-          "N'kwera m'mwamba,",
+          "N’kwera m’Mwamba,",
           "Dzuwa ndi nyenyezi",
           "Zitsalira;",
           "Pomwe ndiimbanso,",
@@ -14944,81 +15311,85 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 337,
-    "title": "KASUPE ALI",
+    "hymnNo": 336,
+    "title": "MUNASIYATU DZIKO",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Mtima wanga udzakondwera,",
+      "M'mene mundilandiranso.",
+      "Mtima wanga udzakondwera",
+      "Mmene mundilandiranso."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "337 KASUPE ALI",
-          "KASUPE ali wodzaza",
-          "Ndi mwazi wa Yesu: Omwe asamba mwa uyu Ataya zoipa, Ataya zpa,",
-          "Atata zoipa; Omwe asamba",
-          "mwa uyu Ataya zoipa"
+          "munasiyatu dziko lanulo,",
+          "e, chifukwa cha ine;",
+          "Ndi ku Betlehemuko",
+          "Pakubadwa Inu,",
+          "Nyumba zawo nakukanani."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Woba wakufa napenya",
-          "Kasupe, nakondwa;",
-          "Ndimo inenso mwa",
-          "uyu Ndisamba ndiyera",
-          "Ndisamba ndiyera,",
-          "Ndisamba ndiyera;",
-          "Ndimo inenso mwa uyu Ndisamba ndiyera."
+          "Akumwambawo",
+          "Naimbitsatu",
+          "Kukulemekezani;",
+          "Koma monga mwana",
+          "Mdziko munabadwa,",
+          "Munadzichepetsadi."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mwazi wa Yesu",
-          "wokondwa Ukhala wamphamvu",
-          "Kwa ana onse a",
-          "Mlungu,",
-          "Uchita kwombola. Uchita kuombola,",
-          "Uchita kwombola, Kwa ana onse a",
-          "Mlungu Uchita kwombola"
+          "Nyama za m'thengo",
+          "Ndi mbalamezo",
+          "Zili nazo Zogonamo,",
+          "Koma Mwana wa",
+          "Mlungu",
+          "Analibe nyumba,",
+          "m'mapulu nagonatu"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "M’mene ndapenya mwazi Wa",
-          "Mabala anuwo, Kukonda kwanu nditama",
-          "Kwa kutha kwa moyo. Kwa kutha kwa moyo,",
-          "Kwa kutha kwa moyo;",
-          "Kukonda kwanu nditama",
-          "Kwa kutha kwa moyo."
+          "Munadzera ndi",
+          "Mawu a moyo",
+          "Akupulumutsa anthu:",
+          "Anakaniza Anasautsa",
+          "Anapachika Inu"
         ]
       },
       {
         "stanzer": 5,
         "lines": [
-          "Kumwamba ndikaimbanso Zimphamvu za",
-          "Mlungu, Zopulumutsa onsewa",
-          "Omvana ndi Yesu.",
-          "Omvana ndi Yesu,",
-          "Omvana ndi Yesu; Zopulumutsa onsewa Omvana ndi Yesu."
+          "MMmene mubwera",
+          "Kutiweruza",
+          "Ndi angelo oimbira,",
+          "Mundiitane,",
+          "Muti, Idza 'we,",
+          "Khala nane",
+          "Kumwamba."
         ]
       }
     ]
   },
   {
     "hymnNo": 337,
-    "title": ". Kasupe Ali Wodzadza",
+    "title": "KUSUPE ALI WODZAZA",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "337. Kasupe Ali Wodzadza\"There Is A Fountain\"",
           "Kasupe ali wodzaza, ndi mwazi wa Yesu;",
           "Omwe asamba mwa uyu",
-          "Ataya zoipa ,Ataya zipa,",
+          "Ataya zoipa , Ataya zipa,",
           "Ataya zoipa; omwe asamba mwa uyu ataya zoipa."
         ]
       },
@@ -15058,8 +15429,47 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 338,
+    "title": "Ndilikudzatu,",
+    "creator": "Unknown",
+    "chorus": [
+      "Ndilikudzatu,",
+      "Ndidza kwa Inu;",
+      "Munditsuke m’mtimamo",
+      "Ndi mwazi Wanuwo"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "YESU and'itana, Adzandiyeretsa",
+          "Ndi mwazi wake wokhetsa Pa phiri Gologota."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndafoka, ndaipa, Mundilimbitsetu; Mundiyeretse konseko, Ndiyereyere mbuu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Atero ndaniyo? Ndi Yesu wabwino;",
+          "Apatsa mvanu, mtendere, Ndi mphamvu m’mtimamo"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yesu akhazika Zonse za m'katimo, Nalonga Mzimu"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 339,
-    "title": "Ndi misozi ndi chisoni",
+    "title": "NDI MISOZI NDI CHISONI",
     "creator": "Unknown",
     "chorus": [
       "E! kwa Inu, E! kwa Inu!",
@@ -15069,7 +15479,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Ndi misozi ndi chisoni",
+          "NDI MISOZI NDI CHISONI",
           "Ndiliratu kwa Inu Yesu",
           "Ndi chifundo chandigwira",
           "Ndilira kuti ndili wanu."
@@ -15116,7 +15526,7 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Malo alimo m'nyumba ya Yesu,",
+          "MALO ALIMO M’NYUMBA ya Yesu,",
           "Ndi nyimbo zake zikuitana:"
         ]
       },
@@ -15144,22 +15554,22 @@ export const chewaHymns = [
       {
         "stanzer": 5,
         "lines": [
-          "Onse am'mwamba ali momwemo,",
+          "Onse am’Mwamba ali momwemo,",
           "Ndimo angelo akuitana:"
         ]
       },
       {
         "stanzer": 6,
         "lines": [
-          "Mawu a Yesu ati: Msangatu",
-          "Idza, wochedwa, lowa m'nyumbamo."
+          "Mawu a Yesu ati: “Msangatu",
+          "Idza, wochedwa, lowa m’nyumbamo."
         ]
       },
       {
         "stanzer": 7,
         "lines": [
           "Msanga adzachitseka chiseko,",
-          "Adzakuuza: Choka, chokatu."
+          "Adzakuuza: “Choka, chokatu."
         ]
       }
     ]
@@ -15173,11 +15583,11 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "Pamtandapo, pamtanda",
-          "Yesu 'nafera;",
+          "PAMTANDAPO, PAMTANDA",
+          "Yesu ‘nafera;",
           "Pamutupo chilemba",
           "Chisoni ine.",
-          "Analira, Eloi, Mlungu wanga!",
+          "Analira, “Eloi, Mlungu wanga!",
           "Lama sabakatani,",
           "Mwandisiyiranji?"
         ]
@@ -15189,7 +15599,7 @@ export const chewaHymns = [
           "Yesu nauka;",
           "Anaposa imfayo,",
           "Watha zonsezi.",
-          "Ndikondwera, Mbuyanga 'naukadi",
+          "Ndikondwera, Mbuyanga ‘naukadi",
           "Sekerani nonsenu",
           "Yesu ngwamoyo."
         ]
@@ -15197,11 +15607,11 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Pakukwera kumwamba",
+          "Pakukwera Kumwamba",
           "Yesu anati,",
-          "Musachoke m'mudzimu,",
+          "Musachoke m’mudzimu,",
           "Pempheranitu;",
-          "Mzimu wakuyeradi adzabwera,",
+          "Mzimu Wakuyeradi adzabwera,",
           "Kuthangata nonsenu,",
           "Kuti msafoke."
         ]
@@ -15214,8 +15624,54 @@ export const chewaHymns = [
           "Ndi amitundu yonse",
           "Adzakondwera.",
           "Musaope ntchitoyo yokomadi,",
-          "Mphotho yake kumwamba,",
+          "Mphotho yake Kumwamba,",
           "Moyo wosatha."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 342,
+    "title": "M'DZIKO LINO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MDZIKO lino tikhalamo Utivuta moyo, Koma dziko la mtendere Lili kwa Mulungu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Watitsogolera",
+          "Mbuye Komwe kwa Atate",
+          "Ndimo tidzatsata naye Moyo wathu wonse"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndi tsopano tilindira",
+          "M’dziko lathu lino;",
+          "Ntchito atipatsa",
+          "Mlungu, Tizigwira bwino."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ngati zakuipa zathu",
+          "Zikatisautsa, Tithawire kwa",
+          "Mbuyathu, Atipulumutsa"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Timpemphere kutipatsa",
+          "Mtima watsopano, Kutithandizira kunka Paulendo uno."
         ]
       }
     ]
@@ -15226,15 +15682,15 @@ export const chewaHymns = [
     "creator": "Unknown",
     "chorus": [
       "Bwinoli tipita,",
-      "Tikomana mwa dziko lija.",
+      "Tikomana mwa Dziko lija.",
       "Bwinoli tipita,",
-      "Tikomana mwa dziko lija."
+      "Tikomana mwa Dziko lija."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Kuli dziko labwino m'mwamba",
+          "Kuli dziko labwino m’Mwamba",
           "Lakuwala koposa dzuwa;",
           "Yesu atikonzera malo",
           "Pokhalira ife komweko."
@@ -15246,16 +15702,122 @@ export const chewaHymns = [
           "Tidzaimba komweko nyimbo",
           "Za abwino omvera Yesu,",
           "Sitidzamva chisoni ife,",
-          "Tidzakondwa masiku onse."
+          "Tidzakondwa masiku onse"
         ]
       },
       {
         "stanzer": 3,
         "lines": [
           "Tidzatama Atate wathu",
-          "Kuti Iye 'napatsa Yesu",
+          "Kuti Iye ‘napatsa Yesu",
           "Kuchotsera zochimwa zonse,",
           "Ndi kutidalitsira ife."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 344,
+    "title": "APITA ANZATHU",
+    "creator": "Unknown",
+    "chorus": [
+      "A! Kumuamba",
+      "A! Kuli a Yesu"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "APITA anzathu duwa lino Kosaoneka,",
+          "Apita anzathu dzuwa lino, Apita anzathu dzuwa lino Kosaoneka."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 345,
+    "title": "INE NDILI NDI MANYAZI",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "INE ndili ndi manyazi Kuti kale lomwelo",
+          "Ndinanyoza kudza komwe Kwa Mtetezi wanga",
+          "Yesu, Ndati, Sindimfuna ‘yi"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Koma lye wandipeza; Ndamuona",
+          "M’mtandamo, Mwa kufera ine momwe",
+          "Ndipo ndati m’mtima mwanga Mbuye, ndikufunani."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nsiku zonse kwanja",
+          "Kwake Kunandithandizatu,",
+          "Kunandichiritsa mtima;",
+          "Ndipo ndati: Mpulumutsi,",
+          "Ndinu Mbuye wangatu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Sindifuna Mbuye wina, Koma Yesu yekhayo",
+          "Ine ndili munthu wake, Iye anandigonjetsa",
+          "Ndi kukonda kwakeko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 346,
+    "title": "KONDWANI NONSENU",
+    "creator": "Unknown",
+    "chorus": [
+      "Mlemekeze,bukitsani, Naferatu kale: Kondwerani, mlemekeze,",
+      "Akhaladi moyo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "KONDWANI nonsenu, Mpulumutsi anadza;",
+          "Onani kukhola, Ndi mtanda ndi manda."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kondwani nonsenu",
+          "Anakhetsatu mwazi natiwombola nawo, Tikhale ana 'ke"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kondwani nonsenu, Atikhululukira,",
+          "Wosachimwa nafera Anthu ‘fe oipa."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Kondwani nonsenu, Mfumu yathu yakwera; Kwa Atate Kumwamba Atipempherera."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Kondwani nonsenu,",
+          "Adzabweranso Yesu,",
+          "Waulemu, wamphamvu, Kuweruza dziko."
         ]
       }
     ]
@@ -15267,14 +15829,14 @@ export const chewaHymns = [
     "chorus": [
       "Machimo anga ngambiri",
       "Osawerengeka,",
-      "Ndingoyang'ana kwa Inu;",
+      "Ndingoyang’ana kwa Inu;",
       "Khululukireni."
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Tate, ndili mwana wanu",
+          "TATE, NDILI MWANA WANU",
           "Nkana ndinachimwa,",
           "Ndingolirira kwa Inu;",
           "Khululukireni."
@@ -15285,7 +15847,7 @@ export const chewaHymns = [
         "lines": [
           "Ndinachimwa poganiza",
           "Ndi polankhulanso,",
-          "M'ntchito zanga ndachimwanso;",
+          "M’ntchito zanga ndachimwanso;",
           "Khululukireni."
         ]
       },
@@ -15294,7 +15856,7 @@ export const chewaHymns = [
         "lines": [
           "Ndinachita mpulupulu,",
           "Ndinakunyozani,",
-          "M'ntchito zanga ndalephera",
+          "M’ntchito zanga ndalephera",
           "Khululukireni."
         ]
       },
@@ -15305,6 +15867,240 @@ export const chewaHymns = [
           "Ndi zopanda pake,",
           "Sindinakhuta nazotu;",
           "Khululukireni."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 348,
+    "title": "MEMA NKHONDOYO",
+    "creator": "Unknown",
+    "chorus": [
+      "Hava, anzathu,",
+      "itilinda nkhondo Limbanitu,",
+      "nkhondo nja Yesu, Musafoke, m’thyole linga lawo",
+      "Mbuye ndiye Wopambanayo."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MEMA nkhondoyo,",
+          "wadza mdaniyo,",
+          "Kweza mbendera ya",
+          "Mbuye. Vala zidazo, imba nyimboyo, Khazikikatu pa Mulungu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mlungu mverani,",
+          "mphamvu patseni,",
+          "Tithandizeni,",
+          "tipempha. Nkhondo itatha,",
+          "titanambana, Tidzalandiratu korona."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mlake mdaniyo,",
+          "mwimbe m'njiramo",
+          "Mpaka nkhondoyo ileka. Zida konzani, mantha tayani,",
+          "Pitikitsani adaniwo"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 349,
+    "title": "M'MANDA",
+    "creator": "Unknown",
+    "chorus": [
+      "M'manda naukamo Napambana’dani akewo; Anauka kupambana imfayo Ali moyo ndi Oyeramtima. Wauka, wauka!",
+      "Aleluya, wauka!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "M'MANDA, nagonamo Yesu Ambuye, Anadikiratu Tsiku lija."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "M’manda munalibe",
+          "Yesu Ambuye,",
+          "Nadikira chabe",
+          "Alondawo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Imfa yalephera",
+          "Kumutsekera,",
+          "Anachotsa zonse",
+          "Zomzingazo."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 350,
+    "title": "YENDANI",
+    "creator": "Unknown",
+    "chorus": [
+      "Yendanitu m'ulemudi,",
+      "Pulumutsani anthuwo"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "YENDANI, Mfumu yamtendere",
+          "Anthu akuimbirani;",
+          "Afuuletu Hosana",
+          "Agonjeranso anthuwo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Yendani, Munthu Wachisoni,",
+          "M’mudzi wa Yerusalemu Angelo amapenya",
+          "Nu M’mene mwatera anthuwo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yendanitu,",
+          "Wansembe wathu,",
+          "Mtanda wanu mwanyamula",
+          "Watisandukira dalo,",
+          "Watitengera moyow O"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yendani mwaulemerero,",
+          "Akuindirani mphotho,",
+          "Moyo wanu wosatha;",
+          "Watilonjezera moyo"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 351,
+    "title": "KAMWANA YESU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "KAMWANA Yesu nabadwa, Ndi Iye Mlungu Wamphamvu; Angelo anapembedza",
+          "Mwana wakhanda Lyeyu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kamwana kaja nayamba",
+          "Kuonetsera Atate, Lero anena Kumwamba: Tiana tidze kwa Ine."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tibwera ndi tianato",
+          "Kukabatiza menewa; Muwachitire, chifundo,",
+          "M'wapatse Mzimu Woyera."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mukonda nyimbo za ana, Kokoma amaimbatu; Ndi ana athu atama Atate, Mwana ndi Mzimu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 352,
+    "title": "YESU MBUYE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "YESU Mbuye, onani Tadza poitana lnu; M’dzina lanu tifika Osekera kwa Atate;",
+          "Mkhale nafe Inu nokha Tikaimba nkupemphera."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mbuye, Mzimu",
+          "Woyera",
+          "Munapatsa ana anu",
+          "Kukaloga mumtima",
+          "Mawu ndimo mvanu womwe. Zinthu zonse pansi pano Sizikondweretsa ife"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mzimu, mlonge m’mtimamo",
+          "Maphunziro achifundo; Timve lero ndi mawa",
+          "Ndi masiku onse Yesu. Ndimo m’Mwamba tidzaona Tidazimva pansi pano."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 353,
+    "title": "PEMPHERO NDIKO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "PEMPHERO ndiko Kufuna, Kulakalakatu,",
+          "Ndi monga moto liyaka Mumtima wa munthu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Pemphero ndiko kuhra, Ngakhale misozi, kupenyetsetsa",
+          "Kumwamba, mulungu mpafupi."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Pemphero ndiko kufuna Kwa mwana wamng’ono; Ndiponso mawu amphamvu a munthu wamvanu"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Pemphero ndiwo mweyawo Apuma akhristu Ndi mapemphero tilowa Dziko la imfalo"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mutiphunzitse, Mbuyathu,",
+          "Kupempha kotero, Kuyandikira kwa",
+          "Mlungu Ndi mtima wabwino."
         ]
       }
     ]
@@ -15336,7 +16132,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ndisauka, sindikhoza",
+          "\"Ndisauka, sindikhoza",
           "Kuiletsa nkhondo m’mtima,",
           "Ndi chisoni, mantha, nkhawa;",
           "Mwana Mlungu, ndingubwera."
@@ -15347,7 +16143,7 @@ export const chewaHymns = [
         "lines": [
           "Ndisauka, sindiona;",
           "Ndingudwala, ndilefuka,",
-          "Zonse ndizitaya kwa ’Nu,",
+          "Zonse ndizitaya kwa ‘Nu,",
           "Mwana Mlungu, ndingubwera."
         ]
       },
@@ -15372,12 +16168,121 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 355,
+    "title": "YESU NDIPEMPHERA",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Yesu, ndipemphera",
+          "M’ndithangate Kukonda Inutu,",
+          "E, kwambiri. Koposa zonsezo Za pansi panopo, Ndikondane"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kale ndinafuna Za pansipa, Tsopano ndilira Inu nokha.",
+          "Ndifuna kukonda Inu kopambana Zinthu zonse Za pansipa"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Inu ndidzatama Nthawi zonse, Imfa ikafika",
+          "Ndidzanena: Ndifuna kukonda Inu, Mbuye wanga,",
+          "Kopambana Zonse zanga."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 356,
+    "title": "PANALI",
+    "creator": "Unknown",
+    "chorus": [
+      "Yenda iwe, yenda. Yenda iwe, yenda, Siliva ndilibe;",
+      "Mwa Yesuyo, yenda!"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "PANALI TU wakudwala",
+          "Amene akakhala",
+          "Pakhomo la sunagoge",
+          "Kuti anthu ena Amuone iye."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kukondwa kwa wodwalayo Kunali kopambana lye anatumphatumpha, Kuzungulra Sunagoge yense"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Lero lino Mbuye",
+          "Yesu aitana nonsenu",
+          "Mukamvera ndi kumtsata,",
+          "Mudzakondwera",
+          "Ndi mdalitso wake."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 357,
+    "title": "YESU WATIDZERE",
+    "creator": "Unknown",
+    "chorus": [
+      "Aleluya, Aleluya!",
+      "Aleluya, Aleluya!",
+      "Udzimvere wekha"
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "YESU watidzera, watidzera Way’tana anthu Onse. Udzimvere wekha."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Kudziwa ukudziwa, ukudziwa, Kulibe zachisoni. Udzimvere wekha."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Atumwi atumika,atumika, Akulalika Yesu. Udzimvere wekha."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yesu Mpulumutsi, Mpulumutsi, Wa dziko ili lonse. Udzimvere wekha."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Kumva ulikumva,ulikumva, Ungonyalanyaza. Udzimvere wekha."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 358,
-    "title": "Mudze kwa Yesu",
+    "title": "MUDZE KWA YESU",
     "creator": "Unknown",
     "chorus": [
       "Tidzakondweradi m’Mwambamo",
-      "Posonkhana komwe kuli ’Ye;",
+      "Posonkhana komwe kuli ‘Ye;",
       "Tidzakhala naye komweko",
       "Ku Dziko losafa."
     ],
@@ -15388,7 +16293,7 @@ export const chewaHymns = [
           "Mudze kwa Yesu, musachedwe",
           "Kalata ilozera njira;",
           "Amaitanatu tonsefe,",
-          "Vomerani Iye."
+          "vomerani Iye."
         ]
       },
       {
@@ -15403,10 +16308,87 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Ganizaninso, ali pano,",
-          "Mthenga wake mverani lero,",
-          "Mawu okoma ati lero,",
-          "Musachedwe, mudze."
+          "ganizaninsoni ali pano mthenga wake mverani lero,",
+          "mawu okoma ati lero,",
+          "musachedwe, mudze"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 359,
+    "title": "MWA INE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mwa ine, moyo wanga ndi Yesu (Yesu) Yemwe anafera ine,",
+          "Ndiye anandiwombola;",
+          "Yesu, Yesu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mwazi wake ndi chitsime changa, (Yesu) Pamene ndikasambamo Zochimwa zanga zidzatha;",
+          "Yesu, Yesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Yesu Mfumu, ine ndingadzafe (Yesu) Ngati mundisiye ndekha,",
+          "Kukhala ndekha sinditha; Yesu, Yesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Yesu Mfumu, ine ndisekere (Yesu) Inu Mpulumutsi wanga",
+          "Pamene mukhala nane, Yesu, Yesu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 360,
+    "title": "LEKANI KUVUTIKA",
+    "creator": "Unknown",
+    "chorus": [
+      "Imbira! Timwimbire Yesu, Mpulumutsiwathu:",
+      "Imbira! Timwimbire Yesu, Tonse Tidzakondwera."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Lekani kuvutika ndi zinthu za padziko, Musekerere kuti tidzayimbira Yesu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Musadziunjikire chuma cha padziko Dzimbiri ndi njenjete zimachiononga"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Koma mudzisungire chuma cha kumwamba Kumene anapita Mtsogoleri wanu"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Aliponso adani am’kati ndi akunja; Yesu watisekera, tidzakuimbirani."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Aliponso mavuto, ena ndi oipa Yesu mutimasule kwa adani athu."
         ]
       }
     ]
@@ -15428,7 +16410,7 @@ export const chewaHymns = [
           "NDINE MBUSAYO WABWINO",
           "Ndinafera nkhosazo;",
           "Yotayika ndaifuna,",
-          "Mpaka ndataya moyo."
+          "Mpaka ndataya moyo"
         ]
       },
       {
@@ -15454,7 +16436,7 @@ export const chewaHymns = [
         "lines": [
           "Musaone zobvalazo,",
           "M’kati ali fisiyo;",
-          "Musanyengedwe anthuni,",
+          "Musanyengedwe anthuni",
           "Ine ndine Mbusayo."
         ]
       },
@@ -15494,8 +16476,8 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Nkhope yake ’Kabisika,",
-          "Ndipuma m’chisomo chake;",
+          "Nkhope yake ‘Kabisika,",
+          "Ndipuma mchisomo chake;",
           "M’namondwe ndi m’mphepo zonse,",
           "Nangula wanga ali nji!"
         ]
@@ -15516,6 +16498,66 @@ export const chewaHymns = [
           "Ndipezeke mwa Yesuyo",
           "Womvekedwa, wolungama,",
           "Wopanda banga konseko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 363,
+    "title": "TIYAMIKE MNUYE YES",
+    "creator": "Unknown",
+    "chorus": [
+      "Ife tapulumukadi, Ife tapulumukadi,",
+      "Imfa, imfa yoopsa ija yapamtanda,",
+      "Imfa, imfa yoopsa ya yapamtanda."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "TIYAMIKE Mbuye Yesu Yemwe anatifera Imfa ya yoopsetsa",
+          "Kuwombola tonsefe"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tikondwera ife tonse Pakuona ntchitoyo Anachita Mbuye Yesu Kuwombola tonsete."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 364,
+    "title": "MZIMU NDI MTSOGOZIYO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mzimu ndi mtsogoleri M’njira ya Chikhristuyo,",
+          "atitsogoleratu, Paulendo wathuwu.",
+          "Myoyo ikondweratu, Pomva mawu akewo;",
+          "Pakunena Mzimuyo, Osokera, bwerani."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Bwenzi lathu ndinutu, Mkhale m’fupi nafetu;",
+          "Msatisiye tokha ‘fe, Pakuyenda m’mdimamu.",
+          "Pakuwomba mphepozo, TImaopa m’mtimamo",
+          "Tsono timve mawuwo; amantha ‘nu bwerani."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mnene ntchito yathatu, M’mene tidikira ’Nu,",
+          "Pakukhumba m’mwambamo, Tsono tipempherabe.",
+          "Nthawi ya mavutowo Tikhulupirira ’Nu",
+          "Tsono timva mauwo, okondedwa, bwerani."
         ]
       }
     ]
@@ -15570,6 +16612,39 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 366,
+    "title": "MVERANI MBIRI YOZIZWITSA",
+    "creator": "Unknown",
+    "chorus": [
+      "Ndani anatiwombola? Mwana wa",
+      "Mlungu pa mtanda. Anatani?",
+      "Anafera. Ali kuti?",
+      "Akhaladi m’Mwamba kutipempherera."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MVERANI mbiri yozizwitsa Ya Yesuyo kalelo;",
+          "Iyeyo 'nadza pansi pano Kutipulumutsa 'fe."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Palibe mmodzi akanatha Kulowa m'malo mwake Ngakhale anali wamkulu Nasiyidwa namnyoza."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Kodi mudzampembedza Mbuye Mpulumutsi wathuyo?",
+          "Kodi inu mudzalowamo Mu Ufumu wakewo"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 367,
     "title": "Ufuna kuwomboledwa kodi",
     "creator": "Unknown",
@@ -15619,20 +16694,145 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 368,
+    "title": "MPULUMUTSI",
+    "creator": "Unknown",
+    "chorus": [
+      "Aleluya, Aleluya, Mwanawankhosa ndinutu;",
+      "Mwazi wanu wanditsuka, Aleluya kwa Yesu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MPULUMUTSI",
+          "Wokondedwa,",
+          "Mwandipulumutsa ine;",
+          "Ndine wanu, wanu nokha, Wotsukidwa m'mwaziwo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Mtima wanga wavutika, Zaka zonse ndangochimwa;",
+          "Tsono sindikangalika, Ndingopuma mwa Yesu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Mwandipatulira ine,",
+          "Kwa Inu ndidzipereka, M’moyo,",
+          "m’imfa mboni yanu Ya chipulumutsocho."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Aleluya, mwandigula,",
+          "Ndipo mudzandisungabe Mwazi wanu ndi wamphamvu Buyeretsa konseko."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 369,
+    "title": "MLENDO ALI PA KHOMO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Mlendo ali pa khomo, Mlowetseni (Mlowetsenitu),",
+          "Wadza kalekalelo, Mlowetseni (Mlowetsenitu);",
+          "Mtsegulire msangatu, Wakuyerayerayo,",
+          "Mwana wa Mulunguyo, Mlowetse (Mlowetsenitu)."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Utsegule mtimawo, Mlowetseni (Mlowetsenitu).",
+          "Ukacedwa achoka, Mloewtseni (Mlowetsenitu);",
+          "Ndiye bwenzi lakolo, ’Dzakupulumutsa ’we;",
+          "’ \"Dzakusamaliranso, Mlowetse (Mlowetsenitu)."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Imva mawu acewo, Mlowetseni (MLowetsenitu),",
+          "Sankaha iye leroli, Mlowetseni, (Mlowetsenitu),",
+          "Wangoima pa khomo, ’Dzakusangalatsa ’we,",
+          "Udzamlemekezatu, Mlowetseni (Mlowetsenitu)"
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Mlendo wa kumwambayo, Mlowetseni (Mlowetsenitu),",
+          "Dzakupatsa zonsezo, Mlowetseni (Mlowetsenitu).",
+          "Dzakhululukira ’we, Ndipo potsirizapo",
+          "Dzakutenga m’mwambamo, Mlowetse (Mlowetsenitu)"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 370,
+    "title": "Ndiperekatu Zonse kuwa Yesu;",
+    "creator": "Unknown",
+    "chorus": [
+      "Ndiperekatu Zonse kuwa Yesu;",
+      "Ndipereka zonse kwa Nu, Dalitsenitu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "NDIPEREKA zanga zonse Mwaufulu kwa Yesu;",
+          "Ndidzamkonda kopambana, Tsiku lili lonsetu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndipereka zanga zonse Pamapazi a Yesu;",
+          "Zapadziko ndazikana, Nditengeni Yesu Nu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndipereka zanga Zonse, Ndipo n'khale wanutu, Mzimu wanu ndidziwitse Kuti ndine wanutu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Ndipereka zanga Zonse,",
+          "Ndili wanu ndense ne Nditamanda Dzina lanu,",
+          "Aleluya, Ambuye."
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 371,
     "title": "Kwathu sipadziko [Autosaved]",
     "creator": "Unknown",
     "chorus": [
       "Mbuye, ndinu bwenzi langa ndithu,",
       "Ndichitenji ngati Kumwamba sikwathu?",
-      "Mngelo akodola pakhomo la m’Mwamba,",
-      "Ndipo dziko lapansi sindiyesa kwathu."
+      "Mngelo akodola pakhomo la m’Mwamba",
+      "Ndipo dziko lapansi sindiyesa kwathu"
     ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Kwathu sipadziko, ndingopitirira,",
+          "Kwathu sipadziko, ndingopitirira",
           "Ndadzikundikira chuma kumwambako;",
           "Mngelo akodola pakhomo la m’Mwamba;",
           "Ndipo dziko lapansi sindiyesa kwathu."
@@ -15641,7 +16841,7 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Nandiyembekeza, chinthuchi ndidziwa,",
+          "NAndiyembekeza, chinthuchi ndidziwa,",
           "Mpulumutsi wanga wandikhulukira;",
           "Adzandipyoletsa pamene ndafoka;",
           "Ndipo dziko lapansi sindiyesa kwathu."
@@ -15660,7 +16860,7 @@ export const chewaHymns = [
         "stanzer": 4,
         "lines": [
           "Mu ulemerero tidzakhala m’yaya,",
-          "Oyeramtimawo alikulambira;",
+          "Oyeremtimawo alikulambira;",
           "Ati, “Aleluya kwa Mlungu Wamphamvu.”",
           "Ndipo dziko lapansi sindiyesa kwathu."
         ]
@@ -15668,50 +16868,76 @@ export const chewaHymns = [
     ]
   },
   {
-    "hymnNo": 371,
+    "hymnNo": 372,
     "title": "Kwathu sipadziko",
     "creator": "Unknown",
-    "chorus": [
-      "Mbuye, ndinu bwenzi langa ndithu,",
-      "Ndichitenji ngati Kumwamba sikwathu?",
-      "Mngelo akodola pakhomo la m’Mwamba,",
-      "Ndipo dziko lapansi sindiyesa kwathu."
-    ],
+    "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Kwathu sipadziko, ndingopitirira,",
-          "Ndadzikundikira chuma kumwambako;",
-          "Mngelo akodola pakhomo la m’Mwamba;",
-          "Ndipo dziko lapansi sindiyesa kwathu."
+          "CHISOMO chodabwitsacho Chapulumutsa 'ne,",
+          "Woipa wopambanatu; Ndapeza moyo ‘ne."
         ]
       },
       {
         "stanzer": 2,
         "lines": [
-          "Nandiyembekeza, chinthuchi ndidziwa,",
-          "Mpulumutsi wanga wandikhulukira;",
-          "Adzandipyoletsa pamene ndafoka;",
-          "Ndipo dziko lapansi sindiyesa kwathu."
+          "Chisomo chandisungadi Panjira yangayo, Chisomo chidzasunga ne Mpakatu kwathuko."
         ]
       },
       {
         "stanzer": 3,
         "lines": [
-          "Mayi watsogola ku Ulemerero,",
-          "Ndifuna kugwira dzanja lake konko,",
-          "Andidikiranso pakhomo la m’Mwamba;",
-          "Ndipo dziko lapansi sindiyesa kwathu."
+          "Kwathu ndidzaimba nyimbo Ya chisomo chake,",
+          "Yolemekeza Mlunguyo Kunthawi zosatha."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 373,
+    "title": "CHITETEZO CHACHIKULU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "CHITETEZO chachikulu Chotuluka m’mwaziwo Wa Ambuye Yesu Khristu, Mpulumutsi wathuyo.",
+          "Mpulumutsi, chitetezo Chipezeka m’mwaziwo."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ndi chinmwemwe ndimaona Mtsinjewo wa mphamvutu Zonditsutsa zachotsedwa,",
+          "Yesu wanditsuka mbuu!' Mpulumutsi, chitetezo",
+          "Chindisangalatsatu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tehimo lonse ligonjera",
+          "Chikondicho cha Yesu, Maganizo yeretsedwa;",
+          "Ndingofuna zakezo Mpulumutsi, chitetezo Chagonjetsa mtimawu."
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Mu ulemerero tidzakhala m’yaya,",
-          "Oyeramtimawo alikulambira;",
-          "Ati, “Aleluya kwa Mlungu Wamphamvu.”",
-          "Ndipo dziko lapansi sindiyesa kwathu."
+          "Ndili nawo moyo w’satha Wochuluka mwa Yesu, Mzimuyo wadzaza mtima",
+          "Ndichimwemwe chakecho. Mpulumutsi, chitetezo, Chiyanjano chomwenso,"
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Mantha, nkhawa, ndi chisoni",
+          "Zachotsedwa zonsezo;",
+          "Mbuyeyo ndimkhulupira,",
+          "Anditsogoleratu. Mpulumutsi, chitetezo, Ndimkondadi Yesuyo"
         ]
       }
     ]
@@ -15748,7 +16974,7 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Titasokera tinabwerera,",
+          "Titasokera tinabwerera",
           "Nanga inu? Nanga inu?",
           "Tadziwa kuti ndiwo uchimo;",
           "Nanga inu?"
@@ -15761,6 +16987,170 @@ export const chewaHymns = [
           "Nanga inu? Nanga inu?",
           "Takopeka ndi Mawu a Yesu;",
           "Nanga inu?"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 375,
+    "title": "MBUYE DALITSANI AFRIKA",
+    "creator": "Unknown",
+    "chorus": [
+      "Mbwere Mzimu, Mbwere Mzimu, mbwere! Mbwere Mzimu,",
+      "Mbwere Mzimu,mbwere! Mbwere Mzimu Woyera,",
+      "Woyera. Mbuye, dalitsani. Ife ana anu."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MBUYE dalitsani Afrika, Itukulidwe nyanga yake; Mverani mapemphero athu,",
+          "Ndipo mtidalitse ife ana anu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Dalitsani mafumu athu, Akumbukire Mlengi wawo; Aope ndi kunjenjemera, Ndipo m'wadalitse iwo ana anu"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Dalitsani matuko onse,",
+          "Aweruze bwino mayiko Adzichepetse ndi kuopa,",
+          "Ndipo mtidalitse tonse ana anu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 376,
+    "title": "MLUNGU DALITSANI",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "MLUNGU dalitsani Malawi, Mumsunge m’mtendere;",
+          "Gonjetsani adani onse, Njala, nthenda,nsanje,",
+          "Lunzitsani mitima yathu Kuti tisaope,",
+          "Mdaitse Mtsogoleri nafe, Ndi Mayi Malawi."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Malawi dziko lakongola,",
+          "La chonde ndi ufulu,",
+          "nyanja ndi mphepo ya m’mapiri,",
+          "Ndithudi tadala;",
+          "Zigwa, mapiri,",
+          "nthaka, dzinthu,",
+          "Mphatso zaulere;",
+          "Nkhalango,madambo abwino,",
+          "Ngwokoma Malawi"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "0! Ufulu tigwirizane",
+          "Kukweza Malawi: Ndi chikondi,",
+          "khama, kumvera. Timutumikire;",
+          "Pa nkhondo nkana pa mtendere",
+          "Cholinga n'chimodzi,",
+          "Mayi, Bambo, tidzipereke",
+          "Pokweza Malawi."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 377,
+    "title": "ANTHU M'MAIKO",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "Anthu m’maiko onse Akhala mitundu; kapena m’dziko lino",
+          "Akhala anzathu",
+          "Agona mwa zoipa. Apulukiradi.",
+          "Ati, Mutilangize",
+          "Abale, bwerani."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Ngakhale alemera Ndi chuma cha dziko, Kodi akakondwera",
+          "Opanda Mulungu?",
+          "Kodi akhala mwawi Otsata Zawozo?",
+          "Iyai, awonongeka,",
+          "Apeza tsokalo."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ndi ife akudziwa",
+          "Chikondi cha Mlungu,",
+          "Kodi tidzawamana",
+          "Kuwala kwa",
+          "Khristu? Chipulumutso! inde,",
+          "Tichibukitsetu, Kuti mitundu yonse",
+          "Ibwere kwa Yesu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Akristu nyamulani",
+          "Maneno a Mulunguyo,",
+          "Ndi moyo lalikani",
+          "Pa dziko lonselo;",
+          "Ndi Yesu Mpulumutsi",
+          "Anatiferatu; Adzavomera onse",
+          "Ndi Mwana wa Mlungu."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 378,
+    "title": "PADZIKO PANO TIKHALIRA",
+    "creator": "Unknown",
+    "chorus": [
+      "Tiyeni, tiyeni, Ku dziko lakudala;",
+      "tidzafikira m'dziko ilo Tsiku lomaliza."
+    ],
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "PADZIKO pano tikhalira M’moyo wosauka;",
+          "Komatu kwa Mulungu kuli Dziko lakudala;",
+          "Mbuyathu Yesu wapitako, lye ‘natsogola; Tidzamtsatira ife tonse, Tsiku lomaliza."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Masiku tikatsala ife M’dziko mwathu momwe Mulungu watipatsa ntehito, Tikazigwiritse.",
+          "Pamene zakuipa zathu",
+          "Zisautsa ife,",
+          "Tikapemphera Mbuye wathu, Atipulumutse."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Ulendo wathu ukadzatha Tidzafika kwathu Adzatifitsa ife komwe",
+          "Yesu Mbuye wathu. Sitidzapeza masautso",
+          "M’dziko la Mulungu Tidzakondwera chikondwere Nthawi zonse zathu."
         ]
       }
     ]
@@ -15779,7 +17169,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "379 POZUNZIDWA INU",
           "Pozunzdwa inu ponseponsepo,",
           "Ndi kufoka m’mtima nazo zonsezo,",
           "Werengani madalitso anuwo,",
@@ -15789,13 +17178,10 @@ export const chewaHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Kodi muvutidwa",
-          "naye Katundu?",
-          "Ngwolemera mtanda",
-          "muusenzatu?",
+          "Kodi muvutidwa naye Katundu?",
+          "Ngwolemera mtanda muusenzatu?",
           "Werengani madalitso anuwo,",
-          "Ndimo mudzaimba",
-          "dzuwa lonselo."
+          "Ndimo mudzaimba dzuwa lonselo."
         ]
       },
       {
@@ -15809,6 +17195,82 @@ export const chewaHymns = [
     ]
   },
   {
+    "hymnNo": 380,
+    "title": "YESU MBUYETU",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "YESU Mbuyetu, mwafera Mphulupulutu zanga, Ndimo ndamva mund’itana.",
+          "Mutitu, Msachedswa."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Zonse za m'dziko zidzatha,",
+          "Koma za moyo M’Mwamba",
+          "Zomwe zidzakhalitsatu",
+          "Chakatu ndi chaka."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Nyengo ifika, chenjera!",
+          "Adzakukana M’Mwamba.",
+          "Lapa zoipa zakozo,",
+          "Kuti ukalowe."
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 381,
+    "title": "TAMADANI MBUYE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "TAMANDANI Mbuye, Inu atate, Mpatse Yesu mitima yanu."
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "Tamandani Mbuye,",
+          "Inu mafumu,",
+          "Mpatse Yesu mitima yanu."
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "Tamandani Mbuye,",
+          "Inu abale, Mpatse Yesu mitima yanu."
+        ]
+      },
+      {
+        "stanzer": 4,
+        "lines": [
+          "Tamandani Mbuye, lnu nonsetu, Mpatse Yesu mitima yanu."
+        ]
+      },
+      {
+        "stanzer": 5,
+        "lines": [
+          "Tamandani Mbuye,",
+          "Mipingo yonse;",
+          "Aleluya, Aleluya"
+        ]
+      }
+    ]
+  },
+  {
     "hymnNo": 382,
     "title": "MVERA MTIMA WANGA",
     "creator": "Unknown",
@@ -15817,7 +17279,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "382 MVERA MTIMA WANGA",
           "Mvera mtima wanga ‘we",
           "Akufunsa ambuye; wosauka wa’mphawi. Kodi undikondadi?"
         ]
@@ -15832,15 +17293,13 @@ export const chewaHymns = [
       {
         "stanzer": 3,
         "lines": [
-          "Akaleka amake kusungira  mwanake, Ine sin’kuleka’yi",
-          "kodi undikondadi?"
+          "Akaleka amake kusungira mwanake, Ine sin’kuleka’yi kodi undikondadi?"
         ]
       },
       {
         "stanzer": 4,
         "lines": [
-          "Ndakukonda ku imfa",
-          "ndi chikondi chosatha,",
+          "Ndakukonda ku imfa ndi chikondi chosatha,",
           "kwaulere, kwambiri,",
           "kodi undikondadi?"
         ]
@@ -15874,7 +17333,6 @@ export const chewaHymns = [
       {
         "stanzer": 1,
         "lines": [
-          "383 MBUYE MTSITSIMUTSE NTCHITO ZONSE ZANU",
           "Mbuye mtsitsimutse ntchito zonse zanu! Utsani anthu akufa, ndi mawu a mphamvu"
         ]
       },
@@ -15894,7 +17352,7 @@ export const chewaHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Mbuye mtsitsimutse  ntchito m’kati mwa anthu!",
+          "Mbuye mtsitsimutse ntchito m’kati mwa anthu!",
           "Chikondi chawo chikule muchikolezetu"
         ]
       },
@@ -15915,19 +17373,17 @@ export const chewaHymns = [
   },
   {
     "hymnNo": 384,
-    "title": ".Tsopano linoli tiimbe nyimbo zathu",
+    "title": "Tsopano linoli tiimbe nyimbo zathu",
     "creator": "Unknown",
     "chorus": null,
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "384 CHIKHULUPIRIRO CHATHU",
           "Chikhulupiriro Chathu",
-          "Tatchulachi  pakamwapo, mulungu athandize ‘fe chikhale cha mumtimamo"
+          "Tatchulachi pakamwapo, mulungu athandize ‘fe chikhale cha mumtimamo"
         ]
       }
     ]
   }
-]
-
+];

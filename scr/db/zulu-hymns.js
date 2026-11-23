@@ -1,4 +1,4 @@
-// Auto-generated Zulu hymns data
+// Zulu hymns
 export const zuluHymns = [
   {
     "hymnNo": 1,
@@ -55,9 +55,9 @@ export const zuluHymns = [
     "creator": "Unknown",
     "chorus": [
       "Kodlula izulu nomhlaba",
-      "ZoncibilikΓÇÖ izintaba",
-      "KephΓÇÖ akayikwesaba",
-      "OmethembayΓÇÖ uJesu"
+      "Zoncibilik' izintaba",
+      "Keph' akayikwesaba",
+      "Omethembay' uJesu"
     ],
     "stanzers": [
       {
@@ -72,7 +72,7 @@ export const zuluHymns = [
     ]
   },
   {
-    "hymnNo": 2,
+    "hymnNo": "2B",
     "title": "Morning Has Broken",
     "creator": "Unknown",
     "chorus": null,
@@ -121,7 +121,7 @@ export const zuluHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Lord, Take Control    CCLI# 548901",
+          "Lord, Take Control CCLI# 548901",
           "My heart, my mind, my body, my soul",
           "I give to You, take control."
         ]
@@ -136,7 +136,7 @@ export const zuluHymns = [
       {
         "stanzer": 4,
         "lines": [
-          "Jesus Let Us Come to Know You             CCLI# 548901",
+          "Jesus Let Us Come to Know You CCLI# 548901",
           "Jesus let us come to know You,",
           "Let us see You face to face.",
           "Touch us, hold us, use us, mold us,",
@@ -156,7 +156,7 @@ export const zuluHymns = [
       {
         "stanzer": 6,
         "lines": [
-          "Jesus is Lord   CCLI# 548901",
+          "Jesus is Lord CCLI# 548901",
           "Jesus is Lord, My Redeemer",
           "How He loves me",
           "How I love Him"
@@ -182,7 +182,7 @@ export const zuluHymns = [
       {
         "stanzer": 9,
         "lines": [
-          "AlleluiaΓÇª",
+          "Alleluia...",
           "He was born to die on Calvary",
           "To redeem a lost humanity!"
         ]
@@ -190,7 +190,7 @@ export const zuluHymns = [
       {
         "stanzer": 10,
         "lines": [
-          "AlleluiaΓÇª",
+          "Alleluia...",
           "Conquering death, he rose",
           "triumphantly!",
           "Now he reigns for all eternity!"
@@ -199,7 +199,7 @@ export const zuluHymns = [
       {
         "stanzer": 11,
         "lines": [
-          "Jesus Let Us Come to Know You             CCLI# 548901",
+          "Jesus Let Us Come to Know You CCLI# 548901",
           "Jesus let us come to know You,",
           "Let us see You face to face.",
           "Touch us, hold us, use us, mold us,",
@@ -222,9 +222,9 @@ export const zuluHymns = [
           "My God and I walk in the field together,",
           "We walk and talk as good friends should and do;",
           "We clasp our hands, our voices ring with laughter",
-          "My God and I walk thro the meadowΓÇÖs hue;",
+          "My God and I walk thro the meadow's hue;",
           "We clasp our hands, our voices ring with laughter",
-          "My God and I walk thro the meadowΓÇÖs hue."
+          "My God and I walk thro the meadow's hue."
         ]
       },
       {
@@ -233,16 +233,16 @@ export const zuluHymns = [
           "He tells me of the years that went before me",
           "When heavenly plans were made for me to be",
           "When all was but a dream of dim conception",
-          "To come to life, earthΓÇÖs verdant glory see",
+          "To come to life, earth's verdant glory see",
           "When all was but a dream of dim conception",
-          "To come to life, earthΓÇÖs verdant glory see"
+          "To come to life, earth's verdant glory see"
         ]
       },
       {
         "stanzer": 15,
         "lines": [
           "My God and I will go for aye together",
-          "WeΓÇÖll walk and talk as good friends should and do",
+          "We'll walk and talk as good friends should and do",
           "This earth will pass and with it common trifles",
           "But God and I will go unendingly",
           "This earth will pass and with it common trifles",
@@ -430,12 +430,17 @@ export const zuluHymns = [
     "hymnNo": 36,
     "title": "Esiphambanweni",
     "creator": "Unknown",
-    "chorus": null,
+    "chorus": [
+      "Ngakho ngisibabaza sona,",
+      "Ngize ngibeke phans' umthwalo,",
+      "Ngizobambelela kusona,",
+      "Ngize ngizuze umqhele wam'."
+    ],
     "stanzers": [
       {
         "stanzer": 1,
         "lines": [
-          "Entaben' ekude kwem' isiphambano.",
+          "Entaben' ekude kwem' isiphambano,",
           "Esinobuhlungu nehlazo;",
           "Ngisithanda sona, ngob' uJesu wami",
           "Wabethelwa kuso ngenxa yam'."
@@ -444,35 +449,26 @@ export const zuluHymns = [
       {
         "stanzer": 2,
         "lines": [
-          "Ngakho ngisibabaza sona,",
-          "Ngize ngibeke phans' umthwalo,",
-          "Ngizobambelela kusona",
-          "Ngize ngizuze umqhele wam'."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Leso siphambano esadelwa yizwe",
-          "Siyangimangalisa njalo.",
+          "Leso siphambano esadelwa yizwe,",
+          "Singimangalisa njalo,",
           "Ngoba ngenxa yaso uJesu weza lapha",
           "Asithwalele eGolgotha."
         ]
       },
       {
-        "stanzer": 4,
+        "stanzer": 3,
         "lines": [
-          "Esiphambanweni loph' igazi lakhe",
-          "Elimangalisayo kimi.",
-          "Ngoba ngenxa yami uJesu wafa khona",
-          "Andithethelel' angihlanze."
+          "Esiphambanweni loph' igazi lakhe,",
+          "Elimangalisayo kimi,",
+          "Ngoba ngenxa yami uJesu wafa khona,",
+          "Angithethelel' angihlanze."
         ]
       },
       {
-        "stanzer": 5,
+        "stanzer": 4,
         "lines": [
           "Esiphambanweni ngiyakuqinisa,",
-          "Ngithwal' ihlazo ngenjabulo",
+          "Ngithwal' ihlazo ngenjabulo;",
           "Wongibiza mina khona ekhaya lam',",
           "Angiqhelise ngomqhele wam'."
         ]
@@ -615,379 +611,5 @@ export const zuluHymns = [
         ]
       }
     ]
-  },
-  {
-    "hymnNo": 156,
-    "title": "Woza KuJesu",
-    "creator": "Unknown",
-    "chorus": [
-      "Yebo, woza kuMsindisi wakho,",
-      "Wobusiswa ekuzeni kwakho;",
-      "Wokukhulul' ezonweni zakho,",
-      "Woza kuyena manje."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Woza kuJesu, uMfeli wakho,",
-          "Wothethelelwa izono zakho,",
-          "Yizwa umemo lweNkosi yakho,",
-          "Oluthi: \"Woza kimi!\""
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Mus' ukuhamba ngaleyondlela,",
-          "Eshonisayo kabi impela;",
-          "Buyela kuye, owakufela,",
-          "Woza kuyena manje."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Yiyo iNkosi isakubiza,",
-          "Iyaxanela ukukusiza,",
-          "Uma ufika yokuphilisa,",
-          "Ngakho-ke woza manje."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Uma unqaba ukulalela,",
-          "Uyakubhubha kabi impela;",
-          "Uyakushona ngaleyondlela,",
-          "Eya esihogweni."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 259,
-    "title": "Esiphambanweni",
-    "creator": "Unknown",
-    "chorus": [
-      "Ngakho ngisibabaza sona,",
-      "Ngize ngibeke phans' umthwalo,",
-      "Ngizobambelela kusona,",
-      "Ngize ngizuze umqhele wam'."
-    ],
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Entaben' ekude kwem' isiphambano,",
-          "Esinobuhlungu nehlazo;",
-          "Ngisithanda sona, ngob' uJesu wami",
-          "Wabethelwa kuso ngenxa yam'."
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "Leso siphambano esadelwa yizwe,",
-          "Singimangalisa njalo,",
-          "Ngoba ngenxa yaso uJesu weza lapha",
-          "Asithwalele eGolgotha."
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "Esiphambanweni loph' igazi lakhe,",
-          "Elimangalisayo kimi,",
-          "Ngoba ngenxa yami uJesu wafa khona,",
-          "Angithethelel' angihlanze."
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "Esiphambanweni ngiyakuqinisa,",
-          "Ngithwal' ihlazo ngenjabulo;",
-          "Wongibiza mina khona ekhaya lam',",
-          "Angiqhelise ngomqhele wam'."
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 150212,
-    "title": "Hymn 150212",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Somlandela, Somlandelu Jesu",
-          "I will follow, I will follow Jesus",
-          "Somlandela yonke indawao",
-          "I will follow wherever he goes",
-          "Somlandela Somlandelu Jesu",
-          "I will follow, I will follow Jesus",
-          "Lapho  eyakhona somlandela",
-          "Wherever he goes  I will follow"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "IΓÇÖll be a friend to Jesus"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "They tried my Lord and Master",
-          "With no one to defend",
-          "Within the halls of Pilate,",
-          "He stood without a friend"
-        ]
-      },
-      {
-        "stanzer": 4,
-        "lines": [
-          "IΓÇÖll be a friend to Jesus",
-          "My life for Him IΓÇÖll spend",
-          "IΓÇÖll be a friend to Jesus",
-          "Until my years shall end"
-        ]
-      },
-      {
-        "stanzer": 5,
-        "lines": [
-          "The world may turn against Him",
-          "IΓÇÖll love him to the end",
-          "And while on earth IΓÇÖm living",
-          "My Lord shall have a friend"
-        ]
-      },
-      {
-        "stanzer": 6,
-        "lines": [
-          "IΓÇÖll be a friend to Jesus",
-          "My life for Him IΓÇÖll spend",
-          "IΓÇÖll be a friend to Jesus",
-          "Until my years shall end"
-        ]
-      },
-      {
-        "stanzer": 7,
-        "lines": [
-          "IΓÇÖll do what he may bid me",
-          "IΓÇÖll go where he may send",
-          "IΓÇÖll try each flying moment",
-          "To prove that IΓÇÖm His friend"
-        ]
-      },
-      {
-        "stanzer": 8,
-        "lines": [
-          "IΓÇÖll be a friend to Jesus",
-          "My life for Him IΓÇÖll spend",
-          "IΓÇÖll be a friend to Jesus",
-          "Until my years shall end"
-        ]
-      },
-      {
-        "stanzer": 9,
-        "lines": [
-          "To all who need a saviour",
-          "My friend I recommend",
-          "Because He brought salvation",
-          "Is why I am His friend."
-        ]
-      },
-      {
-        "stanzer": 10,
-        "lines": [
-          "IΓÇÖll be a friend to Jesus",
-          "My life for Him IΓÇÖll spend",
-          "IΓÇÖll be a friend to Jesus",
-          "Until my years shall end"
-        ]
-      },
-      {
-        "stanzer": 11,
-        "lines": [
-          "Said I WasnΓÇÖt   CCLI# 548901",
-          "Said I wasnΓÇÖt gonna tell anybody",
-          "But I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself"
-        ]
-      },
-      {
-        "stanzer": 12,
-        "lines": [
-          "Said I wasnΓÇÖt gonna tell anybody",
-          "But I couldnΓÇÖt keep it to myself",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 13,
-        "lines": [
-          "You oughtta been there",
-          "When they saved my soul",
-          "You oughtta been there",
-          "When they put my name",
-          "on the roll"
-        ]
-      },
-      {
-        "stanzer": 14,
-        "lines": [
-          "IΓÇÖll keep walkinΓÇÖ",
-          "IΓÇÖll keep talkin",
-          "IΓÇÖll keep singinΓÇÖ",
-          "IΓÇÖll keep shoutinΓÇÖ",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 15,
-        "lines": [
-          "Said I wasnΓÇÖt gonna",
-          "pray about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself"
-        ]
-      },
-      {
-        "stanzer": 16,
-        "lines": [
-          "Said I wasnΓÇÖt gonna pray about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 17,
-        "lines": [
-          "You oughtta been there",
-          "When they saved my soul",
-          "You oughtta been there",
-          "When they put my name",
-          "on the roll"
-        ]
-      },
-      {
-        "stanzer": 18,
-        "lines": [
-          "IΓÇÖll keep walkinΓÇÖ",
-          "IΓÇÖll keep talkin",
-          "IΓÇÖll keep singinΓÇÖ",
-          "IΓÇÖll keep shoutinΓÇÖ",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 19,
-        "lines": [
-          "Said I wasnΓÇÖt gonna sing about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself"
-        ]
-      },
-      {
-        "stanzer": 20,
-        "lines": [
-          "Said I wasnΓÇÖt gonna sing about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 21,
-        "lines": [
-          "You oughtta been there",
-          "When they saved my soul",
-          "You oughtta been there",
-          "When they put my name",
-          "on the roll"
-        ]
-      },
-      {
-        "stanzer": 22,
-        "lines": [
-          "IΓÇÖll keep walkinΓÇÖ",
-          "IΓÇÖll keep talkin",
-          "IΓÇÖll keep singinΓÇÖ",
-          "IΓÇÖll keep shoutinΓÇÖ",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 23,
-        "lines": [
-          "Said I wasnΓÇÖt gonna shout about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself",
-          "No I couldnΓÇÖt keep it to myself"
-        ]
-      },
-      {
-        "stanzer": 24,
-        "lines": [
-          "Said I wasnΓÇÖt gonna shout about it",
-          "But I couldnΓÇÖt keep it to myself",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 25,
-        "lines": [
-          "You oughtta been there",
-          "When they saved my soul",
-          "You oughtta been there",
-          "When they put my name",
-          "on the roll"
-        ]
-      },
-      {
-        "stanzer": 26,
-        "lines": [
-          "IΓÇÖll keep walkinΓÇÖ",
-          "IΓÇÖll keep talkin",
-          "IΓÇÖll keep singinΓÇÖ",
-          "IΓÇÖll keep shoutinΓÇÖ",
-          "What the Lord has done for me"
-        ]
-      },
-      {
-        "stanzer": 27,
-        "lines": [
-          "Ensukwini ZokΓÇÖphila Kwami"
-        ]
-      },
-      {
-        "stanzer": 28,
-        "lines": [
-          "Ensukwini zokΓÇÖphila kwami",
-          "Baba ngizokubonga",
-          "uJesΓÇÖ Uyaphilisa",
-          "AphindΓÇÖ athethelele",
-          "Ngizokubonga Jesu wami",
-          "Baba Ngizokubonga",
-          "Ensukwini zokuphila kwami"
-        ]
-      },
-      {
-        "stanzer": 29,
-        "lines": [
-          "All the days of my life",
-          "O, yes IΓÇÖll thank you Lord",
-          "All the days of my life",
-          "Haleluyah"
-        ]
-      }
-    ]
   }
-]
+];
