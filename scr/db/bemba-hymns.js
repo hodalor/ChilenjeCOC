@@ -3969,26 +3969,6 @@ export const bembaHymns = [
     ]
   },
   {
-    "hymnNo": "76B",
-    "title": "MUCINDIKANI YESU",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "Mucindikani Yesu. Mtuva",
-          "Wakum’cemani imwe. Mtuva",
-          "Rekani kum’kanira. Mtuva",
-          "Yesu wali pafupi. Mtuva",
-          "Yeghaninge katundu. Mtuva",
-          "Katundu ndi mitima. Yinu",
-          "Mwize nayo kwa Yesu. Mtuva"
-        ]
-      }
-    ]
-  },
-  {
     "hymnNo": 77,
     "title": "YESU ATUTEMWA BONSE",
     "creator": "Unknown",
@@ -13471,39 +13451,7 @@ export const bembaHymns = [
     ]
   },
   {
-    "hymnNo": 278,
-    "title": "WE NSHITA YA MAPEPO WE",
-    "creator": "Unknown",
-    "chorus": null,
-    "stanzers": [
-      {
-        "stanzer": 1,
-        "lines": [
-          "We nshita ya mapepo we, watwita kuli bashifwe,",
-          "ukuti tusokolole fyonse ifiletupamfya.",
-          "Pa kwitaba ku bwityo bu twapusuka ku matunko,",
-          "na satana atufiwa pa kwise nshita ye pepo"
-        ]
-      },
-      {
-        "stanzer": 2,
-        "lines": [
-          "We nshita ya mapepo we, tulekulolela cine, pamo na banensu bonse abatemwisho kupepa. Twayako bwangu ne nsansa ku cifulo icasontwa kukumana na katula pa kwise nshita ye pepo"
-        ]
-      },
-      {
-        "stanzer": 3,
-        "lines": [
-          "We nshita ya mapepo we,",
-          "watwala malombo yesu ku wa cishinka ne cine uwatemwo kutupala.",
-          "E watwebo kumufwaya,",
-          "cine twamucetekela; atusendela macushi, pa kwise nshita ye pepo"
-        ]
-      }
-    ]
-  },
-  {
-    "hymnNo": 279,
+    "hymnNo": 277,
     "title": "MU MPANGA YA KWA LESA",
     "creator": "Unknown",
     "chorus": [
@@ -13542,7 +13490,39 @@ export const bembaHymns = [
     ]
   },
   {
-    "hymnNo": "279B",
+    "hymnNo": 278,
+    "title": "WE NSHITA YA MAPEPO WE",
+    "creator": "Unknown",
+    "chorus": null,
+    "stanzers": [
+      {
+        "stanzer": 1,
+        "lines": [
+          "We nshita ya mapepo we, watwita kuli bashifwe,",
+          "ukuti tusokolole fyonse ifiletupamfya.",
+          "Pa kwitaba ku bwityo bu twapusuka ku matunko,",
+          "na satana atufiwa pa kwise nshita ye pepo"
+        ]
+      },
+      {
+        "stanzer": 2,
+        "lines": [
+          "We nshita ya mapepo we, tulekulolela cine, pamo na banensu bonse abatemwisho kupepa. Twayako bwangu ne nsansa ku cifulo icasontwa kukumana na katula pa kwise nshita ye pepo"
+        ]
+      },
+      {
+        "stanzer": 3,
+        "lines": [
+          "We nshita ya mapepo we,",
+          "watwala malombo yesu ku wa cishinka ne cine uwatemwo kutupala.",
+          "E watwebo kumufwaya,",
+          "cine twamucetekela; atusendela macushi, pa kwise nshita ye pepo"
+        ]
+      }
+    ]
+  },
+  {
+    "hymnNo": 279,
     "title": "Mwe Lesa wandi",
     "creator": "Unknown",
     "chorus": [
