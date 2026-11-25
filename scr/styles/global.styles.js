@@ -47,16 +47,14 @@ export const homescreenStyles = StyleSheet.create({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '15%',
+    paddingHorizontal: 28,
+    paddingTop: 18,
+    paddingBottom: 8,
   },
-  headerTextStyle: {
-    color: colors.primarytextColor,
-    fontWeight: 'bold',
-    fontSize: 30,
-  },
-  smallText: {
-    color: colors.fadedTextprimary,
-    fontSize: 15,
+  logoStyle: {
+    width: '100%',
+    height: 180,
+    borderRadius: 16,
   },
   poweredByStyle: {
     backgroundColor: colors.secondaryColor,

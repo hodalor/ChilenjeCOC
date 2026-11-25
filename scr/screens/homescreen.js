@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, FlatList, Pressable, Linking} from 'react-native';
+import {View, Text, FlatList, Pressable, Linking, Image} from 'react-native';
 import {data} from '../db';
 import {homescreenStyles} from '../styles/global.styles';
 import {LangCard} from '../components/languageCard';
@@ -8,10 +8,12 @@ export function HomeScreen({navigation}) {
   return (
     <View style={homescreenStyles.mainContainer}>
       <View style={homescreenStyles.topViewStyle}>
-        <Text style={homescreenStyles.headerTextStyle}>
-          Church Of Christ
-        </Text>
-        <Text style={homescreenStyles.smallText}>Hymns Mobile App</Text>
+        <Image
+          source={require('../assets/images/logo.png')}
+          style={homescreenStyles.logoStyle}
+          resizeMode="contain"
+          accessibilityLabel="Chilenje COC Hymns"
+        />
       </View>
 
       <View style={homescreenStyles.componentsContainerStyle}>
